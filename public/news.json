@@ -1,27 +1,9 @@
-[
   {
     "id": "bienvenida",
-    "es": "¡Bienvenido a Necromancer Idle! Gracias por jugar.",
-    "en": "Welcome to Necromancer Idle! Thanks for playing.",
-    "fr": "Bienvenue dans Necromancer Idle ! Merci de jouer.",
-    "de": "Willkommen bei Necromancer Idle! Danke fürs Spielen.",
-    "it": "Benvenuto in Necromancer Idle! Grazie per giocare.",
-    "pt": "Bem-vindo ao Necromancer Idle! Obrigado por jogar."
-  },
-  {
-    "id": "ejemplo-noticia-larga",
-    "es": "Ejemplo de noticia larga: este mensaje no cabe en la caja, así que se desliza despacio hacia la izquierda para que puedas leerlo entero antes de pasar a la siguiente noticia.",
-    "en": "Long news example: this message does not fit in the box, so it slowly slides left so you can read it all before moving on to the next item."
-  },
-  {
-    "id": "ejemplo-con-fechas",
-    "from": "2026-07-01",
-    "until": "2026-12-31",
-    "es": "Ejemplo: esta noticia solo se muestra entre sus fechas.",
-    "en": "Example: this news item only shows between its dates.",
-    "fr": "Exemple : cette actualité ne s'affiche qu'entre ses dates.",
-    "de": "Beispiel: Diese Meldung erscheint nur zwischen ihren Daten.",
-    "it": "Esempio: questa notizia appare solo tra le sue date.",
-    "pt": "Exemplo: esta notícia só aparece entre as suas datas."
+    "es": "¡Bienvenido a Necromancer Idle! Gracias por tu apoyo.",
+    "en": "Welcome to Necromancer Idle! Thanks for your support.",
+    "fr": "Bienvenue dans Necromancer Idle ! Merci de votre soutien.",
+    "de": "Willkommen bei Necromancer Idle! Danke für deine Unterstützung.",
+    "it": "Benvenuto in Necromancer Idle! Grazie per il tuo supporto.",
+    "pt": "Bem-vindo ao Necromancer Idle! Obrigado pelo teu apoio."
   }
-]
