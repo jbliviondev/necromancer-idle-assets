@@ -2,10 +2,23 @@
   {
     "id": "bienvenida",
     "es": "¡Bienvenido a Necromancer Idle! Gracias por tu apoyo.",
+    "es-419": "¡Bienvenido a Necromancer Idle! Gracias por tu apoyo.",
     "en": "Welcome to Necromancer Idle! Thanks for your support.",
     "fr": "Bienvenue dans Necromancer Idle ! Merci de votre soutien.",
     "de": "Willkommen bei Necromancer Idle! Danke für deine Unterstützung.",
     "it": "Benvenuto in Necromancer Idle! Grazie per il tuo supporto.",
-    "pt": "Bem-vindo ao Necromancer Idle! Obrigado pelo teu apoio."
+    "pt": "Bem-vindo ao Necromancer Idle! Obrigado pelo teu apoio.",
+    "pt-BR": "Bem-vindo ao Necromancer Idle! Obrigado pelo seu apoio."
+  },
+  {
+    "id": "fijar-paneles",
+    "es": "Puedes fijar los paneles para evitar que se muevan mientras modificas otros paneles.",
+    "es-419": "Puedes fijar los paneles para evitar que se muevan mientras modificas otros paneles.",
+    "en": "You can pin panels to keep them from moving while you rearrange others.",
+    "fr": "Tu peux épingler les panneaux pour les empêcher de bouger pendant que tu en modifies d'autres.",
+    "de": "Du kannst Panels anheften, damit sie sich nicht verschieben, während du andere bearbeitest.",
+    "it": "Puoi bloccare i pannelli per evitare che si spostino mentre ne modifichi altri.",
+    "pt": "Podes fixar os painéis para evitar que se movam enquanto modificas outros.",
+    "pt-BR": "Você pode fixar os painéis para evitar que se movam enquanto modifica outros."
   }
 ]
