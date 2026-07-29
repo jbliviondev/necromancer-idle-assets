@@ -22,14 +22,36 @@
     "pt-BR": "Você pode fixar os painéis para evitar que se movam enquanto modifica outros."
   },
   {
-    "id": "patch-key-items-fullscreen",
-    "es": "Nuevo parche ya disponible: Objetos clave y Pantalla completa",
-    "es-419": "Nuevo parche ya disponible: Objetos clave y Pantalla completa",
-    "en": "New patch now available: Key Items & Fullscreen",
-    "fr": "Nouveau correctif disponible : Objets clés & Écran complet",
-    "de": "Neuer Patch jetzt verfügbar: Schlüsselgegenstände & Vollbild",
-    "it": "Nuova patch ora disponibile: Oggetti chiave & Schermo intero",
-    "pt": "Novo patch já disponível: Objetos-chave e Ecrã inteiro",
-    "pt-BR": "Novo patch já disponível: Itens-chave e Tela cheia"
+    "id": "encuentros-personajes",
+    "es": "Puedes encontrarte a tus propios personajes a lo largo de capítulos que ellos ya hayan superado.",
+    "es-419": "Puedes encontrarte a tus propios personajes a lo largo de capítulos que ellos ya hayan superado.",
+    "en": "You can run into your own past characters in chapters they've already cleared.",
+    "fr": "Tu peux croiser tes propres personnages dans des chapitres qu'ils ont déjà terminés.",
+    "de": "Du kannst deinen eigenen früheren Charakteren in Kapiteln begegnen, die sie bereits abgeschlossen haben.",
+    "it": "Puoi incontrare i tuoi stessi personaggi nei capitoli che hanno già superato.",
+    "pt": "Podes encontrar-te com as tuas próprias personagens em capítulos que elas já tenham superado.",
+    "pt-BR": "Você pode encontrar seus próprios personagens em capítulos que eles já superaram."
+  },
+  {
+    "id": "combate-facil-encuentro",
+    "es": "Cuando te encuentras con otro de tus personajes, podrás superar el combate de esa ruta sin recibir daño y superar el obstáculo con facilidad, lo que te permitirá avanzar más rápido en cada rebirth.",
+    "es-419": "Cuando te encuentras con otro de tus personajes, podrás superar el combate de esa ruta sin recibir daño y superar el obstáculo con facilidad, lo que te permitirá avanzar más rápido en cada rebirth.",
+    "en": "When you meet one of your other characters, you'll clear that route's combat without taking damage and breeze through the obstacle, letting you move faster through each rebirth.",
+    "fr": "Quand tu rencontres un de tes autres personnages, tu surmonteras le combat de cette route sans subir de dégâts et franchiras l'obstacle facilement, ce qui te permettra d'avancer plus vite à chaque Renaissance.",
+    "de": "Wenn du einem deiner anderen Charaktere begegnest, überstehst du den Kampf auf dieser Route ohne Schaden und meisterst das Hindernis mühelos, wodurch du bei jeder Wiedergeburt schneller vorankommst.",
+    "it": "Quando incontri uno dei tuoi altri personaggi, supererai il combattimento di quella rotta senza subire danni e l'ostacolo con facilità, permettendoti di avanzare più velocemente a ogni Rinascita.",
+    "pt": "Quando encontras uma das tuas outras personagens, vais superar o combate dessa rota sem sofrer dano e superar o obstáculo com facilidade, o que te vai permitir avançar mais depressa em cada Renascimento.",
+    "pt-BR": "Quando você encontra um dos seus outros personagens, vai vencer o combate daquela rota sem sofrer dano e superar o obstáculo com facilidade, o que vai te permitir avançar mais rápido em cada Renascimento."
+  },
+  {
+    "id": "nombra-tus-personajes",
+    "es": "Ponle nombres a tus personajes. Ellos también lo harían por ti.",
+    "es-419": "Ponle nombres a tus personajes. Ellos también lo harían por ti.",
+    "en": "Give your characters names. They'd do the same for you.",
+    "fr": "Donne des noms à tes personnages. Ils feraient pareil pour toi.",
+    "de": "Gib deinen Charakteren Namen. Sie würden das Gleiche für dich tun.",
+    "it": "Dai un nome ai tuoi personaggi. Loro farebbero lo stesso per te.",
+    "pt": "Dá nomes às tuas personagens. Elas fariam o mesmo por ti.",
+    "pt-BR": "Dê nomes aos seus personagens. Eles fariam o mesmo por você."
   }
 ]
