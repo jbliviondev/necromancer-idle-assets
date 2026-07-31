@@ -1,0 +1,35 @@
+[
+  {
+    "id": "bienvenida-demo",
+    "es": "¡Bienvenido a la demo de Necromancer Idle!",
+    "es-419": "¡Bienvenido a la demo de Necromancer Idle!",
+    "en": "Welcome to the Necromancer Idle demo!",
+    "fr": "Bienvenue dans la démo de Necromancer Idle !",
+    "de": "Willkommen zur Necromancer Idle-Demo!",
+    "it": "Benvenuto nella demo di Necromancer Idle!",
+    "pt": "Bem-vindo à demo de Necromancer Idle!",
+    "pt-BR": "Bem-vindo à demo de Necromancer Idle!"
+  },
+  {
+    "id": "duracion-demo",
+    "es": "El contenido de la demo abarca aproximadamente 10-20 horas de juego y puede rejugarse.",
+    "es-419": "El contenido de la demo abarca aproximadamente 10-20 horas de juego y puede rejugarse.",
+    "en": "The demo's content covers roughly 10-20 hours of gameplay and can be replayed.",
+    "fr": "Le contenu de la démo couvre environ 10 à 20 heures de jeu et peut être rejoué.",
+    "de": "Der Inhalt der Demo umfasst etwa 10-20 Stunden Spielzeit und kann erneut gespielt werden.",
+    "it": "Il contenuto della demo copre circa 10-20 ore di gioco e può essere rigiocato.",
+    "pt": "O conteúdo da demo abrange aproximadamente 10-20 horas de jogo e pode ser rejogado.",
+    "pt-BR": "O conteúdo da demo cobre aproximadamente 10-20 horas de jogo e pode ser rejogado."
+  },
+  {
+    "id": "comprar-juego-completo",
+    "es": "Si deseas comprar el juego completo, puedes hacerlo [aquí](https://store.steampowered.com/app/4936120/Necromancer_Idle_The_Endless_Drain/?l=es). ¡Gracias por el apoyo!",
+    "es-419": "Si deseas comprar el juego completo, puedes hacerlo [aquí](https://store.steampowered.com/app/4936120/Necromancer_Idle_The_Endless_Drain/?l=latam). ¡Gracias por el apoyo!",
+    "en": "If you'd like to buy the full game, you can do so [here](https://store.steampowered.com/app/4936120/Necromancer_Idle_The_Endless_Drain/?l=en). Thanks for your support!",
+    "fr": "Si tu souhaites acheter le jeu complet, tu peux le faire [ici](https://store.steampowered.com/app/4936120/Necromancer_Idle_The_Endless_Drain/?l=french). Merci pour ton soutien !",
+    "de": "Wenn du das Spiel in voller Länge kaufen möchtest, kannst du das [hier](https://store.steampowered.com/app/4936120/Necromancer_Idle_The_Endless_Drain/?l=german) tun. Danke für deine Unterstützung!",
+    "it": "Se desideri acquistare il gioco completo, puoi farlo [qui](https://store.steampowered.com/app/4936120/Necromancer_Idle_The_Endless_Drain/?l=italian). Grazie per il supporto!",
+    "pt": "Se desejares comprar o jogo completo, podes fazê-lo [aqui](https://store.steampowered.com/app/4936120/Necromancer_Idle_The_Endless_Drain/?l=portuguese). Obrigado pelo apoio!",
+    "pt-BR": "Se você quiser comprar o jogo completo, pode fazer isso [aqui](https://store.steampowered.com/app/4936120/Necromancer_Idle_The_Endless_Drain/?l=brazilian). Obrigado pelo apoio!"
+  }
+]
