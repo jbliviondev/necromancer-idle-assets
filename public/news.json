@@ -22,6 +22,28 @@
     "pt-BR": "A atualização 1.0.1 já está disponível!"
   },
   {
+    "id": "patch-1-0-2",
+    "es": "¡Parche 1.0.2 disponible! Añadidos varios botones de información sobre el panel de Automatización. Añadida la opción de intercambiar posición de paneles y modificados varios tooltips.",
+    "es-419": "¡Parche 1.0.2 disponible! Añadidos varios botones de información sobre el panel de Automatización. Añadida la opción de intercambiar posición de paneles y modificados varios tooltips.",
+    "en": "Patch 1.0.2 available! Added several info buttons to the Automation panel. Added the option to swap panel positions and updated several tooltips.",
+    "fr": "Patch 1.0.2 disponible ! Ajout de plusieurs boutons d'information sur le panneau d'Automatisation. Ajout de l'option pour échanger la position des panneaux et mise à jour de plusieurs info-bulles.",
+    "de": "Patch 1.0.2 verfügbar! Mehrere Info-Buttons im Automatisierungs-Panel hinzugefügt. Option zum Tauschen der Panel-Positionen hinzugefügt und mehrere Tooltips aktualisiert.",
+    "it": "Patch 1.0.2 disponibile! Aggiunti diversi pulsanti informativi nel pannello di Automazione. Aggiunta l'opzione per scambiare la posizione dei pannelli e aggiornati diversi tooltip.",
+    "pt": "Patch 1.0.2 disponível! Adicionados vários botões de informação no painel de Automação. Adicionada a opção de trocar a posição dos painéis e atualizados vários tooltips.",
+    "pt-BR": "Patch 1.0.2 disponível! Adicionados vários botões de informação no painel de Automação. Adicionada a opção de trocar a posição dos painéis e atualizados vários tooltips."
+  },
+  {
+    "id": "automatizacion-desvio-quest",
+    "es": "Si vas a tomar un desvío a otra room para hacer una quest, puedes añadir más acciones en la lista de automatización posteriores a esa salida y seguirán en la cola de acciones cuando vuelvas de la room de la quest.",
+    "es-419": "Si vas a tomar un desvío a otra room para hacer una quest, puedes añadir más acciones en la lista de automatización posteriores a esa salida y seguirán en la cola de acciones cuando vuelvas de la room de la quest.",
+    "en": "If you're taking a detour to another room to do a quest, you can add more actions to the automation list after that exit, and they'll still be in the action queue when you get back from the quest room.",
+    "fr": "Si tu fais un détour vers une autre salle pour faire une quête, tu peux ajouter d'autres actions dans la liste d'automatisation après cette sortie, et elles resteront dans la file d'actions quand tu reviendras de la salle de la quête.",
+    "de": "Wenn du einen Umweg zu einem anderen Raum machst, um eine Quest zu erledigen, kannst du weitere Aktionen in die Automatisierungsliste nach diesem Ausgang einfügen, und sie bleiben in der Aktionswarteschlange, wenn du aus dem Quest-Raum zurückkehrst.",
+    "it": "Se fai una deviazione verso un'altra stanza per completare una missione, puoi aggiungere altre azioni all'elenco di automazione dopo quell'uscita, e resteranno nella coda delle azioni quando tornerai dalla stanza della missione.",
+    "pt": "Se fizeres um desvio para outra sala para fazer uma missão, podes adicionar mais ações à lista de automação depois dessa saída, e elas vão continuar na fila de ações quando voltares da sala da missão.",
+    "pt-BR": "Se você for fazer um desvio para outra sala para cumprir uma missão, pode adicionar mais ações à lista de automação depois dessa saída, e elas vão continuar na fila de ações quando você voltar da sala da missão."
+  },
+  {
     "id": "fijar-paneles",
     "es": "Puedes fijar los paneles para evitar que se muevan mientras modificas otros paneles.",
     "es-419": "Puedes fijar los paneles para evitar que se muevan mientras modificas otros paneles.",
@@ -31,6 +53,17 @@
     "it": "Puoi bloccare i pannelli per evitare che si spostino mentre ne modifichi altri.",
     "pt": "Podes fixar os painéis para evitar que se movam enquanto modificas outros.",
     "pt-BR": "Você pode fixar os painéis para evitar que se movam enquanto modifica outros."
+  },
+  {
+    "id": "patch-key-items-fullscreen",
+    "es": "Nuevo parche ya disponible: Objetos clave y Pantalla completa",
+    "es-419": "Nuevo parche ya disponible: Objetos clave y Pantalla completa",
+    "en": "New patch now available: Key Items & Fullscreen",
+    "fr": "Nouveau correctif disponible : Objets clés & Écran complet",
+    "de": "Neuer Patch jetzt verfügbar: Schlüsselgegenstände & Vollbild",
+    "it": "Nuova patch ora disponibile: Oggetti chiave & Schermo intero",
+    "pt": "Novo patch já disponível: Objetos-chave e Ecrã inteiro",
+    "pt-BR": "Novo patch já disponível: Itens-chave e Tela cheia"
   },
   {
     "id": "encuentros-personajes",
@@ -66,3 +99,4 @@
     "pt-BR": "Dê nomes aos seus personagens. Eles fariam o mesmo por você."
   }
 ]
+
