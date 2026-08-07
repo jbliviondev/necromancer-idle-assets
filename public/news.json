@@ -44,15 +44,15 @@
     "pt-BR": "Você pode fixar os painéis para evitar que se movam enquanto modifica outros."
   },
   {
-    "id": "patch-key-items-fullscreen",
-    "es": "Nuevo parche ya disponible: Objetos clave y Pantalla completa",
-    "es-419": "Nuevo parche ya disponible: Objetos clave y Pantalla completa",
-    "en": "New patch now available: Key Items & Fullscreen",
-    "fr": "Nouveau correctif disponible : Objets clés & Écran complet",
-    "de": "Neuer Patch jetzt verfügbar: Schlüsselgegenstände & Vollbild",
-    "it": "Nuova patch ora disponibile: Oggetti chiave & Schermo intero",
-    "pt": "Novo patch já disponível: Objetos-chave e Ecrã inteiro",
-    "pt-BR": "Novo patch já disponível: Itens-chave e Tela cheia"
+    "id": "patch-bug report",
+    "es": "Hotfix: Añadido un botón para reportar bugs, solucionado un error en la traducción de una acción",
+    "es-419": "Hotfix: Añadido un botón para reportar bugs, solucionado un error en la traducción de una acción",
+    "en": "Hotfix: Added a bug report button, fixed a translation error in an action",
+    "fr": "Correctif : ajout d'un bouton pour signaler les bugs, correction d'une erreur de traduction sur une action",
+    "de": "Hotfix: Button zum Melden von Fehlern hinzugefügt, ein Übersetzungsfehler bei einer Aktion behoben",
+    "it": "Hotfix: aggiunto un pulsante per segnalare i bug, corretto un errore di traduzione in un'azione",
+    "pt": "Hotfix: adicionado um botão para reportar erros, corrigido um erro de tradução numa ação",
+    "pt-BR": "Hotfix: adicionado um botão para reportar bugs, corrigido um erro de tradução em uma ação"
   },
   {
     "id": "encuentros-personajes",
