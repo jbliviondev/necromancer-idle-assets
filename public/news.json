@@ -11,15 +11,15 @@
     "pt-BR": "Bem-vindo ao Necromancer Idle! Obrigado pelo seu apoio."
   },
   {
-    "id": "patch-1-0-2",
-    "es": "¡Parche 1.0.2 disponible! Añadidos varios botones de información sobre el panel de Automatización. Añadida la opción de intercambiar posición de paneles y modificados varios tooltips.",
-    "es-419": "¡Parche 1.0.2 disponible! Añadidos varios botones de información sobre el panel de Automatización. Añadida la opción de intercambiar posición de paneles y modificados varios tooltips.",
-    "en": "Patch 1.0.2 available! Added several info buttons to the Automation panel. Added the option to swap panel positions and updated several tooltips.",
-    "fr": "Patch 1.0.2 disponible ! Ajout de plusieurs boutons d'information sur le panneau d'Automatisation. Ajout de l'option pour échanger la position des panneaux et mise à jour de plusieurs info-bulles.",
-    "de": "Patch 1.0.2 verfügbar! Mehrere Info-Buttons im Automatisierungs-Panel hinzugefügt. Option zum Tauschen der Panel-Positionen hinzugefügt und mehrere Tooltips aktualisiert.",
-    "it": "Patch 1.0.2 disponibile! Aggiunti diversi pulsanti informativi nel pannello di Automazione. Aggiunta l'opzione per scambiare la posizione dei pannelli e aggiornati diversi tooltip.",
-    "pt": "Patch 1.0.2 disponível! Adicionados vários botões de informação no painel de Automação. Adicionada a opção de trocar a posição dos painéis e atualizados vários tooltips.",
-    "pt-BR": "Patch 1.0.2 disponível! Adicionados vários botões de informação no painel de Automação. Adicionada a opção de trocar a posição dos painéis e atualizados vários tooltips."
+    "id": "patch-1-0-3",
+    "es": "¡Parche 1.0.3 disponible! Nueva interfaz fija que se adapta a cualquier resolución, en Ajustes > Modo Fijo. Cada panel estrena un botón para expandirse y enseñar todo su contenido. Y tres paletas de colores nuevas, en Ajustes > Colores.",
+    "es-419": "¡Parche 1.0.3 disponible! Nueva interfaz fija que se adapta a cualquier resolución, en Ajustes > Modo Fijo. Cada panel estrena un botón para expandirse y enseñar todo su contenido. Y tres paletas de colores nuevas, en Ajustes > Colores.",
+    "en": "Patch 1.0.3 available! A new fixed interface that adapts to any resolution, under Settings > Fixed Mode. Every panel now has a button to expand it and show all its contents. Plus three new colour palettes, under Settings > Colours.",
+    "fr": "Patch 1.0.3 disponible ! Nouvelle interface fixe qui s'adapte à toutes les résolutions, dans Paramètres > Mode Fixe. Chaque panneau a maintenant un bouton pour s'agrandir et afficher tout son contenu. Et trois nouvelles palettes de couleurs, dans Paramètres > Couleurs.",
+    "de": "Patch 1.0.3 verfügbar! Eine neue feste Oberfläche, die sich jeder Auflösung anpasst, unter Einstellungen > Fester Modus. Jedes Panel hat jetzt einen Button, um es zu vergrößern und seinen gesamten Inhalt zu zeigen. Dazu drei neue Farbpaletten, unter Einstellungen > Farben.",
+    "it": "Patch 1.0.3 disponibile! Una nuova interfaccia fissa che si adatta a qualsiasi risoluzione, in Impostazioni > Modalità Fissa. Ogni pannello ha ora un pulsante per espandersi e mostrare tutto il suo contenuto. Più tre nuove palette di colori, in Impostazioni > Colori.",
+    "pt": "Patch 1.0.3 disponível! Uma nova interface fixa que se adapta a qualquer resolução, em Definições > Modo Fixo. Cada painel passa a ter um botão para expandir e mostrar todo o seu conteúdo. E três novas paletas de cores, em Definições > Cores.",
+    "pt-BR": "Patch 1.0.3 disponível! Uma nova interface fixa que se adapta a qualquer resolução, em Configurações > Modo Fixo. Cada painel agora tem um botão para expandir e mostrar todo o seu conteúdo. E três novas paletas de cores, em Configurações > Cores."
   },
   {
     "id": "automatizacion-desvio-quest",
