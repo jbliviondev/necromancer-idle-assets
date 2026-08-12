@@ -44,15 +44,15 @@
     "pt-BR": "Você pode fixar os painéis para evitar que se movam enquanto modifica outros."
   },
   {
-    "id": "patch-bug report",
-    "es": "Hotfix: Añadido un botón para reportar bugs, solucionado un error en la traducción de una acción",
-    "es-419": "Hotfix: Añadido un botón para reportar bugs, solucionado un error en la traducción de una acción",
-    "en": "Hotfix: Added a bug report button, fixed a translation error in an action",
-    "fr": "Correctif : ajout d'un bouton pour signaler les bugs, correction d'une erreur de traduction sur une action",
-    "de": "Hotfix: Button zum Melden von Fehlern hinzugefügt, ein Übersetzungsfehler bei einer Aktion behoben",
-    "it": "Hotfix: aggiunto un pulsante per segnalare i bug, corretto un errore di traduzione in un'azione",
-    "pt": "Hotfix: adicionado um botão para reportar erros, corrigido um erro de tradução numa ação",
-    "pt-BR": "Hotfix: adicionado um botão para reportar bugs, corrigido um erro de tradução em uma ação"
+    "id": "opalo-negro-drow",
+    "es": "Ahora el drow otorga un ópalo negro que puede ser vendido en cualquier mercado",
+    "es-419": "Ahora el drow otorga un ópalo negro que puede ser vendido en cualquier mercado",
+    "en": "The drow now drops a black opal that can be sold at any market",
+    "fr": "Le drow laisse désormais une opale noire qui peut être vendue dans n'importe quel marché",
+    "de": "Der Drow lässt jetzt einen schwarzen Opal fallen, der sich auf jedem Markt verkaufen lässt",
+    "it": "Il drow ora lascia un'opale nera che può essere venduta in qualsiasi mercato",
+    "pt": "O drow passa a deixar uma opala negra que pode ser vendida em qualquer mercado",
+    "pt-BR": "O drow agora deixa uma opala negra que pode ser vendida em qualquer mercado"
   },
   {
     "id": "encuentros-personajes",
