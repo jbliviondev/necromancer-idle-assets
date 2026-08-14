@@ -1,0 +1,15 @@
+[
+  {
+    "id": "reincarnate-plan-automatizacion",
+    "builds": ["full"],
+    "when": { "reincarnatesMin": 1 },
+    "es": "Tu plan de automatización sobrevive al Reincarnate. Déjalo afinado antes de reencarnar y la vuelta siguiente será mucho más rápida.",
+    "es-419": "Tu plan de automatización sobrevive al Reincarnate. Déjalo afinado antes de reencarnar y la vuelta siguiente será mucho más rápida.",
+    "en": "Your automation plan survives Reincarnate. Leave it well tuned before you reincarnate and the next run will be much faster.",
+    "fr": "Ton plan d'automatisation survit à la Réincarnation. Peaufine-le avant de te réincarner et la manche suivante sera bien plus rapide.",
+    "de": "Dein Automatisierungsplan überlebt die Reinkarnation. Stimm ihn ab, bevor du reinkarnierst, und der nächste Durchlauf geht viel schneller.",
+    "it": "Il tuo piano di automazione sopravvive alla Reincarnazione. Mettilo a punto prima di reincarnarti e il giro successivo sarà molto più veloce.",
+    "pt": "O teu plano de automatização sobrevive à Reencarnação. Deixa-o bem afinado antes de reencarnares e a volta seguinte vai ser muito mais rápida.",
+    "pt-BR": "Seu plano de automação sobrevive à Reencarnação. Deixe ele bem ajustado antes de reencarnar e a próxima volta vai ser muito mais rápida."
+  }
+]
