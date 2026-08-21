@@ -1,8 +1,12 @@
 [
   {
     "id": "reincarnate-plan-automatizacion",
-    "builds": ["full"],
-    "when": { "reincarnatesMin": 1 },
+    "builds": [
+      "full"
+    ],
+    "when": {
+      "reincarnatesMin": 1
+    },
     "es": "Tras reencarnar conservas tu plan de automatización, pero tal vez quieras hacer algunos cambios en el early game.\nGanarás más puntos de reencarnación si consigues vencer al Nigromante.\nAdemás, por cada 2 niveles de bonuses comprados, todos tus demás personajes consiguen +1 nivel en ese bonus, así que invertir tiempo en otros personajes mejora el progreso de los demás.",
     "es-419": "Tras reencarnar conservas tu plan de automatización, pero tal vez quieras hacer algunos cambios en el early game.\nGanarás más puntos de reencarnación si consigues vencer al Nigromante.\nAdemás, por cada 2 niveles de bonuses comprados, todos tus demás personajes consiguen +1 nivel en ese bonus, así que invertir tiempo en otros personajes mejora el progreso de los demás.",
     "en": "Your automation plan survives Reincarnate, but you may want to change a few things for the early game.\nYou will earn more reincarnation points if you manage to beat the Necromancer.\nOn top of that, every 2 bonus levels you buy grant all your other characters +1 level in that same bonus, so time invested in one character improves the progress of the rest.",
@@ -11,6 +15,8 @@
     "it": "Il tuo piano di automazione sopravvive alla Reincarnazione, ma forse vorrai cambiare qualcosa per la prima parte della partita.\nGuadagnerai più punti di reincarnazione se riesci a sconfiggere il Negromante.\nInoltre, ogni 2 livelli di potenziamenti acquistati danno a tutti i tuoi altri personaggi +1 livello in quello stesso potenziamento, quindi il tempo investito in un personaggio fa progredire anche gli altri.",
     "pt": "O teu plano de automatização sobrevive à Reencarnação, mas talvez queiras mudar algumas coisas no início do jogo.\nVais ganhar mais pontos de reencarnação se conseguires vencer o Necromante.\nAlém disso, por cada 2 níveis de melhorias comprados, todas as tuas outras personagens ganham +1 nível nessa mesma melhoria, por isso o tempo investido numa personagem faz progredir as restantes.",
     "pt-BR": "Seu plano de automação sobrevive à Reencarnação, mas talvez você queira mudar algumas coisas no começo do jogo.\nVocê vai ganhar mais pontos de reencarnação se conseguir vencer o Necromante.\nAlém disso, a cada 2 níveis de melhorias comprados, todos os seus outros personagens ganham +1 nível nessa mesma melhoria, então o tempo investido em um personagem faz os outros progredirem.",
-    "ru": "План автоматизации переживает Реинкарнацию, но в начале забега, возможно, стоит кое-что поменять.\nТы получишь больше очков реинкарнации, если сумеешь одолеть Некроманта.\nКроме того, каждые 2 купленных уровня улучшений дают всем твоим остальным персонажам +1 уровень этого же улучшения, так что время, вложенное в одного персонажа, продвигает и остальных."
+    "ru": "План автоматизации переживает Реинкарнацию, но в начале забега, возможно, стоит кое-что поменять.\nТы получишь больше очков реинкарнации, если сумеешь одолеть Некроманта.\nКроме того, каждые 2 купленных уровня улучшений дают всем твоим остальным персонажам +1 уровень этого же улучшения, так что время, вложенное в одного персонажа, продвигает и остальных.",
+    "pl": "Po reinkarnacji zachowujesz swój plan automatyzacji, ale na początek nowej gry warto go trochę zmienić.\nZdobędziesz więcej punktów reinkarnacji, jeśli uda ci się pokonać Nekromantę.\nDo tego każde 2 kupione poziomy ulepszenia dają wszystkim twoim pozostałym postaciom +1 poziom tego samego ulepszenia, więc czas włożony w jedną postać popycha do przodu i resztę.",
+    "zh-Hans": "转生之后你的自动化计划会保留下来，不过开局阶段也许值得改动几处。\n如果你能击败死灵法师，拿到的转生点数会更多。\n另外，每买 2 级强化，你其他所有角色的同一项强化都会 +1 级，所以花在一个角色上的时间也会推着其余角色往前走。"
   }
 ]

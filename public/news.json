@@ -9,7 +9,9 @@
     "it": "Benvenuto in Necromancer Idle! Grazie per il tuo supporto.",
     "pt": "Bem-vindo ao Necromancer Idle! Obrigado pelo teu apoio.",
     "pt-BR": "Bem-vindo ao Necromancer Idle! Obrigado pelo seu apoio.",
-    "ru": "Добро пожаловать в Necromancer Idle! Спасибо за поддержку."
+    "ru": "Добро пожаловать в Necromancer Idle! Спасибо за поддержку.",
+    "pl": "Witaj w Necromancer Idle! Dziękujemy za wsparcie.",
+    "zh-Hans": "欢迎来到 Necromancer Idle！感谢你的支持。"
   },
   {
     "id": "patch-1-0-4",
@@ -21,7 +23,9 @@
     "it": "Patch 1.0.4 disponibile! Ricompense delle accademie rielaborate e key item in vendita nei mercati, nuova modalità Reincarnates nel pannello Speedrun, pulsante Anti-spoiler in Automazione e preset che si carica da solo a ogni reincarnazione.",
     "pt": "Patch 1.0.4 disponível! Recompensas das academias reformuladas e key items à venda nos mercados, novo modo Reincarnates no painel de Speedrun, botão Anti-spoiler na Automação e preset que se carrega sozinho ao reencarnar.",
     "pt-BR": "Patch 1.0.4 disponível! Recompensas das academias reformuladas e key items à venda nos mercados, novo modo Reincarnates no painel de Speedrun, botão Anti-spoiler na Automação e preset que carrega sozinho ao reencarnar.",
-    "ru": "Патч 1.0.4 вышел! Переработанные награды академий и ключевые предметы в продаже на рынках, новый режим «Реинкарнации» в панели Speedrun, кнопка «Антиспойлер» в автоматизации и пресет, который сам загружается при реинкарнации."
+    "ru": "Патч 1.0.4 вышел! Переработанные награды академий и ключевые предметы в продаже на рынках, новый режим «Реинкарнации» в панели Speedrun, кнопка «Антиспойлер» в автоматизации и пресет, который сам загружается при реинкарнации.",
+    "pl": "Łatka 1.0.4 już jest! Przebudowane nagrody z akademii i kluczowe przedmioty na sprzedaż na targach, nowy tryb Reinkarnacje w panelu Speedrun, przycisk Bez spoilerów w Automatyzacji oraz ustawienia, które wczytują się same przy reinkarnacji.",
+    "zh-Hans": "1.0.4 补丁已上线！学院奖励重做，各集市开始出售关键道具，速通面板新增「转生」模式，自动化里加入了防剧透按钮，还有转生时自动载入的预设。"
   },
   {
     "id": "automatizacion-desvio-quest",
@@ -33,7 +37,9 @@
     "it": "Se fai una deviazione verso un'altra stanza per completare una missione, puoi aggiungere altre azioni all'elenco di automazione dopo quell'uscita, e resteranno nella coda delle azioni quando tornerai dalla stanza della missione.",
     "pt": "Se fizeres um desvio para outra sala para fazer uma missão, podes adicionar mais ações à lista de automação depois dessa saída, e elas vão continuar na fila de ações quando voltares da sala da missão.",
     "pt-BR": "Se você for fazer um desvio para outra sala para cumprir uma missão, pode adicionar mais ações à lista de automação depois dessa saída, e elas vão continuar na fila de ações quando você voltar da sala da missão.",
-    "ru": "Если ты сворачиваешь в другую комнату ради задания, можно добавить в список автоматизации действия после этого выхода: они останутся в очереди действий, когда ты вернёшься из комнаты с заданием."
+    "ru": "Если ты сворачиваешь в другую комнату ради задания, можно добавить в список автоматизации действия после этого выхода: они останутся в очереди действий, когда ты вернёшься из комнаты с заданием.",
+    "pl": "Jeśli zamierzasz zboczyć do innej sali po zadanie, możesz dopisać na liście automatyzacji akcje następujące po tym wyjściu, a zostaną w kolejce, gdy wrócisz z sali zadania.",
+    "zh-Hans": "如果你要绕去别的房间做任务，可以在自动化清单里那个出口之后继续加行动，从任务房间回来时它们还会留在队列里。"
   },
   {
     "id": "fijar-paneles",
@@ -45,7 +51,9 @@
     "it": "Puoi bloccare i pannelli per evitare che si spostino mentre ne modifichi altri.",
     "pt": "Podes fixar os painéis para evitar que se movam enquanto modificas outros.",
     "pt-BR": "Você pode fixar os painéis para evitar que se movam enquanto modifica outros.",
-    "ru": "Панели можно закрепить, чтобы они не сдвигались, пока ты меняешь остальные."
+    "ru": "Панели можно закрепить, чтобы они не сдвигались, пока ты меняешь остальные.",
+    "pl": "Możesz przypiąć panele, żeby nie przesuwały się przy zmianie innych paneli.",
+    "zh-Hans": "可以把面板固定住，免得调整其他面板时它们跟着乱跑。"
   },
   {
     "id": "opalo-negro-drow",
@@ -57,7 +65,9 @@
     "it": "Il drow ora lascia un'opale nera che può essere venduta in qualsiasi mercato",
     "pt": "O drow passa a deixar uma opala negra que pode ser vendida em qualquer mercado",
     "pt-BR": "O drow agora deixa uma opala negra que pode ser vendida em qualquer mercado",
-    "ru": "Теперь дроу оставляет чёрный опал, который можно продать на любом рынке"
+    "ru": "Теперь дроу оставляет чёрный опал, который можно продать на любом рынке",
+    "pl": "Drow daje teraz czarny opal, który można sprzedać na dowolnym targu.",
+    "zh-Hans": "卓尔现在会掉落一枚黑蛋白石，可以在任意集市卖掉。"
   },
   {
     "id": "encuentros-personajes",
@@ -69,7 +79,9 @@
     "it": "Puoi incontrare i tuoi stessi personaggi nei capitoli che hanno già superato.",
     "pt": "Podes encontrar-te com as tuas próprias personagens em capítulos que elas já tenham superado.",
     "pt-BR": "Você pode encontrar seus próprios personagens em capítulos que eles já superaram.",
-    "ru": "Ты можешь встретить своих же персонажей в главах, которые они уже прошли."
+    "ru": "Ты можешь встретить своих же персонажей в главах, которые они уже прошли.",
+    "pl": "Możesz spotkać własne postacie w rozdziałach, które one już przeszły.",
+    "zh-Hans": "在自己其他角色已经通过的章节里，你有机会遇到他们。"
   },
   {
     "id": "combate-facil-encuentro",
@@ -81,7 +93,9 @@
     "it": "Quando incontri uno dei tuoi altri personaggi, supererai il combattimento di quella rotta senza subire danni e l'ostacolo con facilità, permettendoti di avanzare più velocemente a ogni Rinascita.",
     "pt": "Quando encontras uma das tuas outras personagens, vais superar o combate dessa rota sem sofrer dano e superar o obstáculo com facilidade, o que te vai permitir avançar mais depressa em cada Renascimento.",
     "pt-BR": "Quando você encontra um dos seus outros personagens, vai vencer o combate daquela rota sem sofrer dano e superar o obstáculo com facilidade, o que vai te permitir avançar mais rápido em cada Renascimento.",
-    "ru": "Встретив другого своего персонажа, ты пройдёшь бой на этом маршруте без урона и легко преодолеешь препятствие, а значит будешь продвигаться быстрее с каждым Перерождением."
+    "ru": "Встретив другого своего персонажа, ты пройдёшь бой на этом маршруте без урона и легко преодолеешь препятствие, а значит будешь продвигаться быстрее с каждым Перерождением.",
+    "pl": "Przy spotkaniu z inną swoją postacią pokonasz walkę na tej trasie bez obrażeń i bez trudu przejdziesz przeszkodę, dzięki czemu w każdym odrodzeniu zajdziesz dalej szybciej.",
+    "zh-Hans": "遇到自己的另一个角色时，那条路线上的战斗你可以毫发无伤地通过，障碍也会轻松许多，于是每一次重生都能推进得更快。"
   },
   {
     "id": "nombra-tus-personajes",
@@ -93,6 +107,8 @@
     "it": "Dai un nome ai tuoi personaggi. Loro farebbero lo stesso per te.",
     "pt": "Dá nomes às tuas personagens. Elas fariam o mesmo por ti.",
     "pt-BR": "Dê nomes aos seus personagens. Eles fariam o mesmo por você.",
-    "ru": "Дай своим персонажам имена. Они бы сделали то же для тебя."
+    "ru": "Дай своим персонажам имена. Они бы сделали то же для тебя.",
+    "pl": "Nadaj swoim postaciom imiona. One zrobiłyby to dla ciebie.",
+    "zh-Hans": "给你的角色起个名字吧。换成他们，也会为你这么做。"
   }
 ]

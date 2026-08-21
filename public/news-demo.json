@@ -8,7 +8,10 @@
     "de": "Willkommen zur Necromancer Idle-Demo!",
     "it": "Benvenuto nella demo di Necromancer Idle!",
     "pt": "Bem-vindo à demo de Necromancer Idle!",
-    "pt-BR": "Bem-vindo à demo de Necromancer Idle!"
+    "pt-BR": "Bem-vindo à demo de Necromancer Idle!",
+    "ru": "Добро пожаловать в демоверсию Necromancer Idle!",
+    "pl": "Witaj w demie Necromancer Idle!",
+    "zh-Hans": "欢迎来到 Necromancer Idle 试玩版！"
   },
   {
     "id": "duracion-demo",
@@ -19,7 +22,10 @@
     "de": "Der Inhalt der Demo umfasst etwa 10-20 Stunden Spielzeit und kann erneut gespielt werden.",
     "it": "Il contenuto della demo copre circa 10-20 ore di gioco e può essere rigiocato.",
     "pt": "O conteúdo da demo abrange aproximadamente 10-20 horas de jogo e pode ser rejogado.",
-    "pt-BR": "O conteúdo da demo cobre aproximadamente 10-20 horas de jogo e pode ser rejogado."
+    "pt-BR": "O conteúdo da demo cobre aproximadamente 10-20 horas de jogo e pode ser rejogado.",
+    "ru": "Содержимого демоверсии хватает примерно на 10-20 часов игры, и её можно проходить заново.",
+    "pl": "Zawartość dema to jakieś 10-20 godzin gry i można ją przechodzić wielokrotnie.",
+    "zh-Hans": "试玩版的内容大约有 10-20 小时，而且可以反复重玩。"
   },
   {
     "id": "comprar-juego-completo",
@@ -30,6 +36,9 @@
     "de": "Wenn du das Spiel in voller Länge kaufen möchtest, kannst du das [hier](https://store.steampowered.com/app/4936120/Necromancer_Idle_The_Endless_Drain/?l=german) tun. Danke für deine Unterstützung!",
     "it": "Se desideri acquistare il gioco completo, puoi farlo [qui](https://store.steampowered.com/app/4936120/Necromancer_Idle_The_Endless_Drain/?l=italian). Grazie per il supporto!",
     "pt": "Se desejares comprar o jogo completo, podes fazê-lo [aqui](https://store.steampowered.com/app/4936120/Necromancer_Idle_The_Endless_Drain/?l=portuguese). Obrigado pelo apoio!",
-    "pt-BR": "Se você quiser comprar o jogo completo, pode fazer isso [aqui](https://store.steampowered.com/app/4936120/Necromancer_Idle_The_Endless_Drain/?l=brazilian). Obrigado pelo apoio!"
+    "pt-BR": "Se você quiser comprar o jogo completo, pode fazer isso [aqui](https://store.steampowered.com/app/4936120/Necromancer_Idle_The_Endless_Drain/?l=brazilian). Obrigado pelo apoio!",
+    "ru": "Если хочешь купить полную версию, это можно сделать [здесь](https://store.steampowered.com/app/4936120/Necromancer_Idle_The_Endless_Drain/?l=russian). Спасибо за поддержку!",
+    "pl": "Jeśli chcesz kupić pełną wersję gry, możesz to zrobić [tutaj](https://store.steampowered.com/app/4936120/Necromancer_Idle_The_Endless_Drain/?l=polish). Dzięki za wsparcie!",
+    "zh-Hans": "想入手完整版的话，可以[点这里](https://store.steampowered.com/app/4936120/Necromancer_Idle_The_Endless_Drain/?l=schinese)。感谢支持！"
   }
 ]
