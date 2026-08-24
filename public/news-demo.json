@@ -14,6 +14,20 @@
     "zh-Hans": "欢迎来到 Necromancer Idle 试玩版！"
   },
   {
+    "id": "patch-1-0-6",
+    "es": "¡Parche 1.0.6 disponible! Llega el Viaje en el tiempo: gasta de golpe la reserva de tiempo offline y el personaje vive esas horas a toda velocidad, descontando solo el tiempo que llegue a vivirse de verdad.",
+    "es-419": "¡Parche 1.0.6 disponible! Llega el Viaje en el tiempo: gastá de golpe la reserva de tiempo offline y el personaje vive esas horas a toda velocidad, descontando solo el tiempo que llegue a vivirse de verdad.",
+    "en": "Patch 1.0.6 out now! Time travel is here: spend your offline time reserve all at once and the character lives through those hours at full speed, with only the time actually lived being deducted.",
+    "fr": "Patch 1.0.6 disponible ! Le Voyage dans le temps arrive : dépense ta réserve de temps hors ligne d'un seul coup et le personnage vit ces heures à toute vitesse, seul le temps réellement vécu étant décompté.",
+    "de": "Patch 1.0.6 ist da! Neu dabei: die Zeitreise. Gib deinen Offline-Zeitvorrat auf einmal aus, die Figur durchlebt diese Stunden in voller Geschwindigkeit, und abgezogen wird nur die Zeit, die wirklich gelebt wird.",
+    "it": "Patch 1.0.6 disponibile! Arriva il Viaggio nel tempo: spendi la riserva di tempo offline tutta insieme e il personaggio vive quelle ore a tutta velocità, mentre viene scalato solo il tempo che riesce davvero a vivere.",
+    "pt": "Patch 1.0.6 disponível! Chega a Viagem no tempo: gasta a reserva de tempo offline de uma só vez e a personagem vive essas horas a toda a velocidade, sendo descontado só o tempo que chega a ser vivido.",
+    "pt-BR": "Patch 1.0.6 disponível! Chegou a Viagem no tempo: gaste a reserva de tempo offline de uma vez só e o personagem vive essas horas a toda velocidade, descontando só o tempo que ele chega a viver.",
+    "ru": "Патч 1.0.6 вышел! Появилось Путешествие во времени: потрать запас офлайн-времени разом, персонаж проживёт эти часы на полной скорости, а списано будет только то время, которое он действительно прожил.",
+    "pl": "Łatka 1.0.6 już jest! Pojawia się Podróż w czasie: wydaj zapas czasu offline za jednym razem, a postać przeżyje te godziny na pełnej prędkości, przy czym odliczony zostanie tylko czas, który naprawdę zdążyła przeżyć.",
+    "zh-Hans": "1.0.6 补丁已上线！新增时间旅行：一次性花掉离线时间储备，角色会全速度过这些时间，而且只扣除真正过完的部分。"
+  },
+  {
     "id": "duracion-demo",
     "es": "El contenido de la demo abarca aproximadamente 10-20 horas de juego y puede rejugarse.",
     "es-419": "El contenido de la demo abarca aproximadamente 10-20 horas de juego y puede rejugarse.",
