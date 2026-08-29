@@ -1,0 +1,41 @@
+{
+  "title": {
+    "es": "¿Qué es Reincarnate?",
+    "en": "What is Reincarnate?",
+    "fr": "est-ce que Reincarnate ?\",\n  ",
+    "de": "Was ist Reincarnate?",
+    "it": "è Reincarnate?\",\n  ",
+    "pt": "O que é Reincarnate?",
+    "pt-BR": "O que é Reincarnate?",
+    "ru": "Что такое Реинкарнация?",
+    "pl": "Czym jest Reinkarnacja?",
+    "zh-Hans": "什么是转生？"
+  },
+  "body": [
+    {
+      "es": "Reencarnar te borra la innata entera: vuelves a tener todas las estadísticas a cero. Es lo único que duele del salto y es todo su precio."
+    },
+    {
+      "es": "Lo demás lo conservas: los planes de automatización y las ranuras de presets, el mapa que llevas descubierto, el capítulo más lejano al que llegaste, la colocación de tus paneles y los jefes únicos que mataste."
+    },
+    {
+      "es": "Reencarnar cierra el ciclo entero, con todos sus rebirths dentro, y empieza uno nuevo desde la primera sala. A cambio te llevas mejoras permanentes que ya no se pierden nunca."
+    },
+    {
+      "es": "Los puntos no se ganan renaciendo. Da igual cuántas vidas encadenes: un rebirth normal da cero puntos."
+    },
+    {
+      "spoiler": true,
+      "es": "Se ganan venciendo al nigromante, y el botón de la cabecera no aparece hasta que te lo cruzas por primera vez."
+    },
+    {
+      "es": "Sobreviven también los puntos que no hayas gastado y todos los bonos que ya tengas comprados."
+    },
+    {
+      "es": "Además de la innata, se pierde la Vida máxima, que vuelve a su valor inicial, y todo lo de dentro de una vida: inventario, dinero, hechizos, insignias y mochila."
+    },
+    {
+      "es": "Los bonos suben de precio muy rápido, así que subir uno solo hasta arriba es carísimo. Ahí es donde compensa repartirlos entre varios personajes."
+    }
+  ]
+}

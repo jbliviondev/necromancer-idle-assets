@@ -1,0 +1,38 @@
+{
+  "title": {
+    "es": "Academias",
+    "en": "Academies",
+    "fr": "Académies",
+    "de": "Akademien",
+    "it": "Accademie",
+    "pt": "Academias",
+    "pt-BR": "Academias",
+    "ru": "Академии",
+    "pl": "Akademie",
+    "zh-Hans": "学院"
+  },
+  "body": [
+    {
+      "es": "Una academia es una sala opcional con una prueba dentro. La prueba mide Fuerza, Destreza o Inteligencia y va a contrarreloj: tienes 60 segundos de trabajo para completarla, y si se acaban, el progreso vuelve a cero y empieza otro intento."
+    },
+    {
+      "es": "Fallar no es tiempo perdido: mientras lo intentas sigues entrenando esa estadística, así que cada intento arranca con más nivel que el anterior y llega más lejos en los mismos 60 segundos. El personaje reintenta solo y, si le da tiempo antes de morir, acaba pasando. Lo que decide es cuánta vida te queda para seguir intentándolo."
+    },
+    {
+      "es": "La academia de tu clase está siempre detrás del obstáculo de tu ruta difícil. Ese es el motivo de que tus personajes se escolten entre ellos: con escolta llegas, y dentro entrenas tu estadística de combate sin recibir daño."
+    },
+    {
+      "es": "Dan insignias, hechizos, skills y objetos llave. Las insignias caducan al renacer y la del capítulo 1 es requisito para la del capítulo 2, así que las dos se hacen en la misma vida o no se hacen."
+    },
+    {
+      "spoiler": true,
+      "es": "En el capítulo 2, por ejemplo, se aprenden Caminar sobre las aguas, Escalar y Ojo de águila."
+    },
+    {
+      "es": "Algunas llaves también se compran en el mercado, pero ese dinero ya no va a la mochila mejorada. Si el rodeo por la academia te sale a mano, sale más barato."
+    },
+    {
+      "es": "Regla general: si no necesitas una llave concreta, haz solo las academias de tu rama. Son las que suben tu daño y las que hacen caer al jefe del capítulo en menos rebirths."
+    }
+  ]
+}

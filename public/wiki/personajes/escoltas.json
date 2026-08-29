@@ -1,0 +1,28 @@
+{
+  "title": {
+    "es": "Escoltas",
+    "en": "Escorts",
+    "fr": "Escortes",
+    "de": "Eskorten",
+    "it": "Scorte",
+    "pt": "Escoltas",
+    "pt-BR": "Escoltas",
+    "ru": "Сопровождение",
+    "pl": "Eskorty",
+    "zh-Hans": "护送"
+  },
+  "body": [
+    {
+      "es": "En cada capítulo que otro de tus personajes ya haya completado, ese personaje aparece en la ruta que es fácil para su clase y te echa una mano."
+    },
+    {
+      "es": "La condición es esa y solo esa: que tenga ese capítulo terminado. No depende de lo lejos que vayas tú ni de que él vaya por delante. Un personaje que esté más adelantado que tú pero que no haya acabado ese capítulo no te va a aparecer ahí. Y una vez terminado no se pierde: sigue escoltándote aunque ese personaje renazca o reencarne."
+    },
+    {
+      "es": "En un combate te cuesta el mismo tiempo que le costaría a la clase para la que esa ruta es fácil, recibes 0 de daño y sigues entrenando tu estadística de combate. En un obstáculo, lo pasas."
+    },
+    {
+      "es": "Lo que ganas: llegas antes al templo, rezas y te quitas media maldición, y puedes entrar a la academia de tu clase, que está en tu ruta difícil, a entrenar combate sin recibir daño."
+    }
+  ]
+}

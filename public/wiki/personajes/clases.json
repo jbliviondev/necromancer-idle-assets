@@ -1,0 +1,28 @@
+{
+  "title": {
+    "es": "Las clases",
+    "en": "Classes",
+    "fr": "Les classes",
+    "de": "Die Klassen",
+    "it": "Le classi",
+    "pt": "As classes",
+    "pt-BR": "As classes",
+    "ru": "Классы",
+    "pl": "Klasy",
+    "zh-Hans": "职业"
+  },
+  "body": [
+    {
+      "es": "Hay tres clases y cada una pelea con su propia estadística: el Soldado con Fuerza, el Ranger con Destreza y el Mago con Inteligencia. Ninguna pega más que otra."
+    },
+    {
+      "es": "Tu estadística propia sube a ritmo normal y las otras dos de combate te cuestan cinco veces más. Puedes subirlas, pero despacio, y eso importa cuando una prueba te pide una que no es la tuya."
+    },
+    {
+      "es": "El resto de habilidades cuestan lo mismo para las tres clases. Ninguna es mejor recolectando ni hablando."
+    },
+    {
+      "es": "Lo que cambia de verdad entre clases es por qué rutas se pasa cómodo. Las tres llegan al final del juego."
+    }
+  ]
+}

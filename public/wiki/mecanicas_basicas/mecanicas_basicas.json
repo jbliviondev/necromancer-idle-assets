@@ -1,0 +1,43 @@
+{
+  "title": {
+    "es": "Mecánicas básicas",
+    "en": "Basic mechanics",
+    "fr": "Mécaniques de base",
+    "de": "Grundlagen",
+    "it": "Meccaniche di base",
+    "pt": "Mecânicas básicas",
+    "pt-BR": "Mecânicas básicas",
+    "ru": "Основы",
+    "pl": "Podstawowe mechaniki",
+    "zh-Hans": "基础机制"
+  },
+  "body": [
+    {
+      "es": "LA MALDICIÓN. Tu vida baja sola, siempre. Empieza quitándote medio punto por segundo y crece un 25% por cada minuto que llevas vivo, de forma exponencial. Por eso las vidas son cortas y por eso correr importa."
+    },
+    {
+      "es": "Hay dos formas de aflojarla: rezar en el templo del capítulo, que la deja a la mitad el resto de esa vida, y los accesorios de protección. Las dos se pierden al morir."
+    },
+    {
+      "es": "COMER. Los consumibles se comen solos. Solo come si la curación entera te cabe, así que no se desperdicia nada, cura repartido en unos segundos y guarda para el final el que más cura."
+    },
+    {
+      "es": "SANAR es una acción no vinculada a ninguna estadística, que te cura un 3% por segundo hasta que llegues al 100% de vida. Está en el templo de cada capítulo y solo funciona si antes has rezado allí durante esta vida."
+    },
+    {
+      "es": "PEDIR AYUDA AL DIOS del capítulo, en la sala del jefe, te cura al 100% de golpe. Sirve en mitad del combate contra el jefe, y es una sola vez por vida."
+    },
+    {
+      "es": "APRENDIDA E INNATA. La aprendida sube rápido mientras trabajas y se pierde entera al morir. La innata sube mucho más despacio pero aguanta la muerte: es tu progreso de verdad. Lo único que la borra es reencarnar."
+    },
+    {
+      "es": "Una habilidad que tienes a cero sube muchísimo con las primeras horas de trabajo, así que dedicarle un rato largo y seguido rinde mucho más que tocarla de pasada."
+    },
+    {
+      "es": "LA VIDA MÁXIMA. Empiezas con 100 y solo crece al renacer: te quedas con el 1% de toda la vida que perdiste esa vida, tanto por la maldición como en combate. O sea que la Vida no crece por sobrevivir, crece por sangrar y poder recuperarte."
+    },
+    {
+      "es": "AL MORIR se pierden la aprendida, el progreso a medias, el inventario, el dinero, la mochila, los hechizos, las insignias, la bendición del templo y las protecciones. Se quedan la innata, la Vida máxima, el mapa descubierto y tus planes de automatización."
+    }
+  ]
+}

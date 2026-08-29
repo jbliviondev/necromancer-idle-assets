@@ -1,0 +1,31 @@
+{
+  "title": {
+    "es": "Presets y triggers",
+    "en": "Presets and triggers",
+    "fr": "Presets et déclencheurs",
+    "de": "Presets und Trigger",
+    "it": "Preset e trigger",
+    "pt": "Presets e triggers",
+    "pt-BR": "Presets e triggers",
+    "ru": "Пресеты и триггеры",
+    "pl": "Zapisane ustawienia i wyzwalacze",
+    "zh-Hans": "预设与触发器"
+  },
+  "body": [
+    {
+      "es": "Un preset guarda toda tu automatización, el plan de cada sala que hayas configurado, en una ranura. Y al cargarlo, sustituye los planes de todas las salas de golpe."
+    },
+    {
+      "es": "Un trigger es una entrada especial del plan: cuando llega al tope de la cola, carga el preset que le hayas dicho y se borra sola. No cuesta tiempo ni gasta vida."
+    },
+    {
+      "es": "Carga lo que el preset tenga en ese momento, no lo que tuviera cuando creaste el trigger."
+    },
+    {
+      "es": "La sala en la que estás no se recalcula: los planes nuevos entran en vigor al pisar la siguiente sala."
+    },
+    {
+      "es": "Entre los dos sirven para cambiar de una estrategia a otra sin tocar nada a mano. Su uso es totalmente opcional y está orientado al min-maxing: se puede jugar el juego entero sin crear un solo preset."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "sections": [
+    {
+      "id": "personajes",
+      "pages": [
+        "clases",
+        "otros_personajes",
+        "reincarnate",
+        "escoltas"
+      ]
+    },
+    {
+      "id": "mecanicas_basicas",
+      "pages": [
+        "mecanicas_basicas"
+      ]
+    },
+    {
+      "id": "academias",
+      "pages": [
+        "academias"
+      ]
+    },
+    {
+      "id": "jefes_unicos",
+      "pages": [
+        "kraken"
+      ]
+    },
+    {
+      "id": "presets",
+      "pages": [
+        "presets"
+      ]
+    },
+    {
+      "id": "estrategias",
+      "pages": [
+        "comunes",
+        "avanzadas"
+      ]
+    }
+  ]
+}

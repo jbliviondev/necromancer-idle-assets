@@ -1,0 +1,50 @@
+{
+  "title": {
+    "es": "Jefes únicos",
+    "en": "Unique bosses",
+    "fr": "Boss uniques",
+    "de": "Einzigartige Bosse",
+    "it": "Boss unici",
+    "pt": "Chefes únicos",
+    "pt-BR": "Chefes únicos",
+    "ru": "Уникальные боссы",
+    "pl": "Unikalni bossowie",
+    "zh-Hans": "唯一首领"
+  },
+  "body": [
+    {
+      "es": "Un jefe único se mata una sola vez por personaje. Cuando cae, su sala queda vacía o cerrada al paso, y no vuelve al renacer."
+    },
+    {
+      "es": "Al reencarnar hay un botón para devolverles la vida, pero sus recompensas se reinician con ellos: lo que te dieron la primera vez hay que ganárselo otra vez."
+    },
+    {
+      "es": "De momento solo hay uno en el juego. Todos los demás son contenido que está por llegar, y lo que viene a continuación es cómo van a funcionar ellos: el que ya existe no hace nada de esto."
+    },
+    {
+      "es": "Para llegar a muchos de ellos habrá que superar antes un obstáculo, y para eso hará falta un objeto llave, una skill o un hechizo concretos."
+    },
+    {
+      "es": "Sus recompensas no aparecerán donde cae el jefe. Serán materiales que recolectan miembros de una academia y que te entregan al superar su prueba, y con ellos se craftearán objetos: unos darán bonificadores permanentes y otros serán obligatorios para vencer a otros jefes únicos."
+    },
+    {
+      "es": "Casi nunca será obligatorio matarlos, pero abrirán objetos que aceleran mucho. Siempre se podrá salir adelante grindeando lo suficiente."
+    },
+    {
+      "spoiler": true,
+      "es": "EL KRAKEN MENOR es ese único que hay ahora, en el capítulo 2, en la bodega del barco naufragado de La Costa. No reparte materiales ni pasa por ninguna academia: lo suyo es lo que cambia en el capítulo al matarlo. Está puesto para ser un muro: no lo mates la primera vez que pases, vuelve cuando seas fuerte. Puedes abandonar el combate cuando quieras sin ninguna penalización."
+    },
+    {
+      "spoiler": true,
+      "es": "El brazalete de protección, que deja la maldición a la mitad, se consigue normalmente auxiliando diez veces a los supervivientes del naufragio. Si matas al Kraken, a partir de la vida siguiente el barco ya no naufraga y el capitán te entrega el brazalete con solo hablar con él, así que cada vida tienes media maldición muchísimo antes."
+    },
+    {
+      "spoiler": true,
+      "es": "Lo que pierdes es el entrenamiento de Primeros Auxilios que daban los supervivientes, y la quest del orfanato pasa a ser lentísima. O te la saltas, que paga poco, o la dejas para cuando llegues ahí con la maldición todavía muy floja."
+    },
+    {
+      "spoiler": true,
+      "es": "Y hay una tercera vía: no matarlo nunca. Dejar el combate cargado al 99% cada vida lo convierte en un saco de entrenamiento que te sube estadística de combate y Vida máxima. Te quedas sin el brazalete temprano, pero a partir del capítulo 4 subes mucho más rápido."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "title": {
+    "es": "¿Por qué usar otros personajes?",
+    "en": "Why using other characters?",
+    "fr": "autres personnages ?\",\n  // Menú de Preguntas frecuentes: secciones y control de spoilers\n  ",
+    "de": "Warum andere Charaktere nutzen?",
+    "it": "Perché usare altri personaggi?",
+    "pt": "Porquê usar outras personagens?",
+    "pt-BR": "Por que usar outros personagens?",
+    "ru": "Зачем использовать других персонажей?",
+    "pl": "Po co używać innych postaci?",
+    "zh-Hans": "为什么要使用其他角色？"
+  },
+  "body": [
+    {
+      "es": "Con un solo personaje se puede completar todo el contenido, el de ahora y el que venga. Los demás son opcionales y lo único que cuestan es tiempo."
+    },
+    {
+      "es": "Se escoltan entre ellos: en cada capítulo que otro de tus personajes tenga terminado, aparece en la ruta fácil de su clase y te resuelve el combate sin daño y el obstáculo."
+    },
+    {
+      "es": "Los bonos de Reincarnate se cruzan. Por cada 2 niveles que compras de un bono en un personaje, los demás reciben +1 gratis de ese mismo bono, sin que a ellos les suba el precio. Repartir la subida sale mucho más barato que exprimir a uno solo."
+    },
+    {
+      "es": "Y no hay que montar la automatización otra vez: puedes importar los presets de otro personaje y elegir por qué rutas quieres que vaya este."
+    },
+    {
+      "es": "Si tienes prisa por ver contenido nuevo, quédate con un personaje. Llega a todas partes."
+    },
+    {
+      "spoiler": true,
+      "es": "Más adelante habrá muchos jefes únicos y salas opcionales que piden una skill, un objeto llave o un hechizo concretos, y las recompensas de esos jefes se recogen en academias que pueden caer en tu ruta difícil. Tener las tres clases subidas te deja llegar a cualquier sitio."
+    }
+  ]
+}
