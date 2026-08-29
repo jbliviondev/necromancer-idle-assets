@@ -19,7 +19,10 @@
       "es": "Pon la acción Salir al 99% y detrás la de Sanar. Así entras en la sala del jefe con la vida al máximo."
     },
     {
-      "es": "En la pelea del jefe puedes poner cuatro entradas: pedir ayuda al 99%, luchar contra el jefe al 99%, pedir ayuda al 100% y luchar contra el jefe al 100%. Si bajas del 10% de vida, Pausar Letal dispara la curación, que ya está cargada al 99%, y te curas del todo. Y cuando seas lo bastante fuerte para ganar sin curarte, lo que hace esto es dejar al jefe al 99% con la ayuda cargada al 100%: rematas, y justo después de vencerlo estás casi a tope de vida."
+      "es": "En la pelea del jefe puedes poner cuatro entradas: pedir ayuda al 99%, luchar contra el jefe al 99%, pedir ayuda al 100% y luchar contra el jefe al 100%. Si bajas del 10% de vida, Pausar Letal dispara la curación, que ya está cargada al 99%, y te curas del todo."
+    },
+    {
+      "es": "Cuando seas lo bastante fuerte para ganar sin curarte, esa misma jugada sirve para otra cosa: dejas al jefe al 99% con la ayuda cargada al 100%, así que rematas y sales del combate casi a tope de vida."
     },
     {
       "es": "Toma la escolta siempre que la tengas. Pasas el combate sin daño y llegas a la academia de tu clase, que es la que sube tu daño."
