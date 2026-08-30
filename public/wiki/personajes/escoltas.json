@@ -13,16 +13,52 @@
   },
   "body": [
     {
-      "es": "En cada capítulo que otro de tus personajes ya haya completado, ese personaje aparece en la ruta que es fácil para su clase y te echa una mano."
+      "es": "En cada capítulo que otro de tus personajes ya haya completado, ese personaje aparece en la ruta que es fácil para su clase y te echa una mano.",
+      "en": "In every chapter another of your characters has already completed, that character shows up on the route that is easy for their class and gives you a hand.",
+      "fr": "Dans chaque chapitre qu'un autre de tes personnages a déjà terminé, ce personnage apparaît sur la route qui est facile pour sa classe et te donne un coup de main.",
+      "de": "In jedem Kapitel, das ein anderer deiner Charaktere bereits abgeschlossen hat, taucht dieser Charakter auf dem Weg auf, der für seine Klasse leicht ist, und hilft dir.",
+      "it": "In ogni capitolo che un altro dei tuoi personaggi ha già completato, quel personaggio compare sul percorso facile per la sua classe e ti dà una mano.",
+      "pt": "Em cada capítulo que outra das tuas personagens já tenha completado, essa personagem aparece na rota que é fácil para a sua classe e dá-te uma ajuda.",
+      "pt-BR": "Em cada capítulo que outro dos seus personagens já tenha completado, esse personagem aparece na rota que é fácil para a classe dele e dá uma mão.",
+      "ru": "В каждой главе, которую уже прошёл другой твой персонаж, он появляется на маршруте, лёгком для его класса, и помогает тебе.",
+      "pl": "W każdym rozdziale ukończonym już przez inną twoją postać pojawia się ona na trasie łatwej dla swojej klasy i podaje ci pomocną dłoń.",
+      "zh-Hans": "你另一个角色已经通关的每一章里，那个角色都会出现在对他职业来说简单的那条路线上，帮你一把。"
     },
     {
-      "es": "La condición es esa y solo esa: que tenga ese capítulo terminado. No depende de lo lejos que vayas tú ni de que él vaya por delante. Un personaje que esté más adelantado que tú pero que no haya acabado ese capítulo no te va a aparecer ahí. Y una vez terminado no se pierde: sigue escoltándote aunque ese personaje renazca o reencarne."
+      "es": "La condición es esa y solo esa: que tenga ese capítulo terminado. No depende de lo lejos que vayas tú ni de que él vaya por delante. Un personaje que esté más adelantado que tú pero que no haya acabado ese capítulo no te va a aparecer ahí. Y una vez terminado no se pierde: sigue escoltándote aunque ese personaje renazca o reencarne.",
+      "en": "That is the one and only condition: that they have finished that chapter. It doesn't depend on how far you are, nor on them being ahead of you. A character further along than you who hasn't finished that chapter will not show up there. And once it is finished it is never lost: they keep escorting you even if that character goes through a rebirth or a Reincarnate.",
+      "fr": "La condition est celle-là et rien d'autre : qu'il ait terminé ce chapitre. Cela ne dépend ni de ton avancement ni du fait qu'il soit devant toi. Un personnage plus avancé que toi mais qui n'a pas fini ce chapitre n'apparaîtra pas là. Et une fois terminé, ça ne se perd pas : il continue de t'escorter même s'il renaît ou fait un Reincarnate.",
+      "de": "Das ist die einzige Bedingung: dass er dieses Kapitel abgeschlossen hat. Es hängt weder davon ab, wie weit du bist, noch davon, dass er vor dir liegt. Ein Charakter, der weiter ist als du, dieses Kapitel aber nicht beendet hat, erscheint dort nicht. Und einmal abgeschlossen geht es nie verloren: Er eskortiert dich weiter, auch nach einer Wiedergeburt oder einem Reincarnate.",
+      "it": "La condizione è quella e solo quella: che abbia finito quel capitolo. Non dipende da quanto sei avanti tu né dal fatto che lui sia più avanti. Un personaggio più avanzato di te ma che non ha finito quel capitolo non ti comparirà lì. E una volta finito non si perde: continua a scortarti anche se quel personaggio rinasce o fa un Reincarnate.",
+      "pt": "A condição é essa e só essa: que tenha esse capítulo terminado. Não depende de quão longe vais tu nem de ela ir à tua frente. Uma personagem mais adiantada do que tu mas que não tenha acabado esse capítulo não te vai aparecer ali. E uma vez terminado não se perde: continua a escoltar-te mesmo que essa personagem renasça ou faça um Reincarnate.",
+      "pt-BR": "A condição é essa e só essa: ter esse capítulo terminado. Não depende de quão longe você está nem de ele estar na sua frente. Um personagem mais adiantado que você, mas que não terminou esse capítulo, não vai aparecer ali. E uma vez terminado não se perde: ele continua escoltando você mesmo que renasça ou faça um Reincarnate.",
+      "ru": "Условие одно и только одно: он прошёл эту главу. Это не зависит ни от того, как далеко ты сам, ни от того, обгоняет ли он тебя. Персонаж, который ушёл дальше тебя, но не закончил эту главу, там не появится. А раз глава пройдена, это уже не потерять: он сопровождает тебя и после перерождения, и после Реинкарнации.",
+      "pl": "Warunek jest jeden jedyny: żeby miała ten rozdział ukończony. Nie zależy to od tego, jak daleko jesteś ty, ani od tego, czy ona jest przed tobą. Postać dalej zaawansowana niż ty, ale bez ukończonego tego rozdziału, nie pojawi się tam. A raz ukończonego nie da się stracić: eskortuje cię dalej, nawet gdy ta postać się odrodzi albo zrobi Reinkarnację.",
+      "zh-Hans": "条件只有这一个：他通关了那一章。这与你走到哪里无关，也与他是否比你更靠前无关。一个比你进度更远、却没有通关那一章的角色，不会出现在那里。而一旦通关就不会失去：即使那个角色重生或转生，他照样继续护送你。"
     },
     {
-      "es": "En un combate te cuesta el mismo tiempo que le costaría a la clase para la que esa ruta es fácil, recibes 0 de daño y sigues entrenando tu estadística de combate. En un obstáculo, lo pasas."
+      "es": "En un combate te cuesta el mismo tiempo que le costaría a la clase para la que esa ruta es fácil, recibes 0 de daño y sigues entrenando tu estadística de combate. En un obstáculo, lo pasas.",
+      "en": "In a fight it takes you the same time it would take the class that route is easy for, you take 0 damage and you keep training your combat stat. At an obstacle, you get past it.",
+      "fr": "Dans un combat, cela te prend le même temps qu'à la classe pour qui cette route est facile, tu reçois 0 dégât et tu continues d'entraîner ta statistique de combat. Devant un obstacle, tu passes.",
+      "de": "In einem Kampf brauchst du genauso lange wie die Klasse, für die dieser Weg leicht ist, du nimmst 0 Schaden und trainierst weiter deinen Kampfwert. An einem Hindernis kommst du vorbei.",
+      "it": "In un combattimento ci metti lo stesso tempo che ci metterebbe la classe per cui quel percorso è facile, ricevi 0 danni e continui ad allenare la tua statistica da combattimento. Davanti a un ostacolo, passi.",
+      "pt": "Num combate demoras o mesmo tempo que demoraria a classe para quem essa rota é fácil, recebes 0 de dano e continuas a treinar a tua estatística de combate. Num obstáculo, passas.",
+      "pt-BR": "Num combate você leva o mesmo tempo que levaria a classe para quem essa rota é fácil, recebe 0 de dano e continua treinando sua estatística de combate. Num obstáculo, você passa.",
+      "ru": "В бою ты тратишь столько же времени, сколько потратил бы класс, которому этот маршрут лёгок, получаешь 0 урона и продолжаешь тренировать свою боевую характеристику. Препятствие ты просто проходишь.",
+      "pl": "W walce zajmuje ci to tyle samo czasu, ile zajęłoby klasie, dla której ta trasa jest łatwa, dostajesz 0 obrażeń i dalej trenujesz swoją cechę bojową. Przeszkodę po prostu pokonujesz.",
+      "zh-Hans": "战斗中你花的时间和那条路线所对应的职业一样，受到 0 伤害，而且照样在练自己的战斗属性。遇到障碍，直接通过。"
     },
     {
-      "es": "Lo que ganas: llegas antes al templo, rezas y te quitas media maldición, y puedes entrar a la academia de tu clase, que está en tu ruta difícil, a entrenar combate sin recibir daño."
+      "es": "Lo que ganas: llegas antes al templo, rezas y te quitas media maldición, y puedes entrar a la academia de tu clase, que está en tu ruta difícil, a entrenar combate sin recibir daño.",
+      "en": "What you gain: you reach the temple sooner, you pray and cut the curse in half, and you can walk into your class academy, which sits on your hard route, to train combat without taking damage.",
+      "fr": "Ce que tu y gagnes : tu arrives plus tôt au temple, tu pries et tu réduis la malédiction de moitié, et tu peux entrer dans l'académie de ta classe, qui se trouve sur ta route difficile, pour entraîner le combat sans prendre de dégâts.",
+      "de": "Was du gewinnst: Du erreichst den Tempel früher, betest und halbierst den Fluch, und du kommst in die Akademie deiner Klasse, die auf deinem schweren Weg liegt, um dort ohne Schaden Kampf zu trainieren.",
+      "it": "Quello che ci guadagni: arrivi prima al tempio, preghi e ti togli metà maledizione, e puoi entrare nell'accademia della tua classe, che sta sul tuo percorso difficile, ad allenare il combattimento senza ricevere danni.",
+      "pt": "O que ganhas: chegas mais cedo ao templo, rezas e ficas com metade da maldição, e podes entrar na academia da tua classe, que está na tua rota difícil, para treinar combate sem levar dano.",
+      "pt-BR": "O que você ganha: chega mais cedo ao templo, reza e fica com metade da maldição, e pode entrar na academia da sua classe, que fica na sua rota difícil, para treinar combate sem levar dano.",
+      "ru": "Что ты получаешь: раньше добираешься до храма, молишься и снимаешь половину проклятия, а ещё можешь зайти в академию своего класса, которая стоит на твоём трудном маршруте, и тренировать бой без урона.",
+      "pl": "Co zyskujesz: szybciej docierasz do świątyni, modlisz się i zbijasz klątwę o połowę, a do tego możesz wejść do akademii swojej klasy, która leży na twojej trudnej trasie, i trenować walkę bez obrażeń.",
+      "zh-Hans": "你得到的好处：更早抵达神殿，祈祷后诅咒减半；还能进入位于困难路线上的本职学院，无伤训练战斗。"
     }
   ]
 }

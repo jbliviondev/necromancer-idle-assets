@@ -2,7 +2,7 @@
   "title": {
     "es": "¿Por qué usar otros personajes?",
     "en": "Why using other characters?",
-    "fr": "autres personnages ?\",\n  // Menú de Preguntas frecuentes: secciones y control de spoilers\n  ",
+    "fr": "Pourquoi utiliser d'autres personnages ?",
     "de": "Warum andere Charaktere nutzen?",
     "it": "Perché usare altri personaggi?",
     "pt": "Porquê usar outras personagens?",
@@ -13,23 +13,77 @@
   },
   "body": [
     {
-      "es": "Con un solo personaje se puede completar todo el contenido, el de ahora y el que venga. Los demás son opcionales y lo único que cuestan es tiempo."
+      "es": "Con un solo personaje se puede completar todo el contenido, el de ahora y el que venga. Los demás son opcionales y lo único que cuestan es tiempo.",
+      "en": "A single character can complete every bit of content, the current one and whatever comes next. The others are optional and the only thing they cost is time.",
+      "fr": "Un seul personnage peut terminer tout le contenu, celui d'aujourd'hui et celui à venir. Les autres sont optionnels et ne coûtent que du temps.",
+      "de": "Mit einem einzigen Charakter lässt sich der gesamte Inhalt abschließen, der heutige und der künftige. Die anderen sind optional und kosten nur Zeit.",
+      "it": "Con un solo personaggio si può completare tutto il contenuto, quello di adesso e quello che verrà. Gli altri sono opzionali e l'unica cosa che costano è tempo.",
+      "pt": "Com uma só personagem dá para completar todo o conteúdo, o de agora e o que vier. As outras são opcionais e a única coisa que custam é tempo.",
+      "pt-BR": "Com um só personagem dá para completar todo o conteúdo, o de agora e o que vier. Os outros são opcionais e a única coisa que custam é tempo.",
+      "ru": "Одним персонажем можно пройти весь контент, нынешний и будущий. Остальные необязательны, и стоят они только времени.",
+      "pl": "Jedną postacią da się ukończyć całą zawartość, obecną i tę, która dopiero powstanie. Reszta jest opcjonalna i kosztuje wyłącznie czas.",
+      "zh-Hans": "一个角色就能通关全部内容，现有的和以后新增的都一样。其他角色都是可选的，唯一的代价是时间。"
     },
     {
-      "es": "Se escoltan entre ellos: en cada capítulo que otro de tus personajes tenga terminado, aparece en la ruta fácil de su clase y te resuelve el combate sin daño y el obstáculo."
+      "es": "Se escoltan entre ellos: en cada capítulo que otro de tus personajes tenga terminado, aparece en la ruta fácil de su clase y te resuelve el combate sin daño y el obstáculo.",
+      "en": "They escort each other: in every chapter another of your characters has finished, they show up on the easy route of their class and solve the fight for you with no damage, and the obstacle too.",
+      "fr": "Ils s'escortent entre eux : dans chaque chapitre qu'un autre de tes personnages a terminé, il apparaît sur la route facile de sa classe et te règle le combat sans dégâts, ainsi que l'obstacle.",
+      "de": "Sie eskortieren einander: In jedem Kapitel, das ein anderer deiner Charaktere abgeschlossen hat, taucht er auf dem leichten Weg seiner Klasse auf und erledigt für dich den Kampf ohne Schaden und das Hindernis.",
+      "it": "Si scortano a vicenda: in ogni capitolo che un altro dei tuoi personaggi ha finito, compare sul percorso facile della sua classe e ti risolve il combattimento senza danni e anche l'ostacolo.",
+      "pt": "Escoltam-se entre si: em cada capítulo que outra das tuas personagens tenha terminado, ela aparece na rota fácil da sua classe e resolve-te o combate sem dano e o obstáculo.",
+      "pt-BR": "Eles se escoltam entre si: em cada capítulo que outro dos seus personagens tenha terminado, ele aparece na rota fácil da classe dele e resolve o combate sem dano e também o obstáculo.",
+      "ru": "Они сопровождают друг друга: в каждой главе, которую прошёл другой твой персонаж, он появляется на лёгком маршруте своего класса и решает за тебя бой без урона, а также препятствие.",
+      "pl": "Eskortują się nawzajem: w każdym rozdziale ukończonym przez inną twoją postać pojawia się ona na łatwej trasie swojej klasy i załatwia za ciebie walkę bez obrażeń oraz przeszkodę.",
+      "zh-Hans": "角色之间可以互相护送：你另一个角色已通关的每一章里，他都会出现在自己职业的简单路线上，替你无伤解决战斗，也帮你越过障碍。"
     },
     {
-      "es": "Los bonos de Reincarnate se cruzan. Por cada 2 niveles que compras de un bono en un personaje, los demás reciben +1 gratis de ese mismo bono, sin que a ellos les suba el precio. Repartir la subida sale mucho más barato que exprimir a uno solo."
+      "es": "Los bonos de Reincarnate se cruzan. Por cada 2 niveles que compras de un bono en un personaje, los demás reciben +1 gratis de ese mismo bono, sin que a ellos les suba el precio. Repartir la subida sale mucho más barato que exprimir a uno solo.",
+      "en": "Reincarnate bonuses carry across. For every 2 levels you buy of a bonus on one character, the others get +1 of that same bonus for free, without their own price going up. Spreading the levels out is far cheaper than squeezing a single character.",
+      "fr": "Les bonus de Reincarnate se croisent. Pour 2 niveaux d'un bonus achetés sur un personnage, les autres reçoivent +1 gratuit de ce même bonus, sans que leur prix augmente. Répartir la montée revient bien moins cher que de presser un seul personnage.",
+      "de": "Die Reincarnate-Boni übertragen sich. Für je 2 Stufen eines Bonus, die du bei einem Charakter kaufst, bekommen die anderen +1 desselben Bonus gratis, ohne dass ihr Preis steigt. Das Verteilen ist viel billiger, als einen einzigen auszuquetschen.",
+      "it": "I bonus di Reincarnate si incrociano. Ogni 2 livelli di un bonus che compri su un personaggio, gli altri ricevono +1 gratis dello stesso bonus, senza che a loro salga il prezzo. Distribuire la crescita costa molto meno che spremere un solo personaggio.",
+      "pt": "Os bónus de Reincarnate cruzam-se. Por cada 2 níveis que compras de um bónus numa personagem, as outras recebem +1 grátis desse mesmo bónus, sem que lhes suba o preço. Repartir a subida sai muito mais barato do que espremer uma só.",
+      "pt-BR": "Os bônus de Reincarnate se cruzam. A cada 2 níveis que você compra de um bônus em um personagem, os outros recebem +1 de graça desse mesmo bônus, sem que o preço deles suba. Espalhar a subida sai muito mais barato do que espremer um só.",
+      "ru": "Бонусы Реинкарнации перетекают между персонажами. За каждые 2 уровня бонуса, купленные одним персонажем, остальные бесплатно получают +1 к тому же бонусу, и цена у них не растёт. Распределять прокачку намного дешевле, чем выжимать одного.",
+      "pl": "Premie z Reinkarnacji przenoszą się między postaciami. Za każde 2 poziomy premii kupione u jednej postaci pozostałe dostają +1 tej samej premii za darmo, a ich cena nie rośnie. Rozłożenie rozwoju wychodzi dużo taniej niż wyciskanie jednej postaci.",
+      "zh-Hans": "转生加成会互相传递。你在一个角色身上每买 2 级某个加成，其他角色就免费获得该加成 +1，而且他们自己的价格不会上涨。把等级分散开，比死磕一个角色便宜得多。"
     },
     {
-      "es": "Y no hay que montar la automatización otra vez: puedes importar los presets de otro personaje y elegir por qué rutas quieres que vaya este."
+      "es": "Y no hay que montar la automatización otra vez: puedes importar los presets de otro personaje y elegir por qué rutas quieres que vaya este.",
+      "en": "And you don't have to set up the automation again: you can import another character's presets and pick which routes you want this one to take.",
+      "fr": "Et pas besoin de refaire l'automatisation : tu peux importer les presets d'un autre personnage et choisir par quelles routes tu veux que celui-ci passe.",
+      "de": "Und du musst die Automatisierung nicht neu aufbauen: Du kannst die Presets eines anderen Charakters importieren und auswählen, über welche Wege dieser hier gehen soll.",
+      "it": "E non devi rifare l'automazione: puoi importare i preset di un altro personaggio e scegliere per quali percorsi vuoi che vada questo.",
+      "pt": "E não é preciso montar a automatização outra vez: podes importar os presets de outra personagem e escolher por que rotas queres que esta vá.",
+      "pt-BR": "E não precisa montar a automação de novo: você pode importar os presets de outro personagem e escolher por quais rotas quer que este vá.",
+      "ru": "И заново настраивать автоматизацию не нужно: можно импортировать пресеты другого персонажа и выбрать, по каким маршрутам пойдёт этот.",
+      "pl": "I nie trzeba na nowo układać automatyzacji: możesz zaimportować ustawienia innej postaci i wybrać, którymi trasami ma iść ta.",
+      "zh-Hans": "而且不用重新配置自动化：你可以导入另一个角色的预设，再挑选这个角色要走哪些路线。"
     },
     {
-      "es": "Si tienes prisa por ver contenido nuevo, quédate con un personaje. Llega a todas partes."
+      "es": "Si tienes prisa por ver contenido nuevo, quédate con un personaje. Llega a todas partes.",
+      "en": "If you're in a hurry to see new content, stick to one character. It gets everywhere.",
+      "fr": "Si tu es pressé de voir du contenu neuf, reste sur un seul personnage. Il va partout.",
+      "de": "Wenn du es eilig hast, neue Inhalte zu sehen, bleib bei einem Charakter. Er kommt überall hin.",
+      "it": "Se hai fretta di vedere contenuti nuovi, resta con un personaggio solo. Arriva dappertutto.",
+      "pt": "Se tens pressa em ver conteúdo novo, fica só com uma personagem. Chega a todo o lado.",
+      "pt-BR": "Se você está com pressa de ver conteúdo novo, fique com um personagem só. Ele chega a todo lugar.",
+      "ru": "Если хочется поскорее увидеть новый контент, играй одним персонажем. Он доберётся везде.",
+      "pl": "Jeśli spieszy ci się do nowej zawartości, zostań przy jednej postaci. Dotrze wszędzie.",
+      "zh-Hans": "如果你急着看新内容，就专心练一个角色。他哪里都能到。"
     },
     {
       "spoiler": true,
-      "es": "Más adelante habrá muchos jefes únicos y salas opcionales que piden una skill, un objeto llave o un hechizo concretos, y las recompensas de esos jefes se recogen en academias que pueden caer en tu ruta difícil. Tener las tres clases subidas te deja llegar a cualquier sitio."
+      "es": "Más adelante habrá muchos jefes únicos y salas opcionales que piden una skill, un objeto llave o un hechizo concretos, y las recompensas de esos jefes se recogen en academias que pueden caer en tu ruta difícil. Tener las tres clases subidas te deja llegar a cualquier sitio.",
+      "en": "Later on there will be many unique bosses and optional rooms that ask for a specific skill, key item or spell, and the rewards from those bosses are collected in academies that may sit on your hard route. Having all three classes levelled lets you reach anywhere.",
+      "fr": "Plus tard, il y aura beaucoup de boss uniques et de salles optionnelles qui exigent une compétence, un objet clé ou un sort précis, et les récompenses de ces boss se récupèrent dans des académies qui peuvent tomber sur ta route difficile. Avoir les trois classes montées te permet d'aller partout.",
+      "de": "Später wird es viele einzigartige Bosse und optionale Räume geben, die eine bestimmte Fertigkeit, einen Schlüsselgegenstand oder einen Zauber verlangen, und die Belohnungen dieser Bosse holt man in Akademien ab, die auf deinem schweren Weg liegen können. Alle drei Klassen hochzuziehen bringt dich überallhin.",
+      "it": "Più avanti ci saranno molti boss unici e stanze opzionali che chiedono una abilità, un oggetto chiave o un incantesimo preciso, e le ricompense di quei boss si ritirano nelle accademie, che possono capitare sul tuo percorso difficile. Avere tutte e tre le classi cresciute ti permette di arrivare ovunque.",
+      "pt": "Mais à frente haverá muitos chefes únicos e salas opcionais que pedem uma habilidade, um objeto-chave ou um feitiço concretos, e as recompensas desses chefes recolhem-se em academias que podem calhar na tua rota difícil. Ter as três classes subidas deixa-te chegar a qualquer sítio.",
+      "pt-BR": "Mais para a frente haverá muitos chefes únicos e salas opcionais que pedem uma habilidade, um item-chave ou um feitiço específicos, e as recompensas desses chefes são retiradas em academias que podem cair na sua rota difícil. Ter as três classes subidas deixa você chegar a qualquer lugar.",
+      "ru": "Дальше будет много уникальных боссов и необязательных комнат, которые требуют конкретный навык, ключевой предмет или заклинание, а награды за этих боссов выдают в академиях, и те могут оказаться на твоём трудном маршруте. Прокачанные все три класса открывают дорогу куда угодно.",
+      "pl": "Później pojawi się wielu unikalnych bossów i opcjonalnych sal, które wymagają konkretnej umiejętności, kluczowego przedmiotu albo zaklęcia, a nagrody za tych bossów odbiera się w akademiach, które mogą wypaść na twojej trudnej trasie. Rozwinięte wszystkie trzy klasy pozwalają dotrzeć wszędzie.",
+      "zh-Hans": "以后会有很多唯一首领和可选房间，需要特定的技能、关键道具或法术，而这些首领的奖励要到学院去领，学院可能正好落在你的困难路线上。三个职业都练起来，就能去任何地方。"
     }
   ]
 }

@@ -13,38 +13,128 @@
   },
   "body": [
     {
-      "es": "Un jefe único se mata una sola vez por personaje. Cuando cae, su sala queda vacía o cerrada al paso, y no vuelve al renacer."
+      "es": "Un jefe único se mata una sola vez por personaje. Cuando cae, su sala queda vacía o cerrada al paso, y no vuelve al renacer.",
+      "en": "A unique boss is killed only once per character. When it falls, its room is left empty or closed off, and it does not come back on rebirth.",
+      "fr": "Un boss unique ne se tue qu'une seule fois par personnage. Quand il tombe, sa salle reste vide ou fermée au passage, et il ne revient pas à la renaissance.",
+      "de": "Ein einzigartiger Boss wird pro Charakter nur einmal getötet. Wenn er fällt, bleibt sein Raum leer oder versperrt, und bei der Wiedergeburt kommt er nicht zurück.",
+      "it": "Un boss unico si uccide una sola volta per personaggio. Quando cade, la sua stanza resta vuota o chiusa al passaggio, e non torna rinascendo.",
+      "pt": "Um chefe único mata-se uma só vez por personagem. Quando cai, a sua sala fica vazia ou fechada à passagem, e não volta ao renascer.",
+      "pt-BR": "Um chefe único é morto uma só vez por personagem. Quando cai, a sala dele fica vazia ou fechada à passagem, e ele não volta ao renascer.",
+      "ru": "Уникального босса убивают лишь один раз на персонажа. Когда он падает, его комната остаётся пустой или закрытой, и при перерождении он не возвращается.",
+      "pl": "Unikalnego bossa zabija się tylko raz na postać. Gdy padnie, jego sala zostaje pusta albo zamknięta, i nie wraca po odrodzeniu.",
+      "zh-Hans": "唯一首领每个角色只能击杀一次。它倒下之后，那个房间就空了或封闭起来，重生也不会让它回来。"
     },
     {
-      "es": "Al reencarnar hay un botón para devolverles la vida, pero sus recompensas se reinician con ellos: lo que te dieron la primera vez hay que ganárselo otra vez."
+      "es": "Al reencarnar hay un botón para devolverles la vida, pero sus recompensas se reinician con ellos: lo que te dieron la primera vez hay que ganárselo otra vez.",
+      "en": "When you reincarnate there is a button to bring them back to life, but their rewards reset along with them: whatever they gave you the first time has to be earned again.",
+      "fr": "Au Reincarnate, un bouton permet de leur rendre la vie, mais leurs récompenses se réinitialisent avec eux : ce qu'ils t'ont donné la première fois est à regagner.",
+      "de": "Beim Reincarnate gibt es eine Schaltfläche, um sie wiederzubeleben, aber ihre Belohnungen werden mit ihnen zurückgesetzt: Was sie dir beim ersten Mal gaben, musst du erneut verdienen.",
+      "it": "Reincarnandoti c'è un pulsante per riportarli in vita, ma le loro ricompense si azzerano insieme a loro: quello che ti hanno dato la prima volta va riguadagnato.",
+      "pt": "Ao reencarnar há um botão para lhes devolver a vida, mas as suas recompensas reiniciam-se com eles: o que te deram da primeira vez tem de ser ganho outra vez.",
+      "pt-BR": "Ao reencarnar há um botão para devolver a vida a eles, mas as recompensas reiniciam junto: o que deram na primeira vez tem de ser ganho de novo.",
+      "ru": "При Реинкарнации есть кнопка, которая возвращает их к жизни, но вместе с ними сбрасываются и их награды: всё, что они дали в первый раз, придётся заслужить снова.",
+      "pl": "Przy Reinkarnacji jest przycisk, który przywraca ich do życia, ale ich nagrody resetują się razem z nimi: to, co dali za pierwszym razem, trzeba zdobyć ponownie.",
+      "zh-Hans": "转生时有一个按钮可以让他们复活，但他们的奖励也会随之重置：第一次给你的东西，必须再赚一次。"
     },
     {
-      "es": "De momento solo hay uno en el juego. Todos los demás son contenido que está por llegar, y lo que viene a continuación es cómo van a funcionar ellos: el que ya existe no hace nada de esto."
+      "es": "De momento solo hay uno en el juego. Todos los demás son contenido que está por llegar, y lo que viene a continuación es cómo van a funcionar ellos: el que ya existe no hace nada de esto.",
+      "en": "For now there is only one in the game. All the others are content still to come, and what follows is how those will work: the one that already exists does none of this.",
+      "fr": "Pour l'instant, il n'y en a qu'un dans le jeu. Tous les autres sont du contenu à venir, et ce qui suit décrit leur fonctionnement futur : celui qui existe déjà ne fait rien de tout ça.",
+      "de": "Bislang gibt es nur einen im Spiel. Alle anderen sind noch kommende Inhalte, und das Folgende beschreibt, wie diese funktionieren werden: Der bereits vorhandene macht nichts davon.",
+      "it": "Per ora ce n'è uno solo nel gioco. Tutti gli altri sono contenuti che devono ancora arrivare, e quello che segue è come funzioneranno loro: quello che esiste già non fa niente di tutto questo.",
+      "pt": "Por agora só há um no jogo. Todos os outros são conteúdo que está para chegar, e o que vem a seguir é como eles vão funcionar: o que já existe não faz nada disto.",
+      "pt-BR": "Por enquanto só há um no jogo. Todos os outros são conteúdo que ainda está por vir, e o que vem a seguir é como eles vão funcionar: o que já existe não faz nada disso.",
+      "ru": "Пока в игре он только один. Все остальные - это контент, который ещё впереди, и дальше описано, как будут работать именно они: тот, что уже есть, ничего из этого не делает.",
+      "pl": "Na razie w grze jest tylko jeden. Wszyscy pozostali to zawartość, która dopiero nadejdzie, a poniżej opisano, jak będą działać oni: ten, który już istnieje, nie robi nic z tych rzeczy.",
+      "zh-Hans": "目前游戏里只有一个。其余的都是尚未推出的内容，下面写的是它们将来的运作方式：现在已经存在的那一个并不具备这些。"
     },
     {
-      "es": "Para llegar a muchos de ellos habrá que superar antes un obstáculo, y para eso hará falta un objeto llave, una skill o un hechizo concretos."
+      "es": "Para llegar a muchos de ellos habrá que superar antes un obstáculo, y para eso hará falta un objeto llave, una skill o un hechizo concretos.",
+      "en": "Reaching many of them will require getting past an obstacle first, and that will call for a specific key item, skill or spell.",
+      "fr": "Pour en atteindre beaucoup, il faudra d'abord franchir un obstacle, et pour cela un objet clé, une compétence ou un sort précis.",
+      "de": "Zu vielen von ihnen wird man erst ein Hindernis überwinden müssen, und dafür braucht es einen bestimmten Schlüsselgegenstand, eine Fertigkeit oder einen Zauber.",
+      "it": "Per arrivare a molti di loro bisognerà prima superare un ostacolo, e per farlo servirà un oggetto chiave, un'abilità o un incantesimo preciso.",
+      "pt": "Para chegar a muitos deles será preciso superar antes um obstáculo, e para isso fará falta um objeto-chave, uma habilidade ou um feitiço concretos.",
+      "pt-BR": "Para chegar a muitos deles será preciso superar antes um obstáculo, e para isso vai fazer falta um item-chave, uma habilidade ou um feitiço específicos.",
+      "ru": "Чтобы добраться до многих из них, сначала придётся преодолеть препятствие, а для этого понадобится конкретный ключевой предмет, навык или заклинание.",
+      "pl": "Do wielu z nich trzeba będzie najpierw pokonać przeszkodę, a do tego potrzebny będzie konkretny kluczowy przedmiot, umiejętność albo zaklęcie.",
+      "zh-Hans": "要接近他们当中的许多，得先越过一道障碍，而这需要特定的关键道具、技能或法术。"
     },
     {
-      "es": "Sus recompensas no aparecerán donde cae el jefe. Serán materiales que recolectan miembros de una academia y que te entregan al superar su prueba, y con ellos se craftearán objetos: unos darán bonificadores permanentes y otros serán obligatorios para vencer a otros jefes únicos."
+      "es": "Sus recompensas no aparecerán donde cae el jefe. Serán materiales que recolectan miembros de una academia y que te entregan al superar su prueba, y con ellos se craftearán objetos: unos darán bonificadores permanentes y otros serán obligatorios para vencer a otros jefes únicos.",
+      "en": "Their rewards will not appear where the boss falls. They will be materials gathered by members of an academy and handed to you when you pass its trial, and with them you will craft items: some will give permanent bonuses and others will be required to defeat other unique bosses.",
+      "fr": "Leurs récompenses n'apparaîtront pas là où le boss tombe. Ce seront des matériaux récoltés par des membres d'une académie et remis quand tu réussis son épreuve, et avec eux on fabriquera des objets : certains donneront des bonus permanents, d'autres seront obligatoires pour vaincre d'autres boss uniques.",
+      "de": "Ihre Belohnungen erscheinen nicht dort, wo der Boss fällt. Es werden Materialien sein, die Mitglieder einer Akademie sammeln und dir aushändigen, wenn du ihre Prüfung bestehst, und daraus fertigt man Gegenstände: Manche geben dauerhafte Boni, andere sind Pflicht, um weitere einzigartige Bosse zu besiegen.",
+      "it": "Le loro ricompense non compariranno dove cade il boss. Saranno materiali che raccolgono i membri di un'accademia e che ti consegnano superando la sua prova, e con quelli si crafteranno oggetti: alcuni daranno bonus permanenti e altri saranno obbligatori per battere altri boss unici.",
+      "pt": "As suas recompensas não aparecerão onde o chefe cai. Serão materiais que membros de uma academia recolhem e que te entregam ao superares a sua prova, e com eles far-se-ão objetos: uns darão bónus permanentes e outros serão obrigatórios para vencer outros chefes únicos.",
+      "pt-BR": "As recompensas deles não vão aparecer onde o chefe cai. Serão materiais que membros de uma academia coletam e entregam a você ao superar a prova dela, e com eles serão criados itens: uns darão bônus permanentes e outros serão obrigatórios para vencer outros chefes únicos.",
+      "ru": "Их награды не появятся там, где пал босс. Это будут материалы, которые собирают члены академии и вручают тебе после прохождения её испытания, а из них будут создаваться предметы: одни дадут постоянные бонусы, другие окажутся обязательными для победы над другими уникальными боссами.",
+      "pl": "Ich nagrody nie pojawią się tam, gdzie padnie boss. Będą to materiały zbierane przez członków akademii i wręczane po zaliczeniu jej próby, a z nich będzie się wytwarzać przedmioty: jedne dadzą stałe premie, inne będą obowiązkowe do pokonania kolejnych unikalnych bossów.",
+      "zh-Hans": "他们的奖励不会出现在首领倒下的地方。那将是由学院成员采集、并在你通过其试炼时交给你的材料，用它们可以打造物品：有些提供永久加成，有些则是击败其他唯一首领的必需品。"
     },
     {
-      "es": "Casi nunca será obligatorio matarlos, pero abrirán objetos que aceleran mucho. Siempre se podrá salir adelante grindeando lo suficiente."
+      "es": "Casi nunca será obligatorio matarlos, pero abrirán objetos que aceleran mucho. Siempre se podrá salir adelante grindeando lo suficiente.",
+      "en": "Killing them will almost never be mandatory, but they will unlock items that speed things up a lot. It will always be possible to get through by grinding enough.",
+      "fr": "Les tuer ne sera presque jamais obligatoire, mais ils débloqueront des objets qui accélèrent beaucoup. On pourra toujours s'en sortir en grindant suffisamment.",
+      "de": "Sie zu töten wird fast nie Pflicht sein, aber sie schalten Gegenstände frei, die enorm beschleunigen. Mit genug Grinden kommt man immer durch.",
+      "it": "Ucciderli non sarà quasi mai obbligatorio, ma sbloccheranno oggetti che accelerano parecchio. Si potrà sempre andare avanti grindando abbastanza.",
+      "pt": "Quase nunca será obrigatório matá-los, mas abrirão objetos que aceleram muito. Será sempre possível seguir em frente com grind suficiente.",
+      "pt-BR": "Quase nunca vai ser obrigatório matá-los, mas eles vão liberar itens que aceleram muito. Sempre vai dar para seguir em frente com grind suficiente.",
+      "ru": "Убивать их почти никогда не будет обязательным, но они откроют предметы, которые сильно ускоряют игру. Пройти дальше всегда можно, если достаточно погриндить.",
+      "pl": "Zabijanie ich prawie nigdy nie będzie obowiązkowe, ale odblokują przedmioty, które mocno przyspieszają grę. Zawsze da się przejść dalej, wystarczająco grindując.",
+      "zh-Hans": "击杀他们几乎从来不是强制的，但他们会解锁大幅加速的物品。只要肯刷，总能撑过去。"
     },
     {
       "spoiler": true,
-      "es": "EL KRAKEN MENOR es ese único que hay ahora, en el capítulo 2, en la bodega del barco naufragado de La Costa. No reparte materiales ni pasa por ninguna academia: lo suyo es lo que cambia en el capítulo al matarlo. Está puesto para ser un muro: no lo mates la primera vez que pases, vuelve cuando seas fuerte. Puedes abandonar el combate cuando quieras sin ninguna penalización."
+      "es": "EL KRAKEN MENOR es ese único que hay ahora, en el capítulo 2, en la bodega del barco naufragado de La Costa. No reparte materiales ni pasa por ninguna academia: lo suyo es lo que cambia en el capítulo al matarlo. Está puesto para ser un muro: no lo mates la primera vez que pases, vuelve cuando seas fuerte. Puedes abandonar el combate cuando quieras sin ninguna penalización.",
+      "en": "THE LESSER KRAKEN is that only one there is right now, in chapter 2, in the hold of the wrecked ship at The Coast. It hands out no materials and goes through no academy: its thing is what changes in the chapter once you kill it. It is placed there to be a wall: don't kill it the first time you pass by, come back when you are strong. You can leave the fight whenever you want with no penalty at all.",
+      "fr": "LE KRAKEN MINEUR est le seul qui existe pour l'instant, au chapitre 2, dans la cale du navire échoué de La Côte. Il ne distribue pas de matériaux et ne passe par aucune académie : son intérêt, c'est ce qui change dans le chapitre une fois qu'on le tue. Il est là pour faire mur : ne le tue pas la première fois que tu passes, reviens quand tu seras fort. Tu peux quitter le combat quand tu veux, sans la moindre pénalité.",
+      "de": "DER KLEINE KRAKEN ist der einzige, den es derzeit gibt, in Kapitel 2, im Laderaum des gestrandeten Schiffs an Der Küste. Er gibt keine Materialien und läuft über keine Akademie: Sein Reiz ist, was sich im Kapitel ändert, wenn du ihn tötest. Er steht dort als Mauer: Töte ihn nicht beim ersten Vorbeikommen, komm wieder, wenn du stark bist. Du kannst den Kampf jederzeit ohne jede Strafe verlassen.",
+      "it": "IL KRAKEN MINORE è quell'unico che c'è adesso, nel capitolo 2, nella stiva della nave naufragata de La Costa. Non distribuisce materiali e non passa per nessuna accademia: il suo bello è quello che cambia nel capitolo quando lo uccidi. È messo lì per fare da muro: non ucciderlo la prima volta che passi, torna quando sei forte. Puoi abbandonare il combattimento quando vuoi senza nessuna penalità.",
+      "pt": "O KRAKEN MENOR é esse único que há agora, no capítulo 2, no porão do navio naufragado d'A Costa. Não reparte materiais nem passa por nenhuma academia: o dele é o que muda no capítulo ao matá-lo. Está posto ali para ser um muro: não o mates na primeira vez que passares, volta quando fores forte. Podes abandonar o combate quando quiseres sem qualquer penalização.",
+      "pt-BR": "O KRAKEN MENOR é esse único que existe agora, no capítulo 2, no porão do navio naufragado da Costa. Não distribui materiais nem passa por nenhuma academia: o dele é o que muda no capítulo ao matá-lo. Ele está ali para ser um muro: não o mate na primeira vez que passar, volte quando estiver forte. Você pode abandonar o combate quando quiser, sem penalidade nenhuma.",
+      "ru": "МАЛЫЙ КРАКЕН - тот самый единственный, что есть сейчас: во второй главе, в трюме затонувшего корабля на Побережье. Он не выдаёт материалов и не связан ни с одной академией: его смысл в том, что меняется в главе после его убийства. Он поставлен там стеной: не убивай его в первый же проход, вернись, когда станешь сильным. Выйти из боя можно в любой момент и без всякого штрафа.",
+      "pl": "MNIEJSZY KRAKEN to ten jedyny, który istnieje teraz, w rozdziale 2, w ładowni rozbitego statku na Wybrzeżu. Nie rozdaje materiałów ani nie przechodzi przez żadną akademię: jego sens tkwi w tym, co zmienia się w rozdziale po jego zabiciu. Postawiono go tam jako mur: nie zabijaj go za pierwszym przejściem, wróć, gdy będziesz silny. Walkę możesz porzucić, kiedy zechcesz, bez żadnej kary.",
+      "zh-Hans": "小海妖就是现在唯一存在的那一个，位于第 2 章，海岸沉船的船舱里。它不给材料，也不经过任何学院：它的意义在于击杀之后本章会发生的变化。它被放在那里是作为一堵墙：第一次路过时别杀它，等你强了再回来。你随时可以脱离战斗，没有任何惩罚。"
     },
     {
       "spoiler": true,
-      "es": "El brazalete de protección, que deja la maldición a la mitad, se consigue normalmente auxiliando diez veces a los supervivientes del naufragio. Si matas al Kraken, a partir de la vida siguiente el barco ya no naufraga y el capitán te entrega el brazalete con solo hablar con él, así que cada vida tienes media maldición muchísimo antes."
+      "es": "El brazalete de protección, que deja la maldición a la mitad, se consigue normalmente auxiliando diez veces a los supervivientes del naufragio. Si matas al Kraken, a partir de la vida siguiente el barco ya no naufraga y el capitán te entrega el brazalete con solo hablar con él, así que cada vida tienes media maldición muchísimo antes.",
+      "en": "The bracer of protection, which halves the curse, is normally obtained by aiding the shipwreck survivors ten times. If you kill the Kraken, from the next life onwards the ship no longer wrecks and the captain hands you the bracer just for talking to him, so every life you get the halved curse far sooner.",
+      "fr": "Le bracelet de protection, qui réduit la malédiction de moitié, s'obtient normalement en secourant dix fois les rescapés du naufrage. Si tu tues le Kraken, dès la vie suivante le navire ne fait plus naufrage et le capitaine te remet le bracelet rien qu'en lui parlant : chaque vie, tu as donc la demi-malédiction bien plus tôt.",
+      "de": "Den Schutzarmreif, der den Fluch halbiert, bekommt man normalerweise, indem man den Schiffbrüchigen zehnmal hilft. Tötest du den Kraken, strandet das Schiff ab dem nächsten Leben nicht mehr, und der Kapitän übergibt dir den Armreif allein fürs Ansprechen, du hast also in jedem Leben viel früher den halben Fluch.",
+      "it": "Il bracciale di protezione, che dimezza la maledizione, si ottiene di norma soccorrendo dieci volte i naufraghi. Se uccidi il Kraken, dalla vita successiva la nave non naufraga più e il capitano ti consegna il bracciale solo parlandoci, così ogni vita hai mezza maledizione molto prima.",
+      "pt": "A braçadeira de proteção, que deixa a maldição a metade, consegue-se normalmente auxiliando dez vezes os sobreviventes do naufrágio. Se matares o Kraken, a partir da vida seguinte o navio já não naufraga e o capitão entrega-te a braçadeira só por falares com ele, portanto em cada vida tens meia maldição muito mais cedo.",
+      "pt-BR": "A braçadeira de proteção, que deixa a maldição pela metade, normalmente se consegue socorrendo dez vezes os sobreviventes do naufrágio. Se você matar o Kraken, a partir da vida seguinte o navio já não naufraga e o capitão entrega a braçadeira só de falar com ele, então em cada vida você tem meia maldição muito mais cedo.",
+      "ru": "Наруч защиты, который вдвое ослабляет проклятие, обычно получают, десять раз помогая выжившим после кораблекрушения. Если убить Кракена, со следующей жизни корабль больше не терпит крушение, и капитан отдаёт наруч просто за разговор, так что каждую жизнь половинное проклятие у тебя намного раньше.",
+      "pl": "Naramiennik ochrony, który zbija klątwę o połowę, zdobywa się zwykle, pomagając dziesięć razy rozbitkom. Jeśli zabijesz Krakena, od następnego życia statek już się nie rozbija, a kapitan wręcza ci naramiennik na samą rozmowę, więc w każdym życiu masz połowiczną klątwę o wiele wcześniej.",
+      "zh-Hans": "让诅咒减半的护腕，通常要靠救助船难幸存者十次才能拿到。如果你杀了海妖，从下一条命起船就不再失事，船长只要和你说句话就把护腕交给你，于是你每条命都能早得多地享受减半的诅咒。"
     },
     {
       "spoiler": true,
-      "es": "Lo que pierdes es el entrenamiento de Primeros Auxilios que daban los supervivientes, y la quest del orfanato pasa a ser lentísima. O te la saltas, que paga poco, o la dejas para cuando llegues ahí con la maldición todavía muy floja."
+      "es": "Lo que pierdes es el entrenamiento de Primeros Auxilios que daban los supervivientes, y la quest del orfanato pasa a ser lentísima. O te la saltas, que paga poco, o la dejas para cuando llegues ahí con la maldición todavía muy floja.",
+      "en": "What you lose is the First Aid training the survivors gave, and the orphanage quest becomes painfully slow. Either you skip it, since it pays little, or you save it for when you get there with the curse still very weak.",
+      "fr": "Ce que tu perds, c'est l'entraînement de Premiers Secours que donnaient les rescapés, et la quête de l'orphelinat devient très lente. Soit tu la sautes, elle paie peu, soit tu la gardes pour quand tu arrives là-bas avec une malédiction encore très faible.",
+      "de": "Was du verlierst, ist das Erste-Hilfe-Training der Schiffbrüchigen, und die Waisenhaus-Quest wird extrem langsam. Entweder du lässt sie aus, sie zahlt ohnehin wenig, oder du hebst sie dir für den Moment auf, in dem du mit noch sehr schwachem Fluch dort ankommst.",
+      "it": "Quello che perdi è l'allenamento di Primo Soccorso che davano i naufraghi, e la quest dell'orfanotrofio diventa lentissima. O la salti, che paga poco, o la lasci per quando ci arrivi con la maledizione ancora molto debole.",
+      "pt": "O que perdes é o treino de Primeiros Socorros que davam os sobreviventes, e a quest do orfanato passa a ser lentíssima. Ou a saltas, que paga pouco, ou a deixas para quando lá chegares com a maldição ainda muito fraca.",
+      "pt-BR": "O que você perde é o treino de Primeiros Socorros que os sobreviventes davam, e a quest do orfanato passa a ser lentíssima. Ou você pula, já que paga pouco, ou deixa para quando chegar lá com a maldição ainda bem fraca.",
+      "ru": "Теряешь ты тренировку Первой помощи, которую давали выжившие, а квест приюта становится невыносимо медленным. Или пропускай его, платит он мало, или оставь на тот момент, когда доберёшься туда с ещё очень слабым проклятием.",
+      "pl": "Tracisz trening Pierwszej pomocy, który dawali rozbitkowie, a zadanie sierocińca staje się koszmarnie wolne. Albo je pomijasz, bo mało płaci, albo zostawiasz na moment, gdy dotrzesz tam z wciąż bardzo słabą klątwą.",
+      "zh-Hans": "你失去的是幸存者提供的急救训练，而孤儿院的任务会变得极慢。要么跳过它，反正报酬不高；要么留到你带着仍然很弱的诅咒抵达那里时再做。"
     },
     {
       "spoiler": true,
-      "es": "Y hay una tercera vía: no matarlo nunca. Dejar el combate cargado al 99% cada vida lo convierte en un saco de entrenamiento que te sube estadística de combate y Vida máxima. Te quedas sin el brazalete temprano, pero a partir del capítulo 4 subes mucho más rápido."
+      "es": "Y hay una tercera vía: no matarlo nunca. Dejar el combate cargado al 99% cada vida lo convierte en un saco de entrenamiento que te sube estadística de combate y Vida máxima. Te quedas sin el brazalete temprano, pero a partir del capítulo 4 subes mucho más rápido.",
+      "en": "And there is a third path: never killing it. Leaving the fight loaded at 99% every life turns it into a training dummy that raises your combat stat and maximum Life. You give up the early bracer, but from chapter 4 onwards you climb much faster.",
+      "fr": "Et il y a une troisième voie : ne jamais le tuer. Laisser le combat chargé à 99 % à chaque vie en fait un sac d'entraînement qui monte ta statistique de combat et ta Vie maximale. Tu renonces au bracelet précoce, mais à partir du chapitre 4 tu montes bien plus vite.",
+      "de": "Und es gibt einen dritten Weg: ihn nie zu töten. Den Kampf in jedem Leben auf 99 % geladen stehen zu lassen, macht ihn zum Trainingssack, der deinen Kampfwert und dein maximales Leben steigert. Auf den frühen Armreif verzichtest du, aber ab Kapitel 4 steigst du viel schneller.",
+      "it": "E c'è una terza via: non ucciderlo mai. Lasciare il combattimento carico al 99% ogni vita lo trasforma in un sacco da allenamento che ti alza la statistica da combattimento e la Vita massima. Rinunci al bracciale presto, ma dal capitolo 4 in poi sali molto più in fretta.",
+      "pt": "E há uma terceira via: nunca o matar. Deixar o combate carregado a 99% em cada vida transforma-o num saco de treino que te sobe a estatística de combate e a Vida máxima. Ficas sem a braçadeira cedo, mas a partir do capítulo 4 sobes muito mais depressa.",
+      "pt-BR": "E há um terceiro caminho: nunca matá-lo. Deixar o combate carregado a 99% em cada vida o transforma num saco de treino que sobe sua estatística de combate e a Vida máxima. Você fica sem a braçadeira cedo, mas a partir do capítulo 4 sobe muito mais rápido.",
+      "ru": "И есть третий путь: не убивать его вовсе. Если каждую жизнь оставлять бой заряженным на 99%, он превращается в тренировочный мешок, который поднимает твою боевую характеристику и максимальную Жизнь. От раннего наруча ты отказываешься, зато с четвёртой главы растёшь гораздо быстрее.",
+      "pl": "I jest trzecia droga: nigdy go nie zabijać. Zostawianie walki naładowanej na 99% w każdym życiu zmienia go w worek treningowy, który podnosi twoją cechę bojową i maksymalne Życie. Rezygnujesz z wczesnego naramiennika, ale od rozdziału 4 rośniesz dużo szybciej.",
+      "zh-Hans": "还有第三条路：永远不杀它。每条命都把战斗停在 99%，它就成了一个训练沙袋，帮你提升战斗属性和生命上限。你会失去早早到手的护腕，但从第 4 章起成长快得多。"
     }
   ]
 }

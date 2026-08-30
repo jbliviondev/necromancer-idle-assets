@@ -13,31 +13,112 @@
   },
   "body": [
     {
-      "es": "LA MALDICIÓN. Tu vida baja sola, siempre. Empieza quitándote medio punto por segundo y crece un 25% por cada minuto que llevas vivo, de forma exponencial. Por eso las vidas son cortas y por eso correr importa."
+      "es": "LA MALDICIÓN. Tu vida baja sola, siempre. Empieza quitándote medio punto por segundo y crece un 25% por cada minuto que llevas vivo, de forma exponencial. Por eso las vidas son cortas y por eso correr importa.",
+      "en": "THE CURSE. Your life drops on its own, always. It starts by taking half a point per second and grows 25% for every minute you have been alive, exponentially. That is why lives are short and why hurrying matters.",
+      "fr": "LA MALÉDICTION. Ta vie baisse toute seule, toujours. Elle commence par te retirer un demi-point par seconde et croît de 25 % par minute de vie écoulée, de façon exponentielle. C'est pour ça que les vies sont courtes et que se dépêcher compte.",
+      "de": "DER FLUCH. Dein Leben sinkt von allein, immer. Er beginnt mit einem halben Punkt pro Sekunde und wächst exponentiell um 25 % für jede Minute, die du am Leben bist. Deshalb sind die Leben kurz und deshalb zählt Tempo.",
+      "it": "LA MALEDIZIONE. La tua vita cala da sola, sempre. Comincia togliendoti mezzo punto al secondo e cresce del 25% per ogni minuto che sei vivo, in modo esponenziale. Per questo le vite sono corte e per questo correre conta.",
+      "pt": "A MALDIÇÃO. A tua vida desce sozinha, sempre. Começa por te tirar meio ponto por segundo e cresce 25% por cada minuto que levas vivo, de forma exponencial. Por isso as vidas são curtas e por isso correr conta.",
+      "pt-BR": "A MALDIÇÃO. Sua vida cai sozinha, sempre. Começa tirando meio ponto por segundo e cresce 25% a cada minuto que você está vivo, de forma exponencial. É por isso que as vidas são curtas e por isso correr importa.",
+      "ru": "ПРОКЛЯТИЕ. Твоя жизнь убывает сама, всегда. Начинается с половины очка в секунду и растёт на 25% за каждую прожитую минуту, экспоненциально. Поэтому жизни короткие и поэтому спешка имеет смысл.",
+      "pl": "KLĄTWA. Twoje życie spada samo, zawsze. Zaczyna od pół punktu na sekundę i rośnie o 25% za każdą przeżytą minutę, wykładniczo. Dlatego życia są krótkie i dlatego pośpiech ma znaczenie.",
+      "zh-Hans": "诅咒。你的生命会自己下降，一直如此。起初每秒扣半点，并按你存活的每一分钟以指数方式增长 25%。所以每条命都很短，所以抓紧时间很重要。"
     },
     {
-      "es": "Hay dos formas de aflojarla: rezar en el templo del capítulo, que la deja a la mitad el resto de esa vida, y los accesorios de protección. Las dos se pierden al morir."
+      "es": "Hay dos formas de aflojarla: rezar en el templo del capítulo, que la deja a la mitad el resto de esa vida, y los accesorios de protección. Las dos se pierden al morir.",
+      "en": "There are two ways to loosen it: praying at the chapter's temple, which halves it for the rest of that life, and protection accessories. Both are lost on death.",
+      "fr": "Il y a deux façons de la desserrer : prier au temple du chapitre, ce qui la réduit de moitié pour le reste de cette vie, et les accessoires de protection. Les deux se perdent à la mort.",
+      "de": "Es gibt zwei Wege, ihn zu lockern: im Tempel des Kapitels beten, was ihn für den Rest dieses Lebens halbiert, und Schutzaccessoires. Beides geht beim Tod verloren.",
+      "it": "Ci sono due modi per allentarla: pregare nel tempio del capitolo, che la dimezza per il resto di quella vita, e gli accessori di protezione. Entrambi si perdono morendo.",
+      "pt": "Há duas formas de a afrouxar: rezar no templo do capítulo, que a deixa a metade o resto dessa vida, e os acessórios de proteção. Ambas se perdem ao morrer.",
+      "pt-BR": "Há duas formas de afrouxá-la: rezar no templo do capítulo, o que a deixa pela metade no resto daquela vida, e os acessórios de proteção. As duas se perdem ao morrer.",
+      "ru": "Ослабить его можно двумя способами: помолиться в храме главы, что делит его пополам до конца этой жизни, и защитные аксессуары. И то и другое теряется со смертью.",
+      "pl": "Są dwa sposoby, żeby ją poluzować: modlitwa w świątyni rozdziału, która zbija ją o połowę do końca tego życia, oraz akcesoria ochronne. Jedno i drugie przepada po śmierci.",
+      "zh-Hans": "有两种办法削弱它：在本章的神殿祈祷，这会让它在这条命剩下的时间里减半；以及防护饰品。两者都会在死亡时失去。"
     },
     {
-      "es": "COMER. Los consumibles se comen solos. Solo come si la curación entera te cabe, así que no se desperdicia nada, cura repartido en unos segundos y guarda para el final el que más cura."
+      "es": "COMER. Los consumibles se comen solos. Solo come si la curación entera te cabe, así que no se desperdicia nada, cura repartido en unos segundos y guarda para el final el que más cura.",
+      "en": "EATING. Consumables are eaten automatically. Your character only eats if the whole heal fits, so nothing is wasted, the healing is spread over a few seconds and the item that heals most is saved for last.",
+      "fr": "MANGER. Les consommables se mangent tout seuls. Le personnage ne mange que si tout le soin rentre, donc rien n'est gaspillé, le soin s'étale sur quelques secondes et celui qui soigne le plus est gardé pour la fin.",
+      "de": "ESSEN. Verbrauchsgegenstände werden von allein gegessen. Es wird nur gegessen, wenn die gesamte Heilung hineinpasst, es geht also nichts verloren, die Heilung verteilt sich über einige Sekunden, und das Stück mit der stärksten Heilung wird für den Schluss aufgehoben.",
+      "it": "MANGIARE. I consumabili si mangiano da soli. Mangia solo se la cura ci sta tutta, quindi non si spreca niente, cura distribuito in qualche secondo e tiene per ultimo quello che cura di più.",
+      "pt": "COMER. Os consumíveis comem-se sozinhos. Só come se a cura inteira couber, por isso não se desperdiça nada, cura repartido em alguns segundos e guarda para o fim o que mais cura.",
+      "pt-BR": "COMER. Os consumíveis são comidos sozinhos. Só come se a cura inteira couber, então nada é desperdiçado, cura distribuído em alguns segundos e guarda para o fim o que mais cura.",
+      "ru": "ЕДА. Расходники съедаются сами. Персонаж ест, только если всё лечение поместится, так что ничего не пропадает, лечение растягивается на несколько секунд, а то, что лечит сильнее всего, приберегается напоследок.",
+      "pl": "JEDZENIE. Konsumpcyjne zjadają się same. Postać je tylko wtedy, gdy całe leczenie się zmieści, więc nic się nie marnuje, leczenie rozkłada się na kilka sekund, a to, co leczy najmocniej, zostaje na koniec.",
+      "zh-Hans": "进食。消耗品会自动食用。只有当整份治疗都能吃满时才会吃，所以不会浪费；治疗在几秒内分次生效，而回复最多的那份会留到最后。"
     },
     {
-      "es": "SANAR es una acción no vinculada a ninguna estadística, que te cura un 3% por segundo hasta que llegues al 100% de vida. Está en el templo de cada capítulo y solo funciona si antes has rezado allí durante esta vida."
+      "es": "SANAR es una acción no vinculada a ninguna estadística, que te cura un 3% por segundo hasta que llegues al 100% de vida. Está en el templo de cada capítulo y solo funciona si antes has rezado allí durante esta vida.",
+      "en": "HEAL is an action tied to no stat, which heals you 3% per second until you reach 100% life. It is in every chapter's temple and only works if you have prayed there during this life.",
+      "fr": "SE SOIGNER est une action liée à aucune statistique, qui te soigne de 3 % par seconde jusqu'à 100 % de vie. Elle se trouve au temple de chaque chapitre et ne fonctionne que si tu y as prié pendant cette vie.",
+      "de": "HEILEN ist eine Aktion, die an keinen Wert gebunden ist und dich um 3 % pro Sekunde heilt, bis du bei 100 % Leben bist. Sie steht im Tempel jedes Kapitels und funktioniert nur, wenn du dort in diesem Leben gebetet hast.",
+      "it": "CURARSI è un'azione non legata a nessuna statistica, che ti cura il 3% al secondo finché non arrivi al 100% di vita. Sta nel tempio di ogni capitolo e funziona solo se prima hai pregato lì durante questa vita.",
+      "pt": "CURAR-SE é uma ação não ligada a nenhuma estatística, que te cura 3% por segundo até chegares a 100% de vida. Está no templo de cada capítulo e só funciona se antes tiveres rezado ali durante esta vida.",
+      "pt-BR": "CURAR-SE é uma ação não ligada a nenhuma estatística, que cura 3% por segundo até você chegar a 100% de vida. Está no templo de cada capítulo e só funciona se antes você tiver rezado ali durante esta vida.",
+      "ru": "ИСЦЕЛИТЬСЯ - действие, не привязанное ни к одной характеристике: лечит на 3% в секунду, пока не дойдёшь до 100% жизни. Оно есть в храме каждой главы и работает, только если ты помолился там в этой жизни.",
+      "pl": "LECZ to akcja niezwiązana z żadną cechą, która leczy 3% na sekundę, aż dojdziesz do 100% życia. Jest w świątyni każdego rozdziału i działa tylko wtedy, gdy wcześniej pomodliłeś się tam w tym życiu.",
+      "zh-Hans": "治疗是一个不依赖任何属性的动作，每秒回复 3%，直到生命回到 100%。它位于每一章的神殿，且只有你在这条命里先在那里祈祷过才有效。"
     },
     {
-      "es": "PEDIR AYUDA AL DIOS del capítulo, en la sala del jefe, te cura al 100% de golpe. Sirve en mitad del combate contra el jefe, y es una sola vez por vida."
+      "es": "PEDIR AYUDA AL DIOS del capítulo, en la sala del jefe, te cura al 100% de golpe. Sirve en mitad del combate contra el jefe, y es una sola vez por vida.",
+      "en": "ASKING THE GOD of the chapter for help, in the boss room, heals you to 100% at once. It works in the middle of the boss fight, and it is once per life only.",
+      "fr": "DEMANDER DE L'AIDE AU DIEU du chapitre, dans la salle du boss, te soigne à 100 % d'un coup. Ça marche en plein combat contre le boss, et c'est une seule fois par vie.",
+      "de": "DEN GOTT des Kapitels im Bossraum UM HILFE ZU BITTEN heilt dich auf einen Schlag auf 100 %. Das geht mitten im Bosskampf und nur einmal pro Leben.",
+      "it": "CHIEDERE AIUTO AL DIO del capitolo, nella stanza del boss, ti cura al 100% in un colpo solo. Funziona in mezzo al combattimento contro il boss, ed è una volta sola per vita.",
+      "pt": "PEDIR AJUDA AO DEUS do capítulo, na sala do chefe, cura-te a 100% de uma vez. Serve a meio do combate contra o chefe, e é uma só vez por vida.",
+      "pt-BR": "PEDIR AJUDA AO DEUS do capítulo, na sala do chefe, cura você a 100% de uma vez. Serve no meio do combate contra o chefe, e é uma única vez por vida.",
+      "ru": "ПОПРОСИТЬ ПОМОЩИ У БОГА главы, в комнате босса, разом лечит тебя до 100%. Это работает прямо посреди боя с боссом и только один раз за жизнь.",
+      "pl": "POPROSZENIE BOGA rozdziału O POMOC, w sali bossa, leczy cię od razu do 100%. Działa w środku walki z bossem i tylko raz na życie.",
+      "zh-Hans": "在首领房间向本章的神明求助，会一次性把你治疗到 100%。它可以在与首领的战斗中途使用，每条命只有一次。"
     },
     {
-      "es": "APRENDIDA E INNATA. La aprendida sube rápido mientras trabajas y se pierde entera al morir. La innata sube mucho más despacio pero aguanta la muerte: es tu progreso de verdad. Lo único que la borra es reencarnar."
+      "es": "APRENDIDA E INNATA. La aprendida sube rápido mientras trabajas y se pierde entera al morir. La innata sube mucho más despacio pero aguanta la muerte: es tu progreso de verdad. Lo único que la borra es reencarnar.",
+      "en": "LEARNED AND INNATE. The learned one rises fast while you work and is lost entirely on death. The innate one rises much more slowly but survives death: that is your real progress. The only thing that wipes it is reincarnating.",
+      "fr": "ACQUISE ET INNÉE. L'acquise monte vite pendant que tu travailles et se perd entièrement à la mort. L'innée monte beaucoup plus lentement mais survit à la mort : c'est ta vraie progression. La seule chose qui l'efface, c'est le Reincarnate.",
+      "de": "ERLERNT UND ANGEBOREN. Die erlernte steigt schnell, während du arbeitest, und geht beim Tod vollständig verloren. Die angeborene steigt viel langsamer, übersteht aber den Tod: Das ist dein echter Fortschritt. Das Einzige, was sie löscht, ist ein Reincarnate.",
+      "it": "APPRESA E INNATA. L'appresa sale in fretta mentre lavori e si perde tutta morendo. L'innata sale molto più piano ma regge la morte: è il tuo progresso vero. L'unica cosa che la cancella è reincarnarsi.",
+      "pt": "APRENDIDA E INATA. A aprendida sobe depressa enquanto trabalhas e perde-se inteira ao morrer. A inata sobe muito mais devagar mas aguenta a morte: é o teu progresso a sério. A única coisa que a apaga é reencarnar.",
+      "pt-BR": "APRENDIDA E INATA. A aprendida sobe rápido enquanto você trabalha e se perde inteira ao morrer. A inata sobe muito mais devagar, mas aguenta a morte: é o seu progresso de verdade. A única coisa que a apaga é reencarnar.",
+      "ru": "ПРИОБРЕТЁННАЯ И ВРОЖДЁННАЯ. Приобретённая растёт быстро, пока ты работаешь, и полностью теряется со смертью. Врождённая растёт куда медленнее, но смерть переживает: это и есть твой настоящий прогресс. Стирает её только Реинкарнация.",
+      "pl": "WYUCZONA I WRODZONA. Wyuczona rośnie szybko, gdy pracujesz, i przepada w całości po śmierci. Wrodzona rośnie dużo wolniej, ale znosi śmierć: to twój prawdziwy postęp. Kasuje ją tylko Reinkarnacja.",
+      "zh-Hans": "后天与先天。后天属性在你工作时涨得很快，死亡时全部失去。先天属性涨得慢得多，却能扛过死亡：那才是你真正的进度。唯一能清空它的只有转生。"
     },
     {
-      "es": "Una habilidad que tienes a cero sube muchísimo con las primeras horas de trabajo, así que dedicarle un rato largo y seguido rinde mucho más que tocarla de pasada."
+      "es": "Una habilidad que tienes a cero sube muchísimo con las primeras horas de trabajo, así que dedicarle un rato largo y seguido rinde mucho más que tocarla de pasada.",
+      "en": "A skill sitting at zero rises enormously with its first hours of work, so giving it one long uninterrupted stretch pays far better than touching it in passing.",
+      "fr": "Une compétence à zéro monte énormément avec ses premières heures de travail : lui consacrer un long moment d'affilée rapporte bien plus que d'y toucher en passant.",
+      "de": "Eine Fertigkeit, die bei null steht, steigt in den ersten Arbeitsstunden gewaltig, deshalb bringt ein langer Block am Stück viel mehr, als sie nebenbei anzufassen.",
+      "it": "Un'abilità che hai a zero sale moltissimo con le prime ore di lavoro, quindi dedicarle un tempo lungo e continuato rende molto più che toccarla di sfuggita.",
+      "pt": "Uma habilidade que tens a zero sobe imenso com as primeiras horas de trabalho, por isso dedicar-lhe um bocado longo e seguido rende muito mais do que tocar-lhe de passagem.",
+      "pt-BR": "Uma habilidade que está em zero sobe muitíssimo nas primeiras horas de trabalho, então dedicar a ela um tempo longo e seguido rende muito mais do que tocá-la de passagem.",
+      "ru": "Навык, стоящий на нуле, за первые часы работы вырастает огромно, так что отдать ему один длинный непрерывный кусок времени выгоднее, чем трогать его мимоходом.",
+      "pl": "Umiejętność stojąca na zerze rośnie ogromnie przez pierwsze godziny pracy, więc poświęcenie jej długiego, nieprzerwanego czasu daje dużo więcej niż dotykanie jej mimochodem.",
+      "zh-Hans": "一项停在零的技能，在最初几个小时的工作里涨幅极大，所以连续投入一大段时间，比顺手练一下划算得多。"
     },
     {
-      "es": "LA VIDA MÁXIMA. Empiezas con 100 y solo crece al renacer: te quedas con el 1% de toda la vida que perdiste esa vida, tanto por la maldición como en combate. O sea que la Vida no crece por sobrevivir, crece por sangrar y poder recuperarte."
+      "es": "LA VIDA MÁXIMA. Empiezas con 100 y solo crece al renacer: te quedas con el 1% de toda la vida que perdiste esa vida, tanto por la maldición como en combate. O sea que la Vida no crece por sobrevivir, crece por sangrar y poder recuperarte.",
+      "en": "MAXIMUM LIFE. You start with 100 and it only grows when you rebirth: you keep 1% of all the life you lost during that life, both to the curse and in combat. So Life does not grow by surviving, it grows by bleeding and being able to recover.",
+      "fr": "LA VIE MAXIMALE. Tu commences à 100 et elle ne grandit qu'à la renaissance : tu gardes 1 % de toute la vie perdue pendant cette vie-là, aussi bien par la malédiction qu'en combat. Autrement dit, la Vie ne grandit pas en survivant, elle grandit en saignant et en pouvant s'en remettre.",
+      "de": "DAS MAXIMALE LEBEN. Du beginnst mit 100 und es wächst nur bei der Wiedergeburt: Du behältst 1 % des gesamten Lebens, das du in diesem Leben verloren hast, sowohl durch den Fluch als auch im Kampf. Leben wächst also nicht durch Überleben, sondern durchs Bluten und wieder Aufstehen.",
+      "it": "LA VITA MASSIMA. Parti da 100 e cresce solo rinascendo: ti tieni l'1% di tutta la vita che hai perso in quella vita, sia per la maledizione sia in combattimento. Cioè la Vita non cresce sopravvivendo, cresce sanguinando e riuscendo a riprendersi.",
+      "pt": "A VIDA MÁXIMA. Começas com 100 e só cresce ao renascer: ficas com 1% de toda a vida que perdeste nessa vida, tanto pela maldição como em combate. Ou seja, a Vida não cresce por sobreviver, cresce por sangrar e conseguir recuperar.",
+      "pt-BR": "A VIDA MÁXIMA. Você começa com 100 e ela só cresce ao renascer: você fica com 1% de toda a vida que perdeu naquela vida, tanto pela maldição quanto em combate. Ou seja, a Vida não cresce por sobreviver, cresce por sangrar e conseguir se recuperar.",
+      "ru": "МАКСИМАЛЬНАЯ ЖИЗНЬ. Ты начинаешь со 100, и она растёт только при перерождении: тебе остаётся 1% от всей жизни, потерянной за ту жизнь, и от проклятия, и в бою. То есть Жизнь растёт не от выживания, а от того, что ты истекаешь кровью и всё же оправляешься.",
+      "pl": "MAKSYMALNE ŻYCIE. Zaczynasz od 100 i rośnie tylko przy odrodzeniu: zostaje ci 1% całego życia utraconego w tamtym życiu, zarówno przez klątwę, jak i w walce. Czyli Życie nie rośnie od przetrwania, rośnie od krwawienia i zdolności do podniesienia się.",
+      "zh-Hans": "生命上限。你从 100 开始，它只在重生时增长：你会保留那条命中损失掉的全部生命的 1%，无论是被诅咒扣掉的还是战斗中受到的。也就是说，生命不是靠活下来增长的，而是靠流血之后还能站起来。"
     },
     {
-      "es": "AL MORIR se pierden la aprendida, el progreso a medias, el inventario, el dinero, la mochila, los hechizos, las insignias, la bendición del templo y las protecciones. Se quedan la innata, la Vida máxima, el mapa descubierto y tus planes de automatización."
+      "es": "AL MORIR se pierden la aprendida, el progreso a medias, el inventario, el dinero, la mochila, los hechizos, las insignias, la bendición del templo y las protecciones. Se quedan la innata, la Vida máxima, el mapa descubierto y tus planes de automatización.",
+      "en": "ON DEATH you lose the learned stats, any half-finished progress, the inventory, the money, the backpack, the spells, the badges, the temple's blessing and the protections. You keep the innate, maximum Life, the map you uncovered and your automation plans.",
+      "fr": "À LA MORT, tu perds l'acquise, les progrès à moitié faits, l'inventaire, l'argent, le sac à dos, les sorts, les insignes, la bénédiction du temple et les protections. Tu gardes l'innée, la Vie maximale, la carte découverte et tes plans d'automatisation.",
+      "de": "BEIM TOD gehen die erlernten Werte verloren, halb fertiger Fortschritt, das Inventar, das Geld, der Rucksack, die Zauber, die Abzeichen, der Segen des Tempels und die Schutzgegenstände. Bleiben: die angeborenen Werte, das maximale Leben, die aufgedeckte Karte und deine Automatisierungspläne.",
+      "it": "MORENDO si perdono l'appresa, i progressi a metà, l'inventario, il denaro, lo zaino, gli incantesimi, i distintivi, la benedizione del tempio e le protezioni. Restano l'innata, la Vita massima, la mappa scoperta e i tuoi piani di automazione.",
+      "pt": "AO MORRER perdem-se a aprendida, o progresso a meio, o inventário, o dinheiro, a mochila, os feitiços, as insígnias, a bênção do templo e as proteções. Ficam a inata, a Vida máxima, o mapa descoberto e os teus planos de automatização.",
+      "pt-BR": "AO MORRER você perde a aprendida, o progresso pela metade, o inventário, o dinheiro, a mochila, os feitiços, as insígnias, a bênção do templo e as proteções. Ficam a inata, a Vida máxima, o mapa descoberto e seus planos de automação.",
+      "ru": "ПРИ СМЕРТИ теряются приобретённые характеристики, недоделанный прогресс, инвентарь, деньги, рюкзак, заклинания, знаки, благословение храма и защита. Остаются врождённые характеристики, максимальная Жизнь, открытая карта и твои планы автоматизации.",
+      "pl": "PO ŚMIERCI tracisz wyuczoną, niedokończony postęp, ekwipunek, pieniądze, plecak, zaklęcia, odznaki, błogosławieństwo świątyni i ochrony. Zostają wrodzona, maksymalne Życie, odkryta mapa i twoje plany automatyzacji.",
+      "zh-Hans": "死亡时会失去后天属性、做了一半的进度、物品栏、金钱、背包、法术、徽章、神殿的祝福和防护。保留的是先天属性、生命上限、已探索的地图和你的自动化方案。"
     }
   ]
 }

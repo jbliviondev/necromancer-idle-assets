@@ -13,26 +13,89 @@
   },
   "body": [
     {
-      "es": "Una academia es una sala opcional con una prueba dentro. La prueba mide Fuerza, Destreza o Inteligencia y va a contrarreloj: tienes 60 segundos de trabajo para completarla, y si se acaban, el progreso vuelve a cero y empieza otro intento."
+      "es": "Una academia es una sala opcional con una prueba dentro. La prueba mide Fuerza, Destreza o Inteligencia y va a contrarreloj: tienes 60 segundos de trabajo para completarla, y si se acaban, el progreso vuelve a cero y empieza otro intento.",
+      "en": "An academy is an optional room with a trial inside. The trial measures Strength, Dexterity or Intelligence and runs against the clock: you have 60 seconds of work to complete it, and if they run out, progress goes back to zero and another attempt begins.",
+      "fr": "Une académie est une salle optionnelle avec une épreuve à l'intérieur. L'épreuve mesure la Force, la Dextérité ou l'Intelligence et se joue contre la montre : tu as 60 secondes de travail pour la terminer, et si elles s'écoulent, la progression revient à zéro et une nouvelle tentative commence.",
+      "de": "Eine Akademie ist ein optionaler Raum mit einer Prüfung darin. Die Prüfung misst Stärke, Geschicklichkeit oder Intelligenz und läuft gegen die Uhr: Du hast 60 Sekunden Arbeit, um sie zu bestehen, und wenn sie ablaufen, fällt der Fortschritt auf null und ein neuer Versuch beginnt.",
+      "it": "Un'accademia è una stanza opzionale con dentro una prova. La prova misura Forza, Destrezza o Intelligenza e va a cronometro: hai 60 secondi di lavoro per completarla, e se finiscono, il progresso torna a zero e comincia un altro tentativo.",
+      "pt": "Uma academia é uma sala opcional com uma prova lá dentro. A prova mede Força, Destreza ou Inteligência e é contra o relógio: tens 60 segundos de trabalho para a completar, e se acabarem, o progresso volta a zero e começa outra tentativa.",
+      "pt-BR": "Uma academia é uma sala opcional com uma prova dentro. A prova mede Força, Destreza ou Inteligência e é contra o relógio: você tem 60 segundos de trabalho para completá-la, e se acabarem, o progresso volta a zero e começa outra tentativa.",
+      "ru": "Академия - это необязательная комната с испытанием внутри. Испытание проверяет Силу, Ловкость или Интеллект и идёт на время: на его прохождение даётся 60 секунд работы, а когда они выходят, прогресс обнуляется и начинается новая попытка.",
+      "pl": "Akademia to opcjonalna sala z próbą w środku. Próba mierzy Siłę, Zręczność albo Inteligencję i idzie na czas: masz 60 sekund pracy, żeby ją ukończyć, a gdy się skończą, postęp wraca do zera i zaczyna się kolejne podejście.",
+      "zh-Hans": "学院是一个可选房间，里面有一场试炼。试炼考验力量、敏捷或智力，而且限时：你有 60 秒的工作时间去完成，时间一到进度就归零，随即开始下一次尝试。"
     },
     {
-      "es": "Fallar no es tiempo perdido: mientras lo intentas sigues entrenando esa estadística, así que cada intento arranca con más nivel que el anterior y llega más lejos en los mismos 60 segundos. El personaje reintenta solo y, si le da tiempo antes de morir, acaba pasando. Lo que decide es cuánta vida te queda para seguir intentándolo."
+      "es": "Fallar no es tiempo perdido: mientras lo intentas sigues entrenando esa estadística, así que cada intento arranca con más nivel que el anterior y llega más lejos en los mismos 60 segundos. El personaje reintenta solo y, si le da tiempo antes de morir, acaba pasando. Lo que decide es cuánta vida te queda para seguir intentándolo.",
+      "en": "Failing is not wasted time: while you try you keep training that stat, so each attempt starts at a higher level than the last and gets further within the same 60 seconds. The character retries on their own and, if there is time before dying, ends up passing. What decides it is how much life you have left to keep trying.",
+      "fr": "Échouer n'est pas du temps perdu : pendant que tu essaies, tu continues d'entraîner cette statistique, donc chaque tentative démarre à un niveau plus haut que la précédente et va plus loin dans les mêmes 60 secondes. Le personnage réessaie tout seul et, s'il a le temps avant de mourir, finit par passer. Ce qui décide, c'est la vie qu'il te reste pour continuer d'essayer.",
+      "de": "Scheitern ist keine verlorene Zeit: Während du es versuchst, trainierst du diesen Wert weiter, also startet jeder Versuch mit höherem Level als der letzte und kommt in denselben 60 Sekunden weiter. Der Charakter versucht es von allein erneut und schafft es am Ende, wenn die Zeit vor dem Tod reicht. Entscheidend ist, wie viel Leben dir zum Weiterprobieren bleibt.",
+      "it": "Fallire non è tempo perso: mentre ci provi continui ad allenare quella statistica, quindi ogni tentativo parte con più livello del precedente e arriva più lontano negli stessi 60 secondi. Il personaggio riprova da solo e, se fa in tempo prima di morire, alla fine passa. A decidere è quanta vita ti resta per continuare a provarci.",
+      "pt": "Falhar não é tempo perdido: enquanto tentas continuas a treinar essa estatística, por isso cada tentativa arranca com mais nível do que a anterior e chega mais longe nos mesmos 60 segundos. A personagem tenta outra vez sozinha e, se tiver tempo antes de morrer, acaba por passar. O que decide é quanta vida te resta para continuares a tentar.",
+      "pt-BR": "Falhar não é tempo perdido: enquanto você tenta, continua treinando aquela estatística, então cada tentativa começa com mais nível que a anterior e chega mais longe nos mesmos 60 segundos. O personagem tenta de novo sozinho e, se der tempo antes de morrer, acaba passando. O que decide é quanta vida sobra para continuar tentando.",
+      "ru": "Провал - это не потерянное время: пока ты пробуешь, характеристика продолжает расти, так что каждая попытка начинается с более высокого уровня, чем предыдущая, и за те же 60 секунд заходит дальше. Персонаж повторяет попытки сам и, если успевает до смерти, в итоге проходит. Решает то, сколько жизни у тебя осталось на новые попытки.",
+      "pl": "Porażka to nie stracony czas: podczas prób dalej trenujesz tę cechę, więc każde podejście startuje z wyższym poziomem niż poprzednie i w tych samych 60 sekundach dochodzi dalej. Postać ponawia próby sama i, jeśli zdąży przed śmiercią, w końcu przechodzi. Decyduje to, ile życia zostało ci na kolejne próby.",
+      "zh-Hans": "失败并不是白费时间：尝试的同时你仍在练那项属性，所以每次尝试的起点都比上一次高，在同样的 60 秒里能走得更远。角色会自己重试，只要死前来得及，最终就能通过。决定成败的是你还剩多少生命可以继续尝试。"
     },
     {
-      "es": "La academia de tu clase está siempre detrás del obstáculo de tu ruta difícil. Ese es el motivo de que tus personajes se escolten entre ellos: con escolta llegas, y dentro entrenas tu estadística de combate sin recibir daño."
+      "es": "La academia de tu clase está siempre detrás del obstáculo de tu ruta difícil. Ese es el motivo de que tus personajes se escolten entre ellos: con escolta llegas, y dentro entrenas tu estadística de combate sin recibir daño.",
+      "en": "Your class academy always sits behind the obstacle on your hard route. That is exactly why your characters escort each other: with an escort you get there, and inside you train your combat stat without taking damage.",
+      "fr": "L'académie de ta classe se trouve toujours derrière l'obstacle de ta route difficile. C'est précisément pour ça que tes personnages s'escortent : avec une escorte tu y arrives, et à l'intérieur tu entraînes ta statistique de combat sans prendre de dégâts.",
+      "de": "Die Akademie deiner Klasse liegt immer hinter dem Hindernis deines schweren Weges. Genau deshalb eskortieren sich deine Charaktere gegenseitig: Mit Eskorte kommst du hin, und drinnen trainierst du deinen Kampfwert, ohne Schaden zu nehmen.",
+      "it": "L'accademia della tua classe sta sempre dietro l'ostacolo del tuo percorso difficile. È proprio per questo che i tuoi personaggi si scortano tra loro: con la scorta ci arrivi, e dentro alleni la tua statistica da combattimento senza ricevere danni.",
+      "pt": "A academia da tua classe está sempre atrás do obstáculo da tua rota difícil. É esse o motivo de as tuas personagens se escoltarem: com escolta chegas lá, e lá dentro treinas a tua estatística de combate sem levar dano.",
+      "pt-BR": "A academia da sua classe fica sempre atrás do obstáculo da sua rota difícil. É por isso que seus personagens se escoltam: com escolta você chega, e lá dentro treina sua estatística de combate sem levar dano.",
+      "ru": "Академия твоего класса всегда стоит за препятствием на трудном маршруте. Именно поэтому персонажи сопровождают друг друга: с сопровождением ты туда доберёшься, а внутри тренируешь боевую характеристику без урона.",
+      "pl": "Akademia twojej klasy stoi zawsze za przeszkodą na twojej trudnej trasie. Właśnie dlatego twoje postacie eskortują się nawzajem: z eskortą docierasz na miejsce, a w środku trenujesz cechę bojową bez obrażeń.",
+      "zh-Hans": "你本职的学院总是在困难路线的障碍之后。这正是你的角色要互相护送的原因：有护送才到得了，而在里面你能无伤训练自己的战斗属性。"
     },
     {
-      "es": "Dan insignias, hechizos, skills y objetos llave. Las insignias caducan al renacer y la del capítulo 1 es requisito para la del capítulo 2, así que las dos se hacen en la misma vida o no se hacen."
+      "es": "Dan insignias, hechizos, skills y objetos llave. Las insignias caducan al renacer y la del capítulo 1 es requisito para la del capítulo 2, así que las dos se hacen en la misma vida o no se hacen.",
+      "en": "They give badges, spells, skills and key items. Badges expire on rebirth and the chapter 1 one is required for the chapter 2 one, so either both are done in the same life or neither is.",
+      "fr": "Elles donnent des insignes, des sorts, des compétences et des objets clés. Les insignes expirent à la renaissance et celui du chapitre 1 est requis pour celui du chapitre 2 : soit les deux se font dans la même vie, soit aucun.",
+      "de": "Sie geben Abzeichen, Zauber, Fertigkeiten und Schlüsselgegenstände. Abzeichen verfallen bei der Wiedergeburt, und das aus Kapitel 1 ist Voraussetzung für das aus Kapitel 2, also macht man beide im selben Leben oder gar nicht.",
+      "it": "Danno distintivi, incantesimi, abilità e oggetti chiave. I distintivi scadono rinascendo e quello del capitolo 1 è requisito per quello del capitolo 2, quindi o si fanno tutti e due nella stessa vita o non si fanno.",
+      "pt": "Dão insígnias, feitiços, habilidades e objetos-chave. As insígnias caducam ao renascer e a do capítulo 1 é requisito para a do capítulo 2, por isso ou se fazem as duas na mesma vida ou não se fazem.",
+      "pt-BR": "Dão insígnias, feitiços, habilidades e itens-chave. As insígnias vencem ao renascer e a do capítulo 1 é requisito para a do capítulo 2, então ou as duas são feitas na mesma vida ou nenhuma é.",
+      "ru": "Они дают знаки, заклинания, навыки и ключевые предметы. Знаки пропадают при перерождении, а знак первой главы нужен для знака второй, так что либо оба получены за одну жизнь, либо ни одного.",
+      "pl": "Dają odznaki, zaklęcia, umiejętności i kluczowe przedmioty. Odznaki wygasają przy odrodzeniu, a ta z rozdziału 1 jest wymagana do tej z rozdziału 2, więc albo robi się obie w tym samym życiu, albo wcale.",
+      "zh-Hans": "它们给予徽章、法术、技能和关键道具。徽章在重生时失效，而第 1 章的徽章是第 2 章徽章的前提，所以两个要么在同一条命里拿到，要么都拿不到。"
     },
     {
       "spoiler": true,
-      "es": "En el capítulo 2, por ejemplo, se aprenden Caminar sobre las aguas, Escalar y Ojo de águila."
+      "es": "En el capítulo 2, por ejemplo, se aprenden Caminar sobre las aguas, Escalar y Ojo de águila.",
+      "en": "In chapter 2, for example, you learn Walk on Water, Climbing and Eagle Eye.",
+      "fr": "Au chapitre 2, par exemple, on apprend Marcher sur les eaux, Escalade et Œil de l'aigle.",
+      "de": "In Kapitel 2 lernt man zum Beispiel Über Wasser gehen, Klettern und Adlerauge.",
+      "it": "Nel capitolo 2, per esempio, si imparano Camminare sulle acque, Arrampicata e Occhio d'aquila.",
+      "pt": "No capítulo 2, por exemplo, aprendem-se Caminhar sobre as águas, Escalada e Olho de águia.",
+      "pt-BR": "No capítulo 2, por exemplo, aprendem-se Caminhar sobre as águas, Escalada e Olho de águia.",
+      "ru": "Например, во второй главе учат Хождение по водам, Скалолазание и Орлиный глаз.",
+      "pl": "W rozdziale 2, na przykład, poznaje się Chód po wodzie, Wspinaczkę i Orle oko.",
+      "zh-Hans": "比如在第 2 章可以学到踏水而行、攀爬和鹰眼。"
     },
     {
-      "es": "Algunas llaves también se compran en el mercado, pero ese dinero ya no va a la mochila mejorada. Si el rodeo por la academia te sale a mano, sale más barato."
+      "es": "Algunas llaves también se compran en el mercado, pero ese dinero ya no va a la mochila mejorada. Si el rodeo por la academia te sale a mano, sale más barato.",
+      "en": "Some keys can also be bought at the market, but that money no longer goes to the improved backpack. If the detour through the academy is convenient for you, it comes out cheaper.",
+      "fr": "Certaines clés s'achètent aussi au marché, mais cet argent ne va plus dans le sac à dos amélioré. Si le détour par l'académie t'arrange, ça revient moins cher.",
+      "de": "Manche Schlüssel kann man auch auf dem Markt kaufen, aber dieses Geld fließt dann nicht mehr in den verbesserten Rucksack. Wenn dir der Umweg über die Akademie gelegen kommt, ist er billiger.",
+      "it": "Alcune chiavi si comprano anche al mercato, ma quei soldi non vanno più allo zaino migliorato. Se la deviazione per l'accademia ti capita comoda, costa meno.",
+      "pt": "Algumas chaves também se compram no mercado, mas esse dinheiro já não vai para a mochila aprimorada. Se o desvio pela academia te ficar a jeito, sai mais barato.",
+      "pt-BR": "Algumas chaves também podem ser compradas no mercado, mas esse dinheiro já não vai para a mochila aprimorada. Se o desvio pela academia ficar no caminho, sai mais barato.",
+      "ru": "Некоторые ключи можно купить и на рынке, но эти деньги уже не пойдут на улучшенный рюкзак. Если крюк через академию тебе по пути, он обходится дешевле.",
+      "pl": "Część kluczy można też kupić na targu, ale te pieniądze nie pójdą już na ulepszony plecak. Jeśli objazd przez akademię jest ci po drodze, wychodzi taniej.",
+      "zh-Hans": "有些钥匙也能在市场买到，但那笔钱就不能拿去买加大背包了。如果绕去学院顺路，那样更省钱。"
     },
     {
-      "es": "Regla general: si no necesitas una llave concreta, haz solo las academias de tu rama. Son las que suben tu daño y las que hacen caer al jefe del capítulo en menos rebirths."
+      "es": "Regla general: si no necesitas una llave concreta, haz solo las academias de tu rama. Son las que suben tu daño y las que hacen caer al jefe del capítulo en menos rebirths.",
+      "en": "Rule of thumb: unless you need a specific key, only do the academies of your own branch. Those are the ones that raise your damage and bring the chapter boss down in fewer rebirths.",
+      "fr": "Règle générale : si tu n'as pas besoin d'une clé précise, ne fais que les académies de ta branche. Ce sont elles qui montent tes dégâts et qui font tomber le boss du chapitre en moins de renaissances.",
+      "de": "Faustregel: Wenn du keinen bestimmten Schlüssel brauchst, mach nur die Akademien deines Zweigs. Sie erhöhen deinen Schaden und lassen den Kapitelboss in weniger Wiedergeburten fallen.",
+      "it": "Regola generale: se non ti serve una chiave precisa, fai solo le accademie del tuo ramo. Sono quelle che alzano il tuo danno e che fanno cadere il boss del capitolo in meno rinascite.",
+      "pt": "Regra geral: se não precisas de uma chave concreta, faz só as academias do teu ramo. São as que sobem o teu dano e as que fazem cair o chefe do capítulo em menos renascimentos.",
+      "pt-BR": "Regra geral: se você não precisa de uma chave específica, faça só as academias do seu ramo. São elas que sobem seu dano e derrubam o chefe do capítulo em menos renascimentos.",
+      "ru": "Общее правило: если тебе не нужен конкретный ключ, проходи только академии своей ветки. Именно они поднимают твой урон и позволяют свалить босса главы за меньшее число перерождений.",
+      "pl": "Zasada ogólna: jeśli nie potrzebujesz konkretnego klucza, rób tylko akademie swojej gałęzi. To one podnoszą twoje obrażenia i sprawiają, że boss rozdziału pada po mniejszej liczbie odrodzeń.",
+      "zh-Hans": "一般原则：如果你不需要某把特定的钥匙，就只做本职分支的学院。它们才是提升你伤害、让你用更少重生次数打倒本章首领的那些。"
     }
   ]
 }

@@ -13,19 +13,64 @@
   },
   "body": [
     {
-      "es": "Un preset guarda toda tu automatización, el plan de cada sala que hayas configurado, en una ranura. Y al cargarlo, sustituye los planes de todas las salas de golpe."
+      "es": "Un preset guarda toda tu automatización, el plan de cada sala que hayas configurado, en una ranura. Y al cargarlo, sustituye los planes de todas las salas de golpe.",
+      "en": "A preset saves your whole automation, the plan of every room you have set up, into one slot. And loading it replaces the plans of every room at once.",
+      "fr": "Un preset enregistre toute ton automatisation, le plan de chaque salle que tu as configurée, dans un emplacement. Et en le chargeant, il remplace d'un coup les plans de toutes les salles.",
+      "de": "Ein Preset speichert deine gesamte Automatisierung, den Plan jedes eingerichteten Raums, in einem Platz. Und beim Laden ersetzt es die Pläne aller Räume auf einmal.",
+      "it": "Un preset salva tutta la tua automazione, il piano di ogni stanza che hai configurato, in uno slot. E caricandolo sostituisce in un colpo solo i piani di tutte le stanze.",
+      "pt": "Um preset guarda toda a tua automatização, o plano de cada sala que tenhas configurado, numa ranhura. E ao carregá-lo, substitui os planos de todas as salas de uma vez.",
+      "pt-BR": "Um preset guarda toda a sua automação, o plano de cada sala que você configurou, em um espaço. E ao carregá-lo, ele substitui os planos de todas as salas de uma vez.",
+      "ru": "Пресет сохраняет всю твою автоматизацию, план каждой настроенной комнаты, в один слот. А при загрузке разом заменяет планы всех комнат.",
+      "pl": "Zapisane ustawienia przechowują całą twoją automatyzację, plan każdej skonfigurowanej sali, w jednym slocie. A wczytanie ich podmienia plany wszystkich sal naraz.",
+      "zh-Hans": "一个预设会把你全部的自动化，也就是你配置过的每个房间的方案，保存到一个槽位里。读取它时，会一次性替换所有房间的方案。"
     },
     {
-      "es": "Un trigger es una entrada especial del plan: cuando llega al tope de la cola, carga el preset que le hayas dicho y se borra sola. No cuesta tiempo ni gasta vida."
+      "es": "Un trigger es una entrada especial del plan: cuando llega al tope de la cola, carga el preset que le hayas dicho y se borra sola. No cuesta tiempo ni gasta vida.",
+      "en": "A trigger is a special entry in the plan: when it reaches the top of the queue, it loads the preset you told it to and deletes itself. It costs no time and spends no life.",
+      "fr": "Un déclencheur est une entrée spéciale du plan : quand il arrive en tête de file, il charge le preset que tu lui as indiqué et s'efface tout seul. Il ne coûte ni temps ni vie.",
+      "de": "Ein Trigger ist ein besonderer Eintrag im Plan: Sobald er an der Spitze der Warteschlange steht, lädt er das angegebene Preset und löscht sich selbst. Er kostet weder Zeit noch Leben.",
+      "it": "Un trigger è una voce speciale del piano: quando arriva in cima alla coda, carica il preset che gli hai indicato e si cancella da solo. Non costa tempo né consuma vita.",
+      "pt": "Um trigger é uma entrada especial do plano: quando chega ao topo da fila, carrega o preset que lhe disseste e apaga-se sozinho. Não custa tempo nem gasta vida.",
+      "pt-BR": "Um trigger é uma entrada especial do plano: quando chega ao topo da fila, carrega o preset que você indicou e se apaga sozinho. Não custa tempo nem gasta vida.",
+      "ru": "Триггер - это особая строка плана: когда он доходит до начала очереди, он загружает указанный пресет и сам себя удаляет. Он не отнимает ни времени, ни жизни.",
+      "pl": "Wyzwalacz to specjalny wpis w planie: gdy dojdzie na szczyt kolejki, wczytuje wskazane ustawienia i sam się kasuje. Nie kosztuje czasu ani życia.",
+      "zh-Hans": "触发器是方案里的一种特殊条目：当它排到队列最前面时，会读取你指定的预设，然后自行删除。它不花时间，也不消耗生命。"
     },
     {
-      "es": "Carga lo que el preset tenga en ese momento, no lo que tuviera cuando creaste el trigger."
+      "es": "Carga lo que el preset tenga en ese momento, no lo que tuviera cuando creaste el trigger.",
+      "en": "It loads whatever the preset holds at that moment, not what it held when you created the trigger.",
+      "fr": "Il charge ce que le preset contient à ce moment-là, pas ce qu'il contenait quand tu as créé le déclencheur.",
+      "de": "Es lädt das, was das Preset in diesem Moment enthält, nicht das, was es beim Erstellen des Triggers enthielt.",
+      "it": "Carica quello che il preset ha in quel momento, non quello che aveva quando hai creato il trigger.",
+      "pt": "Carrega o que o preset tiver nesse momento, não o que tinha quando criaste o trigger.",
+      "pt-BR": "Ele carrega o que o preset tiver naquele momento, não o que tinha quando você criou o trigger.",
+      "ru": "Он загружает то, что лежит в пресете в этот момент, а не то, что было в нём при создании триггера.",
+      "pl": "Wczytuje to, co ustawienia zawierają w tamtej chwili, a nie to, co zawierały przy tworzeniu wyzwalacza.",
+      "zh-Hans": "它读取的是预设当时的内容，而不是你创建触发器时的内容。"
     },
     {
-      "es": "La sala en la que estás no se recalcula: los planes nuevos entran en vigor al pisar la siguiente sala."
+      "es": "La sala en la que estás no se recalcula: los planes nuevos entran en vigor al pisar la siguiente sala.",
+      "en": "The room you are standing in is not recalculated: the new plans take effect when you step into the next room.",
+      "fr": "La salle où tu te trouves n'est pas recalculée : les nouveaux plans prennent effet en entrant dans la salle suivante.",
+      "de": "Der Raum, in dem du gerade bist, wird nicht neu berechnet: Die neuen Pläne greifen, sobald du den nächsten Raum betrittst.",
+      "it": "La stanza in cui ti trovi non viene ricalcolata: i piani nuovi entrano in vigore appena metti piede nella stanza successiva.",
+      "pt": "A sala em que estás não é recalculada: os planos novos entram em vigor ao pisares a sala seguinte.",
+      "pt-BR": "A sala em que você está não é recalculada: os planos novos entram em vigor ao pisar na sala seguinte.",
+      "ru": "Комната, в которой ты находишься, не пересчитывается: новые планы вступают в силу, когда ты войдёшь в следующую.",
+      "pl": "Sala, w której stoisz, nie jest przeliczana od nowa: nowe plany wchodzą w życie po wejściu do następnej sali.",
+      "zh-Hans": "你当前所在的房间不会重新计算：新的方案会在你踏入下一个房间时生效。"
     },
     {
-      "es": "Entre los dos sirven para cambiar de una estrategia a otra sin tocar nada a mano. Su uso es totalmente opcional y está orientado al min-maxing: se puede jugar el juego entero sin crear un solo preset."
+      "es": "Entre los dos sirven para cambiar de una estrategia a otra sin tocar nada a mano. Su uso es totalmente opcional y está orientado al min-maxing: se puede jugar el juego entero sin crear un solo preset.",
+      "en": "Between the two of them you can switch from one strategy to another without touching anything by hand. Using them is entirely optional and aimed at min-maxing: you can play the whole game without creating a single preset.",
+      "fr": "À eux deux, ils permettent de passer d'une stratégie à une autre sans rien toucher à la main. Leur usage est totalement optionnel et orienté min-maxing : on peut jouer tout le jeu sans créer un seul preset.",
+      "de": "Zusammen erlauben sie, ohne Handgriffe von einer Strategie zur nächsten zu wechseln. Ihre Nutzung ist völlig optional und auf Min-Maxing ausgelegt: Man kann das ganze Spiel spielen, ohne ein einziges Preset anzulegen.",
+      "it": "Insieme servono a passare da una strategia all'altra senza toccare niente a mano. Il loro uso è del tutto opzionale ed è pensato per il min-maxing: si può giocare tutto il gioco senza creare un solo preset.",
+      "pt": "Entre os dois servem para mudar de uma estratégia para outra sem tocar em nada à mão. O seu uso é totalmente opcional e está orientado ao min-maxing: dá para jogar o jogo inteiro sem criar um único preset.",
+      "pt-BR": "Entre os dois, dá para trocar de uma estratégia para outra sem mexer em nada à mão. O uso deles é totalmente opcional e voltado ao min-maxing: dá para jogar o jogo inteiro sem criar um único preset.",
+      "ru": "Вдвоём они позволяют переключаться с одной стратегии на другую, ничего не трогая руками. Пользоваться ими совершенно необязательно, это инструмент для мин-максинга: всю игру можно пройти, не создав ни одного пресета.",
+      "pl": "Razem pozwalają przechodzić z jednej strategii na drugą bez ruszania czegokolwiek ręcznie. Korzystanie z nich jest całkowicie opcjonalne i nastawione na min-maxing: całą grę da się przejść, nie tworząc ani jednych ustawień.",
+      "zh-Hans": "两者配合，可以不用手动操作就从一套策略切换到另一套。使用它们完全是可选的，面向的是极限优化：整个游戏不建一个预设也能通关。"
     }
   ]
 }

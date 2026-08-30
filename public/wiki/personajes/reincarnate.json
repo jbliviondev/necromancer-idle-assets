@@ -2,9 +2,9 @@
   "title": {
     "es": "¿Qué es Reincarnate?",
     "en": "What is Reincarnate?",
-    "fr": "est-ce que Reincarnate ?\",\n  ",
+    "fr": "Qu'est-ce que Reincarnate ?",
     "de": "Was ist Reincarnate?",
-    "it": "è Reincarnate?\",\n  ",
+    "it": "Cos'è Reincarnate?",
     "pt": "O que é Reincarnate?",
     "pt-BR": "O que é Reincarnate?",
     "ru": "Что такое Реинкарнация?",
@@ -13,29 +13,101 @@
   },
   "body": [
     {
-      "es": "Reencarnar te borra la innata entera: vuelves a tener todas las estadísticas a cero. Es lo único que duele del salto y es todo su precio."
+      "es": "Reencarnar te borra la innata entera: vuelves a tener todas las estadísticas a cero. Es lo único que duele del salto y es todo su precio.",
+      "en": "Reincarnating wipes your innate completely: every stat goes back to zero. That is the only painful part of the jump, and it is its whole price.",
+      "fr": "Le Reincarnate efface entièrement ton inné : toutes tes statistiques repartent de zéro. C'est la seule chose qui fait mal dans le saut, et c'est tout son prix.",
+      "de": "Ein Reincarnate löscht deine angeborenen Werte vollständig: Alle Werte stehen wieder auf null. Das ist das Einzige, was an dem Sprung wehtut, und es ist sein gesamter Preis.",
+      "it": "Reincarnarsi cancella tutta l'innata: torni ad avere tutte le statistiche a zero. È l'unica cosa che fa male del salto ed è tutto il suo prezzo.",
+      "pt": "Reencarnar apaga-te a inata inteira: voltas a ter todas as estatísticas a zero. É a única coisa que dói no salto e é todo o seu preço.",
+      "pt-BR": "Reencarnar apaga sua inata inteira: você volta a ter todas as estatísticas em zero. É a única coisa que dói no salto e é todo o preço dele.",
+      "ru": "Реинкарнация полностью стирает врождённые характеристики: все они снова обнуляются. Это единственное, что в этом прыжке больно, и вся его цена.",
+      "pl": "Reinkarnacja kasuje całą wrodzoną: wszystkie cechy wracają do zera. To jedyna bolesna rzecz w tym skoku i cała jego cena.",
+      "zh-Hans": "转生会把先天属性全部清空：所有属性重新归零。这是这一跃唯一的痛处，也是它全部的代价。"
     },
     {
-      "es": "Lo demás lo conservas: los planes de automatización y las ranuras de presets, el mapa que llevas descubierto, el capítulo más lejano al que llegaste, la colocación de tus paneles y los jefes únicos que mataste."
+      "es": "Lo demás lo conservas: los planes de automatización y las ranuras de presets, el mapa que llevas descubierto, el capítulo más lejano al que llegaste, la colocación de tus paneles y los jefes únicos que mataste.",
+      "en": "Everything else you keep: your automation plans and preset slots, the map you have uncovered, the furthest chapter you reached, the layout of your panels and the unique bosses you killed.",
+      "fr": "Le reste, tu le gardes : les plans d'automatisation et les emplacements de presets, la carte déjà découverte, le chapitre le plus loin que tu as atteint, la disposition de tes panneaux et les boss uniques que tu as tués.",
+      "de": "Alles andere behältst du: deine Automatisierungspläne und Preset-Plätze, die aufgedeckte Karte, das am weitesten erreichte Kapitel, die Anordnung deiner Panels und die einzigartigen Bosse, die du erlegt hast.",
+      "it": "Il resto lo conservi: i piani di automazione e gli slot dei preset, la mappa che hai scoperto, il capitolo più lontano a cui sei arrivato, la disposizione dei tuoi pannelli e i boss unici che hai ucciso.",
+      "pt": "O resto conservas: os planos de automatização e as ranhuras de presets, o mapa que levas descoberto, o capítulo mais longe a que chegaste, a disposição dos teus painéis e os chefes únicos que mataste.",
+      "pt-BR": "O resto você conserva: os planos de automação e os espaços de presets, o mapa que já descobriu, o capítulo mais distante a que chegou, a disposição dos seus painéis e os chefes únicos que matou.",
+      "ru": "Всё остальное остаётся: планы автоматизации и слоты пресетов, открытая карта, самая дальняя достигнутая глава, расположение панелей и убитые уникальные боссы.",
+      "pl": "Resztę zachowujesz: plany automatyzacji i sloty ustawień, odkrytą mapę, najdalszy osiągnięty rozdział, układ paneli oraz zabitych unikalnych bossów.",
+      "zh-Hans": "其余都会保留：自动化方案和预设槽位、已探索的地图、你到达过的最远章节、面板的摆放位置，以及你击杀过的唯一首领。"
     },
     {
-      "es": "Reencarnar cierra el ciclo entero, con todos sus rebirths dentro, y empieza uno nuevo desde la primera sala. A cambio te llevas mejoras permanentes que ya no se pierden nunca."
+      "es": "Reencarnar cierra el ciclo entero, con todos sus rebirths dentro, y empieza uno nuevo desde la primera sala. A cambio te llevas mejoras permanentes que ya no se pierden nunca.",
+      "en": "Reincarnating closes the whole cycle, with all its rebirths inside, and starts a new one from the first room. In exchange you take away permanent upgrades that are never lost again.",
+      "fr": "Le Reincarnate ferme le cycle entier, avec toutes ses renaissances dedans, et en démarre un nouveau depuis la première salle. En échange, tu emportes des améliorations permanentes qui ne se perdent plus jamais.",
+      "de": "Ein Reincarnate schließt den ganzen Zyklus ab, mit allen Wiedergeburten darin, und beginnt einen neuen im ersten Raum. Dafür nimmst du dauerhafte Verbesserungen mit, die nie wieder verloren gehen.",
+      "it": "Reincarnarsi chiude l'intero ciclo, con dentro tutte le sue rinascite, e ne comincia uno nuovo dalla prima stanza. In cambio ti porti via miglioramenti permanenti che non si perdono mai più.",
+      "pt": "Reencarnar fecha o ciclo inteiro, com todos os seus renascimentos lá dentro, e começa um novo desde a primeira sala. Em troca levas melhorias permanentes que já não se perdem nunca.",
+      "pt-BR": "Reencarnar fecha o ciclo inteiro, com todos os renascimentos dentro dele, e começa um novo desde a primeira sala. Em troca você leva melhorias permanentes que nunca mais se perdem.",
+      "ru": "Реинкарнация закрывает весь цикл вместе со всеми перерождениями внутри и начинает новый с первой комнаты. Взамен ты уносишь постоянные улучшения, которые больше не теряются.",
+      "pl": "Reinkarnacja zamyka cały cykl razem ze wszystkimi odrodzeniami w środku i zaczyna nowy od pierwszej sali. W zamian zabierasz stałe ulepszenia, których już nigdy nie tracisz.",
+      "zh-Hans": "转生会结束整个循环，连同其中所有的重生，并从第一个房间开始新的循环。作为交换，你带走了永不再失去的永久提升。"
     },
     {
-      "es": "Los puntos no se ganan renaciendo. Da igual cuántas vidas encadenes: un rebirth normal da cero puntos."
+      "es": "Los puntos no se ganan renaciendo. Da igual cuántas vidas encadenes: un rebirth normal da cero puntos.",
+      "en": "Points are not earned by rebirthing. It doesn't matter how many lives you chain: a normal rebirth gives zero points.",
+      "fr": "Les points ne s'obtiennent pas en renaissant. Peu importe le nombre de vies que tu enchaînes : une renaissance normale donne zéro point.",
+      "de": "Punkte bekommt man nicht durch Wiedergeburten. Egal, wie viele Leben du aneinanderreihst: Eine normale Wiedergeburt gibt null Punkte.",
+      "it": "I punti non si guadagnano rinascendo. Non importa quante vite incateni: una rinascita normale dà zero punti.",
+      "pt": "Os pontos não se ganham a renascer. Tanto faz quantas vidas encadeies: um renascimento normal dá zero pontos.",
+      "pt-BR": "Os pontos não se ganham renascendo. Não importa quantas vidas você encadeie: um renascimento normal dá zero pontos.",
+      "ru": "Очки не даются за перерождения. Неважно, сколько жизней ты сцепишь подряд: обычное перерождение даёт ноль очков.",
+      "pl": "Punktów nie zdobywa się przez odradzanie. Nieważne, ile żyć złożysz w łańcuch: zwykłe odrodzenie daje zero punktów.",
+      "zh-Hans": "点数不是靠重生赚来的。不管你连着过多少条命：普通的重生给零点数。"
     },
     {
       "spoiler": true,
-      "es": "Se ganan venciendo al nigromante, y el botón de la cabecera no aparece hasta que te lo cruzas por primera vez."
+      "es": "Se ganan venciendo al nigromante, y el botón de la cabecera no aparece hasta que te lo cruzas por primera vez.",
+      "en": "They are earned by defeating the necromancer, and the button in the header doesn't appear until you run into him for the first time.",
+      "fr": "Ils s'obtiennent en battant le nécromancien, et le bouton de l'en-tête n'apparaît pas tant que tu ne l'as pas croisé une première fois.",
+      "de": "Man verdient sie, indem man den Nekromanten besiegt, und die Schaltfläche in der Kopfzeile erscheint erst, wenn du ihm zum ersten Mal begegnest.",
+      "it": "Si guadagnano battendo il negromante, e il pulsante nell'intestazione non compare finché non lo incroci per la prima volta.",
+      "pt": "Ganham-se ao vencer o necromante, e o botão do cabeçalho não aparece até o cruzares pela primeira vez.",
+      "pt-BR": "Eles são ganhos ao vencer o necromante, e o botão do cabeçalho não aparece até você cruzar com ele pela primeira vez.",
+      "ru": "Их дают за победу над некромантом, и кнопка в шапке не появляется, пока ты не встретишь его в первый раз.",
+      "pl": "Zdobywa się je, pokonując nekromantę, a przycisk w nagłówku nie pojawia się, dopóki nie natkniesz się na niego po raz pierwszy.",
+      "zh-Hans": "点数要靠击败亡灵法师获得，而顶栏的按钮在你第一次遇到他之前不会出现。"
     },
     {
-      "es": "Sobreviven también los puntos que no hayas gastado y todos los bonos que ya tengas comprados."
+      "es": "Sobreviven también los puntos que no hayas gastado y todos los bonos que ya tengas comprados.",
+      "en": "Any points you haven't spent survive as well, along with every bonus you have already bought.",
+      "fr": "Les points que tu n'as pas dépensés survivent aussi, ainsi que tous les bonus déjà achetés.",
+      "de": "Auch nicht ausgegebene Punkte überleben, ebenso alle bereits gekauften Boni.",
+      "it": "Sopravvivono anche i punti che non hai speso e tutti i bonus che hai già comprato.",
+      "pt": "Sobrevivem também os pontos que não tenhas gasto e todos os bónus que já tenhas comprado.",
+      "pt-BR": "Sobrevivem também os pontos que você não gastou e todos os bônus que já comprou.",
+      "ru": "Сохраняются и неистраченные очки, и все уже купленные бонусы.",
+      "pl": "Przetrwają też niewydane punkty i wszystkie już kupione premie.",
+      "zh-Hans": "没花掉的点数也会保留，已经买下的加成同样保留。"
     },
     {
-      "es": "Además de la innata, se pierde la Vida máxima, que vuelve a su valor inicial, y todo lo de dentro de una vida: inventario, dinero, hechizos, insignias y mochila."
+      "es": "Además de la innata, se pierde la Vida máxima, que vuelve a su valor inicial, y todo lo de dentro de una vida: inventario, dinero, hechizos, insignias y mochila.",
+      "en": "Besides the innate, you lose maximum Life, which goes back to its starting value, and everything that lives inside a single life: inventory, money, spells, badges and backpack.",
+      "fr": "En plus de l'inné, tu perds la Vie maximale, qui revient à sa valeur de départ, et tout ce qui tient dans une vie : inventaire, argent, sorts, insignes et sac à dos.",
+      "de": "Neben den angeborenen Werten verlierst du das maximale Leben, das auf seinen Startwert zurückfällt, und alles, was zu einem einzelnen Leben gehört: Inventar, Geld, Zauber, Abzeichen und Rucksack.",
+      "it": "Oltre all'innata, si perde la Vita massima, che torna al valore iniziale, e tutto quello che sta dentro una vita: inventario, denaro, incantesimi, distintivi e zaino.",
+      "pt": "Além da inata, perde-se a Vida máxima, que volta ao seu valor inicial, e tudo o que está dentro de uma vida: inventário, dinheiro, feitiços, insígnias e mochila.",
+      "pt-BR": "Além da inata, você perde a Vida máxima, que volta ao valor inicial, e tudo o que está dentro de uma vida: inventário, dinheiro, feitiços, insígnias e mochila.",
+      "ru": "Кроме врождённых характеристик теряется максимальная Жизнь, которая возвращается к начальному значению, и всё, что живёт внутри одной жизни: инвентарь, деньги, заклинания, знаки и рюкзак.",
+      "pl": "Poza wrodzoną tracisz maksymalne Życie, które wraca do wartości początkowej, oraz wszystko, co mieści się w jednym życiu: ekwipunek, pieniądze, zaklęcia, odznaki i plecak.",
+      "zh-Hans": "除了先天属性，你还会失去生命上限，它会回到初始值，以及一条命之内的一切：物品栏、金钱、法术、徽章和背包。"
     },
     {
-      "es": "Los bonos suben de precio muy rápido, así que subir uno solo hasta arriba es carísimo. Ahí es donde compensa repartirlos entre varios personajes."
+      "es": "Los bonos suben de precio muy rápido, así que subir uno solo hasta arriba es carísimo. Ahí es donde compensa repartirlos entre varios personajes.",
+      "en": "Bonuses get expensive very fast, so taking a single one all the way up costs a fortune. That is exactly where spreading them across several characters pays off.",
+      "fr": "Les bonus grimpent en prix très vite, donc en monter un seul jusqu'en haut coûte une fortune. C'est là que ça vaut le coup de les répartir entre plusieurs personnages.",
+      "de": "Boni werden sehr schnell teurer, einen einzigen ganz nach oben zu ziehen kostet also ein Vermögen. Genau da lohnt es sich, sie auf mehrere Charaktere zu verteilen.",
+      "it": "I bonus salgono di prezzo molto in fretta, quindi portarne uno solo fino in cima costa carissimo. È lì che conviene distribuirli tra più personaggi.",
+      "pt": "Os bónus sobem de preço muito depressa, por isso subir um só até ao topo é caríssimo. É aí que compensa reparti-los por várias personagens.",
+      "pt-BR": "Os bônus sobem de preço muito rápido, então subir um só até o topo é caríssimo. É aí que compensa dividi-los entre vários personagens.",
+      "ru": "Бонусы дорожают очень быстро, так что вытянуть один до самого верха стоит целое состояние. Именно поэтому выгодно распределять их между несколькими персонажами.",
+      "pl": "Premie drożeją bardzo szybko, więc wywindowanie jednej na samą górę kosztuje fortunę. Właśnie dlatego opłaca się rozdzielać je między kilka postaci.",
+      "zh-Hans": "加成的价格涨得非常快，把单独一项拉满贵得离谱。这正是把加成分摊到多个角色身上更划算的地方。"
     }
   ]
 }

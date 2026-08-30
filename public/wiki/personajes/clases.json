@@ -13,16 +13,52 @@
   },
   "body": [
     {
-      "es": "Hay tres clases y cada una pelea con su propia estadística: el Soldado con Fuerza, el Ranger con Destreza y el Mago con Inteligencia. Ninguna pega más que otra."
+      "es": "Hay tres clases y cada una pelea con su propia estadística: el Soldado con Fuerza, el Ranger con Destreza y el Mago con Inteligencia. Ninguna pega más que otra.",
+      "en": "There are three classes and each one fights with its own stat: the Soldier with Strength, the Ranger with Dexterity and the Mage with Intelligence. None of them hits harder than the others.",
+      "fr": "Il y a trois classes et chacune se bat avec sa propre statistique : le Soldat avec la Force, le Rôdeur avec la Dextérité et le Mage avec l'Intelligence. Aucune ne frappe plus fort que les autres.",
+      "de": "Es gibt drei Klassen und jede kämpft mit ihrem eigenen Wert: der Soldat mit Stärke, der Waldläufer mit Geschicklichkeit und der Magier mit Intelligenz. Keine schlägt härter zu als die anderen.",
+      "it": "Ci sono tre classi e ognuna combatte con la propria statistica: il Soldato con la Forza, il Ranger con la Destrezza e il Mago con l'Intelligenza. Nessuna colpisce più forte delle altre.",
+      "pt": "Há três classes e cada uma luta com a sua própria estatística: o Soldado com Força, o Patrulheiro com Destreza e o Mago com Inteligência. Nenhuma bate mais do que as outras.",
+      "pt-BR": "Há três classes e cada uma luta com a sua própria estatística: o Soldado com Força, o Patrulheiro com Destreza e o Mago com Inteligência. Nenhuma bate mais que as outras.",
+      "ru": "В игре три класса, и каждый сражается своей характеристикой: Солдат Силой, Рейнджер Ловкостью, Маг Интеллектом. Ни один не бьёт сильнее остальных.",
+      "pl": "Są trzy klasy i każda walczy własną cechą: Żołnierz Siłą, Tropiciel Zręcznością, a Mag Inteligencją. Żadna nie bije mocniej od pozostałych.",
+      "zh-Hans": "游戏有三个职业，各自用自己的属性战斗：战士用力量，游侠用敏捷，法师用智力。没有哪个职业伤害更高。"
     },
     {
-      "es": "Tu estadística propia sube a ritmo normal y las otras dos de combate te cuestan cinco veces más. Puedes subirlas, pero despacio, y eso importa cuando una prueba te pide una que no es la tuya."
+      "es": "Tu estadística propia sube a ritmo normal y las otras dos de combate te cuestan cinco veces más. Puedes subirlas, pero despacio, y eso importa cuando una prueba te pide una que no es la tuya.",
+      "en": "Your own stat rises at normal speed and the other two combat stats cost you five times as much. You can raise them, but slowly, and that matters when a trial asks for one that isn't yours.",
+      "fr": "Ta statistique propre monte à vitesse normale et les deux autres statistiques de combat te coûtent cinq fois plus. Tu peux les monter, mais lentement, et ça compte quand une épreuve en demande une qui n'est pas la tienne.",
+      "de": "Dein eigener Wert steigt normal schnell, die beiden anderen Kampfwerte kosten dich fünfmal so viel. Du kannst sie steigern, aber langsam, und das zählt, wenn eine Prüfung einen Wert verlangt, der nicht deiner ist.",
+      "it": "La tua statistica sale a ritmo normale e le altre due da combattimento ti costano cinque volte tanto. Puoi alzarle, ma piano, e questo conta quando una prova ne chiede una che non è la tua.",
+      "pt": "A tua estatística sobe ao ritmo normal e as outras duas de combate custam-te cinco vezes mais. Podes subi-las, mas devagar, e isso conta quando uma prova te pede uma que não é a tua.",
+      "pt-BR": "Sua estatística sobe no ritmo normal e as outras duas de combate custam cinco vezes mais. Você pode subi-las, mas devagar, e isso conta quando uma prova pede uma que não é a sua.",
+      "ru": "Твоя собственная характеристика растёт с обычной скоростью, а две другие боевые обходятся впятеро дороже. Поднять их можно, но медленно, и это важно, когда испытание требует не твою.",
+      "pl": "Twoja własna cecha rośnie w normalnym tempie, a dwie pozostałe bojowe kosztują pięć razy więcej. Da się je podnosić, ale powoli, i to ma znaczenie, gdy próba wymaga nie twojej cechy.",
+      "zh-Hans": "你本职的属性以正常速度成长，另外两项战斗属性要花五倍的功夫。也能练，但很慢；当某项试炼要求的不是你的属性时，这一点就很重要。"
     },
     {
-      "es": "El resto de habilidades cuestan lo mismo para las tres clases. Ninguna es mejor recolectando ni hablando."
+      "es": "El resto de habilidades cuestan lo mismo para las tres clases. Ninguna es mejor recolectando ni hablando.",
+      "en": "Every other skill costs the same for all three classes. None of them is better at gathering or at talking.",
+      "fr": "Les autres compétences coûtent pareil pour les trois classes. Aucune n'est meilleure en récolte ni en conversation.",
+      "de": "Alle anderen Fertigkeiten kosten für alle drei Klassen gleich viel. Keine ist besser im Sammeln oder im Reden.",
+      "it": "Le altre abilità costano uguale per tutte e tre le classi. Nessuna è migliore a raccogliere o a parlare.",
+      "pt": "As restantes habilidades custam o mesmo para as três classes. Nenhuma é melhor a recolher nem a falar.",
+      "pt-BR": "As demais habilidades custam o mesmo para as três classes. Nenhuma é melhor coletando nem conversando.",
+      "ru": "Все остальные навыки стоят одинаково для всех трёх классов. Никто не собирает и не говорит лучше других.",
+      "pl": "Pozostałe umiejętności kosztują tyle samo we wszystkich trzech klasach. Żadna nie jest lepsza w zbieractwie ani w rozmowach.",
+      "zh-Hans": "其余技能对三个职业的成本相同。采集和交涉方面没有谁更强。"
     },
     {
-      "es": "Lo que cambia de verdad entre clases es por qué rutas se pasa cómodo. Las tres llegan al final del juego."
+      "es": "Lo que cambia de verdad entre clases es por qué rutas se pasa cómodo. Las tres llegan al final del juego.",
+      "en": "What really changes between classes is which routes you get through comfortably. All three reach the end of the game.",
+      "fr": "Ce qui change vraiment entre les classes, c'est par quelles routes on passe confortablement. Les trois arrivent à la fin du jeu.",
+      "de": "Was sich zwischen den Klassen wirklich unterscheidet, ist, über welche Wege man bequem durchkommt. Alle drei erreichen das Ende des Spiels.",
+      "it": "Quello che cambia davvero tra le classi è su quali percorsi si passa comodi. Tutte e tre arrivano alla fine del gioco.",
+      "pt": "O que muda mesmo entre classes é por que rotas se passa à vontade. As três chegam ao fim do jogo.",
+      "pt-BR": "O que muda de verdade entre as classes é por quais rotas você passa com folga. As três chegam ao fim do jogo.",
+      "ru": "По-настоящему классы различаются тем, по каким маршрутам проходить удобно. До конца игры доходят все три.",
+      "pl": "Klasy różnią się naprawdę tym, którymi trasami przechodzi się wygodnie. Wszystkie trzy dochodzą do końca gry.",
+      "zh-Hans": "职业之间真正的差别，是哪条路线走起来轻松。三个职业都能通关。"
     }
   ]
 }

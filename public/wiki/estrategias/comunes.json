@@ -13,37 +13,136 @@
   },
   "body": [
     {
-      "es": "Reza en cuanto llegues al templo. Media maldición durante el resto de la vida vale más que casi cualquier otra cosa que hagas con ese tiempo, y encima te abre Sanar."
+      "es": "Reza en cuanto llegues al templo. Media maldición durante el resto de la vida vale más que casi cualquier otra cosa que hagas con ese tiempo, y encima te abre Sanar.",
+      "en": "Pray as soon as you reach the temple. Half the curse for the rest of the life is worth more than almost anything else you could do with that time, and on top of it, it unlocks Heal.",
+      "fr": "Prie dès que tu arrives au temple. Une demi-malédiction pour le reste de la vie vaut plus que presque tout ce que tu pourrais faire de ce temps, et en plus ça t'ouvre Se soigner.",
+      "de": "Bete, sobald du den Tempel erreichst. Der halbe Fluch für den Rest des Lebens ist mehr wert als fast alles andere, was du mit dieser Zeit anfangen könntest, und obendrein schaltet er Heilen frei.",
+      "it": "Prega appena arrivi al tempio. Mezza maledizione per il resto della vita vale più di quasi qualsiasi altra cosa tu possa fare con quel tempo, e per giunta ti apre Curarsi.",
+      "pt": "Reza assim que chegares ao templo. Meia maldição durante o resto da vida vale mais do que quase tudo o que possas fazer com esse tempo, e ainda por cima abre-te Curar-se.",
+      "pt-BR": "Reze assim que chegar ao templo. Meia maldição pelo resto da vida vale mais do que quase qualquer outra coisa que você faça com esse tempo, e ainda por cima abre Curar-se.",
+      "ru": "Молись, как только доберёшься до храма. Половина проклятия на весь остаток жизни стоит больше, чем почти всё, что ты успел бы сделать за это время, и вдобавок открывает Исцелиться.",
+      "pl": "Módl się, gdy tylko dotrzesz do świątyni. Połowa klątwy do końca życia jest warta więcej niż niemal wszystko inne, co zrobisz w tym czasie, a na dodatek otwiera Lecz.",
+      "zh-Hans": "一到神殿就祈祷。这条命剩下的时间里诅咒减半，价值超过你用那点时间做的几乎任何事，而且还能解锁治疗。"
     },
     {
-      "es": "El recuadro de las acciones no repetibles permite establecer cuánto porcentaje puedes hacer de la acción, a menudo conviene hacer solo un 99%."
+      "es": "El recuadro de las acciones no repetibles permite establecer cuánto porcentaje puedes hacer de la acción, a menudo conviene hacer solo un 99%.",
+      "en": "The box on non-repeatable actions lets you set how much of the action you want done, and it is often worth doing only 99%.",
+      "fr": "La case des actions non répétables permet de fixer quel pourcentage de l'action tu veux faire ; souvent, mieux vaut n'en faire que 99 %.",
+      "de": "Das Feld bei nicht wiederholbaren Aktionen legt fest, wie viel Prozent der Aktion ausgeführt wird, und oft lohnt es sich, nur 99 % zu machen.",
+      "it": "Il riquadro delle azioni non ripetibili permette di stabilire quale percentuale dell'azione fare, e spesso conviene farne solo il 99%.",
+      "pt": "A caixa das ações não repetíveis permite definir que percentagem da ação queres fazer; muitas vezes convém fazer só 99%.",
+      "pt-BR": "A caixinha das ações não repetíveis permite definir qual porcentagem da ação você quer fazer, e muitas vezes convém fazer só 99%.",
+      "ru": "Поле у неповторяемых действий позволяет задать, какой процент действия выполнить, и часто выгодно сделать только 99%.",
+      "pl": "Pole przy akcjach jednorazowych pozwala ustawić, jaki procent akcji wykonać, i często opłaca się zrobić tylko 99%.",
+      "zh-Hans": "不可重复动作上的数值框可以设定这个动作要做到百分之多少，通常只做 99% 更划算。"
     },
     {
-      "es": "Pon la acción Salir al 99% y detrás la de Sanar. Así entras en la sala del jefe con la vida al máximo."
+      "es": "Pon la acción Salir al 99% y detrás la de Sanar. Así entras en la sala del jefe con la vida al máximo.",
+      "en": "Set the Leave action to 99% and put Heal right after it. That way you walk into the boss room with full life.",
+      "fr": "Mets l'action Sortir à 99 % et place Se soigner juste après. Comme ça, tu entres dans la salle du boss avec la vie au maximum.",
+      "de": "Stell die Aktion Verlassen auf 99 % und setz Heilen direkt dahinter. So betrittst du den Bossraum mit vollem Leben.",
+      "it": "Metti l'azione Uscire al 99% e subito dopo quella di Curarsi. Così entri nella stanza del boss con la vita al massimo.",
+      "pt": "Põe a ação Sair a 99% e a seguir a de Curar-se. Assim entras na sala do chefe com a vida no máximo.",
+      "pt-BR": "Coloque a ação Sair em 99% e logo depois a de Curar-se. Assim você entra na sala do chefe com a vida no máximo.",
+      "ru": "Поставь действие Уйти на 99%, а сразу за ним Исцелиться. Так ты войдёшь в комнату босса с полной жизнью.",
+      "pl": "Ustaw akcję Wyjdź na 99%, a zaraz za nią Lecz. Dzięki temu wchodzisz do sali bossa z pełnym życiem.",
+      "zh-Hans": "把「离开」这个动作设成 99%，紧接着放上「治疗」。这样你进入首领房间时生命是满的。"
     },
     {
-      "es": "En la pelea del jefe puedes poner cuatro entradas: pedir ayuda al 99%, luchar contra el jefe al 99%, pedir ayuda al 100% y luchar contra el jefe al 100%. Si bajas del 10% de vida, Pausar Letal dispara la curación, que ya está cargada al 99%, y te curas del todo."
+      "es": "En la pelea del jefe puedes poner cuatro entradas: pedir ayuda al 99%, luchar contra el jefe al 99%, pedir ayuda al 100% y luchar contra el jefe al 100%. Si bajas del 10% de vida, Pausar Letal dispara la curación, que ya está cargada al 99%, y te curas del todo.",
+      "en": "In the boss fight you can queue four entries: ask for help at 99%, fight the boss at 99%, ask for help at 100% and fight the boss at 100%. If you drop below 10% life, Pause Lethal fires the heal, which is already loaded at 99%, and you heal all the way up.",
+      "fr": "Dans le combat du boss, tu peux mettre quatre entrées : demander de l'aide à 99 %, combattre le boss à 99 %, demander de l'aide à 100 % et combattre le boss à 100 %. Si tu descends sous 10 % de vie, la Pause Létale déclenche le soin, déjà chargé à 99 %, et tu te soignes complètement.",
+      "de": "Im Bosskampf kannst du vier Einträge setzen: um Hilfe bitten auf 99 %, gegen den Boss kämpfen auf 99 %, um Hilfe bitten auf 100 % und gegen den Boss kämpfen auf 100 %. Fällst du unter 10 % Leben, löst Tödlich pausieren die Heilung aus, die schon auf 99 % geladen ist, und du heilst voll auf.",
+      "it": "Nel combattimento del boss puoi mettere quattro voci: chiedere aiuto al 99%, combattere il boss al 99%, chiedere aiuto al 100% e combattere il boss al 100%. Se scendi sotto il 10% di vita, la Pausa Letale fa scattare la cura, già carica al 99%, e ti curi del tutto.",
+      "pt": "Na luta do chefe podes pôr quatro entradas: pedir ajuda a 99%, lutar contra o chefe a 99%, pedir ajuda a 100% e lutar contra o chefe a 100%. Se desceres abaixo dos 10% de vida, o Pausar Letal dispara a cura, que já está carregada a 99%, e curas-te por completo.",
+      "pt-BR": "Na luta do chefe você pode colocar quatro entradas: pedir ajuda a 99%, lutar contra o chefe a 99%, pedir ajuda a 100% e lutar contra o chefe a 100%. Se cair abaixo de 10% de vida, o Pausar Letal dispara a cura, que já está carregada a 99%, e você se cura por completo.",
+      "ru": "В бою с боссом можно поставить четыре строки: попросить помощи на 99%, драться с боссом на 99%, попросить помощи на 100% и драться с боссом на 100%. Если жизнь падает ниже 10%, Пауза при риске запускает лечение, уже заряженное на 99%, и ты исцеляешься полностью.",
+      "pl": "W walce z bossem możesz ustawić cztery wpisy: poproś o pomoc na 99%, walcz z bossem na 99%, poproś o pomoc na 100% i walcz z bossem na 100%. Jeśli spadniesz poniżej 10% życia, Pauza przy zagrożeniu odpala leczenie, naładowane już na 99%, i leczysz się do pełna.",
+      "zh-Hans": "首领战里你可以排四条：求助 99%、与首领战斗 99%、求助 100%、与首领战斗 100%。如果生命掉到 10% 以下，濒死暂停就会触发那份已经蓄到 99% 的治疗，把你补满。"
     },
     {
-      "es": "Cuando seas lo bastante fuerte para ganar sin curarte, esa misma jugada sirve para otra cosa: dejas al jefe al 99% con la ayuda cargada al 100%, así que rematas y sales del combate casi a tope de vida."
+      "es": "Cuando seas lo bastante fuerte para ganar sin curarte, esa misma jugada sirve para otra cosa: dejas al jefe al 99% con la ayuda cargada al 100%, así que rematas y sales del combate casi a tope de vida.",
+      "en": "Once you are strong enough to win without healing, that same setup does something else: you leave the boss at 99% with the help loaded at 100%, so you finish him off and walk out of the fight almost at full life.",
+      "fr": "Quand tu seras assez fort pour gagner sans te soigner, ce même montage sert à autre chose : tu laisses le boss à 99 % avec l'aide chargée à 100 %, donc tu l'achèves et tu sors du combat presque au maximum de vie.",
+      "de": "Sobald du stark genug bist, um ohne Heilung zu gewinnen, taugt derselbe Aufbau für etwas anderes: Du lässt den Boss auf 99 % stehen, während die Hilfe auf 100 % geladen ist, gibst ihm den Rest und verlässt den Kampf fast mit vollem Leben.",
+      "it": "Quando sarai abbastanza forte da vincere senza curarti, la stessa mossa serve a un'altra cosa: lasci il boss al 99% con l'aiuto carico al 100%, così lo finisci ed esci dal combattimento quasi al massimo di vita.",
+      "pt": "Quando fores forte o suficiente para ganhar sem te curares, essa mesma jogada serve para outra coisa: deixas o chefe a 99% com a ajuda carregada a 100%, por isso remata-lo e sais do combate quase com a vida cheia.",
+      "pt-BR": "Quando você estiver forte o bastante para ganhar sem se curar, essa mesma jogada serve para outra coisa: você deixa o chefe a 99% com a ajuda carregada a 100%, então dá o golpe final e sai do combate quase com a vida cheia.",
+      "ru": "Когда ты станешь достаточно силён, чтобы побеждать без лечения, та же схема пригодится для другого: оставляешь босса на 99%, а помощь заряженной на 100%, добиваешь его и выходишь из боя почти с полной жизнью.",
+      "pl": "Gdy będziesz dość silny, żeby wygrywać bez leczenia, ten sam układ posłuży do czegoś innego: zostawiasz bossa na 99% z pomocą naładowaną na 100%, więc dobijasz go i wychodzisz z walki niemal z pełnym życiem.",
+      "zh-Hans": "等你强到不用治疗也能赢，同一套排法还有另一个用处：把首领留在 99%，同时把求助蓄到 100%，然后收掉它，战斗一结束你几乎是满血。"
     },
     {
-      "es": "Toma la escolta siempre que la tengas. Pasas el combate sin daño y llegas a la academia de tu clase, que es la que sube tu daño."
+      "es": "Toma la escolta siempre que la tengas. Pasas el combate sin daño y llegas a la academia de tu clase, que es la que sube tu daño.",
+      "en": "Take the escort whenever you have one. You get through the fight with no damage and you reach your class academy, which is the one that raises your damage.",
+      "fr": "Prends l'escorte dès que tu en as une. Tu passes le combat sans dégâts et tu atteins l'académie de ta classe, celle qui monte tes dégâts.",
+      "de": "Nimm die Eskorte, wann immer du eine hast. Du kommst ohne Schaden durch den Kampf und erreichst die Akademie deiner Klasse, die deinen Schaden erhöht.",
+      "it": "Prendi la scorta ogni volta che ce l'hai. Passi il combattimento senza danni e arrivi all'accademia della tua classe, che è quella che alza il tuo danno.",
+      "pt": "Leva a escolta sempre que a tenhas. Passas o combate sem dano e chegas à academia da tua classe, que é a que sobe o teu dano.",
+      "pt-BR": "Pegue a escolta sempre que tiver uma. Você passa o combate sem dano e chega à academia da sua classe, que é a que sobe o seu dano.",
+      "ru": "Бери сопровождение всегда, когда оно есть. Бой проходишь без урона и добираешься до академии своего класса, а именно она поднимает твой урон.",
+      "pl": "Bierz eskortę zawsze, gdy ją masz. Przechodzisz walkę bez obrażeń i docierasz do akademii swojej klasy, czyli tej, która podnosi twoje obrażenia.",
+      "zh-Hans": "只要有护送就带上。战斗无伤通过，还能抵达本职学院，而那正是提升你伤害的地方。"
     },
     {
-      "es": "Haz solo las academias de tu rama, salvo que necesites una llave concreta."
+      "es": "Haz solo las academias de tu rama, salvo que necesites una llave concreta.",
+      "en": "Only do the academies of your own branch, unless you need a specific key.",
+      "fr": "Ne fais que les académies de ta branche, sauf si tu as besoin d'une clé précise.",
+      "de": "Mach nur die Akademien deines Zweigs, es sei denn, du brauchst einen bestimmten Schlüssel.",
+      "it": "Fai solo le accademie del tuo ramo, a meno che non ti serva una chiave precisa.",
+      "pt": "Faz só as academias do teu ramo, a não ser que precises de uma chave concreta.",
+      "pt-BR": "Faça só as academias do seu ramo, a não ser que você precise de uma chave específica.",
+      "ru": "Проходи только академии своей ветки, если только тебе не нужен конкретный ключ.",
+      "pl": "Rób tylko akademie swojej gałęzi, chyba że potrzebujesz konkretnego klucza.",
+      "zh-Hans": "只做本职分支的学院，除非你需要某把特定的钥匙。"
     },
     {
-      "es": "Algunas acciones no es eficiente realizarlas la primera vez que te las encuentras, a veces conviene intentarlas cuando hayas avanzado más, o cuando el health decay que tienes al llegar sea muy bajo."
+      "es": "Algunas acciones no es eficiente realizarlas la primera vez que te las encuentras, a veces conviene intentarlas cuando hayas avanzado más, o cuando el health decay que tienes al llegar sea muy bajo.",
+      "en": "Some actions are not efficient to do the first time you run into them; sometimes it is better to try them once you are further along, or when the health decay you arrive with is very low.",
+      "fr": "Certaines actions ne sont pas rentables la première fois que tu tombes dessus ; mieux vaut parfois les tenter quand tu auras avancé davantage, ou quand le health decay que tu as en arrivant est très faible.",
+      "de": "Manche Aktionen lohnen sich beim ersten Mal nicht; oft ist es besser, sie später anzugehen, wenn du weiter bist oder wenn der Health Decay bei deiner Ankunft sehr niedrig ist.",
+      "it": "Alcune azioni non conviene farle la prima volta che le incontri, a volte è meglio provarle quando sarai più avanti, o quando l'health decay che hai all'arrivo è molto basso.",
+      "pt": "Algumas ações não é eficiente fazê-las na primeira vez que as encontras; às vezes convém tentá-las quando tiveres avançado mais, ou quando o health decay que tens ao chegar for muito baixo.",
+      "pt-BR": "Algumas ações não é eficiente fazer na primeira vez que você as encontra; às vezes convém tentá-las quando tiver avançado mais, ou quando o health decay que você tem ao chegar for bem baixo.",
+      "ru": "Некоторые действия невыгодно выполнять при первой же встрече; иногда лучше взяться за них, когда продвинешься дальше или когда health decay на момент прихода совсем небольшой.",
+      "pl": "Niektórych akcji nie opłaca się robić przy pierwszym spotkaniu; czasem lepiej spróbować ich, gdy zajdziesz dalej albo gdy health decay w chwili przybycia jest bardzo niski.",
+      "zh-Hans": "有些动作第一次遇到时做并不划算，有时更适合等你进度更远之后再尝试，或者等你抵达时的 health decay 很低的时候。"
     },
     {
-      "es": "Cambia lo que compras según lo lejos que hayas llegado: pociones al principio, mochila mejorada cuando ya progresas por el capítulo siguiente."
+      "es": "Cambia lo que compras según lo lejos que hayas llegado: pociones al principio, mochila mejorada cuando ya progresas por el capítulo siguiente.",
+      "en": "Change what you buy depending on how far you have got: potions at first, the improved backpack once you are already progressing through the next chapter.",
+      "fr": "Change ce que tu achètes selon ton avancement : des potions au début, le sac à dos amélioré quand tu progresses déjà dans le chapitre suivant.",
+      "de": "Ändere deine Einkäufe je nachdem, wie weit du gekommen bist: am Anfang Tränke, später der verbesserte Rucksack, sobald du schon im nächsten Kapitel vorankommst.",
+      "it": "Cambia quello che compri in base a quanto sei arrivato lontano: pozioni all'inizio, zaino migliorato quando ormai avanzi nel capitolo successivo.",
+      "pt": "Muda o que compras conforme o quão longe chegaste: poções no início, mochila aprimorada quando já progrides pelo capítulo seguinte.",
+      "pt-BR": "Mude o que você compra conforme o quanto avançou: poções no começo, mochila aprimorada quando já estiver progredindo pelo capítulo seguinte.",
+      "ru": "Меняй покупки в зависимости от того, как далеко ты зашёл: в начале зелья, а улучшенный рюкзак - когда уже продвигаешься по следующей главе.",
+      "pl": "Zmieniaj to, co kupujesz, zależnie od tego, jak daleko doszedłeś: na początku mikstury, a ulepszony plecak, gdy już posuwasz się przez kolejny rozdział.",
+      "zh-Hans": "根据你走到哪里来调整购买：一开始买药水，等你已经在下一章推进时再买加大背包。"
     },
     {
-      "es": "Usa Farmear y salir en vez de encadenar recolecciones a mano: llena todo lo de la sala y sale cuando está al máximo."
+      "es": "Usa Farmear y salir en vez de encadenar recolecciones a mano: llena todo lo de la sala y sale cuando está al máximo.",
+      "en": "Use Farm and leave instead of chaining gathers by hand: it fills up on everything in the room and leaves once it is at maximum.",
+      "fr": "Utilise Farmer et partir plutôt que d'enchaîner les récoltes à la main : ça remplit tout ce qu'il y a dans la salle et ça sort une fois au maximum.",
+      "de": "Nutz Farmen und gehen, statt Sammelaktionen von Hand aneinanderzureihen: Es füllt alles auf, was der Raum hergibt, und geht, sobald es am Maximum ist.",
+      "it": "Usa Farma ed esci invece di incatenare raccolte a mano: riempie tutto quello che c'è nella stanza ed esce quando è al massimo.",
+      "pt": "Usa Farmar e sair em vez de encadear recolhas à mão: enche tudo o que há na sala e sai quando está no máximo.",
+      "pt-BR": "Use Farmar e sair em vez de encadear coletas na mão: enche tudo o que há na sala e sai quando está no máximo.",
+      "ru": "Пользуйся действием Фармить и уйти вместо того, чтобы вручную выстраивать сбор: оно набирает всё, что есть в комнате, и уходит, когда набрано под завязку.",
+      "pl": "Używaj Farm i wyjście zamiast ręcznego układania zbieractwa: napełnia wszystko, co jest w sali, i wychodzi, gdy jest pełne.",
+      "zh-Hans": "用「刷满再走」，别手动一条条排采集：它会把房间里能拿的都装满，装满之后才离开。"
     },
     {
-      "es": "Morir no es fracasar. El bucle del juego es morir: cada vida te deja innata, que aguanta la muerte, y Vida máxima, que crece con toda la vida que perdiste por el camino."
+      "es": "Morir no es fracasar. El bucle del juego es morir: cada vida te deja innata, que aguanta la muerte, y Vida máxima, que crece con toda la vida que perdiste por el camino.",
+      "en": "Dying is not failing. The loop of the game is dying: every life leaves you innate, which survives death, and maximum Life, which grows with all the life you lost along the way.",
+      "fr": "Mourir n'est pas échouer. La boucle du jeu, c'est mourir : chaque vie te laisse de l'inné, qui survit à la mort, et de la Vie maximale, qui grandit avec toute la vie perdue en chemin.",
+      "de": "Sterben ist kein Scheitern. Die Spielschleife ist das Sterben: Jedes Leben hinterlässt dir angeborene Werte, die den Tod überstehen, und maximales Leben, das mit all dem Leben wächst, das du unterwegs verloren hast.",
+      "it": "Morire non è fallire. Il ciclo del gioco è morire: ogni vita ti lascia innata, che regge la morte, e Vita massima, che cresce con tutta la vita che hai perso per strada.",
+      "pt": "Morrer não é fracassar. O ciclo do jogo é morrer: cada vida deixa-te inata, que aguenta a morte, e Vida máxima, que cresce com toda a vida que perdeste pelo caminho.",
+      "pt-BR": "Morrer não é fracassar. O ciclo do jogo é morrer: cada vida deixa você com inata, que aguenta a morte, e com Vida máxima, que cresce com toda a vida que você perdeu pelo caminho.",
+      "ru": "Смерть - это не провал. Цикл игры и есть умирание: каждая жизнь оставляет тебе врождённые характеристики, которые переживают смерть, и максимальную Жизнь, которая растёт от всей жизни, потерянной по дороге.",
+      "pl": "Śmierć to nie porażka. Pętlą tej gry jest umieranie: każde życie zostawia ci wrodzoną, która znosi śmierć, i maksymalne Życie, które rośnie od całego życia utraconego po drodze.",
+      "zh-Hans": "死亡不是失败。这个游戏的循环就是死亡：每一条命都会给你留下能扛过死亡的先天属性，以及随着你一路损失的全部生命而增长的生命上限。"
     }
   ]
 }
