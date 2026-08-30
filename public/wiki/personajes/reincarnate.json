@@ -62,16 +62,16 @@
     },
     {
       "spoiler": true,
-      "es": "Se ganan venciendo al nigromante, y el botón de la cabecera no aparece hasta que te lo cruzas por primera vez.",
-      "en": "They are earned by defeating the necromancer, and the button in the header doesn't appear until you run into him for the first time.",
-      "fr": "Ils s'obtiennent en battant le nécromancien, et le bouton de l'en-tête n'apparaît pas tant que tu ne l'as pas croisé une première fois.",
-      "de": "Man verdient sie, indem man den Nekromanten besiegt, und die Schaltfläche in der Kopfzeile erscheint erst, wenn du ihm zum ersten Mal begegnest.",
-      "it": "Si guadagnano battendo il negromante, e il pulsante nell'intestazione non compare finché non lo incroci per la prima volta.",
-      "pt": "Ganham-se ao vencer o necromante, e o botão do cabeçalho não aparece até o cruzares pela primeira vez.",
-      "pt-BR": "Eles são ganhos ao vencer o necromante, e o botão do cabeçalho não aparece até você cruzar com ele pela primeira vez.",
-      "ru": "Их дают за победу над некромантом, и кнопка в шапке не появляется, пока ты не встретишь его в первый раз.",
-      "pl": "Zdobywa się je, pokonując nekromantę, a przycisk w nagłówku nie pojawia się, dopóki nie natkniesz się na niego po raz pierwszy.",
-      "zh-Hans": "点数要靠击败亡灵法师获得，而顶栏的按钮在你第一次遇到他之前不会出现。"
+      "es": "Se ganan enfrentándote al nigromante, ganes o pierdas: si te mata, reencarnar te da 30 puntos, y si lo matas tú, el doble, 60. El botón de la cabecera no aparece hasta que te lo cruzas por primera vez.",
+      "en": "They are earned by facing the necromancer, win or lose: if he kills you, reincarnating gives you 30 points, and if you kill him, double that, 60. The button in the header doesn't appear until you run into him for the first time.",
+      "fr": "Ils s'obtiennent en affrontant le nécromancien, que tu gagnes ou que tu perdes : s'il te tue, le Reincarnate te donne 30 points, et si c'est toi qui le tues, le double, 60. Le bouton de l'en-tête n'apparaît pas tant que tu ne l'as pas croisé une première fois.",
+      "de": "Man verdient sie, indem man dem Nekromanten gegenübertritt, ob man gewinnt oder verliert: Tötet er dich, bringt ein Reincarnate 30 Punkte, tötest du ihn, das Doppelte, also 60. Die Schaltfläche in der Kopfzeile erscheint erst, wenn du ihm zum ersten Mal begegnest.",
+      "it": "Si guadagnano affrontando il negromante, che tu vinca o perda: se ti uccide, reincarnarti ti dà 30 punti, e se lo uccidi tu, il doppio, 60. Il pulsante nell'intestazione non compare finché non lo incroci per la prima volta.",
+      "pt": "Ganham-se ao enfrentar o necromante, ganhes ou percas: se ele te matar, reencarnar dá-te 30 pontos, e se o matares tu, o dobro, 60. O botão do cabeçalho não aparece até o cruzares pela primeira vez.",
+      "pt-BR": "Eles são ganhos ao enfrentar o necromante, ganhando ou perdendo: se ele matar você, reencarnar dá 30 pontos, e se você matá-lo, o dobro, 60. O botão do cabeçalho não aparece até você cruzar com ele pela primeira vez.",
+      "ru": "Их дают за сам бой с некромантом, победишь ты или нет: если он убьёт тебя, Реинкарнация принесёт 30 очков, а если убьёшь его ты, вдвое больше, 60. Кнопка в шапке не появляется, пока ты не встретишь его в первый раз.",
+      "pl": "Zdobywa się je, mierząc się z nekromantą, wygrasz czy przegrasz: jeśli on cię zabije, Reinkarnacja daje 30 punktów, a jeśli ty zabijesz jego, dwa razy tyle, 60. Przycisk w nagłówku nie pojawia się, dopóki nie natkniesz się na niego po raz pierwszy.",
+      "zh-Hans": "点数来自与亡灵法师的对决，输赢都算：被他杀死时转生给 30 点，你把他杀了则是两倍，60 点。顶栏的按钮在你第一次遇到他之前不会出现。"
     },
     {
       "es": "Sobreviven también los puntos que no hayas gastado y todos los bonos que ya tengas comprados.",
