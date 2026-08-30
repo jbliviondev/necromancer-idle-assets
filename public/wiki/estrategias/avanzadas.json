@@ -11,5 +11,18 @@
     "pl": "Zaawansowane strategie",
     "zh-Hans": "进阶策略"
   },
-  "body": []
+  "body": [
+    {
+      "es": "Próximamente.",
+      "en": "Coming soon.",
+      "fr": "Bientôt disponible.",
+      "de": "Demnächst.",
+      "it": "Prossimamente.",
+      "pt": "Em breve.",
+      "pt-BR": "Em breve.",
+      "ru": "Скоро.",
+      "pl": "Wkrótce.",
+      "zh-Hans": "敬请期待。"
+    }
+  ]
 }
