@@ -37,16 +37,16 @@
       "zh-Hans": "转生时有一个按钮可以让他们复活，但他们的奖励也会随之重置：第一次给你的东西，必须再赚一次。"
     },
     {
-      "es": "De momento solo hay uno en el juego. Todos los demás son contenido que está por llegar, y lo que viene a continuación es cómo van a funcionar ellos: el que ya existe no hace nada de esto.",
-      "en": "For now there is only one in the game. All the others are content still to come, and what follows is how those will work: the one that already exists does none of this.",
-      "fr": "Pour l'instant, il n'y en a qu'un dans le jeu. Tous les autres sont du contenu à venir, et ce qui suit décrit leur fonctionnement futur : celui qui existe déjà ne fait rien de tout ça.",
-      "de": "Bislang gibt es nur einen im Spiel. Alle anderen sind noch kommende Inhalte, und das Folgende beschreibt, wie diese funktionieren werden: Der bereits vorhandene macht nichts davon.",
-      "it": "Per ora ce n'è uno solo nel gioco. Tutti gli altri sono contenuti che devono ancora arrivare, e quello che segue è come funzioneranno loro: quello che esiste già non fa niente di tutto questo.",
-      "pt": "Por agora só há um no jogo. Todos os outros são conteúdo que está para chegar, e o que vem a seguir é como eles vão funcionar: o que já existe não faz nada disto.",
-      "pt-BR": "Por enquanto só há um no jogo. Todos os outros são conteúdo que ainda está por vir, e o que vem a seguir é como eles vão funcionar: o que já existe não faz nada disso.",
-      "ru": "Пока в игре он только один. Все остальные - это контент, который ещё впереди, и дальше описано, как будут работать именно они: тот, что уже есть, ничего из этого не делает.",
-      "pl": "Na razie w grze jest tylko jeden. Wszyscy pozostali to zawartość, która dopiero nadejdzie, a poniżej opisano, jak będą działać oni: ten, który już istnieje, nie robi nic z tych rzeczy.",
-      "zh-Hans": "目前游戏里只有一个。其余的都是尚未推出的内容，下面写的是它们将来的运作方式：现在已经存在的那一个并不具备这些。"
+      "es": "De momento solo hay uno en el juego, y provoca un cambio permanente en La Costa. Todos los demás son contenido que está por llegar, y lo que viene a continuación es cómo van a funcionar ellos.",
+      "en": "For now there is only one in the game, and it causes a permanent change at The Coast. All the others are content still to come, and what follows is how those will work.",
+      "fr": "Pour l'instant, il n'y en a qu'un dans le jeu, et il provoque un changement permanent à La Côte. Tous les autres sont du contenu à venir, et ce qui suit décrit leur fonctionnement futur.",
+      "de": "Bislang gibt es nur einen im Spiel, und er löst eine dauerhafte Veränderung an Der Küste aus. Alle anderen sind noch kommende Inhalte, und das Folgende beschreibt, wie diese funktionieren werden.",
+      "it": "Per ora ce n'è uno solo nel gioco, e provoca un cambiamento permanente a La Costa. Tutti gli altri sono contenuti che devono ancora arrivare, e quello che segue è come funzioneranno loro.",
+      "pt": "Por agora só há um no jogo, e provoca uma mudança permanente n'A Costa. Todos os outros são conteúdo que está para chegar, e o que vem a seguir é como eles vão funcionar.",
+      "pt-BR": "Por enquanto só há um no jogo, e ele provoca uma mudança permanente na Costa. Todos os outros são conteúdo que ainda está por vir, e o que vem a seguir é como eles vão funcionar.",
+      "ru": "Пока в игре он только один, и он вызывает необратимую перемену на Побережье. Все остальные - это контент, который ещё впереди, и дальше описано, как будут работать именно они.",
+      "pl": "Na razie w grze jest tylko jeden i wywołuje trwałą zmianę na Wybrzeżu. Wszyscy pozostali to zawartość, która dopiero nadejdzie, a poniżej opisano, jak będą działać oni.",
+      "zh-Hans": "目前游戏里只有一个，它会让海岸发生永久性的变化。其余的都是尚未推出的内容，下面写的是它们将来的运作方式。"
     },
     {
       "es": "Para llegar a muchos de ellos habrá que superar antes un obstáculo, y para eso hará falta un objeto llave, una skill o un hechizo concretos.",
@@ -109,32 +109,6 @@
       "ru": "Наруч защиты, который вдвое ослабляет проклятие, обычно получают, десять раз помогая выжившим после кораблекрушения. Если убить Кракена, со следующей жизни корабль больше не терпит крушение, и капитан отдаёт наруч просто за разговор, так что каждую жизнь половинное проклятие у тебя намного раньше.",
       "pl": "Naramiennik ochrony, który zbija klątwę o połowę, zdobywa się zwykle, pomagając dziesięć razy rozbitkom. Jeśli zabijesz Krakena, od następnego życia statek już się nie rozbija, a kapitan wręcza ci naramiennik na samą rozmowę, więc w każdym życiu masz połowiczną klątwę o wiele wcześniej.",
       "zh-Hans": "让诅咒减半的护腕，通常要靠救助船难幸存者十次才能拿到。如果你杀了海妖，从下一条命起船就不再失事，船长只要和你说句话就把护腕交给你，于是你每条命都能早得多地享受减半的诅咒。"
-    },
-    {
-      "spoiler": true,
-      "es": "Lo que pierdes es el entrenamiento de Primeros Auxilios que daban los supervivientes, y la quest del orfanato pasa a ser lentísima. O te la saltas, que paga poco, o la dejas para cuando llegues ahí con la maldición todavía muy floja.",
-      "en": "What you lose is the First Aid training the survivors gave, and the orphanage quest becomes painfully slow. Either you skip it, since it pays little, or you save it for when you get there with the curse still very weak.",
-      "fr": "Ce que tu perds, c'est l'entraînement de Premiers Secours que donnaient les rescapés, et la quête de l'orphelinat devient très lente. Soit tu la sautes, elle paie peu, soit tu la gardes pour quand tu arrives là-bas avec une malédiction encore très faible.",
-      "de": "Was du verlierst, ist das Erste-Hilfe-Training der Schiffbrüchigen, und die Waisenhaus-Quest wird extrem langsam. Entweder du lässt sie aus, sie zahlt ohnehin wenig, oder du hebst sie dir für den Moment auf, in dem du mit noch sehr schwachem Fluch dort ankommst.",
-      "it": "Quello che perdi è l'allenamento di Primo Soccorso che davano i naufraghi, e la quest dell'orfanotrofio diventa lentissima. O la salti, che paga poco, o la lasci per quando ci arrivi con la maledizione ancora molto debole.",
-      "pt": "O que perdes é o treino de Primeiros Socorros que davam os sobreviventes, e a quest do orfanato passa a ser lentíssima. Ou a saltas, que paga pouco, ou a deixas para quando lá chegares com a maldição ainda muito fraca.",
-      "pt-BR": "O que você perde é o treino de Primeiros Socorros que os sobreviventes davam, e a quest do orfanato passa a ser lentíssima. Ou você pula, já que paga pouco, ou deixa para quando chegar lá com a maldição ainda bem fraca.",
-      "ru": "Теряешь ты тренировку Первой помощи, которую давали выжившие, а квест приюта становится невыносимо медленным. Или пропускай его, платит он мало, или оставь на тот момент, когда доберёшься туда с ещё очень слабым проклятием.",
-      "pl": "Tracisz trening Pierwszej pomocy, który dawali rozbitkowie, a zadanie sierocińca staje się koszmarnie wolne. Albo je pomijasz, bo mało płaci, albo zostawiasz na moment, gdy dotrzesz tam z wciąż bardzo słabą klątwą.",
-      "zh-Hans": "你失去的是幸存者提供的急救训练，而孤儿院的任务会变得极慢。要么跳过它，反正报酬不高；要么留到你带着仍然很弱的诅咒抵达那里时再做。"
-    },
-    {
-      "spoiler": true,
-      "es": "Y hay una tercera vía: no matarlo nunca. Dejar el combate cargado al 99% cada vida lo convierte en un saco de entrenamiento que te sube estadística de combate y Vida máxima. Te quedas sin el brazalete temprano, pero a partir del capítulo 4 subes mucho más rápido.",
-      "en": "And there is a third path: never killing it. Leaving the fight loaded at 99% every life turns it into a training dummy that raises your combat stat and maximum Life. You give up the early bracer, but from chapter 4 onwards you climb much faster.",
-      "fr": "Et il y a une troisième voie : ne jamais le tuer. Laisser le combat chargé à 99 % à chaque vie en fait un sac d'entraînement qui monte ta statistique de combat et ta Vie maximale. Tu renonces au bracelet précoce, mais à partir du chapitre 4 tu montes bien plus vite.",
-      "de": "Und es gibt einen dritten Weg: ihn nie zu töten. Den Kampf in jedem Leben auf 99 % geladen stehen zu lassen, macht ihn zum Trainingssack, der deinen Kampfwert und dein maximales Leben steigert. Auf den frühen Armreif verzichtest du, aber ab Kapitel 4 steigst du viel schneller.",
-      "it": "E c'è una terza via: non ucciderlo mai. Lasciare il combattimento carico al 99% ogni vita lo trasforma in un sacco da allenamento che ti alza la statistica da combattimento e la Vita massima. Rinunci al bracciale presto, ma dal capitolo 4 in poi sali molto più in fretta.",
-      "pt": "E há uma terceira via: nunca o matar. Deixar o combate carregado a 99% em cada vida transforma-o num saco de treino que te sobe a estatística de combate e a Vida máxima. Ficas sem a braçadeira cedo, mas a partir do capítulo 4 sobes muito mais depressa.",
-      "pt-BR": "E há um terceiro caminho: nunca matá-lo. Deixar o combate carregado a 99% em cada vida o transforma num saco de treino que sobe sua estatística de combate e a Vida máxima. Você fica sem a braçadeira cedo, mas a partir do capítulo 4 sobe muito mais rápido.",
-      "ru": "И есть третий путь: не убивать его вовсе. Если каждую жизнь оставлять бой заряженным на 99%, он превращается в тренировочный мешок, который поднимает твою боевую характеристику и максимальную Жизнь. От раннего наруча ты отказываешься, зато с четвёртой главы растёшь гораздо быстрее.",
-      "pl": "I jest trzecia droga: nigdy go nie zabijać. Zostawianie walki naładowanej na 99% w każdym życiu zmienia go w worek treningowy, który podnosi twoją cechę bojową i maksymalne Życie. Rezygnujesz z wczesnego naramiennika, ale od rozdziału 4 rośniesz dużo szybciej.",
-      "zh-Hans": "还有第三条路：永远不杀它。每条命都把战斗停在 99%，它就成了一个训练沙袋，帮你提升战斗属性和生命上限。你会失去早早到手的护腕，但从第 4 章起成长快得多。"
     }
   ]
 }

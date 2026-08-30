@@ -131,18 +131,6 @@
       "ru": "Пользуйся действием Фармить и уйти вместо того, чтобы вручную выстраивать сбор: оно набирает всё, что есть в комнате, и уходит, когда набрано под завязку.",
       "pl": "Używaj Farm i wyjście zamiast ręcznego układania zbieractwa: napełnia wszystko, co jest w sali, i wychodzi, gdy jest pełne.",
       "zh-Hans": "用「刷满再走」，别手动一条条排采集：它会把房间里能拿的都装满，装满之后才离开。"
-    },
-    {
-      "es": "Morir no es fracasar. El bucle del juego es morir: cada vida te deja innata, que aguanta la muerte, y Vida máxima, que crece con toda la vida que perdiste por el camino.",
-      "en": "Dying is not failing. The loop of the game is dying: every life leaves you innate, which survives death, and maximum Life, which grows with all the life you lost along the way.",
-      "fr": "Mourir n'est pas échouer. La boucle du jeu, c'est mourir : chaque vie te laisse de l'inné, qui survit à la mort, et de la Vie maximale, qui grandit avec toute la vie perdue en chemin.",
-      "de": "Sterben ist kein Scheitern. Die Spielschleife ist das Sterben: Jedes Leben hinterlässt dir angeborene Werte, die den Tod überstehen, und maximales Leben, das mit all dem Leben wächst, das du unterwegs verloren hast.",
-      "it": "Morire non è fallire. Il ciclo del gioco è morire: ogni vita ti lascia innata, che regge la morte, e Vita massima, che cresce con tutta la vita che hai perso per strada.",
-      "pt": "Morrer não é fracassar. O ciclo do jogo é morrer: cada vida deixa-te inata, que aguenta a morte, e Vida máxima, que cresce com toda a vida que perdeste pelo caminho.",
-      "pt-BR": "Morrer não é fracassar. O ciclo do jogo é morrer: cada vida deixa você com inata, que aguenta a morte, e com Vida máxima, que cresce com toda a vida que você perdeu pelo caminho.",
-      "ru": "Смерть - это не провал. Цикл игры и есть умирание: каждая жизнь оставляет тебе врождённые характеристики, которые переживают смерть, и максимальную Жизнь, которая растёт от всей жизни, потерянной по дороге.",
-      "pl": "Śmierć to nie porażka. Pętlą tej gry jest umieranie: każde życie zostawia ci wrodzoną, która znosi śmierć, i maksymalne Życie, które rośnie od całego życia utraconego po drodze.",
-      "zh-Hans": "死亡不是失败。这个游戏的循环就是死亡：每一条命都会给你留下能扛过死亡的先天属性，以及随着你一路损失的全部生命而增长的生命上限。"
     }
   ]
 }
