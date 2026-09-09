@@ -49,16 +49,16 @@
       "zh-Hans": "进食。消耗品会自动食用。只有当整份治疗都能吃满时才会吃，所以不会浪费；治疗在几秒内分次生效，而回复最多的那份会留到最后。"
     },
     {
-      "es": "SANAR es una acción no vinculada a ninguna estadística, que te cura un 3% por segundo hasta que llegues al 100% de vida. Está en el templo de cada capítulo y solo funciona si antes has rezado allí durante esta vida.",
-      "en": "HEAL is an action tied to no stat, which heals you 3% per second until you reach 100% life. It is in every chapter's temple and only works if you have prayed there during this life.",
-      "fr": "SE SOIGNER est une action liée à aucune statistique, qui te soigne de 3 % par seconde jusqu'à 100 % de vie. Elle se trouve au temple de chaque chapitre et ne fonctionne que si tu y as prié pendant cette vie.",
-      "de": "HEILEN ist eine Aktion, die an keinen Wert gebunden ist und dich um 3 % pro Sekunde heilt, bis du bei 100 % Leben bist. Sie steht im Tempel jedes Kapitels und funktioniert nur, wenn du dort in diesem Leben gebetet hast.",
-      "it": "CURARSI è un'azione non legata a nessuna statistica, che ti cura il 3% al secondo finché non arrivi al 100% di vita. Sta nel tempio di ogni capitolo e funziona solo se prima hai pregato lì durante questa vita.",
-      "pt": "CURAR-SE é uma ação não ligada a nenhuma estatística, que te cura 3% por segundo até chegares a 100% de vida. Está no templo de cada capítulo e só funciona se antes tiveres rezado ali durante esta vida.",
-      "pt-BR": "CURAR-SE é uma ação não ligada a nenhuma estatística, que cura 3% por segundo até você chegar a 100% de vida. Está no templo de cada capítulo e só funciona se antes você tiver rezado ali durante esta vida.",
-      "ru": "ИСЦЕЛИТЬСЯ - действие, не привязанное ни к одной характеристике: лечит на 3% в секунду, пока не дойдёшь до 100% жизни. Оно есть в храме каждой главы и работает, только если ты помолился там в этой жизни.",
-      "pl": "LECZ to akcja niezwiązana z żadną cechą, która leczy 3% na sekundę, aż dojdziesz do 100% życia. Jest w świątyni każdego rozdziału i działa tylko wtedy, gdy wcześniej pomodliłeś się tam w tym życiu.",
-      "zh-Hans": "治疗是一个不依赖任何属性的动作，每秒回复 3%，直到生命回到 100%。它位于每一章的神殿，且只有你在这条命里先在那里祈祷过才有效。"
+      "es": "SANAR es una acción vinculada a Primeros Auxilios que te cura en función de tu bonificador de esa estadística, hasta un máximo del 100% de tu vida. Está en el templo de cada capítulo y solo funciona si has rezado al dios de ese templo.",
+      "en": "HEAL is an action tied to First Aid that heals you based on your bonus in that stat, up to a maximum of 100% of your life. It is in every chapter's temple and only works if you have prayed to that temple's god.",
+      "fr": "SE SOIGNER est une action liée aux Premiers Secours qui te soigne en fonction de ton bonus dans cette statistique, jusqu'à un maximum de 100 % de ta vie. Elle se trouve au temple de chaque chapitre et ne fonctionne que si tu as prié le dieu de ce temple.",
+      "de": "HEILEN ist eine Aktion, die an Erste Hilfe gebunden ist und dich abhängig von deinem Bonus auf diesen Wert heilt, bis höchstens 100 % deines Lebens. Sie steht im Tempel jedes Kapitels und funktioniert nur, wenn du zum Gott dieses Tempels gebetet hast.",
+      "it": "CURARSI è un'azione legata a Primo Soccorso che ti cura in base al tuo bonus in quella statistica, fino a un massimo del 100% della tua vita. Sta nel tempio di ogni capitolo e funziona solo se hai pregato il dio di quel tempio.",
+      "pt": "CURAR-SE é uma ação ligada a Primeiros Socorros que te cura em função do teu bónus nessa estatística, até um máximo de 100% da tua vida. Está no templo de cada capítulo e só funciona se tiveres rezado ao deus desse templo.",
+      "pt-BR": "CURAR-SE é uma ação ligada a Primeiros Socorros que cura em função do seu bônus nessa estatística, até um máximo de 100% da sua vida. Está no templo de cada capítulo e só funciona se você tiver rezado ao deus daquele templo.",
+      "ru": "ИСЦЕЛИТЬСЯ - действие, привязанное к Первой помощи: лечит в зависимости от твоего бонуса к этой характеристике, максимум до 100% твоей жизни. Оно есть в храме каждой главы и работает, только если ты помолился богу этого храма.",
+      "pl": "LECZ to akcja powiązana z Pierwszą pomocą, która leczy zależnie od twojego bonusu do tej cechy, maksymalnie do 100% twojego życia. Jest w świątyni każdego rozdziału i działa tylko wtedy, gdy pomodliłeś się do boga tej świątyni.",
+      "zh-Hans": "治疗是一个与急救关联的动作，按你在该属性上的加成回复生命，最多回到你生命的 100%。它位于每一章的神殿，且只有你向该神殿的神祈祷过才有效。"
     },
     {
       "es": "PEDIR AYUDA AL DIOS del capítulo, en la sala del jefe, te cura al 100% de golpe. Sirve en mitad del combate contra el jefe, y es una sola vez por vida.",
@@ -85,16 +85,16 @@
       "zh-Hans": "后天与先天。后天属性在你工作时涨得很快，死亡时全部失去。先天属性涨得慢得多，却能扛过死亡：那才是你真正的进度。唯一能清空它的只有转生。"
     },
     {
-      "es": "LA VIDA MÁXIMA. Empiezas con 100 y solo crece al renacer: te quedas con el 1% de toda la vida que perdiste esa vida, tanto por la maldición como en combate. O sea que la Vida no crece por sobrevivir, crece por sangrar y poder recuperarte.",
-      "en": "MAXIMUM LIFE. You start with 100 and it only grows when you rebirth: you keep 1% of all the life you lost during that life, both to the curse and in combat. So Life does not grow by surviving, it grows by bleeding and being able to recover.",
-      "fr": "LA VIE MAXIMALE. Tu commences à 100 et elle ne grandit qu'à la renaissance : tu gardes 1 % de toute la vie perdue pendant cette vie-là, aussi bien par la malédiction qu'en combat. Autrement dit, la Vie ne grandit pas en survivant, elle grandit en saignant et en pouvant s'en remettre.",
-      "de": "DAS MAXIMALE LEBEN. Du beginnst mit 100 und es wächst nur bei der Wiedergeburt: Du behältst 1 % des gesamten Lebens, das du in diesem Leben verloren hast, sowohl durch den Fluch als auch im Kampf. Leben wächst also nicht durch Überleben, sondern durchs Bluten und wieder Aufstehen.",
-      "it": "LA VITA MASSIMA. Parti da 100 e cresce solo rinascendo: ti tieni l'1% di tutta la vita che hai perso in quella vita, sia per la maledizione sia in combattimento. Cioè la Vita non cresce sopravvivendo, cresce sanguinando e riuscendo a riprendersi.",
-      "pt": "A VIDA MÁXIMA. Começas com 100 e só cresce ao renascer: ficas com 1% de toda a vida que perdeste nessa vida, tanto pela maldição como em combate. Ou seja, a Vida não cresce por sobreviver, cresce por sangrar e conseguir recuperar.",
-      "pt-BR": "A VIDA MÁXIMA. Você começa com 100 e ela só cresce ao renascer: você fica com 1% de toda a vida que perdeu naquela vida, tanto pela maldição quanto em combate. Ou seja, a Vida não cresce por sobreviver, cresce por sangrar e conseguir se recuperar.",
-      "ru": "МАКСИМАЛЬНАЯ ЖИЗНЬ. Ты начинаешь со 100, и она растёт только при перерождении: тебе остаётся 1% от всей жизни, потерянной за ту жизнь, и от проклятия, и в бою. То есть Жизнь растёт не от выживания, а от того, что ты истекаешь кровью и всё же оправляешься.",
-      "pl": "MAKSYMALNE ŻYCIE. Zaczynasz od 100 i rośnie tylko przy odrodzeniu: zostaje ci 1% całego życia utraconego w tamtym życiu, zarówno przez klątwę, jak i w walce. Czyli Życie nie rośnie od przetrwania, rośnie od krwawienia i zdolności do podniesienia się.",
-      "zh-Hans": "生命上限。你从 100 开始，它只在重生时增长：你会保留那条命中损失掉的全部生命的 1%，无论是被诅咒扣掉的还是战斗中受到的。也就是说，生命不是靠活下来增长的，而是靠流血之后还能站起来。"
+      "es": "LA VIDA MÁXIMA. Empiezas con 100 y solo crece al renacer: aumentas un 2% de toda la vida que regeneraste con consumibles.",
+      "en": "MAXIMUM LIFE. You start with 100 and it only grows when you rebirth: you gain 2% of all the life you regenerated with consumables.",
+      "fr": "LA VIE MAXIMALE. Tu commences à 100 et elle ne grandit qu'à la renaissance : tu gagnes 2 % de toute la vie que tu as régénérée avec des consommables.",
+      "de": "DAS MAXIMALE LEBEN. Du beginnst mit 100 und es wächst nur bei der Wiedergeburt: Du bekommst 2 % des gesamten Lebens, das du mit Verbrauchsgegenständen regeneriert hast.",
+      "it": "LA VITA MASSIMA. Parti da 100 e cresce solo rinascendo: guadagni il 2% di tutta la vita che hai rigenerato con i consumabili.",
+      "pt": "A VIDA MÁXIMA. Começas com 100 e só cresce ao renascer: ganhas 2% de toda a vida que regeneraste com consumíveis.",
+      "pt-BR": "A VIDA MÁXIMA. Você começa com 100 e ela só cresce ao renascer: você ganha 2% de toda a vida que regenerou com consumíveis.",
+      "ru": "МАКСИМАЛЬНАЯ ЖИЗНЬ. Ты начинаешь со 100, и она растёт только при перерождении: ты получаешь 2% от всей жизни, которую восстановил расходниками.",
+      "pl": "MAKSYMALNE ŻYCIE. Zaczynasz od 100 i rośnie tylko przy odrodzeniu: dostajesz 2% całego życia, które zregenerowałeś konsumpcyjnymi.",
+      "zh-Hans": "生命上限。你从 100 开始，它只在重生时增长：你会获得你用消耗品回复的全部生命的 2%。"
     },
     {
       "es": "AL MORIR se pierden la aprendida, el progreso a medias, el inventario, el dinero, la mochila, los hechizos, las insignias, la bendición del templo y las protecciones. Se quedan la innata, la Vida máxima, el mapa descubierto y tus planes de automatización.",
