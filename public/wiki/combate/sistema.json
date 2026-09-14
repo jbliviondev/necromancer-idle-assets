@@ -1,0 +1,124 @@
+{
+  "title": {
+    "es": "El sistema de combate",
+    "en": "The combat system",
+    "fr": "Le système de combat",
+    "de": "Das Kampfsystem",
+    "it": "Il sistema di combattimento",
+    "pt": "O sistema de combate",
+    "pt-BR": "O sistema de combate",
+    "ru": "Система боя",
+    "pl": "System walki",
+    "zh-Hans": "战斗系统"
+  },
+  "body": [
+    {
+      "es": "A GOLPES. Los jefes de final de capítulo, los combates opcionales y los enemigos que cortan el paso en las rutas se pelean a golpes. Tu personaje encadena ataques, cada uno con su propia barra, y el enemigo solo pierde vida cuando el ataque se completa. Cada ataque te dice cuánta vida le quita.",
+      "en": "BLOW BY BLOW. End-of-chapter bosses, optional fights and the enemies blocking the way on the routes are fought blow by blow. Your character chains attacks, each with its own bar, and the enemy only loses life when the attack completes. Each attack tells you how much life it takes.",
+      "fr": "COUP PAR COUP. Les boss de fin de chapitre, les combats optionnels et les ennemis qui barrent le passage sur les routes se combattent coup par coup. Ton personnage enchaîne les attaques, chacune avec sa propre barre, et l'ennemi ne perd de la vie que lorsque l'attaque est terminée. Chaque attaque t'indique combien de vie elle lui retire.",
+      "de": "SCHLAG AUF SCHLAG. Kapitelbosse, optionale Kämpfe und die Gegner, die dir auf den Wegen den Durchgang versperren, werden Schlag auf Schlag bekämpft. Dein Charakter reiht Angriffe aneinander, jeder mit seinem eigenen Balken, und der Gegner verliert erst Leben, wenn der Angriff abgeschlossen ist. Jeder Angriff zeigt dir, wie viel Leben er abzieht.",
+      "it": "COLPO SU COLPO. I boss di fine capitolo, i combattimenti opzionali e i nemici che sbarrano la strada sui percorsi si affrontano colpo su colpo. Il tuo personaggio concatena attacchi, ognuno con la sua barra, e il nemico perde vita solo quando l'attacco si completa. Ogni attacco ti dice quanta vita gli toglie.",
+      "pt": "GOLPE A GOLPE. Os chefes de fim de capítulo, os combates opcionais e os inimigos que barram a passagem nas rotas enfrentam-se golpe a golpe. A tua personagem encadeia ataques, cada um com a sua barra, e o inimigo só perde vida quando o ataque se completa. Cada ataque diz-te quanta vida lhe tira.",
+      "pt-BR": "GOLPE A GOLPE. Os chefes de fim de capítulo, os combates opcionais e os inimigos que bloqueiam a passagem nas rotas são enfrentados golpe a golpe. Seu personagem encadeia ataques, cada um com sua própria barra, e o inimigo só perde vida quando o ataque se completa. Cada ataque mostra quanta vida ele tira.",
+      "ru": "УДАР ЗА УДАРОМ. С боссами в конце глав, необязательными противниками и врагами, преграждающими путь на маршрутах, бьёшься удар за ударом. Твой персонаж проводит атаки одну за другой, у каждой своя полоса, и враг теряет жизнь только тогда, когда атака завершена. Каждая атака показывает, сколько жизни она отнимает.",
+      "pl": "CIOS ZA CIOSEM. Z bossami na końcu rozdziałów, w walkach opcjonalnych i z wrogami, którzy zagradzają drogę na trasach, walczy się cios za ciosem. Twoja postać wyprowadza kolejne ataki, każdy z własnym paskiem, a wróg traci życie dopiero wtedy, gdy atak się zakończy. Każdy atak pokazuje, ile życia zabiera.",
+      "zh-Hans": "逐击战斗。章节末首领、可选战斗以及在路线上挡路的敌人，都是一击一击地打。你的角色会连续发动攻击，每次攻击都有自己的进度条，只有攻击完成时敌人才会掉血。每次攻击都会显示它能削掉多少生命。"
+    },
+    {
+      "es": "LA EXPERIENCIA. La experiencia de combate llega con cada golpe y va en proporción a la vida que quita, no al tiempo que pasas peleando. Un ataque que quita más vida en el mismo rato te da más experiencia.",
+      "en": "EXPERIENCE. Combat experience arrives with each hit and is proportional to the life it takes, not to the time you spend fighting. An attack that takes more life in the same time gives you more experience.",
+      "fr": "L'EXPÉRIENCE. L'expérience de combat arrive avec chaque coup et elle est proportionnelle à la vie retirée, pas au temps passé à combattre. Une attaque qui retire plus de vie dans le même laps de temps te donne plus d'expérience.",
+      "de": "ERFAHRUNG. Kampferfahrung kommt mit jedem Treffer und richtet sich nach dem abgezogenen Leben, nicht nach der Zeit, die du kämpfst. Ein Angriff, der in derselben Zeit mehr Leben abzieht, bringt dir mehr Erfahrung.",
+      "it": "L'ESPERIENZA. L'esperienza di combattimento arriva con ogni colpo ed è proporzionale alla vita tolta, non al tempo che passi a combattere. Un attacco che toglie più vita nello stesso tempo ti dà più esperienza.",
+      "pt": "A EXPERIÊNCIA. A experiência de combate chega com cada golpe e é proporcional à vida que tira, não ao tempo que passas a lutar. Um ataque que tira mais vida no mesmo tempo dá-te mais experiência.",
+      "pt-BR": "A EXPERIÊNCIA. A experiência de combate chega com cada golpe e é proporcional à vida que ele tira, não ao tempo que você passa lutando. Um ataque que tira mais vida no mesmo tempo dá mais experiência.",
+      "ru": "ОПЫТ. Боевой опыт приходит с каждым ударом и зависит от отнятой жизни, а не от времени, проведённого в бою. Атака, которая за то же время отнимает больше жизни, даёт больше опыта.",
+      "pl": "DOŚWIADCZENIE. Doświadczenie bojowe przychodzi z każdym ciosem i zależy od zabranego życia, a nie od czasu spędzonego na walce. Atak, który w tym samym czasie zabiera więcej życia, daje ci więcej doświadczenia.",
+      "zh-Hans": "经验。战斗经验随每一击到账，按削掉的生命计算，而不是按你战斗的时长。同样时间内削血更多的攻击，给的经验也更多。"
+    },
+    {
+      "es": "EL ENEMIGO. No te desgasta segundo a segundo: te golpea a intervalos fijos con uno de sus ataques. La barra de su golpe te dice cuánto le falta para el siguiente, y cada golpe sale en pantalla con su nombre y el daño.",
+      "en": "THE ENEMY. It doesn't wear you down second by second: it hits you at fixed intervals with one of its attacks. The bar of its strike tells you how long until the next one, and each hit shows up on screen with its name and the damage.",
+      "fr": "L'ENNEMI. Il ne t'use pas seconde après seconde : il te frappe à intervalles fixes avec l'une de ses attaques. La barre de son coup t'indique combien de temps il lui reste avant le suivant, et chaque coup s'affiche à l'écran avec son nom et les dégâts.",
+      "de": "DER GEGNER. Er zermürbt dich nicht Sekunde für Sekunde: Er trifft dich in festen Abständen mit einem seiner Angriffe. Der Balken seines Schlags zeigt dir, wie lange es bis zum nächsten dauert, und jeder Treffer erscheint mit Namen und Schaden auf dem Bildschirm.",
+      "it": "IL NEMICO. Non ti logora secondo dopo secondo: ti colpisce a intervalli fissi con uno dei suoi attacchi. La barra del suo colpo ti dice quanto manca al prossimo, e ogni colpo compare sullo schermo con il suo nome e il danno.",
+      "pt": "O INIMIGO. Não te desgasta segundo a segundo: bate-te a intervalos fixos com um dos seus ataques. A barra do golpe dele diz-te quanto falta para o seguinte, e cada golpe aparece no ecrã com o seu nome e o dano.",
+      "pt-BR": "O INIMIGO. Ele não desgasta você segundo a segundo: bate em você a intervalos fixos com um dos seus ataques. A barra do golpe dele mostra quanto falta para o próximo, e cada golpe aparece na tela com o nome e o dano.",
+      "ru": "ВРАГ. Он не изматывает тебя секунда за секундой: он бьёт через равные промежутки одной из своих атак. Полоса его удара показывает, сколько осталось до следующего, а каждый удар появляется на экране с названием и уроном.",
+      "pl": "WRÓG. Nie wykańcza cię sekunda po sekundzie: uderza w stałych odstępach jednym ze swoich ataków. Pasek jego ciosu pokazuje, ile zostało do następnego, a każdy cios pojawia się na ekranie z nazwą i obrażeniami.",
+      "zh-Hans": "敌人。它不会每秒磨掉你的血，而是每隔固定时间用它的某个攻击打你一下。它的出招条告诉你离下一击还有多久，每一击都会在屏幕上显示名称和伤害。"
+    },
+    {
+      "es": "LA PRIORIDAD. En Instrucciones de combate están tus ataques numerados. Al terminar uno se lanza el primero de la lista que no esté recargando, así que el orden decide qué sale. Puedes cambiarlo con las flechas o arrastrando, y se guarda para cada personaje y cada enemigo. Si pones arriba un ataque sin recarga, los de debajo no saldrán nunca.",
+      "en": "PRIORITY. Your attacks are numbered in Combat instructions. When one finishes, the first one on the list that isn't on cooldown is launched, so the order decides what comes out. You can change it with the arrows or by dragging, and it is saved for each character and each enemy. If you put an attack without a cooldown at the top, the ones below it will never come out.",
+      "fr": "LA PRIORITÉ. Tes attaques sont numérotées dans Instructions de combat. Quand l'une se termine, la première de la liste qui n'est pas en recharge est lancée, donc c'est l'ordre qui décide de ce qui sort. Tu peux le changer avec les flèches ou en faisant glisser, et il est enregistré pour chaque personnage et chaque ennemi. Si tu mets en haut une attaque sans recharge, celles du dessous ne sortiront jamais.",
+      "de": "PRIORITÄT. In den Kampfanweisungen sind deine Angriffe nummeriert. Wenn einer fertig ist, wird der erste der Liste ausgelöst, der keine Abklingzeit hat, also entscheidet die Reihenfolge, was kommt. Du kannst sie mit den Pfeilen oder durch Ziehen ändern, und sie wird für jeden Charakter und jeden Gegner gespeichert. Setzt du einen Angriff ohne Abklingzeit nach oben, kommen die darunter nie zum Zug.",
+      "it": "LA PRIORITÀ. In Istruzioni di combattimento i tuoi attacchi sono numerati. Quando uno finisce parte il primo della lista che non è in ricarica, quindi è l'ordine a decidere cosa esce. Puoi cambiarlo con le frecce o trascinando, e viene salvato per ogni personaggio e ogni nemico. Se metti in cima un attacco senza ricarica, quelli sotto non usciranno mai.",
+      "pt": "A PRIORIDADE. Em Instruções de combate estão os teus ataques numerados. Quando um termina, é lançado o primeiro da lista que não esteja em recarga, por isso é a ordem que decide o que sai. Podes mudá-la com as setas ou arrastando, e fica guardada para cada personagem e cada inimigo. Se puseres em cima um ataque sem recarga, os de baixo nunca vão sair.",
+      "pt-BR": "A PRIORIDADE. Em Instruções de combate ficam seus ataques numerados. Quando um termina, é lançado o primeiro da lista que não esteja em recarga, então é a ordem que decide o que sai. Você pode mudá-la com as setas ou arrastando, e ela fica salva para cada personagem e cada inimigo. Se você colocar em cima um ataque sem recarga, os de baixo nunca vão sair.",
+      "ru": "ПРИОРИТЕТ. В «Боевых инструкциях» твои атаки пронумерованы. Когда одна заканчивается, запускается первая в списке, которая не на перезарядке, так что порядок решает, что выйдет. Его можно менять стрелками или перетаскиванием, и он сохраняется для каждого персонажа и каждого врага. Если поставить наверх атаку без перезарядки, те, что ниже, не выйдут никогда.",
+      "pl": "PRIORYTET. W Instrukcjach walki twoje ataki są ponumerowane. Gdy jeden się skończy, rusza pierwszy z listy, który nie jest w trakcie odnowienia, więc to kolejność decyduje, co wyjdzie. Możesz ją zmienić strzałkami albo przeciągając, a zapisuje się dla każdej postaci i każdego wroga. Jeśli na górę dasz atak bez odnowienia, te pod nim nie wyjdą nigdy.",
+      "zh-Hans": "优先级。“战斗指令”里的攻击都标了序号。一次攻击结束后，会发动列表中第一个不在冷却中的攻击，所以顺序决定出什么招。你可以用箭头或拖动来调整顺序，它会按角色、按敌人分别保存。如果把没有冷却的攻击放在最上面，下面的攻击就永远不会出手。"
+    },
+    {
+      "es": "SALIR A CURARTE. Si dejas el combate a medias, al volver sigue donde lo dejaste: la vida que le quitaste, tus recargas y el golpe del enemigo. Las recargas y el golpe del enemigo solo avanzan mientras luchas.",
+      "en": "LEAVING TO HEAL. If you leave a fight halfway, when you come back it picks up where you left it: the life you took from the enemy, your cooldowns and the enemy's next strike. Cooldowns and the enemy's strike only advance while you fight.",
+      "fr": "SORTIR TE SOIGNER. Si tu quittes le combat en plein milieu, à ton retour il reprend là où tu l'avais laissé : la vie que tu lui as retirée, tes recharges et le coup de l'ennemi. Les recharges et le coup de l'ennemi n'avancent que pendant que tu combats.",
+      "de": "ZUM HEILEN RAUSGEHEN. Verlässt du einen Kampf mittendrin, geht er beim Zurückkommen dort weiter, wo du aufgehört hast: das Leben, das du dem Gegner abgezogen hast, deine Abklingzeiten und sein nächster Schlag. Abklingzeiten und der Schlag des Gegners laufen nur, während du kämpfst.",
+      "it": "USCIRE A CURARTI. Se lasci il combattimento a metà, quando torni riprende da dove l'avevi lasciato: la vita che gli hai tolto, le tue ricariche e il colpo del nemico. Le ricariche e il colpo del nemico avanzano solo mentre combatti.",
+      "pt": "SAIR PARA TE CURARES. Se deixares o combate a meio, ao voltar continua onde o deixaste: a vida que lhe tiraste, as tuas recargas e o golpe do inimigo. As recargas e o golpe do inimigo só avançam enquanto lutas.",
+      "pt-BR": "SAIR PARA SE CURAR. Se você deixar o combate pela metade, ao voltar ele continua de onde parou: a vida que você tirou, suas recargas e o golpe do inimigo. As recargas e o golpe do inimigo só avançam enquanto você luta.",
+      "ru": "ОТОЙТИ ПОЛЕЧИТЬСЯ. Если бросить бой на полпути, по возвращении он продолжится с того же места: отнятая у врага жизнь, твои перезарядки и его следующий удар. Перезарядки и удар врага идут, только пока ты сражаешься.",
+      "pl": "WYJŚĆ SIĘ ULECZYĆ. Jeśli przerwiesz walkę w połowie, po powrocie toczy się dalej od tego samego miejsca: życie zabrane wrogowi, twoje odnowienia i jego następny cios. Odnowienia i cios wroga biegną tylko wtedy, gdy walczysz.",
+      "zh-Hans": "离开去治疗。如果你打到一半离开，回来时会从离开的地方继续：你已经削掉的生命、你的冷却，以及敌人的下一击。冷却和敌人的出招只在你战斗时推进。"
+    },
+    {
+      "es": "PAUSAR LETAL. Tiene en cuenta el próximo golpe del enemigo: si ese golpe, sumado a la maldición hasta entonces, te dejaría por debajo del umbral, sale antes de recibirlo.",
+      "en": "PAUSE LETHAL. It takes the enemy's next hit into account: if that hit, added to the curse until then, would leave you below the threshold, it pulls out before you take it.",
+      "fr": "PAUSE LÉTALE. Elle tient compte du prochain coup de l'ennemi : si ce coup, ajouté à la malédiction d'ici là, te laissait sous le seuil, elle sort avant que tu le reçoives.",
+      "de": "TÖDLICH PAUSIEREN. Es berücksichtigt den nächsten Schlag des Gegners: Würde dich dieser Schlag zusammen mit dem Fluch bis dahin unter die Schwelle bringen, steigt es aus, bevor er dich trifft.",
+      "it": "PAUSA LETALE. Tiene conto del prossimo colpo del nemico: se quel colpo, sommato alla maledizione fino a quel momento, ti lasciasse sotto la soglia, esce prima che tu lo riceva.",
+      "pt": "PAUSAR LETAL. Tem em conta o próximo golpe do inimigo: se esse golpe, somado à maldição até lá, te deixasse abaixo do limiar, sai antes de o receberes.",
+      "pt-BR": "PAUSAR LETAL. Leva em conta o próximo golpe do inimigo: se esse golpe, somado à maldição até lá, deixasse você abaixo do limiar, ele sai antes de você recebê-lo.",
+      "ru": "ПАУЗА ПРИ РИСКЕ. Она учитывает следующий удар врага: если этот удар вместе с проклятием до того момента опустит тебя ниже порога, она выводит тебя из боя до того, как он прилетит.",
+      "pl": "PAUZA PRZY ZAGROŻENIU. Bierze pod uwagę następny cios wroga: jeśli ten cios razem z klątwą do tego czasu zepchnąłby cię poniżej progu, wychodzi z walki, zanim go dostaniesz.",
+      "zh-Hans": "濒死暂停。它会把敌人的下一击算进去：如果这一击加上到那时为止的诅咒会让你跌到阈值以下，它会在挨打之前撤出战斗。"
+    },
+    {
+      "es": "GRUPOS. Algunos combates son contra varios enemigos a la vez. Cada uno tiene su vida y su golpe, y el que cae deja de golpear. Los ataques a un solo objetivo van a uno de ellos y el daño que sobra pasa al siguiente; los ataques de área alcanzan a todos.",
+      "en": "GROUPS. Some fights are against several enemies at once. Each one has its own life and its own strike, and the one that falls stops hitting. Single-target attacks go to one of them and the leftover damage carries over to the next; area attacks reach them all.",
+      "fr": "LES GROUPES. Certains combats opposent plusieurs ennemis à la fois. Chacun a sa vie et son coup, et celui qui tombe cesse de frapper. Les attaques à cible unique vont sur l'un d'eux et les dégâts en trop passent au suivant ; les attaques de zone les touchent tous.",
+      "de": "GRUPPEN. Manche Kämpfe gehen gegen mehrere Gegner zugleich. Jeder hat sein eigenes Leben und seinen eigenen Schlag, und wer fällt, schlägt nicht mehr zu. Angriffe auf ein einzelnes Ziel treffen einen von ihnen, und überschüssiger Schaden geht auf den nächsten über; Flächenangriffe treffen alle.",
+      "it": "I GRUPPI. Alcuni combattimenti sono contro più nemici insieme. Ognuno ha la sua vita e il suo colpo, e chi cade smette di colpire. Gli attacchi a bersaglio singolo vanno a uno di loro e il danno in eccesso passa al successivo; gli attacchi ad area li raggiungono tutti.",
+      "pt": "GRUPOS. Alguns combates são contra vários inimigos ao mesmo tempo. Cada um tem a sua vida e o seu golpe, e o que cai deixa de bater. Os ataques a um só alvo vão para um deles e o dano que sobra passa para o seguinte; os ataques de área atingem todos.",
+      "pt-BR": "GRUPOS. Alguns combates são contra vários inimigos ao mesmo tempo. Cada um tem sua vida e seu golpe, e o que cai para de bater. Os ataques a um só alvo vão para um deles e o dano que sobra passa para o próximo; os ataques de área atingem todos.",
+      "ru": "ГРУППЫ. Некоторые бои идут сразу против нескольких врагов. У каждого своя жизнь и свой удар, и павший перестаёт бить. Атаки по одной цели достаются одному из них, а лишний урон переходит на следующего; атаки по области задевают всех.",
+      "pl": "GRUPY. Niektóre walki toczą się z kilkoma wrogami naraz. Każdy ma własne życie i własny cios, a ten, który padnie, przestaje uderzać. Ataki w pojedynczy cel trafiają jednego z nich, a nadwyżka obrażeń przechodzi na następnego; ataki obszarowe trafiają wszystkich.",
+      "zh-Hans": "群体。有些战斗要同时面对好几个敌人。每个敌人都有自己的生命和出招，倒下的就不再攻击。单体攻击打其中一个，溢出的伤害转到下一个；范围攻击会打到所有敌人。"
+    },
+    {
+      "es": "CON ESCOLTA. Si otro de tus personajes te escolta, tiene su propio recuadro y lanza un Ataque normal cada vez que completas uno tuyo, y mientras estás en guardia él también espera. El enemigo no te hace daño y la experiencia es toda tuya.",
+      "en": "WITH AN ESCORT. If another of your characters is escorting you, they get their own box and launch a Normal Attack every time you complete one of yours, and while you are on guard they wait too. The enemy doesn't damage you and all the experience is yours.",
+      "fr": "AVEC UNE ESCORTE. Si un autre de tes personnages t'escorte, il a son propre cadre et lance une Attaque normale chaque fois que tu en termines une, et pendant que tu es en garde, il attend lui aussi. L'ennemi ne te fait aucun dégât et toute l'expérience est pour toi.",
+      "de": "MIT ESKORTE. Wenn dich ein anderer deiner Charaktere eskortiert, hat er seinen eigenen Kasten und setzt jedes Mal einen Normalen Angriff ein, wenn du einen deiner Angriffe abschließt, und während du in Deckung bist, wartet er ebenfalls. Der Gegner fügt dir keinen Schaden zu, und die ganze Erfahrung gehört dir.",
+      "it": "CON UNA SCORTA. Se un altro dei tuoi personaggi ti scorta, ha il suo riquadro e lancia un Attacco normale ogni volta che completi uno dei tuoi, e mentre sei in guardia aspetta anche lui. Il nemico non ti fa danni e l'esperienza è tutta tua.",
+      "pt": "COM ESCOLTA. Se outra das tuas personagens te escoltar, tem o seu próprio quadro e lança um Ataque normal cada vez que completas um dos teus, e enquanto estás em guarda também espera. O inimigo não te causa dano e a experiência é toda tua.",
+      "pt-BR": "COM ESCOLTA. Se outro dos seus personagens escoltar você, ele tem seu próprio quadro e lança um Ataque normal cada vez que você completa um dos seus, e enquanto você está em guarda ele também espera. O inimigo não causa dano a você e a experiência é toda sua.",
+      "ru": "С СОПРОВОЖДЕНИЕМ. Если тебя сопровождает другой твой персонаж, у него своё окно, и он проводит Обычную атаку каждый раз, когда ты завершаешь свою, а пока ты в защите, он тоже ждёт. Враг не наносит тебе урона, и весь опыт достаётся тебе.",
+      "pl": "Z ESKORTĄ. Jeśli eskortuje cię inna twoja postać, ma własne okienko i wyprowadza Zwykły atak za każdym razem, gdy ukończysz swój, a gdy jesteś w gardzie, ona też czeka. Wróg nie zadaje ci obrażeń, a całe doświadczenie jest twoje.",
+      "zh-Hans": "有护送时。如果你的另一个角色在护送你，他会有自己的框，每当你完成一次攻击就发动一次普通攻击；你在防御中时，他也会等待。敌人不会对你造成伤害，经验全部归你。"
+    },
+    {
+      "es": "EXPANDIR Y REDUCIR. Expandir muestra el recuadro entero aunque no quepa en su panel. Reducir lo deja en el nombre, la barra de vida y los botones para encolar.",
+      "en": "EXPAND AND COLLAPSE. Expand shows the whole box even if it doesn't fit in its panel. Collapse leaves just the name, the health bar and the queue buttons.",
+      "fr": "DÉVELOPPER ET RÉDUIRE. Développer affiche le cadre en entier même s'il ne tient pas dans son panneau. Réduire ne laisse que le nom, la barre de vie et les boutons de file.",
+      "de": "AUSKLAPPEN UND EINKLAPPEN. Ausklappen zeigt den ganzen Kasten, auch wenn er nicht in sein Panel passt. Einklappen lässt nur den Namen, den Lebensbalken und die Warteschlangen-Knöpfe übrig.",
+      "it": "ESPANDI E RIDUCI. Espandi mostra il riquadro intero anche se non entra nel suo pannello. Riduci lascia solo il nome, la barra della vita e i pulsanti della coda.",
+      "pt": "EXPANDIR E REDUZIR. Expandir mostra o quadro inteiro mesmo que não caiba no seu painel. Reduzir deixa só o nome, a barra de vida e os botões da fila.",
+      "pt-BR": "EXPANDIR E REDUZIR. Expandir mostra o quadro inteiro mesmo que ele não caiba no painel. Reduzir deixa só o nome, a barra de vida e os botões da fila.",
+      "ru": "РАЗВЕРНУТЬ И СВЕРНУТЬ. «Развернуть» показывает окно целиком, даже если оно не помещается в своей панели. «Свернуть» оставляет только название, полосу здоровья и кнопки очереди.",
+      "pl": "ROZWIŃ I ZWIŃ. Rozwiń pokazuje całe okienko, nawet jeśli nie mieści się w swoim panelu. Zwiń zostawia tylko nazwę, pasek zdrowia i przyciski kolejki.",
+      "zh-Hans": "展开与收起。“展开”会完整显示战斗框，即使面板放不下。“收起”只保留名称、生命条和加入队列按钮。"
+    }
+  ]
+}

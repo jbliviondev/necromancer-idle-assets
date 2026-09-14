@@ -16,6 +16,13 @@
       ]
     },
     {
+      "id": "combate",
+      "pages": [
+        "sistema",
+        "skills"
+      ]
+    },
+    {
       "id": "academias",
       "pages": [
         "academias"

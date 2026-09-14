@@ -13,28 +13,52 @@
   },
   "body": [
     {
-      "es": "En cada capítulo que otro de tus personajes ya haya completado, ese personaje aparece en la ruta que es fácil para su clase y te echa una mano.",
-      "en": "In every chapter another of your characters has already completed, that character shows up on the route that is easy for their class and gives you a hand.",
-      "fr": "Dans chaque chapitre qu'un autre de tes personnages a déjà terminé, ce personnage apparaît sur la route qui est facile pour sa classe et te donne un coup de main.",
-      "de": "In jedem Kapitel, das ein anderer deiner Charaktere bereits abgeschlossen hat, taucht dieser Charakter auf dem Weg auf, der für seine Klasse leicht ist, und hilft dir.",
-      "it": "In ogni capitolo che un altro dei tuoi personaggi ha già completato, quel personaggio compare sul percorso facile per la sua classe e ti dà una mano.",
-      "pt": "Em cada capítulo que outra das tuas personagens já tenha completado, essa personagem aparece na rota que é fácil para a sua classe e dá-te uma ajuda.",
-      "pt-BR": "Em cada capítulo que outro dos seus personagens já tenha completado, esse personagem aparece na rota que é fácil para a classe dele e dá uma mão.",
-      "ru": "В каждой главе, которую уже прошёл другой твой персонаж, он появляется на маршруте, лёгком для его класса, и помогает тебе.",
-      "pl": "W każdym rozdziale ukończonym już przez inną twoją postać pojawia się ona na trasie łatwej dla swojej klasy i podaje ci pomocną dłoń.",
-      "zh-Hans": "你另一个角色已经通关的每一章里，那个角色都会出现在对他职业来说简单的那条路线上，帮你一把。"
+      "es": "Una escolta es otro de tus personajes que te acompaña por una ruta que se te hace difícil. No llega sola por avanzar de capítulo: te la tiene que ofrecer él.",
+      "en": "An escort is another of your characters who goes with you along a route that is hard for you. It doesn't arrive on its own as you move through the chapters: they have to offer it to you.",
+      "fr": "Une escorte, c'est un autre de tes personnages qui t'accompagne sur une route difficile pour toi. Elle n'arrive pas toute seule quand tu avances de chapitre : c'est lui qui doit te la proposer.",
+      "de": "Eine Eskorte ist ein anderer deiner Charaktere, der dich auf einem Weg begleitet, der dir schwerfällt. Sie kommt nicht von allein, wenn du in den Kapiteln vorankommst: Er muss sie dir anbieten.",
+      "it": "Una scorta è un altro dei tuoi personaggi che ti accompagna lungo un percorso che per te è difficile. Non arriva da sola avanzando di capitolo: deve offrirtela lui.",
+      "pt": "Uma escolta é outra das tuas personagens que te acompanha por uma rota que te é difícil. Não chega sozinha por avançares de capítulo: tem de ser ela a oferecer-ta.",
+      "pt-BR": "Uma escolta é outro dos seus personagens que acompanha você por uma rota difícil para você. Ela não chega sozinha quando você avança de capítulo: ele precisa oferecê-la a você.",
+      "ru": "Сопровождение означает, что другой твой персонаж идёт с тобой по маршруту, который тебе даётся тяжело. Оно не появляется само по мере прохождения глав: он должен сам его предложить.",
+      "pl": "Eskorta to inna twoja postać, która towarzyszy ci na trasie, która jest dla ciebie trudna. Nie pojawia się sama, gdy przechodzisz kolejne rozdziały: ta postać musi ci ją zaoferować.",
+      "zh-Hans": "护送，就是你的另一个角色陪你走一条对你来说困难的路线。它不会随着章节推进自动出现，必须由那个角色主动提供。"
     },
     {
-      "es": "La condición es esa y solo esa: que tenga ese capítulo terminado. No depende de lo lejos que vayas tú ni de que él vaya por delante. Un personaje que esté más adelantado que tú pero que no haya acabado ese capítulo no te va a aparecer ahí. Y una vez terminado no se pierde: sigue escoltándote aunque ese personaje renazca o reencarne.",
-      "en": "That is the one and only condition: that they have finished that chapter. It doesn't depend on how far you are, nor on them being ahead of you. A character further along than you who hasn't finished that chapter will not show up there. And once it is finished it is never lost: they keep escorting you even if that character goes through a rebirth or a Reincarnate.",
-      "fr": "La condition est celle-là et rien d'autre : qu'il ait terminé ce chapitre. Cela ne dépend ni de ton avancement ni du fait qu'il soit devant toi. Un personnage plus avancé que toi mais qui n'a pas fini ce chapitre n'apparaîtra pas là. Et une fois terminé, ça ne se perd pas : il continue de t'escorter même s'il renaît ou fait un Reincarnate.",
-      "de": "Das ist die einzige Bedingung: dass er dieses Kapitel abgeschlossen hat. Es hängt weder davon ab, wie weit du bist, noch davon, dass er vor dir liegt. Ein Charakter, der weiter ist als du, dieses Kapitel aber nicht beendet hat, erscheint dort nicht. Und einmal abgeschlossen geht es nie verloren: Er eskortiert dich weiter, auch nach einer Wiedergeburt oder einem Reincarnate.",
-      "it": "La condizione è quella e solo quella: che abbia finito quel capitolo. Non dipende da quanto sei avanti tu né dal fatto che lui sia più avanti. Un personaggio più avanzato di te ma che non ha finito quel capitolo non ti comparirà lì. E una volta finito non si perde: continua a scortarti anche se quel personaggio rinasce o fa un Reincarnate.",
-      "pt": "A condição é essa e só essa: que tenha esse capítulo terminado. Não depende de quão longe vais tu nem de ela ir à tua frente. Uma personagem mais adiantada do que tu mas que não tenha acabado esse capítulo não te vai aparecer ali. E uma vez terminado não se perde: continua a escoltar-te mesmo que essa personagem renasça ou faça um Reincarnate.",
-      "pt-BR": "A condição é essa e só essa: ter esse capítulo terminado. Não depende de quão longe você está nem de ele estar na sua frente. Um personagem mais adiantado que você, mas que não terminou esse capítulo, não vai aparecer ali. E uma vez terminado não se perde: ele continua escoltando você mesmo que renasça ou faça um Reincarnate.",
-      "ru": "Условие одно и только одно: он прошёл эту главу. Это не зависит ни от того, как далеко ты сам, ни от того, обгоняет ли он тебя. Персонаж, который ушёл дальше тебя, но не закончил эту главу, там не появится. А раз глава пройдена, это уже не потерять: он сопровождает тебя и после перерождения, и после Реинкарнации.",
-      "pl": "Warunek jest jeden jedyny: żeby miała ten rozdział ukończony. Nie zależy to od tego, jak daleko jesteś ty, ani od tego, czy ona jest przed tobą. Postać dalej zaawansowana niż ty, ale bez ukończonego tego rozdziału, nie pojawi się tam. A raz ukończonego nie da się stracić: eskortuje cię dalej, nawet gdy ta postać się odrodzi albo zrobi Reinkarnację.",
-      "zh-Hans": "条件只有这一个：他通关了那一章。这与你走到哪里无关，也与他是否比你更靠前无关。一个比你进度更远、却没有通关那一章的角色，不会出现在那里。而一旦通关就不会失去：即使那个角色重生或转生，他照样继续护送你。"
+      "es": "PEDIR AYUDA. Cuando uno de tus personajes llega a una sala de ruta con un combate o un obstáculo difícil para su clase, deja pedida la ayuda para esa ruta. Basta con llegar: no hace falta intentarlo ni morir. La propia sala avisa de que ese paso se le hace cuesta arriba.",
+      "en": "ASKING FOR HELP. When one of your characters reaches a route room with a fight or an obstacle that is hard for their class, they leave a request for help on that route. Just getting there is enough: there's no need to try it or to die. The room itself warns them that the stretch is an uphill climb.",
+      "fr": "DEMANDER DE L'AIDE. Quand l'un de tes personnages arrive dans une salle de route avec un combat ou un obstacle difficile pour sa classe, il laisse une demande d'aide pour cette route. Il suffit d'arriver : pas besoin de tenter ni de mourir. La salle elle-même prévient que ce passage est une rude montée pour lui.",
+      "de": "UM HILFE BITTEN. Erreicht einer deiner Charaktere einen Raum eines Weges mit einem Kampf oder Hindernis, das für seine Klasse schwer ist, hinterlässt er eine Bitte um Hilfe für diesen Weg. Ankommen reicht: Man muss es weder versuchen noch sterben. Der Raum selbst weist darauf hin, dass ihm dieser Abschnitt schwerfällt.",
+      "it": "CHIEDERE AIUTO. Quando uno dei tuoi personaggi arriva in una stanza di un percorso con un combattimento o un ostacolo difficile per la sua classe, lascia una richiesta di aiuto per quel percorso. Basta arrivarci: non serve provarci né morire. È la stanza stessa ad avvisare che quel tratto per lui è tutto in salita.",
+      "pt": "PEDIR AJUDA. Quando uma das tuas personagens chega a uma sala de rota com um combate ou um obstáculo difícil para a sua classe, deixa um pedido de ajuda para essa rota. Basta chegar: não é preciso tentar nem morrer. A própria sala avisa que esse troço lhe está a custar.",
+      "pt-BR": "PEDIR AJUDA. Quando um dos seus personagens chega a uma sala de rota com um combate ou um obstáculo difícil para a classe dele, ele deixa um pedido de ajuda para essa rota. Basta chegar: não é preciso tentar nem morrer. A própria sala avisa que esse trecho está difícil para ele.",
+      "ru": "ПРОСЬБА О ПОМОЩИ. Когда один из твоих персонажей доходит до комнаты маршрута с боем или препятствием, трудным для его класса, он оставляет просьбу о помощи на этом маршруте. Достаточно просто дойти: пробовать или умирать не нужно. Сама комната предупреждает, что этот участок даётся ему тяжело.",
+      "pl": "PROŚBA O POMOC. Gdy któraś z twoich postaci dotrze do sali na trasie z walką lub przeszkodą trudną dla jej klasy, zostawia prośbę o pomoc na tej trasie. Wystarczy dotrzeć: nie trzeba próbować ani ginąć. Sama sala ostrzega, że ten odcinek idzie jej pod górę.",
+      "zh-Hans": "请求帮助。当你的某个角色来到路线上的房间，而那里的战斗或障碍对他的职业来说很难时，他就会在这条路线上留下求助。只要到达就行，不需要尝试，也不需要死一次。房间本身会提示这一段对他来说很吃力。"
+    },
+    {
+      "es": "OFRECER AYUDA. Cuando pasa por esa ruta otro de tus personajes de la clase que la tiene a favor, le aparece la acción Ofrecer ayuda. Es una conversación, y al completarla concede la escolta a todos los personajes que la estaban esperando en esa ruta.",
+      "en": "OFFERING HELP. When another of your characters, of the class that has that route in their favor, passes through it, the Offer help action appears for them. It's a conversation, and completing it grants the escort to every character that was waiting on that route.",
+      "fr": "PROPOSER SON AIDE. Quand un autre de tes personnages, de la classe qui a cette route en sa faveur, passe par là, l'action Offrir ton aide apparaît pour lui. C'est une conversation, et la terminer accorde l'escorte à tous les personnages qui l'attendaient sur cette route.",
+      "de": "HILFE ANBIETEN. Kommt ein anderer deiner Charaktere dort vorbei, dessen Klasse dieser Weg liegt, erscheint bei ihm die Aktion Hilfe anbieten. Es ist ein Gespräch, und wenn es abgeschlossen ist, erhalten alle Charaktere, die auf diesem Weg gewartet haben, die Eskorte.",
+      "it": "OFFRIRE AIUTO. Quando da quel percorso passa un altro dei tuoi personaggi, della classe che ha quel percorso a favore, gli compare l'azione Offrire aiuto. È una conversazione, e completarla concede la scorta a tutti i personaggi che la stavano aspettando su quel percorso.",
+      "pt": "OFERECER AJUDA. Quando passa por essa rota outra das tuas personagens, da classe que a tem a favor, aparece-lhe a ação Oferecer ajuda. É uma conversa, e ao completá-la concede a escolta a todas as personagens que estavam à espera nessa rota.",
+      "pt-BR": "OFERECER AJUDA. Quando outro dos seus personagens, da classe que tem essa rota a favor, passa por ela, aparece para ele a ação Oferecer ajuda. É uma conversa, e ao completá-la ele concede a escolta a todos os personagens que estavam esperando nessa rota.",
+      "ru": "ПРЕДЛОЖИТЬ ПОМОЩЬ. Когда по этому маршруту проходит другой твой персонаж того класса, которому маршрут даётся легко, у него появляется действие «Предложить помощь». Это разговор, и когда он завершён, сопровождение получают все персонажи, которые ждали его на этом маршруте.",
+      "pl": "ZAOFERUJ POMOC. Gdy tą trasą przechodzi inna twoja postać z klasy, której ta trasa sprzyja, pojawia się u niej akcja Zaoferuj pomoc. To rozmowa, a jej ukończenie daje eskortę wszystkim postaciom, które na tej trasie na nią czekały.",
+      "zh-Hans": "提供帮助。当你的另一个角色经过这条路线，而他的职业正好在这条路线上占优势时，他会看到“提供帮助”这个行动。这是一段对话，完成后，所有在这条路线上等待的角色都会获得护送。"
+    },
+    {
+      "es": "PARA SIEMPRE. La escolta cubre la ruta entera, el combate y el obstáculo, y no se pierde: sigue contigo aunque mueras, renazcas o reencarnes, y esté donde esté el personaje que te ayudó. El escolta lleva siempre el nombre actual de ese personaje.",
+      "en": "FOREVER. The escort covers the whole route, fight and obstacle, and it is never lost: it stays with you even if you die, go through a rebirth or a Reincarnate, wherever the character who helped you happens to be. The escort always carries that character's current name.",
+      "fr": "POUR TOUJOURS. L'escorte couvre toute la route, combat et obstacle, et ne se perd pas : elle reste avec toi même si tu meurs, renais ou fais un Reincarnate, où que soit le personnage qui t'a aidé. L'escorte porte toujours le nom actuel de ce personnage.",
+      "de": "FÜR IMMER. Die Eskorte gilt für den ganzen Weg, Kampf und Hindernis, und geht nie verloren: Sie bleibt dir auch nach Tod, Wiedergeburt oder Reincarnate, egal wo der Charakter gerade ist, der dir geholfen hat. Die Eskorte trägt immer den aktuellen Namen dieses Charakters.",
+      "it": "PER SEMPRE. La scorta copre tutto il percorso, combattimento e ostacolo, e non si perde: resta con te anche se muori, rinasci o fai un Reincarnate, ovunque si trovi il personaggio che ti ha aiutato. La scorta porta sempre il nome attuale di quel personaggio.",
+      "pt": "PARA SEMPRE. A escolta cobre a rota inteira, combate e obstáculo, e não se perde: continua contigo mesmo que morras, renasças ou faças um Reincarnate, esteja onde estiver a personagem que te ajudou. A escolta leva sempre o nome atual dessa personagem.",
+      "pt-BR": "PARA SEMPRE. A escolta cobre a rota inteira, combate e obstáculo, e não se perde: continua com você mesmo que você morra, renasça ou faça um Reincarnate, esteja onde estiver o personagem que ajudou você. A escolta leva sempre o nome atual desse personagem.",
+      "ru": "НАВСЕГДА. Сопровождение действует на весь маршрут, и на бой, и на препятствие, и не теряется: оно остаётся с тобой после смерти, перерождения и Реинкарнации, где бы ни был персонаж, который тебе помог. Сопровождающий всегда носит текущее имя этого персонажа.",
+      "pl": "NA ZAWSZE. Eskorta obejmuje całą trasę, walkę i przeszkodę, i nie przepada: zostaje z tobą, nawet gdy zginiesz, odrodzisz się albo zrobisz Reinkarnację, gdziekolwiek jest postać, która ci pomogła. Eskorta zawsze nosi obecne imię tej postaci.",
+      "zh-Hans": "永久有效。护送覆盖整条路线，包括战斗和障碍，而且不会失去：即使你死亡、重生或转生，无论帮助你的那个角色身在何处，护送都会一直跟着你。护送者永远显示那个角色当前的名字。"
     },
     {
       "es": "En un combate te cuesta el mismo tiempo que le costaría a la clase para la que esa ruta es fácil, recibes 0 de daño y sigues entrenando tu estadística de combate. En un obstáculo, lo pasas.",
@@ -49,6 +73,18 @@
       "zh-Hans": "战斗中你花的时间和那条路线所对应的职业一样，受到 0 伤害，而且照样在练自己的战斗属性。遇到障碍，直接通过。"
     },
     {
+      "es": "COMBATES A GOLPES. El escolta tiene su propio recuadro y ataca contigo, y la experiencia sigue siendo toda tuya. Un escolta ranger también te hace empezar el combate en Sigilo.",
+      "en": "BLOW BY BLOW FIGHTS. The escort gets their own box and attacks alongside you, and all the experience is still yours. A Ranger escort also makes you start the fight in Stealth.",
+      "fr": "COMBATS COUP PAR COUP. L'escorte a son propre cadre et attaque avec toi, et toute l'expérience reste pour toi. Un Rôdeur en escorte te fait aussi commencer le combat en Discrétion.",
+      "de": "KÄMPFE SCHLAG AUF SCHLAG. Die Eskorte hat ihren eigenen Kasten und greift mit dir an, und die ganze Erfahrung gehört weiterhin dir. Ein Waldläufer als Eskorte lässt dich den Kampf außerdem getarnt beginnen.",
+      "it": "COMBATTIMENTI COLPO SU COLPO. La scorta ha il suo riquadro e attacca con te, e l'esperienza resta tutta tua. Un Ranger di scorta ti fa anche iniziare il combattimento in Furtività.",
+      "pt": "COMBATES GOLPE A GOLPE. A escolta tem o seu próprio quadro e ataca contigo, e a experiência continua a ser toda tua. Um Patrulheiro a escoltar-te também te faz começar o combate em Furtividade.",
+      "pt-BR": "COMBATES GOLPE A GOLPE. A escolta tem seu próprio quadro e ataca com você, e a experiência continua sendo toda sua. Um Patrulheiro escoltando você também faz você começar o combate em Furtividade.",
+      "ru": "БОИ УДАР ЗА УДАРОМ. У сопровождающего своё окно, он атакует вместе с тобой, а весь опыт по-прежнему достаётся тебе. Рейнджер в сопровождении ещё и даёт тебе начать бой в Скрытности.",
+      "pl": "WALKI CIOS ZA CIOSEM. Eskorta ma własne okienko i atakuje razem z tobą, a całe doświadczenie nadal jest twoje. Tropiciel w eskorcie sprawia też, że zaczynasz walkę w Ukryciu.",
+      "zh-Hans": "逐击战斗。护送者有自己的框，和你一起攻击，经验依然全部归你。游侠护送还会让你以潜行状态开战。"
+    },
+    {
       "es": "Lo que ganas: llegas antes al templo, rezas y te quitas media maldición, y puedes entrar a la academia de tu clase, que está en tu ruta difícil, a entrenar combate sin recibir daño.",
       "en": "What you gain: you reach the temple sooner, you pray and cut the curse in half, and you can walk into your class academy, which sits on your hard route, to train combat without taking damage.",
       "fr": "Ce que tu y gagnes : tu arrives plus tôt au temple, tu pries et tu réduis la malédiction de moitié, et tu peux entrer dans l'académie de ta classe, qui se trouve sur ta route difficile, pour entraîner le combat sans prendre de dégâts.",
@@ -59,6 +95,18 @@
       "ru": "Что ты получаешь: раньше добираешься до храма, молишься и снимаешь половину проклятия, а ещё можешь зайти в академию своего класса, которая стоит на твоём трудном маршруте, и тренировать бой без урона.",
       "pl": "Co zyskujesz: szybciej docierasz do świątyni, modlisz się i zbijasz klątwę o połowę, a do tego możesz wejść do akademii swojej klasy, która leży na twojej trudnej trasie, i trenować walkę bez obrażeń.",
       "zh-Hans": "你得到的好处：更早抵达神殿，祈祷后诅咒减半；还能进入位于困难路线上的本职学院，无伤训练战斗。"
+    },
+    {
+      "es": "De momento no hay escoltas en el capítulo 5.",
+      "en": "For now there are no escorts in chapter 5.",
+      "fr": "Pour l'instant, il n'y a pas d'escortes dans le chapitre 5.",
+      "de": "Im Moment gibt es in Kapitel 5 keine Eskorten.",
+      "it": "Per ora nel capitolo 5 non ci sono scorte.",
+      "pt": "Por agora não há escoltas no capítulo 5.",
+      "pt-BR": "Por enquanto não há escoltas no capítulo 5.",
+      "ru": "Пока что в главе 5 сопровождения нет.",
+      "pl": "Na razie w rozdziale 5 nie ma eskort.",
+      "zh-Hans": "目前第 5 章没有护送。"
     }
   ]
 }

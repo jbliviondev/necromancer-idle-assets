@@ -1,0 +1,76 @@
+{
+  "title": {
+    "es": "Skills de cada clase",
+    "en": "Class skills",
+    "fr": "Compétences de chaque classe",
+    "de": "Fähigkeiten jeder Klasse",
+    "it": "Abilità di ogni classe",
+    "pt": "Habilidades de cada classe",
+    "pt-BR": "Habilidades de cada classe",
+    "ru": "Навыки каждого класса",
+    "pl": "Umiejętności każdej klasy",
+    "zh-Hans": "各职业技能"
+  },
+  "body": [
+    {
+      "es": "Todas las clases tienen el Ataque normal, que no tiene recarga. Además, cada clase tiene sus propias skills: unas son ataques que se lanzan desde Instrucciones de combate y otras funcionan solas, como el Sigilo del ranger. Las recargas empiezan a contar desde que sale el golpe.",
+      "en": "Every class has the Normal Attack, which has no cooldown. On top of that, each class has its own skills: some are attacks launched from Combat instructions and others work on their own, like the Ranger's Stealth. Cooldowns start counting from the moment the hit lands.",
+      "fr": "Toutes les classes ont l'Attaque normale, qui n'a pas de recharge. En plus, chaque classe a ses propres compétences : certaines sont des attaques lancées depuis Instructions de combat et d'autres fonctionnent toutes seules, comme la Discrétion du Rôdeur. Les recharges commencent à compter dès que le coup part.",
+      "de": "Alle Klassen haben den Normalen Angriff, der keine Abklingzeit hat. Dazu hat jede Klasse ihre eigenen Fähigkeiten: Manche sind Angriffe, die aus den Kampfanweisungen heraus eingesetzt werden, andere wirken von allein, wie die Tarnung des Waldläufers. Abklingzeiten zählen ab dem Moment, in dem der Schlag trifft.",
+      "it": "Tutte le classi hanno l'Attacco normale, che non ha ricarica. Inoltre ogni classe ha le sue abilità: alcune sono attacchi che si lanciano da Istruzioni di combattimento e altre funzionano da sole, come la Furtività del Ranger. Le ricariche iniziano a contare da quando parte il colpo.",
+      "pt": "Todas as classes têm o Ataque normal, que não tem recarga. Além disso, cada classe tem as suas próprias habilidades: umas são ataques lançados a partir de Instruções de combate e outras funcionam sozinhas, como a Furtividade do Patrulheiro. As recargas começam a contar a partir do momento em que sai o golpe.",
+      "pt-BR": "Todas as classes têm o Ataque normal, que não tem recarga. Além disso, cada classe tem suas próprias habilidades: algumas são ataques lançados em Instruções de combate e outras funcionam sozinhas, como a Furtividade do Patrulheiro. As recargas começam a contar a partir do momento em que o golpe sai.",
+      "ru": "У всех классов есть Обычная атака без перезарядки. Кроме того, у каждого класса свои навыки: одни являются атаками, которые запускаются из «Боевых инструкций», а другие работают сами, как Скрытность рейнджера. Перезарядка начинает отсчёт с момента удара.",
+      "pl": "Wszystkie klasy mają Zwykły atak, który nie ma odnowienia. Poza tym każda klasa ma własne umiejętności: jedne to ataki uruchamiane z Instrukcji walki, a inne działają same, jak Ukrycie Tropiciela. Odnowienie zaczyna się liczyć od chwili, gdy wyjdzie cios.",
+      "zh-Hans": "所有职业都有普通攻击，它没有冷却。除此之外，每个职业都有自己的技能：有些是在“战斗指令”里发动的攻击，有些则自动生效，比如游侠的潜行。冷却从这一击打出的那一刻开始计算。"
+    },
+    {
+      "es": "SOLDADO, CONTRAATAQUE. Al completar su barra se pone en guardia durante 5 segundos, y los golpes del enemigo que caigan en ese rato quedan bloqueados y no te quitan nada. Al acabar la guardia golpea un 50% más fuerte que un Ataque normal. Recarga de 50 segundos.",
+      "en": "SOLDIER, COUNTERATTACK. When its bar completes, the Soldier goes on guard for 5 seconds, and any enemy hits that land in that time are blocked and take nothing from you. When the guard ends, the Soldier strikes 50% harder than a Normal Attack. 50 second cooldown.",
+      "fr": "SOLDAT, CONTRE-ATTAQUE. Quand sa barre est complète, le Soldat se met en garde pendant 5 secondes, et les coups de l'ennemi qui tombent pendant ce temps sont bloqués et ne te retirent rien. À la fin de la garde, il frappe 50 % plus fort qu'une Attaque normale. Recharge de 50 secondes.",
+      "de": "SOLDAT, GEGENANGRIFF. Ist sein Balken voll, geht der Soldat 5 Sekunden in Deckung, und Treffer des Gegners in dieser Zeit werden geblockt und ziehen dir nichts ab. Endet die Deckung, schlägt er 50 % härter zu als ein Normaler Angriff. Abklingzeit von 50 Sekunden.",
+      "it": "SOLDATO, CONTRATTACCO. Quando la sua barra si completa si mette in guardia per 5 secondi, e i colpi del nemico che arrivano in quel tempo vengono bloccati e non ti tolgono nulla. Finita la guardia colpisce il 50% più forte di un Attacco normale. Ricarica di 50 secondi.",
+      "pt": "SOLDADO, CONTRA-ATAQUE. Ao completar a sua barra põe-se em guarda durante 5 segundos, e os golpes do inimigo que caiam nesse tempo ficam bloqueados e não te tiram nada. No fim da guarda bate 50% mais forte do que um Ataque normal. Recarga de 50 segundos.",
+      "pt-BR": "SOLDADO, CONTRA-ATAQUE. Ao completar sua barra ele fica em guarda por 5 segundos, e os golpes do inimigo que caírem nesse tempo ficam bloqueados e não tiram nada de você. No fim da guarda ele bate 50% mais forte que um Ataque normal. Recarga de 50 segundos.",
+      "ru": "СОЛДАТ, КОНТРАТАКА. Когда его полоса заполняется, он встаёт в защиту на 5 секунд, и удары врага за это время блокируются и ничего у тебя не отнимают. Когда защита заканчивается, он бьёт на 50% сильнее Обычной атаки. Перезарядка 50 секунд.",
+      "pl": "ŻOŁNIERZ, KONTRATAK. Gdy jego pasek się zapełni, staje w gardzie na 5 sekund, a ciosy wroga, które spadną w tym czasie, zostają zablokowane i nic ci nie zabierają. Po zakończeniu gardy uderza o 50% mocniej niż Zwykły atak. Odnowienie 50 sekund.",
+      "zh-Hans": "战士，反击。进度条完成后进入 5 秒防御，这段时间里敌人的攻击会被格挡，不会让你掉血。防御结束后，他会打出比普通攻击强 50% 的一击。冷却 50 秒。"
+    },
+    {
+      "es": "RANGER, SIGILO. El ranger empieza cada combate sin ser detectado, y el enemigo no ataca hasta que completa su primer ataque. El Sigilo dura como mucho 20 segundos de combate; si el primer ataque no llega a tiempo, se pierde. Si sales y vuelves al mismo enemigo, no se recupera. Un escolta ranger también te hace empezar en Sigilo.",
+      "en": "RANGER, STEALTH. The Ranger starts every fight undetected, and the enemy doesn't attack until the Ranger completes their first attack. Stealth lasts at most 20 seconds of combat; if the first attack doesn't make it in time, it is lost. If you leave and come back to the same enemy, it doesn't come back. A Ranger escort also makes you start in Stealth.",
+      "fr": "RÔDEUR, DISCRÉTION. Le Rôdeur commence chaque combat sans être repéré, et l'ennemi n'attaque pas tant qu'il n'a pas terminé sa première attaque. La Discrétion dure au maximum 20 secondes de combat ; si la première attaque n'arrive pas à temps, elle est perdue. Si tu sors et reviens face au même ennemi, elle ne revient pas. Un Rôdeur en escorte te fait aussi commencer en Discrétion.",
+      "de": "WALDLÄUFER, TARNUNG. Der Waldläufer beginnt jeden Kampf unentdeckt, und der Gegner greift nicht an, bis er seinen ersten Angriff abgeschlossen hat. Die Tarnung hält höchstens 20 Sekunden Kampf; kommt der erste Angriff nicht rechtzeitig, geht sie verloren. Gehst du raus und kehrst zum selben Gegner zurück, kommt sie nicht wieder. Ein Waldläufer als Eskorte lässt dich ebenfalls getarnt beginnen.",
+      "it": "RANGER, FURTIVITÀ. Il Ranger inizia ogni combattimento senza essere individuato, e il nemico non attacca finché non completa il suo primo attacco. La Furtività dura al massimo 20 secondi di combattimento; se il primo attacco non arriva in tempo, si perde. Se esci e torni dallo stesso nemico, non si recupera. Anche un Ranger di scorta ti fa iniziare in Furtività.",
+      "pt": "PATRULHEIRO, FURTIVIDADE. O Patrulheiro começa cada combate sem ser detetado, e o inimigo não ataca até ele completar o seu primeiro ataque. A Furtividade dura no máximo 20 segundos de combate; se o primeiro ataque não chegar a tempo, perde-se. Se saíres e voltares ao mesmo inimigo, não se recupera. Um Patrulheiro a escoltar-te também te faz começar em Furtividade.",
+      "pt-BR": "PATRULHEIRO, FURTIVIDADE. O Patrulheiro começa cada combate sem ser detectado, e o inimigo não ataca até ele completar o primeiro ataque. A Furtividade dura no máximo 20 segundos de combate; se o primeiro ataque não chegar a tempo, ela se perde. Se você sair e voltar ao mesmo inimigo, ela não se recupera. Um Patrulheiro escoltando você também faz você começar em Furtividade.",
+      "ru": "РЕЙНДЖЕР, СКРЫТНОСТЬ. Рейнджер начинает каждый бой незамеченным, и враг не атакует, пока он не завершит первую атаку. Скрытность длится не больше 20 секунд боя; если первая атака не успевает, она теряется. Если выйти и вернуться к тому же врагу, она не восстанавливается. Рейнджер в сопровождении тоже даёт тебе начать бой в Скрытности.",
+      "pl": "TROPICIEL, UKRYCIE. Tropiciel zaczyna każdą walkę niewykryty, a wróg nie atakuje, dopóki nie ukończy on pierwszego ataku. Ukrycie trwa najwyżej 20 sekund walki; jeśli pierwszy atak nie zdąży, przepada. Jeśli wyjdziesz i wrócisz do tego samego wroga, nie wraca. Tropiciel w eskorcie też sprawia, że zaczynasz w Ukryciu.",
+      "zh-Hans": "游侠，潜行。游侠每场战斗开始时都不会被发现，在他完成第一次攻击之前敌人不会出手。潜行最多持续 20 秒战斗时间；如果第一次攻击没能及时完成，潜行就会失效。离开后再回来打同一个敌人，潜行不会恢复。有游侠护送时，你也会以潜行状态开战。"
+    },
+    {
+      "es": "RANGER, ATAQUE FURTIVO. Golpea un 50% más fuerte que un Ataque normal, y el doble si sale desde el Sigilo. Recarga de 50 segundos.",
+      "en": "RANGER, SNEAK ATTACK. It strikes 50% harder than a Normal Attack, and twice as hard if it comes out of Stealth. 50 second cooldown.",
+      "fr": "RÔDEUR, ATTAQUE SOURNOISE. Elle frappe 50 % plus fort qu'une Attaque normale, et deux fois plus fort si elle part depuis la Discrétion. Recharge de 50 secondes.",
+      "de": "WALDLÄUFER, HINTERHÄLTIGER ANGRIFF. Er trifft 50 % härter als ein Normaler Angriff, und doppelt so hart, wenn er aus der Tarnung kommt. Abklingzeit von 50 Sekunden.",
+      "it": "RANGER, ATTACCO FURTIVO. Colpisce il 50% più forte di un Attacco normale, e il doppio se parte dalla Furtività. Ricarica di 50 secondi.",
+      "pt": "PATRULHEIRO, ATAQUE FURTIVO. Bate 50% mais forte do que um Ataque normal, e o dobro se sair da Furtividade. Recarga de 50 segundos.",
+      "pt-BR": "PATRULHEIRO, ATAQUE FURTIVO. Bate 50% mais forte que um Ataque normal, e o dobro se sair da Furtividade. Recarga de 50 segundos.",
+      "ru": "РЕЙНДЖЕР, СКРЫТНАЯ АТАКА. Бьёт на 50% сильнее Обычной атаки и вдвое сильнее, если проведена из Скрытности. Перезарядка 50 секунд.",
+      "pl": "TROPICIEL, ATAK Z UKRYCIA. Uderza o 50% mocniej niż Zwykły atak, a dwa razy mocniej, jeśli wyjdzie z Ukrycia. Odnowienie 50 sekund.",
+      "zh-Hans": "游侠，偷袭。比普通攻击强 50%，如果在潜行状态下发动则为两倍。冷却 50 秒。"
+    },
+    {
+      "es": "MAGO, BOLA DE FUEGO. Alcanza a todos los enemigos de un grupo a la vez y hace a cada uno el 50% del daño normal. Contra un solo enemigo quita menos que un Ataque normal, así que ahí conviene bajarla en la lista. Recarga de 50 segundos.",
+      "en": "MAGE, FIREBALL. It hits every enemy in a group at once and deals each one 50% of normal damage. Against a single enemy it takes less than a Normal Attack, so there it's worth moving it down the list. 50 second cooldown.",
+      "fr": "MAGE, BOULE DE FEU. Elle touche tous les ennemis d'un groupe à la fois et inflige à chacun 50 % des dégâts normaux. Contre un seul ennemi, elle retire moins qu'une Attaque normale, donc là, mieux vaut la descendre dans la liste. Recharge de 50 secondes.",
+      "de": "MAGIER, FEUERBALL. Er trifft alle Gegner einer Gruppe gleichzeitig und fügt jedem 50 % des normalen Schadens zu. Gegen einen einzelnen Gegner zieht er weniger ab als ein Normaler Angriff, dort lohnt es sich also, ihn in der Liste nach unten zu schieben. Abklingzeit von 50 Sekunden.",
+      "it": "MAGO, PALLA DI FUOCO. Colpisce tutti i nemici di un gruppo insieme e fa a ciascuno il 50% del danno normale. Contro un solo nemico toglie meno di un Attacco normale, quindi lì conviene spostarla più in basso nella lista. Ricarica di 50 secondi.",
+      "pt": "MAGO, BOLA DE FOGO. Atinge todos os inimigos de um grupo ao mesmo tempo e causa a cada um 50% do dano normal. Contra um só inimigo tira menos do que um Ataque normal, por isso aí convém descê-la na lista. Recarga de 50 segundos.",
+      "pt-BR": "MAGO, BOLA DE FOGO. Atinge todos os inimigos de um grupo ao mesmo tempo e causa a cada um 50% do dano normal. Contra um só inimigo ela tira menos que um Ataque normal, então nesse caso vale a pena descê-la na lista. Recarga de 50 segundos.",
+      "ru": "МАГ, ОГНЕННЫЙ ШАР. Поражает всех врагов группы разом и наносит каждому 50% обычного урона. Против одного врага отнимает меньше, чем Обычная атака, так что там его стоит опустить ниже в списке. Перезарядка 50 секунд.",
+      "pl": "MAG, KULA OGNIA. Trafia wszystkich wrogów z grupy naraz i zadaje każdemu 50% zwykłych obrażeń. Przeciw jednemu wrogowi zabiera mniej niż Zwykły atak, więc wtedy warto przesunąć ją niżej na liście. Odnowienie 50 sekund.",
+      "zh-Hans": "法师，火球术。同时命中群体中的所有敌人，对每个敌人造成普通伤害的 50%。对单个敌人时，它削的血比普通攻击少，所以这种情况下最好把它往列表下方挪。冷却 50 秒。"
+    }
+  ]
+}
