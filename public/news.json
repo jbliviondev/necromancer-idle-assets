@@ -56,48 +56,6 @@
     "zh-Hans": "如果你要绕去别的房间做任务，可以在自动化清单里那个出口之后继续加行动，从任务房间回来时它们还会留在队列里。"
   },
   {
-    "id": "fijar-paneles",
-    "es": "Puedes fijar los paneles para evitar que se muevan mientras modificas otros paneles.",
-    "es-419": "Puedes fijar los paneles para evitar que se muevan mientras modificas otros paneles.",
-    "en": "You can pin panels to keep them from moving while you rearrange others.",
-    "fr": "Tu peux épingler les panneaux pour les empêcher de bouger pendant que tu en modifies d'autres.",
-    "de": "Du kannst Panels anheften, damit sie sich nicht verschieben, während du andere bearbeitest.",
-    "it": "Puoi bloccare i pannelli per evitare che si spostino mentre ne modifichi altri.",
-    "pt": "Podes fixar os painéis para evitar que se movam enquanto modificas outros.",
-    "pt-BR": "Você pode fixar os painéis para evitar que se movam enquanto modifica outros.",
-    "ru": "Панели можно закрепить, чтобы они не сдвигались, пока ты меняешь остальные.",
-    "pl": "Możesz przypiąć panele, żeby nie przesuwały się przy zmianie innych paneli.",
-    "zh-Hans": "可以把面板固定住，免得调整其他面板时它们跟着乱跑。"
-  },
-  {
-    "id": "opalo-negro-drow",
-    "es": "Ahora el drow otorga un ópalo negro que puede ser vendido en cualquier mercado",
-    "es-419": "Ahora el drow otorga un ópalo negro que puede ser vendido en cualquier mercado",
-    "en": "The drow now drops a black opal that can be sold at any market",
-    "fr": "Le drow laisse désormais une opale noire qui peut être vendue dans n'importe quel marché",
-    "de": "Der Drow lässt jetzt einen schwarzen Opal fallen, der sich auf jedem Markt verkaufen lässt",
-    "it": "Il drow ora lascia un'opale nera che può essere venduta in qualsiasi mercato",
-    "pt": "O drow passa a deixar uma opala negra que pode ser vendida em qualquer mercado",
-    "pt-BR": "O drow agora deixa uma opala negra que pode ser vendida em qualquer mercado",
-    "ru": "Теперь дроу оставляет чёрный опал, который можно продать на любом рынке",
-    "pl": "Drow daje teraz czarny opal, który można sprzedać na dowolnym targu.",
-    "zh-Hans": "卓尔现在会掉落一枚黑蛋白石，可以在任意集市卖掉。"
-  },
-  {
-    "id": "encuentros-personajes",
-    "es": "Puedes encontrarte a tus propios personajes a lo largo de capítulos que ellos ya hayan superado.",
-    "es-419": "Puedes encontrarte a tus propios personajes a lo largo de capítulos que ellos ya hayan superado.",
-    "en": "You can run into your own past characters in chapters they've already cleared.",
-    "fr": "Tu peux croiser tes propres personnages dans des chapitres qu'ils ont déjà terminés.",
-    "de": "Du kannst deinen eigenen früheren Charakteren in Kapiteln begegnen, die sie bereits abgeschlossen haben.",
-    "it": "Puoi incontrare i tuoi stessi personaggi nei capitoli che hanno già superato.",
-    "pt": "Podes encontrar-te com as tuas próprias personagens em capítulos que elas já tenham superado.",
-    "pt-BR": "Você pode encontrar seus próprios personagens em capítulos que eles já superaram.",
-    "ru": "Ты можешь встретить своих же персонажей в главах, которые они уже прошли.",
-    "pl": "Możesz spotkać własne postacie w rozdziałach, które one już przeszły.",
-    "zh-Hans": "在自己其他角色已经通过的章节里，你有机会遇到他们。"
-  },
-  {
     "id": "combate-facil-encuentro",
     "es": "Cuando te encuentras con otro de tus personajes, podrás superar el combate de esa ruta sin recibir daño y superar el obstáculo con facilidad, lo que te permitirá avanzar más rápido en cada rebirth.",
     "es-419": "Cuando te encuentras con otro de tus personajes, podrás superar el combate de esa ruta sin recibir daño y superar el obstáculo con facilidad, lo que te permitirá avanzar más rápido en cada rebirth.",
