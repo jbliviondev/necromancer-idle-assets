@@ -56,6 +56,20 @@
     "zh-Hans": "正在开发第 2 章的一条新探索路线，包含新任务"
   },
   {
+    "id": "codigos-regalo-proximamente",
+    "es": "Próximamente, códigos de regalo que suman horas a tu reserva de tiempo offline.",
+    "es-419": "Próximamente, códigos de regalo que suman horas a tu reserva de tiempo offline.",
+    "en": "Coming soon: gift codes that add hours to your offline time reserve.",
+    "fr": "Bientôt, des codes cadeaux qui ajoutent des heures à ta réserve de temps hors ligne.",
+    "de": "Bald: Geschenkcodes, die deinem Offline-Zeitvorrat Stunden hinzufügen.",
+    "it": "Presto, codici regalo che aggiungono ore alla tua riserva di tempo offline.",
+    "pt": "Em breve, códigos de oferta que somam horas à tua reserva de tempo offline.",
+    "pt-BR": "Em breve, códigos de presente que somam horas à sua reserva de tempo offline.",
+    "ru": "Скоро: подарочные коды, которые добавят часы в твой резерв офлайн-времени.",
+    "pl": "Wkrótce kody podarunkowe, które dodadzą godziny do twojego zapasu czasu offline.",
+    "zh-Hans": "即将推出：可以为你的离线时间存量增加小时数的兑换码。"
+  },
+  {
     "id": "automatizacion-desvio-quest",
     "es": "Si vas a tomar un desvío a otra room para hacer una quest, puedes añadir más acciones en la lista de automatización posteriores a esa salida y seguirán en la cola de acciones cuando vuelvas de la room de la quest.",
     "es-419": "Si vas a tomar un desvío a otra room para hacer una quest, puedes añadir más acciones en la lista de automatización posteriores a esa salida y seguirán en la cola de acciones cuando vuelvas de la room de la quest.",
