@@ -42,6 +42,20 @@
     "zh-Hans": "1.0.14 补丁，第 1 章新增小径、任务和唯一首领。[点击这里了解更多](https://store.steampowered.com/news/app/4936120/view/697649623690380831)"
   },
   {
+    "id": "ruta-capitulo-2",
+    "es": "Actualmente desarrollando una nueva ruta para explorar el capítulo 2 con nuevas quests",
+    "es-419": "Actualmente desarrollando una nueva ruta para explorar el capítulo 2 con nuevas quests",
+    "en": "Currently developing a new route to explore chapter 2, with new quests",
+    "fr": "Nouvelle route en développement pour explorer le chapitre 2, avec de nouvelles quêtes",
+    "de": "Derzeit in Entwicklung: eine neue Route, um Kapitel 2 mit neuen Quests zu erkunden",
+    "it": "Attualmente in sviluppo una nuova rotta per esplorare il capitolo 2, con nuove quest",
+    "pt": "Em desenvolvimento: uma nova rota para explorar o capítulo 2, com novas quests",
+    "pt-BR": "Em desenvolvimento: uma nova rota para explorar o capítulo 2, com novas quests",
+    "ru": "Сейчас в разработке новый маршрут по главе 2 с новыми квестами",
+    "pl": "Obecnie trwają prace nad nową trasą w rozdziale 2, z nowymi questami",
+    "zh-Hans": "正在开发第 2 章的一条新探索路线，包含新任务"
+  },
+  {
     "id": "automatizacion-desvio-quest",
     "es": "Si vas a tomar un desvío a otra room para hacer una quest, puedes añadir más acciones en la lista de automatización posteriores a esa salida y seguirán en la cola de acciones cuando vuelvas de la room de la quest.",
     "es-419": "Si vas a tomar un desvío a otra room para hacer una quest, puedes añadir más acciones en la lista de automatización posteriores a esa salida y seguirán en la cola de acciones cuando vuelvas de la room de la quest.",
