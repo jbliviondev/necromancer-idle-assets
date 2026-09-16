@@ -4,5 +4,13 @@
     "reward": {
       "poolHours": 4
     }
+  },
+  {
+    "hash": "c774aa6bd34825c1be61cc5c44e409b37d491ebb0946b3ebb5a83894500418d8",
+    "reward": {
+      "poolHours": 10,
+      "capHours": 4
+    },
+    "expires": "2026-09-23T13:23:50.876Z"
   }
 ]
