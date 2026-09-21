@@ -18,5 +18,11 @@
     "reward": {
       "poolHours": 5
     }
+  },
+  {
+    "hash": "d15d6b92f0b9b99d8ab3bf3f9c184dd686106d1db3b7333280ae537823355c1c",
+    "reward": {
+      "poolHours": 4
+    }
   }
 ]
