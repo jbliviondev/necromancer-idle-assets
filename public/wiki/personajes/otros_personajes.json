@@ -25,16 +25,16 @@
       "zh-Hans": "一个角色**就能通关全部内容**，现有的和以后新增的都一样。其他角色都是可选的，唯一的代价是时间。"
     },
     {
-      "es": "ESCOLTAS. Se escoltan entre ellos: en cada capítulo que otro de tus personajes tenga terminado, aparece en la ruta fácil de su clase y te resuelve el combate sin daño y el obstáculo.",
-      "en": "ESCORTS. They escort each other: in every chapter another of your characters has finished, they show up on the easy route of their class and solve the fight for you with no damage, and the obstacle too.",
-      "fr": "ESCORTES. Ils s'escortent entre eux : dans chaque chapitre qu'un autre de tes personnages a terminé, il apparaît sur la route facile de sa classe et te règle le combat sans dégâts, ainsi que l'obstacle.",
-      "de": "ESKORTEN. Sie eskortieren einander: In jedem Kapitel, das ein anderer deiner Charaktere abgeschlossen hat, taucht er auf dem leichten Weg seiner Klasse auf und erledigt für dich den Kampf ohne Schaden und das Hindernis.",
-      "it": "SCORTE. Si scortano a vicenda: in ogni capitolo che un altro dei tuoi personaggi ha finito, compare sul percorso facile della sua classe e ti risolve il combattimento senza danni e anche l'ostacolo.",
-      "pt": "ESCOLTAS. Escoltam-se entre si: em cada capítulo que outra das tuas personagens tenha terminado, ela aparece na rota fácil da sua classe e resolve-te o combate sem dano e o obstáculo.",
-      "pt-BR": "ESCOLTAS. Eles se escoltam entre si: em cada capítulo que outro dos seus personagens tenha terminado, ele aparece na rota fácil da classe dele e resolve o combate sem dano e também o obstáculo.",
-      "ru": "СОПРОВОЖДЕНИЕ. Они сопровождают друг друга: в каждой главе, которую прошёл другой твой персонаж, он появляется на лёгком маршруте своего класса и решает за тебя бой без урона, а также препятствие.",
-      "pl": "ESKORTY. Eskortują się nawzajem: w każdym rozdziale ukończonym przez inną twoją postać pojawia się ona na łatwej trasie swojej klasy i załatwia za ciebie walkę bez obrażeń oraz przeszkodę.",
-      "zh-Hans": "护送。角色之间可以互相护送：你另一个角色已通关的每一章里，他都会出现在自己职业的简单路线上，替你无伤解决战斗，也帮你越过障碍。"
+      "es": "ESCOLTAS. Se escoltan entre ellos: el que pasa por una ruta que su clase hace fácil deja allí su ayuda, y a partir de ahí esa ruta la llevan escoltada los demás, con el combate sin daño y el obstáculo resuelto.",
+      "en": "ESCORTS. They escort each other: the one who passes through a route their class finds easy leaves their help there, and from then on the others take that route escorted, with the fight damage free and the obstacle solved.",
+      "fr": "ESCORTES. Ils s'escortent entre eux : celui qui passe par une route facile pour sa classe y laisse son aide, et à partir de là les autres font cette route escortés, avec le combat sans dégâts et l'obstacle réglé.",
+      "de": "ESKORTEN. Sie eskortieren einander: Wer über einen Weg kommt, der seiner Klasse leichtfällt, lässt dort seine Hilfe, und von da an gehen die anderen diesen Weg eskortiert, mit dem Kampf ohne Schaden und dem gelösten Hindernis.",
+      "it": "SCORTE. Si scortano a vicenda: chi passa da un percorso facile per la sua classe ci lascia il suo aiuto, e da lì in poi gli altri fanno quel percorso scortati, con il combattimento senza danni e l'ostacolo risolto.",
+      "pt": "ESCOLTAS. Escoltam-se entre si: quem passa por uma rota fácil para a sua classe deixa ali a sua ajuda, e a partir daí as outras fazem essa rota escoltadas, com o combate sem dano e o obstáculo resolvido.",
+      "pt-BR": "ESCOLTAS. Eles se escoltam entre si: quem passa por uma rota fácil para a classe dele deixa ali a sua ajuda, e a partir daí os outros fazem essa rota escoltados, com o combate sem dano e o obstáculo resolvido.",
+      "ru": "СОПРОВОЖДЕНИЕ. Они сопровождают друг друга: тот, кто проходит по маршруту, лёгкому для его класса, оставляет там свою помощь, и с этого момента остальные идут этим маршрутом с сопровождением, с боем без урона и пройденным препятствием.",
+      "pl": "ESKORTY. Eskortują się nawzajem: ta postać, która przechodzi trasą łatwą dla swojej klasy, zostawia tam swoją pomoc, a od tej pory pozostałe idą tą trasą z eskortą, z walką bez obrażeń i pokonaną przeszkodą.",
+      "zh-Hans": "护送。角色之间可以互相护送：谁走过一条对自己职业轻松的路线，就在那里留下帮助，从此其他角色走这条路线都带着护送，战斗无伤，障碍也有人解决。"
     },
     {
       "es": "BONOS CRUZADOS. Los bonos de Reincarnate se cruzan. Por cada 2 niveles que compras de un bono en un personaje, los demás reciben **+1 gratis** de ese mismo bono, sin que a ellos les suba el precio. Repartir la subida sale mucho más barato que exprimir a uno solo.",
