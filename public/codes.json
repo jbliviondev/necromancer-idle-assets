@@ -20,6 +20,12 @@
     }
   },
   {
+    "hash": "9dca3b658c55089e06bb098159a8aeabbcb9227520a59297b18b7d5fc8791a5d",
+    "reward": {
+      "poolHours": 10
+    }
+  },
+  {
   "hash": "38d743956373ae306f00a872711f4f54e14bf0847131754b55fa665baae411a7",
     "reward": { "poolHours": 10 },
       "expires": "2026-10-03T11:05:27.550Z"
