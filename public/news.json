@@ -42,6 +42,20 @@
     "zh-Hans": "1.0.18 更新：第 4 章新增一条可探索路线，带有塔防（Tower Defence）玩法和一个唯一首领（Unique boss）。[点击这里了解更多](https://store.steampowered.com/news/app/4936120/view/708909893000628048)"
   },
   {
+  "id": "patch-1-0-19",
+  "es": "Parche 1.0.19: Combat plan configurable, buscador de rooms en el mapa y más. [Para más información pulsa aquí](https://store.steampowered.com/news/app/4936120/view/708909893000628694)",
+  "es-419": "Parche 1.0.19: Combat plan configurable, buscador de rooms en el mapa y más. [Para más información pulsa aquí](https://store.steampowered.com/news/app/4936120/view/708909893000628694)",
+  "en": "Patch 1.0.19: configurable Combat Plan, a room search on the map and more. [Click here for more information](https://store.steampowered.com/news/app/4936120/view/708909893000628694)",
+  "fr": "Patch 1.0.19 : Plan de combat configurable, recherche de salles sur la carte et plus encore. [Cliquez ici pour plus d'informations](https://store.steampowered.com/news/app/4936120/view/708909893000628694)",
+  "de": "Patch 1.0.19: anpassbarer Kampfplan, Raumsuche auf der Karte und mehr. [Hier klicken für mehr Informationen](https://store.steampowered.com/news/app/4936120/view/708909893000628694)",
+  "it": "Patch 1.0.19: Piano di lotta configurabile, ricerca delle stanze sulla mappa e altro. [Clicca qui per maggiori informazioni](https://store.steampowered.com/news/app/4936120/view/708909893000628694)",
+  "pt": "Patch 1.0.19: Plano de combate configurável, pesquisa de salas no mapa e mais. [Clique aqui para mais informação](https://store.steampowered.com/news/app/4936120/view/708909893000628694)",
+  "pt-BR": "Patch 1.0.19: Plano de combate configurável, busca de salas no mapa e mais. [Clique aqui para mais informações](https://store.steampowered.com/news/app/4936120/view/708909893000628694)",
+  "ru": "Патч 1.0.19: настраиваемый план боя, поиск комнат на карте и многое другое. [Нажмите здесь, чтобы узнать больше](https://store.steampowered.com/news/app/4936120/view/708909893000628694)",
+  "pl": "Aktualizacja 1.0.19: konfigurowalny plan walki, wyszukiwarka sal na mapie i nie tylko. [Kliknij tutaj, aby dowiedzieć się więcej](https://store.steampowered.com/news/app/4936120/view/708909893000628694)",
+  "zh-Hans": "1.0.19 更新：可配置的战斗计划、地图上的房间搜索，以及更多内容。[点击这里了解更多](https://store.steampowered.com/news/app/4936120/view/708909893000628694)"
+  },
+  {
     "id": "codigo-ch4-content",
     "es": "La nueva ruta del capítulo 4 lleva a una quest tipo Tower Defense. Para mayor diversión se recomienda hacerla antes del capítulo 5. Aquí un código regalo para explorarla: CH4-CONTENT",
     "es-419": "La nueva ruta del capítulo 4 lleva a una quest tipo Tower Defense. Para mayor diversión se recomienda hacerla antes del capítulo 5. Aquí un código de regalo para explorarla: CH4-CONTENT",
