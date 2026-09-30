@@ -49,16 +49,16 @@
       "zh-Hans": "除了先天属性，你还会失去生命上限，它会回到初始值，以及一条命之内的一切：物品栏、金钱、法术、徽章和背包。"
     },
     {
-      "es": "LO QUE CONSERVAS. Lo demás lo conservas: los planes de automatización y las ranuras de presets, el mapa que llevas descubierto, el capítulo más lejano al que llegaste, la colocación de tus paneles y los jefes únicos que mataste.",
-      "en": "WHAT YOU KEEP. Everything else you keep: your automation plans and preset slots, the map you have uncovered, the furthest chapter you reached, the layout of your panels and the unique bosses you killed.",
-      "fr": "CE QUE TU GARDES. Le reste, tu le gardes : les plans d'automatisation et les emplacements de presets, la carte déjà découverte, le chapitre le plus loin que tu as atteint, la disposition de tes panneaux et les boss uniques que tu as tués.",
-      "de": "WAS DU BEHÄLTST. Alles andere behältst du: deine Automatisierungspläne und Preset-Plätze, die aufgedeckte Karte, das am weitesten erreichte Kapitel, die Anordnung deiner Panels und die einzigartigen Bosse, die du erlegt hast.",
-      "it": "COSA CONSERVI. Il resto lo conservi: i piani di automazione e gli slot dei preset, la mappa che hai scoperto, il capitolo più lontano a cui sei arrivato, la disposizione dei tuoi pannelli e i boss unici che hai ucciso.",
-      "pt": "O QUE CONSERVAS. O resto conservas: os planos de automatização e as ranhuras de presets, o mapa que levas descoberto, o capítulo mais longe a que chegaste, a disposição dos teus painéis e os chefes únicos que mataste.",
-      "pt-BR": "O QUE VOCÊ CONSERVA. O resto você conserva: os planos de automação e os espaços de presets, o mapa que já descobriu, o capítulo mais distante a que chegou, a disposição dos seus painéis e os chefes únicos que matou.",
-      "ru": "ЧТО ОСТАЁТСЯ. Всё остальное остаётся: планы автоматизации и слоты пресетов, открытая карта, самая дальняя достигнутая глава, расположение панелей и убитые уникальные боссы.",
-      "pl": "CO ZACHOWUJESZ. Resztę zachowujesz: plany automatyzacji i sloty ustawień, odkrytą mapę, najdalszy osiągnięty rozdział, układ paneli oraz zabitych unikalnych bossów.",
-      "zh-Hans": "保留什么。其余都会保留：自动化方案和预设槽位、已探索的地图、你到达过的最远章节、面板的摆放位置，以及你击杀过的唯一首领。"
+      "es": "LO QUE CONSERVAS. Lo demás lo conservas: los planes de automatización y las ranuras de presets, el mapa que llevas descubierto, el capítulo más lejano al que llegaste y los jefes únicos que mataste.",
+      "en": "WHAT YOU KEEP. Everything else you keep: your automation plans and preset slots, the map you have uncovered, the furthest chapter you reached and the unique bosses you killed.",
+      "fr": "CE QUE TU GARDES. Le reste, tu le gardes : les plans d'automatisation et les emplacements de presets, la carte déjà découverte, le chapitre le plus loin que tu as atteint et les boss uniques que tu as tués.",
+      "de": "WAS DU BEHÄLTST. Alles andere behältst du: deine Automatisierungspläne und Preset-Plätze, die aufgedeckte Karte, das am weitesten erreichte Kapitel und die einzigartigen Bosse, die du erlegt hast.",
+      "it": "COSA CONSERVI. Il resto lo conservi: i piani di automazione e gli slot dei preset, la mappa che hai scoperto, il capitolo più lontano a cui sei arrivato e i boss unici che hai ucciso.",
+      "pt": "O QUE CONSERVAS. O resto conservas: os planos de automatização e as ranhuras de presets, o mapa que levas descoberto, o capítulo mais longe a que chegaste e os chefes únicos que mataste.",
+      "pt-BR": "O QUE VOCÊ CONSERVA. O resto você conserva: os planos de automação e os espaços de presets, o mapa que já descobriu, o capítulo mais distante a que chegou e os chefes únicos que matou.",
+      "ru": "ЧТО ОСТАЁТСЯ. Всё остальное остаётся: планы автоматизации и слоты пресетов, открытая карта, самая дальняя достигнутая глава и убитые уникальные боссы.",
+      "pl": "CO ZACHOWUJESZ. Resztę zachowujesz: plany automatyzacji i sloty ustawień, odkrytą mapę, najdalszy osiągnięty rozdział oraz zabitych unikalnych bossów.",
+      "zh-Hans": "保留什么。其余都会保留：自动化方案和预设槽位、已探索的地图、你到达过的最远章节，以及你击杀过的唯一首领。"
     },
     {
       "es": "Sobreviven también los puntos que no hayas gastado y todos los bonos que ya tengas comprados.",
