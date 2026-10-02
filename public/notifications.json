@@ -18,5 +18,25 @@
     "ru": "План автоматизации переживает Реинкарнацию, но в начале забега, возможно, стоит кое-что поменять.\nТы получишь больше очков реинкарнации, если сумеешь одолеть Некроманта.\nКроме того, каждые 2 купленных уровня улучшений дают всем твоим остальным персонажам +1 уровень этого же улучшения, так что время, вложенное в одного персонажа, продвигает и остальных.",
     "pl": "Po reinkarnacji zachowujesz swój plan automatyzacji, ale na początek nowej gry warto go trochę zmienić.\nZdobędziesz więcej punktów reinkarnacji, jeśli uda ci się pokonać Nekromantę.\nDo tego każde 2 kupione poziomy ulepszenia dają wszystkim twoim pozostałym postaciom +1 poziom tego samego ulepszenia, więc czas włożony w jedną postać popycha do przodu i resztę.",
     "zh-Hans": "转生之后你的自动化计划会保留下来，不过开局阶段也许值得改动几处。\n如果你能击败死灵法师，拿到的转生点数会更多。\n另外，每买 2 级强化，你其他所有角色的同一项强化都会 +1 级，所以花在一个角色上的时间也会推着其余角色往前走。"
+  },
+  {
+    "id": "beta-android-review",
+    "builds": [
+      "full"
+    ],
+    "when": {
+      "reincarnatesMin": 3
+    },
+    "es": "¡La beta de Necromancer Idle para Android ya ha empezado! Espero tenerlo publicado en las próximas semanas, junto con un servidor propio de guardado en la nube para que puedas jugar la misma partida en Steam y en Android.\nSi estás disfrutando del juego, dejar una review en Steam ayuda muchísimo.\nCualquier sugerencia puedes dejarla en el foro o mandarla con Reportar bug.",
+    "es-419": "¡La beta de Necromancer Idle para Android ya ha empezado! Espero tenerlo publicado en las próximas semanas, junto con un servidor propio de guardado en la nube para que puedas jugar la misma partida en Steam y en Android.\nSi estás disfrutando del juego, dejar una review en Steam ayuda muchísimo.\nCualquier sugerencia puedes dejarla en el foro o mandarla con Reportar bug.",
+    "en": "The Android beta of Necromancer Idle has started! I hope to release it in the coming weeks, together with my own cloud save server so you can play the same save on Steam and on Android.\nIf you are enjoying the game, leaving a review on Steam helps a lot.\nYou can post any suggestion on the forum or send it with Report bug.",
+    "fr": "La bêta Android de Necromancer Idle a commencé ! J'espère publier le jeu sur Android dans les prochaines semaines, avec mon propre serveur de sauvegarde dans le cloud pour que tu puisses jouer la même partie sur Steam et sur Android.\nSi le jeu te plaît, laisser une évaluation sur Steam aide énormément.\nTu peux laisser tes suggestions sur le forum ou les envoyer avec Signaler un bug.",
+    "de": "Die Android-Beta von Necromancer Idle hat begonnen! Ich hoffe, das Spiel in den nächsten Wochen auf Android zu veröffentlichen, zusammen mit einem eigenen Server für Cloud-Speicherstände, damit du denselben Spielstand auf Steam und auf Android spielen kannst.\nWenn dir das Spiel gefällt, hilft eine Rezension auf Steam enorm.\nVorschläge kannst du im Forum hinterlassen oder über Fehler melden schicken.",
+    "it": "La beta per Android di Necromancer Idle è iniziata! Spero di pubblicare il gioco su Android nelle prossime settimane, insieme a un mio server per i salvataggi nel cloud, così potrai giocare la stessa partita su Steam e su Android.\nSe il gioco ti sta piacendo, lasciare una recensione su Steam aiuta tantissimo.\nPuoi lasciare qualsiasi suggerimento nel forum o inviarlo con Segnala un bug.",
+    "pt": "A beta de Necromancer Idle para Android já começou! Espero publicar o jogo no Android nas próximas semanas, juntamente com um servidor próprio de gravação na nuvem para que possas continuar o mesmo jogo guardado na Steam e no Android.\nSe estás a gostar do jogo, deixar uma análise na Steam ajuda imenso.\nPodes deixar qualquer sugestão no fórum ou enviá-la com Reportar erro.",
+    "pt-BR": "A beta de Necromancer Idle para Android já começou! Espero publicar o jogo no Android nas próximas semanas, junto com um servidor próprio de salvamento na nuvem para você jogar o mesmo save na Steam e no Android.\nSe você está curtindo o jogo, deixar uma análise na Steam ajuda muito.\nVocê pode deixar qualquer sugestão no fórum ou enviar pelo Reportar bug.",
+    "ru": "Бета Necromancer Idle для Android уже началась! Надеюсь выпустить игру на Android в ближайшие недели вместе с собственным сервером облачных сохранений, чтобы одно и то же сохранение можно было продолжать и в Steam, и на Android.\nЕсли тебе нравится игра, обзор в Steam очень поможет.\nЛюбые предложения можно оставить на форуме или отправить через «Сообщить об ошибке».",
+    "pl": "Beta Necromancer Idle na Androida już się zaczęła! Mam nadzieję wydać grę na Androida w najbliższych tygodniach, razem z własnym serwerem zapisów w chmurze, żeby ten sam zapis gry można było prowadzić na Steamie i na Androidzie.\nJeśli gra ci się podoba, recenzja na Steamie bardzo pomaga.\nWszelkie sugestie możesz zostawić na forum albo wysłać przez Zgłoś błąd.",
+    "zh-Hans": "Necromancer Idle 的安卓版测试已经开始！我希望在接下来几周内在安卓上正式发布，同时上线我自己的云存档服务器，让你在 Steam 和安卓上玩同一份存档。\n如果你喜欢这款游戏，在 Steam 上留下评测会帮上大忙。\n有任何建议，可以发到论坛，或者用“报告问题”发给我。"
   }
 ]
