@@ -69,7 +69,6 @@
     "pl": "Jeśli zamierzasz zboczyć do innej sali po zadanie, możesz dopisać na liście automatyzacji akcje następujące po tym wyjściu, a zostaną w kolejce, gdy wrócisz z sali zadania.",
     "zh-Hans": "如果你要绕去别的房间做任务，可以在自动化清单里那个出口之后继续加行动，从任务房间回来时它们还会留在队列里。"
   },
-
   {
     "id": "combate-facil-encuentro",
     "es": "Cuando te encuentras con otro de tus personajes, podrás superar el combate de esa ruta sin recibir daño y superar el obstáculo con facilidad, lo que te permitirá avanzar más rápido en cada rebirth.",
