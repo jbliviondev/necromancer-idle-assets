@@ -28,6 +28,20 @@
     "zh-Hans": "Necromancer Idle 安卓版 beta 测试已经开始！想参加的话，请发邮件到 jbliviondev@gmail.com。需要一台安卓手机和一个 Google 账号。请用英文或西班牙文联系我。[点这里报名](https://steamcommunity.com/app/4936120/discussions/0/591813764140099412/)"
   },
   {
+    "id": "agrupar-acciones",
+    "es": "Nuevo botón Agrupar acciones en el panel de automatización. Cuando está encendido, las acciones encadenadas se agrupan bajo la primera. Llegó con la 1.0.23 y se han quitado algunos grupos que aparecían sin querer. Ahora se puede encender y apagar. Será útil en la 1.1, con varias quests de cinco acciones.",
+    "es-419": "Nuevo botón Agrupar acciones en el panel de automatización. Cuando está encendido, las acciones encadenadas se agrupan bajo la primera. Llegó con la 1.0.23 y se quitaron algunos grupos que aparecían sin querer. Ahora se puede encender y apagar. Será útil en la 1.1, con varias quests de cinco acciones.",
+    "en": "New Group actions button in the automation panel. When it is on, chained actions are grouped under the first one. It arrived with 1.0.23 and some groups that appeared by accident have been removed. It can now be turned on and off. It will be useful in 1.1, with several quests of five actions.",
+    "fr": "Nouveau bouton Grouper les actions dans le panneau d'automatisation. Activé, il regroupe les actions enchaînées sous la première. Il est arrivé avec la 1.0.23 et certains groupes apparus par erreur ont été retirés. On peut maintenant l'activer et le désactiver. Il sera utile en 1.1, avec plusieurs quêtes de cinq actions.",
+    "de": "Neuer Schalter Aktionen gruppieren im Automatisierungsfenster. Ist er an, werden verkettete Aktionen unter der ersten zusammengefasst. Er kam mit 1.0.23, einige Gruppen, die ungewollt entstanden, wurden entfernt. Jetzt lässt er sich ein- und ausschalten. Nützlich wird er in Version 1.1 mit mehreren Quests aus fünf Aktionen.",
+    "it": "Nuovo pulsante Raggruppa azioni nel pannello di automazione. Quando è attivo, le azioni collegate si raggruppano sotto la prima. È arrivato con la 1.0.23 e sono stati tolti alcuni raggruppamenti comparsi per sbaglio. Ora si può attivare e disattivare. Sarà utile nella 1.1, con diverse missioni da cinque azioni.",
+    "pt": "Novo botão Agrupar ações no painel de automação. Quando está ligado, as ações encadeadas ficam agrupadas sob a primeira. Chegou com a 1.0.23 e foram retirados alguns agrupamentos que apareciam sem querer. Agora pode ser ligado e desligado. Vai ser útil na 1.1, com várias missões de cinco ações.",
+    "pt-BR": "Novo botão Agrupar ações no painel de automação. Quando está ligado, as ações encadeadas ficam agrupadas sob a primeira. Chegou com a 1.0.23 e foram retirados alguns agrupamentos que apareciam sem querer. Agora pode ser ligado e desligado. Vai ser útil na 1.1, com várias missões de cinco ações.",
+    "ru": "Новая кнопка «Группировать действия» на панели автоматизации. Когда она включена, связанные действия собираются под первым. Появилась в 1.0.23, некоторые группы, которые возникали по ошибке, убраны. Теперь её можно включать и выключать. Пригодится в 1.1, где будет несколько заданий из пяти действий.",
+    "pl": "Nowy przycisk Grupuj akcje w panelu automatyzacji. Po włączeniu połączone akcje grupują się pod pierwszą. Pojawił się w wersji 1.0.23, a kilka grup, które powstawały przez przypadek, usunięto. Teraz można go włączać i wyłączać. Przyda się w wersji 1.1, gdzie jest kilka zadań po pięć akcji.",
+    "zh-Hans": "自动化面板新增「合并行动」按钮。开启后，相连的行动会合并到第一个下面。它随 1.0.23 加入，同时去掉了一些无意中出现的合并组。现在可以随时开关。1.1 版会有好几个五步任务，届时会很有用。"
+  },
+  {
     "id": "en-desarrollo-1-1",
     "es": "En desarrollo: versión 1.1. Para más información [pulse aquí](https://store.steampowered.com/news/app/4936120/view/679638395625931938)",
     "es-419": "En desarrollo: versión 1.1. Para más información [presione aquí](https://store.steampowered.com/news/app/4936120/view/679638395625931938)",
