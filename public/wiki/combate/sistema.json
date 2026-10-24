@@ -145,6 +145,19 @@
       "zh-Hans": "有护送时。如果你的另一个角色在护送你，他会有自己的框，每当你完成一次攻击就发动一次**普通攻击**；你在防御中时，他也会等待。**敌人不会对你造成伤害**，**经验全部归你**。"
     },
     {
+      "link": "personajes/escoltas",
+      "es": "EN QUÉ COMBATES APLICAN ESCOLTAS. ",
+      "en": "IN WHICH FIGHTS DO ESCORTS APPLY. ",
+      "fr": "DANS QUELS COMBATS LES ESCORTES S'APPLIQUENT-ELLES. ",
+      "de": "IN WELCHEN KÄMPFEN GELTEN ESKORTEN. ",
+      "it": "IN QUALI COMBATTIMENTI VALGONO LE SCORTE. ",
+      "pt": "EM QUE COMBATES SE APLICAM AS ESCOLTAS. ",
+      "pt-BR": "EM QUAIS COMBATES AS ESCOLTAS SE APLICAM. ",
+      "ru": "В КАКИХ БОЯХ ДЕЙСТВУЕТ СОПРОВОЖДЕНИЕ. ",
+      "pl": "W KTÓRYCH WALKACH DZIAŁA ESKORTA. ",
+      "zh-Hans": "护送在哪些战斗中生效。 "
+    },
+    {
       "es": "EXPANDIR Y REDUCIR. **Expandir** muestra el recuadro entero aunque no quepa en su panel. **Reducir** lo deja en el nombre, la barra de vida y los botones para encolar.",
       "en": "EXPAND AND COLLAPSE. **Expand** shows the whole box even if it doesn't fit in its panel. **Collapse** leaves just the name, the health bar and the queue buttons.",
       "fr": "DÉVELOPPER ET RÉDUIRE. **Développer** affiche le cadre en entier même s'il ne tient pas dans son panneau. **Réduire** ne laisse que le nom, la barre de vie et les boutons de file.",
