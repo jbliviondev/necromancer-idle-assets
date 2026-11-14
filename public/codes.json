@@ -47,6 +47,12 @@
     "expires": "2026-10-29T12:45:19.000Z"
   },
     {
+    "hash": "f8aae8bfe351da01e66cec900e5a8f931a30e5c311f58bbf894fa2d101aa3da9",
+    "reward": {
+      "poolHours": 12
+    }
+  },
+    {
     "hash": "cf1b06de73485a8072041f4b734506ac3d9376587ed29909f9cd09d7148bd8f3",
     "reward": {
       "poolHours": 10,
