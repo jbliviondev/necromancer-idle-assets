@@ -56,18 +56,18 @@
     "zh-Hans": "1.1 版本现已推出！3 个新章节和 2 个新职业。[点击此处](https://store.steampowered.com/news/app/4936120/view/679640936065532811)了解更多。"
   },
   {
-    "id": "gracias-codigo-regalo",
-    "es": "Gracias por jugar. Canjea este código de regalo en Ajustes > Canjear código: THANK-YOU-SO-MUCH",
-    "es-419": "Gracias por jugar. Canjea este código de regalo en Ajustes > Canjear código: THANK-YOU-SO-MUCH",
-    "en": "Thanks for playing. Redeem this gift code in Settings > Redeem code: THANK-YOU-SO-MUCH",
-    "fr": "Merci de jouer. Utilise ce code cadeau dans Paramètres > Utiliser un code : THANK-YOU-SO-MUCH",
-    "de": "Danke fürs Spielen. Löse diesen Geschenkcode unter Einstellungen > Code einlösen ein: THANK-YOU-SO-MUCH",
-    "it": "Grazie per aver giocato. Riscatta questo codice regalo in Impostazioni > Riscatta codice: THANK-YOU-SO-MUCH",
-    "pt": "Obrigado por jogares. Resgata este código de oferta em Definições > Resgatar código: THANK-YOU-SO-MUCH",
-    "pt-BR": "Obrigado por jogar. Resgate este código de presente em Configurações > Resgatar código: THANK-YOU-SO-MUCH",
-    "ru": "Спасибо за игру. Введи этот подарочный код в разделе Настройки > Ввести код: THANK-YOU-SO-MUCH",
-    "pl": "Dziękujemy za grę. Aktywuj ten kod podarunkowy w Ustawieniach > Aktywuj kod: THANK-YOU-SO-MUCH",
-    "zh-Hans": "感谢游玩。在设置 > 兑换礼包码中输入这个礼包码：THANK-YOU-SO-MUCH"
+    "id": "codigo-version-1-1",
+    "es": "Para explorar el contenido de la 1.1, aquí tenéis un código regalo: VERSION-1-1",
+    "es-419": "Para explorar el contenido de la 1.1, aquí tienen un código de regalo: VERSION-1-1",
+    "en": "To explore the content of 1.1, here's a gift code: VERSION-1-1",
+    "fr": "Pour explorer le contenu de la 1.1, voici un code cadeau : VERSION-1-1",
+    "de": "Um die Inhalte von 1.1 zu erkunden, gibt es hier einen Geschenkcode: VERSION-1-1",
+    "it": "Per esplorare i contenuti della 1.1, ecco un codice regalo: VERSION-1-1",
+    "pt": "Para explorar o conteúdo da 1.1, aqui está um código de oferta: VERSION-1-1",
+    "pt-BR": "Para explorar o conteúdo da 1.1, aqui está um código de presente: VERSION-1-1",
+    "ru": "Чтобы изучить содержимое версии 1.1, вот подарочный код: VERSION-1-1",
+    "pl": "Aby poznać zawartość wersji 1.1, oto kod podarunkowy: VERSION-1-1",
+    "zh-Hans": "为了探索 1.1 版本的内容，这里有一个礼品码：VERSION-1-1"
   },
   {
     "id": "automatizacion-desvio-quest",
