@@ -31,7 +31,39 @@
     {
       "id": "jefes_unicos",
       "pages": [
-        "kraken"
+        "kraken",
+        "capitulo_1",
+        "capitulo_2",
+        "capitulo_3",
+        "capitulo_4",
+        "capitulo_6",
+        "capitulo_7",
+        "capitulo_8"
+      ]
+    },
+    {
+      "id": "misiones_unicas",
+      "title": {
+        "es": "Misiones únicas",
+        "es-419": "Misiones únicas",
+        "en": "Unique missions",
+        "fr": "Missions uniques",
+        "de": "Einzigartige Missionen",
+        "it": "Missioni uniche",
+        "pt": "Missões únicas",
+        "pt-BR": "Missões únicas",
+        "ru": "Уникальные задания",
+        "pl": "Unikalne misje",
+        "zh-Hans": "唯一任务"
+      },
+      "pages": [
+        "capitulo_1",
+        "capitulo_2",
+        "capitulo_3",
+        "capitulo_4",
+        "capitulo_6",
+        "capitulo_7",
+        "capitulo_8"
       ]
     },
     {

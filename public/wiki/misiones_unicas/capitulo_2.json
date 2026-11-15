@@ -1,0 +1,132 @@
+{
+  "title": {
+    "es": "Capítulo 2: el reloj del vigía",
+    "en": "Chapter 2: the lookout's clock",
+    "fr": "Chapitre 2 : la montre du guetteur",
+    "de": "Kapitel 2: die Wächteruhr",
+    "it": "Capitolo 2: l'orologio della vedetta",
+    "pt": "Capítulo 2: o relógio do vigia",
+    "pt-BR": "Capítulo 2: o relógio do vigia",
+    "ru": "Глава 2: часы дозорного",
+    "pl": "Rozdział 2: zegar wartownika",
+    "zh-Hans": "第 2 章：瞭望员的时钟"
+  },
+  "body": [
+    {
+      "es": "DÓNDE EMPIEZA. En el Prado, cuando ya puedas salir de él, pregúntale al pastor por la marisma y toma el camino de la sal. La senda va por la marisma, sin pasar por la Plaza del Faro, y vuelve al capítulo en el Faro de Marbruma.",
+      "en": "WHERE IT STARTS. In the Meadow, once you can leave it, ask the shepherd about the marsh and take the salt road. The path crosses the marsh without going through Lighthouse Square and rejoins the chapter at the Lighthouse of Mistmoor.",
+      "fr": "OÙ ÇA COMMENCE. Dans le Pré, une fois que tu peux en sortir, demande au berger le chemin du marais et prends le chemin du sel. Le sentier traverse le marais sans passer par la Place du Phare et rejoint le chapitre au Phare de Brumemer.",
+      "de": "WO ES BEGINNT. Sobald du die Wiese verlassen kannst, frag den Hirten nach der Marsch und nimm den Salzweg. Der Pfad führt durch die Marsch, ohne über den Leuchtturmplatz zu gehen, und kommt am Leuchtturm von Nebelmoor wieder ins Kapitel.",
+      "it": "DOVE COMINCIA. Nel Prato, quando puoi già uscirne, chiedi al pastore della palude e prendi la via del sale. Il sentiero attraversa la palude senza passare per la Piazza del Faro e torna nel capitolo al Faro di Brumamare.",
+      "pt": "ONDE COMEÇA. No Prado, quando já puderes sair dele, pergunta ao pastor pelo sapal e segue o caminho do sal. O trilho atravessa o sapal sem passar pela Praça do Farol e volta ao capítulo no Farol de Brumamar.",
+      "pt-BR": "ONDE COMEÇA. No Prado, quando você já puder sair dele, pergunte ao pastor pelo mangue e siga o caminho do sal. A trilha atravessa o mangue sem passar pela Praça do Farol e volta ao capítulo no Farol de Brumamar.",
+      "ru": "ГДЕ НАЧИНАЕТСЯ. На Лугу, когда из него уже можно выйти, спроси пастуха о болотах и иди соляной дорогой. Тропа идёт через болота, минуя Маячную площадь, и возвращается в главу у Маяка Туманного Взморья.",
+      "pl": "GDZIE SIĘ ZACZYNA. Na Łące, gdy już możesz z niej wyjść, zapytaj pasterza o mokradła i ruszaj solnym szlakiem. Ścieżka idzie przez mokradła, omijając Plac Latarni, i wraca do rozdziału przy Latarni Mgłomorza.",
+      "zh-Hans": "从哪开始。在草场，等你已经能离开时，向牧人打听沼泽，然后走盐路。这条小路穿过沼泽，不经过灯塔广场，在雾海灯塔回到本章。"
+    },
+    {
+      "link": "personajes/escoltas",
+      "es": "QUÉ HACE FALTA. Como en la senda del capítulo 1: tres pasos, uno de soldado, uno de ranger y uno de mago. El de tu clase lo pasas sin más. Los otros, con la escolta de esa clase o con una alternativa que tarda mucho más y te deja sin una de las piezas del fanal.",
+      "en": "WHAT YOU NEED. Just like the chapter 1 path: three steps, a soldier one, a ranger one and a mage one. You get through the one for your class without trouble. The others you pass with an escort of that class, or by an alternative that takes much longer and costs you one of the pieces of the lantern.",
+      "fr": "CE QU'IL FAUT. Comme sur le sentier du chapitre 1 : trois passages, un de soldat, un de rôdeur et un de mage. Celui de ta classe, tu le passes sans souci. Les autres, avec l'escorte de cette classe ou par un détour bien plus long qui te prive d'une des pièces du fanal.",
+      "de": "WAS DU BRAUCHST. Wie auf dem Pfad von Kapitel 1: drei Hürden, eine für Soldaten, eine für Waldläufer und eine für Magier. Die deiner Klasse nimmst du einfach so. Die anderen mit der Eskorte dieser Klasse oder auf einem Umweg, der viel länger dauert und dich ein Teil des Leuchtfeuers kostet.",
+      "it": "COSA SERVE. Come nel sentiero del capitolo 1: tre passaggi, uno da soldato, uno da ranger e uno da mago. Quello della tua classe lo superi e basta. Gli altri con la scorta di quella classe, oppure con un'alternativa molto più lunga che ti lascia senza uno dei pezzi del fanale.",
+      "pt": "O QUE É PRECISO. Como no trilho do capítulo 1: três passagens, uma de soldado, uma de patrulheiro e uma de mago. A da tua classe passas sem mais. As outras, com a escolta dessa classe ou por uma alternativa que demora muito mais e te deixa sem uma das peças do fanal.",
+      "pt-BR": "O QUE É PRECISO. Como na trilha do capítulo 1: três passagens, uma de soldado, uma de patrulheiro e uma de mago. A da sua classe você passa sem mais. As outras, com a escolta dessa classe ou por uma alternativa que demora muito mais e deixa você sem uma das peças do fanal.",
+      "ru": "ЧТО НУЖНО. Как на тропе главы 1: три преграды, для солдата, для рейнджера и для мага. Свою ты проходишь просто так. Остальные с сопровождением этого класса или обходным путём, который намного дольше и оставляет тебя без одной из частей фонаря.",
+      "pl": "CO JEST POTRZEBNE. Jak na ścieżce rozdziału 1: trzy przeszkody, dla żołnierza, dla tropiciela i dla maga. Tę swojej klasy przechodzisz bez problemu. Pozostałe z eskortą tej klasy albo obejściem, które trwa dużo dłużej i zostawia cię bez jednej z części lampy.",
+      "zh-Hans": "需要什么。和第 1 章的小路一样：三道关，战士、游侠、法师各一道。你自己职业的那道直接就能过。另外两道要靠该职业的护送，或者走一条慢得多的替代路线，那样会少拿一件灯盏的部件。"
+    },
+    {
+      "es": "QUÉ DA. Si juntas las tres piezas del fanal y lo enciendes, te llevas el reloj del vigía: mientras lo lleves, tus ataques recargan un 10% más rápido. Con el fanal encendido, el faro de Marbruma también se enciende al doble de velocidad esa vida. La salinera te llena la mochila de salazón, y en la senda vive un jefe único.",
+      "en": "WHAT YOU GET. If you put together the three pieces of the lantern and light it, you take the lookout's clock: while you carry it, your attacks recharge 10% faster. With the lantern lit, the lighthouse of Mistmoor also lights up twice as fast in that life. The salt worker fills your backpack with salted fish, and a unique boss lives on the path.",
+      "fr": "CE QUE ÇA RAPPORTE. Si tu réunis les trois pièces du fanal et l'allumes, tu emportes la montre du guetteur : tant que tu la portes, tes attaques se rechargent 10 % plus vite. Avec le fanal allumé, le phare de Brumemer s'allume aussi deux fois plus vite dans cette vie. La saunière remplit ton sac de salaison, et un boss unique vit sur le sentier.",
+      "de": "WAS ES BRINGT. Setzt du die drei Teile des Leuchtfeuers zusammen und zündest es an, bekommst du die Wächteruhr: Solange du sie trägst, laden deine Angriffe 10 % schneller nach. Mit dem brennenden Leuchtfeuer wird in diesem Leben auch der Leuchtturm von Nebelmoor doppelt so schnell angezündet. Die Salzsiederin füllt dir den Rucksack mit Salzfisch, und auf dem Pfad lebt ein einzigartiger Boss.",
+      "it": "COSA TI DÀ. Se metti insieme i tre pezzi del fanale e lo accendi, ti porti via l'orologio della vedetta: finché lo porti, i tuoi attacchi si ricaricano il 10% più in fretta. Con il fanale acceso, anche il faro di Brumamare si accende al doppio della velocità in quella vita. La salinara ti riempie lo zaino di pesce salato, e sul sentiero vive un boss unico.",
+      "pt": "O QUE DÁ. Se juntares as três peças do fanal e o acenderes, levas o relógio do vigia: enquanto o levares, os teus ataques recarregam 10% mais depressa. Com o fanal aceso, o farol de Brumamar também se acende ao dobro da velocidade nessa vida. A salineira enche-te a mochila de peixe salgado, e no trilho vive um chefe único.",
+      "pt-BR": "O QUE DÁ. Se você juntar as três peças do fanal e acendê-lo, leva o relógio do vigia: enquanto estiver com ele, seus ataques recarregam 10% mais rápido. Com o fanal aceso, o farol de Brumamar também acende ao dobro da velocidade nessa vida. A salineira enche sua mochila de peixe salgado, e na trilha vive um chefe único.",
+      "ru": "ЧТО ДАЁТ. Если соберёшь три части фонаря и зажжёшь его, получишь часы дозорного: пока они у тебя, твои атаки перезаряжаются на 10% быстрее. С зажжённым фонарём в той жизни и маяк Туманного Взморья зажигается вдвое быстрее. Солеварка набьёт тебе рюкзак солёной рыбой, а на тропе живёт уникальный босс.",
+      "pl": "CO DAJE. Jeśli złożysz trzy części lampy i ją zapalisz, dostaniesz zegar wartownika: dopóki go nosisz, twoje ataki ładują się o 10% szybciej. Z zapaloną lampą w tym życiu także latarnia Mgłomorza zapala się dwa razy szybciej. Warzelniczka napełni ci plecak soloną rybą, a na ścieżce żyje unikalny boss.",
+      "zh-Hans": "能得到什么。如果你凑齐灯盏的三个部件并点亮它，就能拿到瞭望员的时钟：带着它时，你的攻击冷却快 10%。灯盏点亮后，这一世雾海灯塔的点灯也快一倍。盐田女工会把你的背包装满咸鱼干，另外这条路上还住着一个唯一首领。"
+    },
+    {
+      "spoiler": true,
+      "es": "LAS SALINAS. Habla con la salinera y achica cinco veces los canalillos de las balsas para que te dé el saco de salazón.",
+      "en": "THE SALT PANS. Talk to the salt worker and bail out the little channels of the pools five times so she gives you the sack of salted fish.",
+      "fr": "LES SALINES. Parle à la saunière et vide cinq fois les rigoles des bassins pour qu'elle te donne le sac de salaison.",
+      "de": "DIE SALINEN. Sprich mit der Salzsiederin und schöpfe fünfmal die Rinnen der Becken aus, damit sie dir den Sack Salzfisch gibt.",
+      "it": "LE SALINE. Parla con la salinara e svuota cinque volte i canaletti delle vasche perché ti dia il sacco di pesce salato.",
+      "pt": "AS SALINAS. Fala com a salineira e esvazia cinco vezes os regos das marinhas para que te dê o saco de peixe salgado.",
+      "pt-BR": "AS SALINAS. Fale com a salineira e esvazie cinco vezes os canaizinhos dos tanques para que ela dê o saco de peixe salgado.",
+      "ru": "СОЛЕВАРНИ. Поговори с солеваркой и пять раз вычерпай канавки бассейнов, чтобы она отдала мешок солёной рыбы.",
+      "pl": "SALINY. Porozmawiaj z warzelniczką i pięć razy wybierz wodę z rowków basenów, żeby dała ci worek solonej ryby.",
+      "zh-Hans": "盐田。和盐田女工说话，把盐池的小水渠舀干五次，她就会给你那袋咸鱼干。"
+    },
+    {
+      "spoiler": true,
+      "es": "EL PASO DE SOLDADO. En el Varadero aparta la quilla varada y vacía la lata de aceite de la bodega: es la primera pieza. La alternativa es labrar rodillos de una barca muerta y botarla con ellos, cuatro empujones, pero la lata se va con la barca.",
+      "en": "THE SOLDIER STEP. At the Boatyard, push the beached keel aside and empty the oil can in the hold: that is the first piece. The alternative is to carve rollers from a dead boat and launch it on them, four pushes, but the can goes off with the boat.",
+      "fr": "LE PASSAGE DE SOLDAT. À l'Échouage, écarte la quille échouée et vide le bidon d'huile de la cale : c'est la première pièce. L'autre solution est de tailler des rouleaux dans une barque morte et de la mettre à l'eau avec, en quatre poussées, mais le bidon part avec la barque.",
+      "de": "DIE SOLDATEN-HÜRDE. An der Helling schiebst du den gestrandeten Kiel beiseite und leerst die Ölkanne im Laderaum: das erste Teil. Die Alternative ist, aus einem toten Boot Rollen zu schnitzen und es darauf zu Wasser zu lassen, mit vier Stößen, aber die Kanne fährt mit dem Boot davon.",
+      "it": "IL PASSAGGIO DA SOLDATO. Allo Scalo sposta la chiglia arenata e svuota la latta d'olio della stiva: è il primo pezzo. L'alternativa è ricavare dei rulli da una barca morta e vararla con quelli, quattro spinte, ma la latta se ne va con la barca.",
+      "pt": "A PASSAGEM DE SOLDADO. No Varadouro afasta a quilha encalhada e esvazia a lata de óleo do porão: é a primeira peça. A alternativa é lavrar rolos de um barco morto e lançá-lo à água com eles, quatro empurrões, mas a lata vai-se com o barco.",
+      "pt-BR": "A PASSAGEM DE SOLDADO. No Varadouro afaste a quilha encalhada e esvazie a lata de óleo do porão: é a primeira peça. A alternativa é lavrar rolos de um barco morto e lançá-lo na água com eles, quatro empurrões, mas a lata vai embora com o barco.",
+      "ru": "ПРЕГРАДА СОЛДАТА. На Лодочной отмели отодвинь севший на мель киль и опустоши банку с жиром в трюме: это первая часть. Другой путь: вытесать катки из мёртвой лодки и спустить её на воду, четыре толчка, но банка уплывает вместе с лодкой.",
+      "pl": "PRZESZKODA ŻOŁNIERZA. Na Pochylni odsuń osiadłą stępkę i opróżnij puszkę oleju w ładowni: to pierwsza część. Inna droga to wyciosać wałki z martwej łodzi i zepchnąć ją na nich na wodę, cztery pchnięcia, ale puszka odpływa razem z łodzią.",
+      "zh-Hans": "战士关。在船滩推开搁浅的龙骨，把货舱里那罐油倒出来：这是第一个部件。另一个办法是从一条废船上削出滚木，推四次把它推下水，但油罐会跟着船漂走。"
+    },
+    {
+      "spoiler": true,
+      "es": "EL PASO DE RANGER. En el Lazareto cruza la pasarela podrida y rebusca en el almacén de ropa: la mecha trenzada. Por la alternativa, vadear la marisma por detrás, no se pasa por el almacén.",
+      "en": "THE RANGER STEP. At the Lazaretto, cross the rotten walkway and search the clothing store: the braided wick. The alternative, wading through the marsh round the back, never goes past the store.",
+      "fr": "LE PASSAGE DE RÔDEUR. Au Lazaret, traverse la passerelle pourrie et fouille la réserve de linge : la mèche tressée. Par l'autre solution, traverser le marais à gué par l'arrière, on ne passe pas par la réserve.",
+      "de": "DIE WALDLÄUFER-HÜRDE. Im Lazarett überquerst du den morschen Steg und durchsuchst das Kleiderlager: der geflochtene Docht. Die Alternative, hinten durch die Marsch zu waten, führt nicht am Lager vorbei.",
+      "it": "IL PASSAGGIO DA RANGER. Al Lazzaretto attraversa la passerella marcia e fruga nel magazzino dei panni: lo stoppino intrecciato. Con l'alternativa, guadare la palude dal retro, non si passa dal magazzino.",
+      "pt": "A PASSAGEM DE PATRULHEIRO. No Lazareto atravessa a passarela podre e procura no armazém de roupa: a mecha entrançada. Pela alternativa, atravessar o sapal a vau por trás, não se passa pelo armazém.",
+      "pt-BR": "A PASSAGEM DE PATRULHEIRO. No Lazareto atravesse a passarela podre e procure no depósito de roupas: o pavio trançado. Pela alternativa, atravessar o mangue a pé por trás, não se passa pelo depósito.",
+      "ru": "ПРЕГРАДА РЕЙНДЖЕРА. В Лазарете перейди гнилые мостки и обыщи бельевой склад: плетёный фитиль. Обходной путь, вброд по болоту позади, мимо склада не проходит.",
+      "pl": "PRZESZKODA TROPICIELA. W Lazarecie przejdź po spróchniałej kładce i przeszukaj magazyn ubrań: pleciony knot. Inna droga, brodem przez mokradła od tyłu, nie prowadzi obok magazynu.",
+      "zh-Hans": "游侠关。在隔离病院走过腐朽的栈道，搜一搜衣物仓库：编织灯芯。替代路线是从后面蹚过沼泽，不经过仓库。"
+    },
+    {
+      "spoiler": true,
+      "es": "EL PASO DE MAGO. En la Punta Negra abre la bruma y rebusca entre los restos de la roca: el vidrio del fanal. Si marcas el camino con piedras, con la bruma cerrada no se ve el vidrio.",
+      "en": "THE MAGE STEP. At the Black Point, part the mist and search among the remains on the rock: the lantern glass. If you mark the way with stones instead, the mist stays closed and you never see the glass.",
+      "fr": "LE PASSAGE DE MAGE. À la Pointe Noire, ouvre la brume et fouille parmi les débris du rocher : le verre du fanal. Si tu balises le chemin avec des pierres, la brume reste fermée et on ne voit pas le verre.",
+      "de": "DIE MAGIER-HÜRDE. An der Schwarzen Spitze öffnest du den Nebel und durchsuchst die Reste auf dem Felsen: das Leuchtfeuerglas. Markierst du den Weg stattdessen mit Steinen, bleibt der Nebel zu und du siehst das Glas nicht.",
+      "it": "IL PASSAGGIO DA MAGO. Alla Punta Nera apri la bruma e fruga tra i resti sulla roccia: il vetro del fanale. Se segni la strada con le pietre, la bruma resta chiusa e il vetro non si vede.",
+      "pt": "A PASSAGEM DE MAGO. Na Ponta Negra abre a bruma e procura entre os restos da rocha: o vidro do fanal. Se marcares o caminho com pedras, a bruma fica fechada e não se vê o vidro.",
+      "pt-BR": "A PASSAGEM DE MAGO. Na Ponta Negra abra a bruma e procure entre os restos da rocha: o vidro do fanal. Se você marcar o caminho com pedras, a bruma continua fechada e não se vê o vidro.",
+      "ru": "ПРЕГРАДА МАГА. На Чёрном мысе раздвинь туман и поищи среди обломков на скале: стекло фонаря. Если вместо этого отмечать путь камнями, туман не рассеется и стекла не видно.",
+      "pl": "PRZESZKODA MAGA. Na Czarnym Cyplu rozwiej mgłę i przeszukaj szczątki na skale: szkło do lampy. Jeśli zamiast tego znaczysz drogę kamieniami, mgła zostaje i szkła nie widać.",
+      "zh-Hans": "法师关。在黑岬拨开雾气，在岩石上的残骸里翻找：灯盏玻璃。如果改用石头标路，雾不会散，也就看不到玻璃。"
+    },
+    {
+      "spoiler": true,
+      "es": "LA TORRE DEL VIGÍA. Monta el fanal con el aceite, la mecha y el vidrio, y enciéndelo: el reloj es tuyo. Sin las tres piezas también se sigue hasta el Faro, solo que sin reloj.",
+      "en": "THE LOOKOUT TOWER. Assemble the lantern with the oil, the wick and the glass, and light it: the clock is yours. Without the three pieces you can still go on to the Lighthouse, just without the clock.",
+      "fr": "LA TOUR DU GUETTEUR. Monte le fanal avec l'huile, la mèche et le verre, puis allume-le : la montre est à toi. Sans les trois pièces, on continue aussi jusqu'au Phare, mais sans montre.",
+      "de": "DER WÄCHTERTURM. Setz das Leuchtfeuer aus Öl, Docht und Glas zusammen und zünde es an: Die Uhr gehört dir. Ohne die drei Teile geht es trotzdem weiter zum Leuchtturm, nur ohne Uhr.",
+      "it": "LA TORRE DELLA VEDETTA. Monta il fanale con l'olio, lo stoppino e il vetro, e accendilo: l'orologio è tuo. Senza i tre pezzi si prosegue comunque fino al Faro, solo senza orologio.",
+      "pt": "A TORRE DO VIGIA. Monta o fanal com o óleo, a mecha e o vidro, e acende-o: o relógio é teu. Sem as três peças também se segue até ao Farol, só que sem relógio.",
+      "pt-BR": "A TORRE DO VIGIA. Monte o fanal com o óleo, o pavio e o vidro, e acenda: o relógio é seu. Sem as três peças você também segue até o Farol, só que sem relógio.",
+      "ru": "БАШНЯ ДОЗОРНОГО. Собери фонарь из жира, фитиля и стекла и зажги его: часы твои. Без трёх частей тоже можно идти дальше к Маяку, только без часов.",
+      "pl": "WIEŻA WARTOWNIKA. Złóż lampę z oleju, knota i szkła, i zapal ją: zegar jest twój. Bez trzech części też idzie się dalej do Latarni, tylko bez zegara.",
+      "zh-Hans": "瞭望塔。用油、灯芯和玻璃装好灯盏，点亮它：时钟就归你了。三个部件不齐也能继续走到灯塔，只是没有时钟。"
+    },
+    {
+      "spoiler": true,
+      "link": "jefes_unicos/capitulo_2",
+      "es": "EL JEFE ÚNICO. En el Varadero recalza cinco veces el corral de pesca y habla con el patrón: te avisa de lo que atasca el canal. Desde el Lazareto se baja entonces al Canal del Corral, donde está el Elemental de los Miasmas.",
+      "en": "THE UNIQUE BOSS. At the Boatyard, shore up the fishing weir five times and talk to the skipper: he warns you about what is blocking the channel. From the Lazaretto you can then go down to the Weir Channel, where the Miasma Elemental is.",
+      "fr": "LE BOSS UNIQUE. À l'Échouage, renforce cinq fois la pêcherie et parle au patron : il te prévient de ce qui bouche le canal. Depuis le Lazaret, on descend alors au Canal de la Pêcherie, où se trouve l'Élémentaire des Miasmes.",
+      "de": "DER EINZIGARTIGE BOSS. An der Helling stützt du fünfmal das Fischwehr ab und sprichst mit dem Schiffer: Er warnt dich vor dem, was den Kanal verstopft. Vom Lazarett geht es dann hinunter zum Kanal des Fischwehrs, wo das Elementar der Miasmen ist.",
+      "it": "IL BOSS UNICO. Allo Scalo rinforza cinque volte la peschiera e parla con il padrone: ti avverte di cosa ostruisce il canale. Dal Lazzaretto si scende allora al Canale della Peschiera, dove c'è l'Elementale dei Miasmi.",
+      "pt": "O CHEFE ÚNICO. No Varadouro reforça cinco vezes o curral de pesca e fala com o mestre: avisa-te do que entope o canal. Do Lazareto desce-se então ao Canal do Curral, onde está o Elemental dos Miasmas.",
+      "pt-BR": "O CHEFE ÚNICO. No Varadouro reforce cinco vezes o curral de pesca e fale com o mestre: ele avisa você do que entope o canal. Do Lazareto você desce então ao Canal do Curral, onde está o Elemental dos Miasmas.",
+      "ru": "УНИКАЛЬНЫЙ БОСС. На Лодочной отмели пять раз подправь рыболовный загон и поговори с хозяином лодки: он предупредит, что забило канал. После этого из Лазарета можно спуститься в Канал загона, где живёт Элементаль Миазмов.",
+      "pl": "UNIKALNY BOSS. Na Pochylni pięć razy podeprzyj jaz rybacki i porozmawiaj z szyprem: ostrzeże cię przed tym, co zatyka kanał. Z Lazaretu schodzi się wtedy do Kanału Jazu, gdzie jest Żywiołak Miazmatów.",
+      "zh-Hans": "唯一首领。在船滩加固鱼栅五次，然后和船主说话：他会提醒你水道被什么堵住了。之后就能从隔离病院下到鱼栅水道，瘴气元素就在那里。"
+    }
+  ]
+}

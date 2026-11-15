@@ -1,0 +1,67 @@
+{
+  "title": {
+    "es": "Capítulo 4",
+    "en": "Chapter 4",
+    "fr": "Chapitre 4",
+    "de": "Kapitel 4",
+    "it": "Capitolo 4",
+    "pt": "Capítulo 4",
+    "pt-BR": "Capítulo 4",
+    "ru": "Глава 4",
+    "pl": "Rozdział 4",
+    "zh-Hans": "第 4 章"
+  },
+  "body": [
+    {
+      "es": "LA RUTA. Está en el fuerte sitiado. Desde el Camino de las Caravanas se toma la Calzada del Fuerte y se sube al fuerte, y es en La Puerta donde lo encontrarás.",
+      "en": "THE ROUTE. It is at the besieged fort. From the Caravan Road you take the Fort Road and climb up to the fort, and it is at The Gate that you will find it.",
+      "fr": "LA ROUTE. Il est au fort assiégé. Depuis la Route des Caravanes, on prend la Chaussée du Fort et on monte au fort, et c'est à La Porte que tu le trouveras.",
+      "de": "DER WEG. Er ist am belagerten Fort. Vom Karawanenweg nimmt man die Straße zum Fort und steigt zum Fort hinauf, und am Tor wirst du ihn finden.",
+      "it": "IL PERCORSO. Si trova al forte assediato. Dalla Via delle Carovane si prende la Strada del Forte e si sale al forte, ed è a La Porta che lo troverai.",
+      "pt": "A ROTA. Está no forte sitiado. Da Estrada das Caravanas apanha-se a Calçada do Forte e sobe-se ao forte, e é no Portão que o vais encontrar.",
+      "pt-BR": "A ROTA. Fica no forte sitiado. Da Estrada das Caravanas você pega a Calçada do Forte e sobe ao forte, e é no Portão que vai encontrá-lo.",
+      "ru": "МАРШРУТ. Он у осаждённого форта. С Караванного пути сворачиваешь на Дорогу к форту и поднимаешься в форт, а встретишь его у Ворот.",
+      "pl": "TRASA. Jest przy oblężonym forcie. Ze Szlaku Karawan skręca się na Trakt do Fortu i wchodzi do fortu, a spotkasz go przy Bramie.",
+      "zh-Hans": "路线。它在被围的要塞。从商队之路走上要塞石道，登上要塞，你会在大门遇到它。"
+    },
+    {
+      "link": "misiones_unicas/capitulo_4",
+      "es": "LA MISIÓN. Esta ruta forma parte de una misión única del capítulo. En su artículo tienes qué hace falta, qué da y, con los spoilers encendidos, cómo se hace paso a paso.",
+      "en": "THE MISSION. This route is part of one of the chapter's unique missions. Its article tells you what you need, what you get and, with spoilers on, how to do it step by step.",
+      "fr": "LA MISSION. Cette route fait partie d'une mission unique du chapitre. Son article te dit ce qu'il faut, ce que ça rapporte et, spoilers activés, comment la faire étape par étape.",
+      "de": "DIE MISSION. Dieser Weg gehört zu einer einzigartigen Mission des Kapitels. Ihr Artikel sagt dir, was du brauchst, was es bringt und, mit eingeschalteten Spoilern, wie es Schritt für Schritt geht.",
+      "it": "LA MISSIONE. Questo percorso fa parte di una missione unica del capitolo. Nel suo articolo trovi cosa serve, cosa ti dà e, con gli spoiler attivi, come si fa passo per passo.",
+      "pt": "A MISSÃO. Esta rota faz parte de uma missão única do capítulo. No artigo dela tens o que é preciso, o que dá e, com os spoilers ligados, como se faz passo a passo.",
+      "pt-BR": "A MISSÃO. Esta rota faz parte de uma missão única do capítulo. No artigo dela você vê o que é preciso, o que dá e, com os spoilers ligados, como se faz passo a passo.",
+      "ru": "ЗАДАНИЕ. Этот маршрут входит в уникальное задание главы. В его статье сказано, что нужно, что оно даёт и, если включить спойлеры, как его пройти шаг за шагом.",
+      "pl": "MISJA. Ta trasa jest częścią unikalnej misji rozdziału. W jej artykule znajdziesz, co jest potrzebne, co daje i, z włączonymi spoilerami, jak ją przejść krok po kroku.",
+      "zh-Hans": "任务。这条路线属于本章的一个唯一任务。它的文章里写了需要什么、能得到什么；打开剧透后，还有一步步的做法。"
+    },
+    {
+      "spoiler": true,
+      "es": "QUIÉN ES. El troll de asedio.",
+      "en": "WHO IT IS. The Siege Troll.",
+      "fr": "QUI C'EST. Le troll de siège.",
+      "de": "WER ES IST. Der Belagerungstroll.",
+      "it": "CHI È. Il troll d'assedio.",
+      "pt": "QUEM É. O troll de cerco.",
+      "pt-BR": "QUEM É. O troll de cerco.",
+      "ru": "КТО ЭТО. Осадный тролль.",
+      "pl": "KTO TO. Troll oblężniczy.",
+      "zh-Hans": "是谁。攻城巨魔。"
+    },
+    {
+      "spoiler": true,
+      "es": "AL MATARLO. En las vidas siguientes el fuerte ya no está sitiado: no hay asaltos y puedes salir de él cuando quieras. La teniente te llena la mochila de rancho del fuerte con solo hablar con ella, y la skill de combate del fuerte se consigue con la acción de tu clase, sin aguantar los asaltos.",
+      "en": "WHEN YOU KILL IT. In the lives that follow the fort is no longer under siege: there are no assaults and you can leave whenever you want. The lieutenant fills your backpack with fort rations just for talking to her, and the fort's combat skill comes from your class action, without holding out through the assaults.",
+      "fr": "QUAND TU LE TUES. Dans les vies suivantes, le fort n'est plus assiégé : il n'y a plus d'assauts et tu peux en sortir quand tu veux. La lieutenante te remplit le sac de rations du fort rien qu'en lui parlant, et la compétence de combat du fort s'obtient avec l'action de ta classe, sans tenir les assauts.",
+      "de": "WENN DU IHN TÖTEST. In den folgenden Leben ist das Fort nicht mehr belagert: Es gibt keine Angriffe, und du kannst es verlassen, wann du willst. Die Leutnantin füllt dir den Rucksack mit Verpflegung des Forts, sobald du mit ihr sprichst, und die Kampffertigkeit des Forts bekommst du mit der Aktion deiner Klasse, ohne die Angriffe durchzustehen.",
+      "it": "QUANDO LO UCCIDI. Nelle vite successive il forte non è più assediato: non ci sono assalti e puoi uscirne quando vuoi. La tenente ti riempie lo zaino di rancio del forte solo parlandoci, e l'abilità di combattimento del forte si ottiene con l'azione della tua classe, senza reggere gli assalti.",
+      "pt": "AO MATÁ-LO. Nas vidas seguintes o forte já não está sitiado: não há assaltos e podes sair dele quando quiseres. A tenente enche-te a mochila de rancho do forte só de falares com ela, e a habilidade de combate do forte consegue-se com a ação da tua classe, sem aguentar os assaltos.",
+      "pt-BR": "AO MATÁ-LO. Nas vidas seguintes o forte não está mais sitiado: não há assaltos e você pode sair dele quando quiser. A tenente enche sua mochila de rancho do forte só de você falar com ela, e a habilidade de combate do forte se consegue com a ação da sua classe, sem aguentar os assaltos.",
+      "ru": "КОГДА ТЫ ЕГО УБЬЁШЬ. В следующих жизнях форт больше не в осаде: штурмов нет, и уйти из него можно когда угодно. Лейтенант набивает тебе рюкзак пайком форта, стоит только с ней поговорить, а боевой навык форта даётся за действие твоего класса, без того чтобы выдерживать штурмы.",
+      "pl": "GDY GO ZABIJESZ. W kolejnych życiach fort nie jest już oblężony: nie ma szturmów i możesz z niego wyjść, kiedy chcesz. Porucznik napełnia ci plecak strawą z fortu, wystarczy z nią porozmawiać, a bojową umiejętność fortu zdobywa się akcją twojej klasy, bez wytrzymywania szturmów.",
+      "zh-Hans": "击杀之后。之后的每条命里，要塞不再被围：没有攻城，你想走就能走。副队长只要和你说句话就用要塞口粮塞满你的背包，要塞的战斗技能靠你职业的那个行动就能拿到，不用再扛过几轮攻城。"
+    }
+  ]
+}

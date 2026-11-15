@@ -1,0 +1,54 @@
+{
+  "title": {
+    "es": "Capítulo 6",
+    "en": "Chapter 6",
+    "fr": "Chapitre 6",
+    "de": "Kapitel 6",
+    "it": "Capitolo 6",
+    "pt": "Capítulo 6",
+    "pt-BR": "Capítulo 6",
+    "ru": "Глава 6",
+    "pl": "Rozdział 6",
+    "zh-Hans": "第 6 章"
+  },
+  "body": [
+    {
+      "es": "LA RUTA. Está debajo de las Fraguas Hondas, la nave que hay bajo la Corona de la Montaña. A la nave se entra por una boca desde una sala de cada ruta: la Caldera Menor, la Cueva de Hielo o la Sala de Máquinas. Desde la nave se baja por el canal del temple, que es la única entrada.",
+      "en": "THE ROUTE. It is beneath the Deep Forges, the hall under the Crown of the Mountain. You get into the hall through an opening in one room on each route: the Lesser Caldera, the Ice Cave or the Engine Room. From the hall you go down the tempering channel, which is the only way in.",
+      "fr": "LA ROUTE. Il est sous les Forges Profondes, la grande salle sous la Couronne de la Montagne. On entre dans la salle par une ouverture depuis une salle de chaque route : la Petite Caldeira, la Grotte de Glace ou la Salle des Machines. Depuis la salle, on descend par le canal de trempe, qui est la seule entrée.",
+      "de": "DER WEG. Er liegt unter den Tiefen Schmieden, der Halle unter der Krone des Berges. In die Halle kommt man durch eine Öffnung in einem Raum jedes Weges: der Kleinen Caldera, der Eishöhle oder dem Maschinenraum. Von der Halle geht es durch den Härtekanal hinunter, den einzigen Zugang.",
+      "it": "IL PERCORSO. Si trova sotto le Fucine Profonde, la navata sotto la Corona della Montagna. Nella navata si entra da un'apertura in una stanza di ogni percorso: la Caldera Minore, la Grotta di Ghiaccio o la Sala Macchine. Dalla navata si scende per il canale di tempra, che è l'unico ingresso.",
+      "pt": "A ROTA. Está debaixo das Forjas Fundas, a nave que fica sob a Coroa da Montanha. Entra-se na nave por uma boca a partir de uma sala de cada rota: a Caldeira Menor, a Gruta de Gelo ou a Casa das Máquinas. Da nave desce-se pelo canal da têmpera, que é a única entrada.",
+      "pt-BR": "A ROTA. Fica debaixo das Forjas Fundas, a nave que fica sob a Coroa da Montanha. Você entra na nave por uma boca a partir de uma sala de cada rota: a Caldeira Menor, a Gruta de Gelo ou a Casa das Máquinas. Da nave se desce pelo canal da têmpera, que é a única entrada.",
+      "ru": "МАРШРУТ. Он под Глубокими Кузницами, залом под Венцом горы. В зал входят через проход из одной комнаты на каждом маршруте: Малой кальдеры, Ледяной пещеры или Машинного зала. Из зала спускаются по каналу закалки, это единственный вход.",
+      "pl": "TRASA. Jest pod Głębokimi Kuźniami, halą pod Koroną Góry. Do hali wchodzi się otworem z jednej sali na każdej trasie: z Mniejszej Kaldery, Lodowej Jaskini albo Maszynowni. Z hali schodzi się kanałem hartowniczym, który jest jedynym wejściem.",
+      "zh-Hans": "路线。它在深炉锻炉下面，那是山顶王冠底下的大厅。每条路线都有一个房间能通过一处洞口进入大厅：小火山口、冰洞或机房。从大厅沿淬火水道下去，那是唯一的入口。"
+    },
+    {
+      "link": "misiones_unicas/capitulo_6",
+      "es": "LA MISIÓN. Esta ruta forma parte de una misión única del capítulo. En su artículo tienes qué hace falta, qué da y, con los spoilers encendidos, cómo se hace paso a paso.",
+      "en": "THE MISSION. This route is part of one of the chapter's unique missions. Its article tells you what you need, what you get and, with spoilers on, how to do it step by step.",
+      "fr": "LA MISSION. Cette route fait partie d'une mission unique du chapitre. Son article te dit ce qu'il faut, ce que ça rapporte et, spoilers activés, comment la faire étape par étape.",
+      "de": "DIE MISSION. Dieser Weg gehört zu einer einzigartigen Mission des Kapitels. Ihr Artikel sagt dir, was du brauchst, was es bringt und, mit eingeschalteten Spoilern, wie es Schritt für Schritt geht.",
+      "it": "LA MISSIONE. Questo percorso fa parte di una missione unica del capitolo. Nel suo articolo trovi cosa serve, cosa ti dà e, con gli spoiler attivi, come si fa passo per passo.",
+      "pt": "A MISSÃO. Esta rota faz parte de uma missão única do capítulo. No artigo dela tens o que é preciso, o que dá e, com os spoilers ligados, como se faz passo a passo.",
+      "pt-BR": "A MISSÃO. Esta rota faz parte de uma missão única do capítulo. No artigo dela você vê o que é preciso, o que dá e, com os spoilers ligados, como se faz passo a passo.",
+      "ru": "ЗАДАНИЕ. Этот маршрут входит в уникальное задание главы. В его статье сказано, что нужно, что оно даёт и, если включить спойлеры, как его пройти шаг за шагом.",
+      "pl": "MISJA. Ta trasa jest częścią unikalnej misji rozdziału. W jej artykule znajdziesz, co jest potrzebne, co daje i, z włączonymi spoilerami, jak ją przejść krok po kroku.",
+      "zh-Hans": "任务。这条路线属于本章的一个唯一任务。它的文章里写了需要什么、能得到什么；打开剧透后，还有一步步的做法。"
+    },
+    {
+      "spoiler": true,
+      "es": "QUIÉN ES. La Salamandra Ígnea.",
+      "en": "WHO IT IS. The Igneous Salamander.",
+      "fr": "QUI C'EST. La Salamandre Ignée.",
+      "de": "WER ES IST. Der Glutsalamander.",
+      "it": "CHI È. La Salamandra Ignea.",
+      "pt": "QUEM É. A Salamandra Ígnea.",
+      "pt-BR": "QUEM É. A Salamandra Ígnea.",
+      "ru": "КТО ЭТО. Огненная Саламандра.",
+      "pl": "KTO TO. Ognista Salamandra.",
+      "zh-Hans": "是谁。炽焰火蜥。"
+    }
+  ]
+}

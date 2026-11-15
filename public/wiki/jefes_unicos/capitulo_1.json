@@ -1,0 +1,67 @@
+{
+  "title": {
+    "es": "Capítulo 1",
+    "en": "Chapter 1",
+    "fr": "Chapitre 1",
+    "de": "Kapitel 1",
+    "it": "Capitolo 1",
+    "pt": "Capítulo 1",
+    "pt-BR": "Capítulo 1",
+    "ru": "Глава 1",
+    "pl": "Rozdział 1",
+    "zh-Hans": "第 1 章"
+  },
+  "body": [
+    {
+      "es": "LA RUTA. Está en la senda de los peregrinos, que sale del Bosque por la Espesura. Sigue la senda hasta el Retén de los Recaudadores: de ahí cuelga la Hondura de los Llamados, que es donde está.",
+      "en": "THE ROUTE. It is on the pilgrims' path, which leaves the Forest through the Thicket. Follow the path to the Tax Collectors' Checkpoint: the Depths of the Called hang off it, and that is where it is.",
+      "fr": "LA ROUTE. Il est sur le sentier des pèlerins, qui part de la Forêt par le Fourré. Suis le sentier jusqu'au Barrage des Collecteurs : de là part le Creux des Appelés, et c'est là qu'il se trouve.",
+      "de": "DER WEG. Er liegt auf dem Pfad der Pilger, der vom Wald durch das Dickicht abgeht. Folge dem Pfad bis zum Posten der Steuereintreiber: Von dort geht es zur Tiefe der Gerufenen, und dort ist er.",
+      "it": "IL PERCORSO. Si trova sul sentiero dei pellegrini, che parte dal Bosco attraverso la Macchia. Segui il sentiero fino al Presidio degli Esattori: da lì si scende alla Forra dei Chiamati, ed è lì che si trova.",
+      "pt": "A ROTA. Está no trilho dos peregrinos, que sai da Floresta pelo Matagal. Segue o trilho até ao Posto dos Cobradores: daí desce-se ao Fundão dos Chamados, e é aí que está.",
+      "pt-BR": "A ROTA. Fica na trilha dos peregrinos, que sai da Floresta pelo Matagal. Siga a trilha até o Posto dos Cobradores: de lá se desce ao Fundão dos Chamados, e é lá que ele está.",
+      "ru": "МАРШРУТ. Он на тропе паломников, которая уходит из Леса через Чащу. Иди по тропе до Заставы сборщиков: оттуда спускаются в Глубь позванных, там он и есть.",
+      "pl": "TRASA. Jest na ścieżce pielgrzymów, która odchodzi z Lasu przez Gąszcz. Idź ścieżką do Posterunku Poborców: stamtąd schodzi się do Głębi Przywołanych i tam właśnie jest.",
+      "zh-Hans": "路线。它在朝圣者小径上，小径从森林经密林岔出。沿小径走到税吏关卡：从那里下到被唤者深渊，它就在那里。"
+    },
+    {
+      "link": "misiones_unicas/capitulo_1",
+      "es": "LA MISIÓN. Esta ruta forma parte de una misión única del capítulo. En su artículo tienes qué hace falta, qué da y, con los spoilers encendidos, cómo se hace paso a paso.",
+      "en": "THE MISSION. This route is part of one of the chapter's unique missions. Its article tells you what you need, what you get and, with spoilers on, how to do it step by step.",
+      "fr": "LA MISSION. Cette route fait partie d'une mission unique du chapitre. Son article te dit ce qu'il faut, ce que ça rapporte et, spoilers activés, comment la faire étape par étape.",
+      "de": "DIE MISSION. Dieser Weg gehört zu einer einzigartigen Mission des Kapitels. Ihr Artikel sagt dir, was du brauchst, was es bringt und, mit eingeschalteten Spoilern, wie es Schritt für Schritt geht.",
+      "it": "LA MISSIONE. Questo percorso fa parte di una missione unica del capitolo. Nel suo articolo trovi cosa serve, cosa ti dà e, con gli spoiler attivi, come si fa passo per passo.",
+      "pt": "A MISSÃO. Esta rota faz parte de uma missão única do capítulo. No artigo dela tens o que é preciso, o que dá e, com os spoilers ligados, como se faz passo a passo.",
+      "pt-BR": "A MISSÃO. Esta rota faz parte de uma missão única do capítulo. No artigo dela você vê o que é preciso, o que dá e, com os spoilers ligados, como se faz passo a passo.",
+      "ru": "ЗАДАНИЕ. Этот маршрут входит в уникальное задание главы. В его статье сказано, что нужно, что оно даёт и, если включить спойлеры, как его пройти шаг за шагом.",
+      "pl": "MISJA. Ta trasa jest częścią unikalnej misji rozdziału. W jej artykule znajdziesz, co jest potrzebne, co daje i, z włączonymi spoilerami, jak ją przejść krok po kroku.",
+      "zh-Hans": "任务。这条路线属于本章的一个唯一任务。它的文章里写了需要什么、能得到什么；打开剧透后，还有一步步的做法。"
+    },
+    {
+      "spoiler": true,
+      "es": "QUIÉN ES. El Eco.",
+      "en": "WHO IT IS. The Echo.",
+      "fr": "QUI C'EST. L'Écho.",
+      "de": "WER ES IST. Das Echo.",
+      "it": "CHI È. L'Eco.",
+      "pt": "QUEM É. O Eco.",
+      "pt-BR": "QUEM É. O Eco.",
+      "ru": "КТО ЭТО. Эхо.",
+      "pl": "KTO TO. Echo.",
+      "zh-Hans": "是谁。回声。"
+    },
+    {
+      "spoiler": true,
+      "es": "AL MATARLO. En las vidas siguientes la niña ya no se pierde: la quest Buscar a la niña perdida desaparece y el alcalde te paga lo mismo con solo hablar con él.",
+      "en": "WHEN YOU KILL IT. In the lives that follow, the girl no longer gets lost: the Find the lost girl quest disappears, and the mayor pays you the same just for talking to him.",
+      "fr": "QUAND TU LE TUES. Dans les vies suivantes, la fillette ne se perd plus : la quête Retrouver la fillette perdue disparaît, et le maire te paie la même chose rien qu'en lui parlant.",
+      "de": "WENN DU IHN TÖTEST. In den folgenden Leben verirrt sich das Mädchen nicht mehr: Die Quest Das verlorene Mädchen suchen verschwindet, und der Bürgermeister zahlt dir dasselbe, sobald du mit ihm sprichst.",
+      "it": "QUANDO LO UCCIDI. Nelle vite successive la bambina non si perde più: la quest Cercare la bambina smarrita sparisce e il sindaco ti paga lo stesso solo parlandoci.",
+      "pt": "AO MATÁ-LO. Nas vidas seguintes a menina já não se perde: a quest Procurar a menina perdida desaparece e o prefeito paga-te o mesmo só de falares com ele.",
+      "pt-BR": "AO MATÁ-LO. Nas vidas seguintes a menina não se perde mais: a quest Procurar a menina perdida desaparece e o prefeito te paga o mesmo só de você falar com ele.",
+      "ru": "КОГДА ТЫ ЕГО УБЬЁШЬ. В следующих жизнях девочка больше не теряется: квест «Найти пропавшую девочку» исчезает, а градоначальник платит тебе столько же, стоит только с ним поговорить.",
+      "pl": "GDY GO ZABIJESZ. W kolejnych życiach dziewczynka już się nie gubi: zadanie Odszukaj zaginioną dziewczynkę znika, a burmistrz płaci ci tyle samo, wystarczy z nim porozmawiać.",
+      "zh-Hans": "击杀之后。之后的每条命里，小女孩都不会再走失：「寻找走失的小女孩」任务消失，镇长只要和你说句话就付给你同样的报酬。"
+    }
+  ]
+}

@@ -37,6 +37,18 @@
       "zh-Hans": "战士。**反击。**进度条完成后进入 5 秒防御，这段时间里敌人的攻击会被格挡，**不会让你掉血**。防御期间他会**照常继续攻击**。防御结束后，他会打出比普通攻击**强 50%** 的一击；如果敌人只剩 **10% 或更少的生命**，这一击会提前打出。冷却 50 秒。"
     },
     {
+      "es": "**Embestida.** Golpea como un Ataque normal y **reinicia el reloj del siguiente golpe del enemigo**. Recarga de 50 segundos. Se consigue completando una quest en **La Espesura**.",
+      "en": "**Ram.** It hits like a Normal Attack and **resets the timer on the enemy's next hit**. 50 second cooldown. You get it by completing a quest in **The Thicket**.",
+      "fr": "**Charge.** Elle frappe comme une Attaque normale et **remet à zéro le compteur du prochain coup de l'ennemi**. Recharge de 50 secondes. Elle s'obtient en terminant une quête dans le **Fourré**.",
+      "de": "**Rammstoß.** Er trifft wie ein Normaler Angriff und **setzt die Uhr bis zum nächsten Schlag des Gegners zurück**. Abklingzeit von 50 Sekunden. Du bekommst ihn, indem du eine Quest im **Dickicht** abschließt.",
+      "it": "**Carica.** Colpisce come un Attacco normale e **azzera il tempo del prossimo colpo del nemico**. Ricarica di 50 secondi. Si ottiene completando una missione nella **Macchia**.",
+      "pt": "**Investida.** Bate como um Ataque normal e **reinicia o relógio do próximo golpe do inimigo**. Recarga de 50 segundos. Consegue-se completando uma missão no **Matagal**.",
+      "pt-BR": "**Investida.** Bate como um Ataque normal e **reinicia o relógio do próximo golpe do inimigo**. Recarga de 50 segundos. Ela é obtida completando uma missão no **Matagal**.",
+      "ru": "**Таран.** Бьёт как Обычная атака и **сбрасывает отсчёт до следующего удара врага**. Перезарядка 50 секунд. Его можно получить, выполнив задание в **Чаще**.",
+      "pl": "**Taranowanie.** Uderza jak Zwykły atak i **zeruje licznik do następnego ciosu wroga**. Odnowienie 50 sekund. Zdobywa się je, wykonując zadanie w **Gąszczu**.",
+      "zh-Hans": "**冲撞。**和普通攻击一样出手，并且**重置敌人下一次攻击的计时**。冷却 50 秒。在**密林**完成一个任务即可获得。"
+    },
+    {
       "es": "RANGER. **Sigilo.** El ranger empieza cada combate **sin ser detectado**, y el enemigo **no ataca hasta que completa su primer ataque**. El Sigilo dura como mucho **20 segundos** de combate; si el primer ataque no llega a tiempo, se pierde. Si sales y vuelves al mismo enemigo, **no se recupera**. **Un escolta ranger** también te hace empezar en Sigilo.",
       "en": "RANGER. **Stealth.** The Ranger starts every fight **undetected**, and the enemy **doesn't attack until the Ranger completes their first attack**. Stealth lasts at most **20 seconds** of combat; if the first attack doesn't make it in time, it is lost. If you leave and come back to the same enemy, **it doesn't come back**. **A Ranger escort** also makes you start in Stealth.",
       "fr": "RÔDEUR. **Discrétion.** Le Rôdeur commence chaque combat **sans être repéré**, et l'ennemi **n'attaque pas tant qu'il n'a pas terminé sa première attaque**. La Discrétion dure au maximum **20 secondes** de combat ; si la première attaque n'arrive pas à temps, elle est perdue. Si tu sors et reviens face au même ennemi, **elle ne revient pas**. **Un Rôdeur en escorte** te fait aussi commencer en Discrétion.",
@@ -61,6 +73,18 @@
       "zh-Hans": "**偷袭。**比普通攻击**强 50%**，如果**在潜行状态下发动则为两倍**。冷却 50 秒。"
     },
     {
+      "es": "**Flecha envenenada.** Golpea como un Ataque normal y el veneno le quita **otro 50% de ese golpe a lo largo de 5 segundos**. Recarga de 50 segundos. Se consigue completando una quest en **La Espesura**.",
+      "en": "**Poisoned Arrow.** It hits like a Normal Attack and the poison takes **another 50% of that hit over 5 seconds**. 50 second cooldown. You get it by completing a quest in **The Thicket**.",
+      "fr": "**Flèche empoisonnée.** Elle frappe comme une Attaque normale et le poison retire **encore 50 % de ce coup en 5 secondes**. Recharge de 50 secondes. Elle s'obtient en terminant une quête dans le **Fourré**.",
+      "de": "**Giftpfeil.** Er trifft wie ein Normaler Angriff, und das Gift zieht **weitere 50 % dieses Treffers über 5 Sekunden** ab. Abklingzeit von 50 Sekunden. Du bekommst ihn, indem du eine Quest im **Dickicht** abschließt.",
+      "it": "**Freccia avvelenata.** Colpisce come un Attacco normale e il veleno toglie **un altro 50% di quel colpo nell'arco di 5 secondi**. Ricarica di 50 secondi. Si ottiene completando una missione nella **Macchia**.",
+      "pt": "**Flecha envenenada.** Bate como um Ataque normal e o veneno tira **mais 50% desse golpe ao longo de 5 segundos**. Recarga de 50 segundos. Consegue-se completando uma missão no **Matagal**.",
+      "pt-BR": "**Flecha envenenada.** Bate como um Ataque normal e o veneno tira **mais 50% desse golpe ao longo de 5 segundos**. Recarga de 50 segundos. Ela é obtida completando uma missão no **Matagal**.",
+      "ru": "**Отравленная стрела.** Бьёт как Обычная атака, а яд отнимает **ещё 50% от этого удара за 5 секунд**. Перезарядка 50 секунд. Её можно получить, выполнив задание в **Чаще**.",
+      "pl": "**Zatruta strzała.** Uderza jak Zwykły atak, a trucizna zabiera **kolejne 50% tego ciosu w ciągu 5 sekund**. Odnowienie 50 sekund. Zdobywa się ją, wykonując zadanie w **Gąszczu**.",
+      "zh-Hans": "**毒箭。**和普通攻击一样出手，毒素会在 **5 秒内再造成这一击 50% 的伤害**。冷却 50 秒。在**密林**完成一个任务即可获得。"
+    },
+    {
       "es": "MAGO. **Bola de fuego.** Alcanza **a todos los enemigos de un grupo a la vez** y hace a cada uno **el 50% del daño normal**. Contra un solo enemigo quita menos que un Ataque normal, así que ahí **conviene bajarla en la lista**. Recarga de 50 segundos.",
       "en": "MAGE. **Fireball.** It hits **every enemy in a group at once** and deals each one **50% of normal damage**. Against a single enemy it takes less than a Normal Attack, so there **it's worth moving it down the list**. 50 second cooldown.",
       "fr": "MAGE. **Boule de feu.** Elle touche **tous les ennemis d'un groupe à la fois** et inflige à chacun **50 % des dégâts normaux**. Contre un seul ennemi, elle retire moins qu'une Attaque normale, donc là, **mieux vaut la descendre dans la liste**. Recharge de 50 secondes.",
@@ -71,6 +95,18 @@
       "ru": "МАГ. **Огненный шар.** Поражает **всех врагов группы разом** и наносит каждому **50% обычного урона**. Против одного врага отнимает меньше, чем Обычная атака, так что там его **стоит опустить ниже в списке**. Перезарядка 50 секунд.",
       "pl": "MAG. **Kula ognia.** Trafia **wszystkich wrogów z grupy naraz** i zadaje każdemu **50% zwykłych obrażeń**. Przeciw jednemu wrogowi zabiera mniej niż Zwykły atak, więc wtedy **warto przesunąć ją niżej na liście**. Odnowienie 50 sekund.",
       "zh-Hans": "法师。**火球术。**同时命中**群体中的所有敌人**，对每个敌人造成**普通伤害的 50%**。对单个敌人时，它削的血比普通攻击少，所以这种情况下**最好把它往列表下方挪**。冷却 50 秒。"
+    },
+    {
+      "es": "**Proyectiles mágicos.** Lanza **3 proyectiles** que suman **un 50% más** que un Ataque normal. Contra un grupo, cada proyectil va a **un enemigo al azar** de los que siguen en pie. Recarga de 50 segundos. Se consiguen completando una quest en **La Espesura**.",
+      "en": "**Magic Missiles.** It fires **3 missiles** that add up to **50% more** than a Normal Attack. Against a group, each missile goes to **a random enemy** among those still standing. 50 second cooldown. You get it by completing a quest in **The Thicket**.",
+      "fr": "**Projectiles magiques.** Ils partent **par 3** et totalisent **50 % de plus** qu'une Attaque normale. Contre un groupe, chaque projectile va sur **un ennemi au hasard** parmi ceux encore debout. Recharge de 50 secondes. Ils s'obtiennent en terminant une quête dans le **Fourré**.",
+      "de": "**Magische Geschosse.** Feuert **3 Geschosse** ab, die zusammen **50 % mehr** als ein Normaler Angriff ausmachen. Gegen eine Gruppe trifft jedes Geschoss **einen zufälligen Gegner**, der noch steht. Abklingzeit von 50 Sekunden. Du bekommst sie, indem du eine Quest im **Dickicht** abschließt.",
+      "it": "**Proiettili magici.** Lancia **3 proiettili** che insieme fanno **il 50% in più** di un Attacco normale. Contro un gruppo, ogni proiettile va su **un nemico a caso** tra quelli ancora in piedi. Ricarica di 50 secondi. Si ottengono completando una missione nella **Macchia**.",
+      "pt": "**Projéteis mágicos.** Lança **3 projéteis** que somam **mais 50%** do que um Ataque normal. Contra um grupo, cada projétil vai para **um inimigo ao acaso** dos que continuam de pé. Recarga de 50 segundos. Conseguem-se completando uma missão no **Matagal**.",
+      "pt-BR": "**Projéteis mágicos.** Lança **3 projéteis** que somam **50% a mais** que um Ataque normal. Contra um grupo, cada projétil vai para **um inimigo aleatório** entre os que ainda estão de pé. Recarga de 50 segundos. Eles são obtidos completando uma missão no **Matagal**.",
+      "ru": "**Магические снаряды.** Выпускает **3 снаряда**, которые вместе наносят **на 50% больше** Обычной атаки. Против группы каждый снаряд летит в **случайного врага** из тех, кто ещё стоит на ногах. Перезарядка 50 секунд. Их можно получить, выполнив задание в **Чаще**.",
+      "pl": "**Magiczne pociski.** Wystrzeliwuje **3 pociski**, które razem zadają **o 50% więcej** niż Zwykły atak. Przeciw grupie każdy pocisk leci w **losowego wroga** spośród tych, którzy jeszcze stoją. Odnowienie 50 sekund. Zdobywa się je, wykonując zadanie w **Gąszczu**.",
+      "zh-Hans": "**魔法飞弹。**发射 **3 枚飞弹**，合计比普通攻击**多 50%**。对群体时，每枚飞弹打向仍站着的敌人中**随机的一个**。冷却 50 秒。在**密林**完成一个任务即可获得。"
     }
   ]
 }

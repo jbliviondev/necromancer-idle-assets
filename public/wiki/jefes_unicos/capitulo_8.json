@@ -1,0 +1,54 @@
+{
+  "title": {
+    "es": "Capítulo 8",
+    "en": "Chapter 8",
+    "fr": "Chapitre 8",
+    "de": "Kapitel 8",
+    "it": "Capitolo 8",
+    "pt": "Capítulo 8",
+    "pt-BR": "Capítulo 8",
+    "ru": "Глава 8",
+    "pl": "Rozdział 8",
+    "zh-Hans": "第 8 章"
+  },
+  "body": [
+    {
+      "es": "LA RUTA. Desde el Claro de los Capullos se trepa a la tela y se sigue por ella: los Hilos Colgantes, la Tela Alta y la Hondonada. Desde la Hondonada se entra a su guarida.",
+      "en": "THE ROUTE. From the Glade of Cocoons you climb up into the web and follow it: the Hanging Threads, the High Web and the Hollow. From the Hollow you go into its lair.",
+      "fr": "LA ROUTE. Depuis la Clairière des Cocons, on grimpe dans la toile et on la suit : les Fils Suspendus, la Toile Haute et la Combe. Depuis la Combe, on entre dans son repaire.",
+      "de": "DER WEG. Von der Lichtung der Kokons klettert man ins Netz und folgt ihm: die Hängenden Fäden, das Hohe Netz und die Senke. Von der Senke geht es in sein Versteck.",
+      "it": "IL PERCORSO. Dalla Radura dei Bozzoli ci si arrampica sulla tela e la si segue: i Fili Pendenti, la Tela Alta e la Conca. Dalla Conca si entra nella sua tana.",
+      "pt": "A ROTA. Da Clareira dos Casulos trepa-se à teia e segue-se por ela: os Fios Pendentes, a Teia Alta e a Cova. Da Cova entra-se no seu covil.",
+      "pt-BR": "A ROTA. Da Clareira dos Casulos você sobe na teia e segue por ela: os Fios Pendentes, a Teia Alta e a Baixada. Da Baixada se entra no covil.",
+      "ru": "МАРШРУТ. С Поляны коконов забираешься на паутину и идёшь по ней: Висячие нити, Верхняя паутина и Лощина. Из Лощины заходишь в логово.",
+      "pl": "TRASA. Z Polany Kokonów wspina się na sieć i idzie po niej: Wiszące Nici, Wysoka Sieć i Kotlina. Z Kotliny wchodzi się do legowiska.",
+      "zh-Hans": "路线。从茧之空地爬上蛛网，顺着网走：垂丝、高网、洼地。从洼地进入它的巢穴。"
+    },
+    {
+      "link": "misiones_unicas/capitulo_8",
+      "es": "LA MISIÓN. Esta ruta forma parte de una misión única del capítulo. En su artículo tienes qué hace falta, qué da y, con los spoilers encendidos, cómo se hace paso a paso.",
+      "en": "THE MISSION. This route is part of one of the chapter's unique missions. Its article tells you what you need, what you get and, with spoilers on, how to do it step by step.",
+      "fr": "LA MISSION. Cette route fait partie d'une mission unique du chapitre. Son article te dit ce qu'il faut, ce que ça rapporte et, spoilers activés, comment la faire étape par étape.",
+      "de": "DIE MISSION. Dieser Weg gehört zu einer einzigartigen Mission des Kapitels. Ihr Artikel sagt dir, was du brauchst, was es bringt und, mit eingeschalteten Spoilern, wie es Schritt für Schritt geht.",
+      "it": "LA MISSIONE. Questo percorso fa parte di una missione unica del capitolo. Nel suo articolo trovi cosa serve, cosa ti dà e, con gli spoiler attivi, come si fa passo per passo.",
+      "pt": "A MISSÃO. Esta rota faz parte de uma missão única do capítulo. No artigo dela tens o que é preciso, o que dá e, com os spoilers ligados, como se faz passo a passo.",
+      "pt-BR": "A MISSÃO. Esta rota faz parte de uma missão única do capítulo. No artigo dela você vê o que é preciso, o que dá e, com os spoilers ligados, como se faz passo a passo.",
+      "ru": "ЗАДАНИЕ. Этот маршрут входит в уникальное задание главы. В его статье сказано, что нужно, что оно даёт и, если включить спойлеры, как его пройти шаг за шагом.",
+      "pl": "MISJA. Ta trasa jest częścią unikalnej misji rozdziału. W jej artykule znajdziesz, co jest potrzebne, co daje i, z włączonymi spoilerami, jak ją przejść krok po kroku.",
+      "zh-Hans": "任务。这条路线属于本章的一个唯一任务。它的文章里写了需要什么、能得到什么；打开剧透后，还有一步步的做法。"
+    },
+    {
+      "spoiler": true,
+      "es": "QUIÉN ES. La Araña Espectral.",
+      "en": "WHO IT IS. The Spectral Spider.",
+      "fr": "QUI C'EST. L'Araignée Spectrale.",
+      "de": "WER ES IST. Die Spektralspinne.",
+      "it": "CHI È. Il Ragno Spettrale.",
+      "pt": "QUEM É. A Aranha Espectral.",
+      "pt-BR": "QUEM É. A Aranha Espectral.",
+      "ru": "КТО ЭТО. Призрачный Паук.",
+      "pl": "KTO TO. Widmowy Pająk.",
+      "zh-Hans": "是谁。幽灵蛛。"
+    }
+  ]
+}
