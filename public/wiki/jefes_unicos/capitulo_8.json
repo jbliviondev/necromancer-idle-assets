@@ -13,16 +13,16 @@
   },
   "body": [
     {
-      "es": "LA RUTA. Desde el Claro de los Capullos se trepa a la tela y se sigue por ella: los Hilos Colgantes, la Tela Alta y la Hondonada. Desde la Hondonada se entra a su guarida.",
-      "en": "THE ROUTE. From the Glade of Cocoons you climb up into the web and follow it: the Hanging Threads, the High Web and the Hollow. From the Hollow you go into its lair.",
-      "fr": "LA ROUTE. Depuis la Clairière des Cocons, on grimpe dans la toile et on la suit : les Fils Suspendus, la Toile Haute et la Combe. Depuis la Combe, on entre dans son repaire.",
-      "de": "DER WEG. Von der Lichtung der Kokons klettert man ins Netz und folgt ihm: die Hängenden Fäden, das Hohe Netz und die Senke. Von der Senke geht es in sein Versteck.",
-      "it": "IL PERCORSO. Dalla Radura dei Bozzoli ci si arrampica sulla tela e la si segue: i Fili Pendenti, la Tela Alta e la Conca. Dalla Conca si entra nella sua tana.",
-      "pt": "A ROTA. Da Clareira dos Casulos trepa-se à teia e segue-se por ela: os Fios Pendentes, a Teia Alta e a Cova. Da Cova entra-se no seu covil.",
-      "pt-BR": "A ROTA. Da Clareira dos Casulos você sobe na teia e segue por ela: os Fios Pendentes, a Teia Alta e a Baixada. Da Baixada se entra no covil.",
-      "ru": "МАРШРУТ. С Поляны коконов забираешься на паутину и идёшь по ней: Висячие нити, Верхняя паутина и Лощина. Из Лощины заходишь в логово.",
-      "pl": "TRASA. Z Polany Kokonów wspina się na sieć i idzie po niej: Wiszące Nici, Wysoka Sieć i Kotlina. Z Kotliny wchodzi się do legowiska.",
-      "zh-Hans": "路线。从茧之空地爬上蛛网，顺着网走：垂丝、高网、洼地。从洼地进入它的巢穴。"
+      "es": "LA RUTA. Desde el **Claro de los Capullos** se trepa a la tela y se sigue por ella: los **Hilos Colgantes**, la **Tela Alta** y la **Hondonada**. Desde la **Hondonada** se entra a su guarida.",
+      "en": "THE ROUTE. From the **Glade of Cocoons** you climb up into the web and follow it: the **Hanging Threads**, the **High Web** and the **Hollow**. From the **Hollow** you go into its lair.",
+      "fr": "LA ROUTE. Depuis la **Clairière des Cocons**, on grimpe dans la toile et on la suit : les **Fils Suspendus**, la **Toile Haute** et la **Combe**. Depuis la **Combe**, on entre dans son repaire.",
+      "de": "DER WEG. Von der **Lichtung der Kokons** klettert man ins Netz und folgt ihm: die **Hängenden Fäden**, das **Hohe Netz** und die **Senke**. Von der **Senke** geht es in sein Versteck.",
+      "it": "IL PERCORSO. Dalla **Radura dei Bozzoli** ci si arrampica sulla tela e la si segue: i **Fili Pendenti**, la **Tela Alta** e la **Conca**. Dalla **Conca** si entra nella sua tana.",
+      "pt": "A ROTA. Da **Clareira dos Casulos** trepa-se à teia e segue-se por ela: os **Fios Pendentes**, a **Teia Alta** e a **Cova**. Da **Cova** entra-se no seu covil.",
+      "pt-BR": "A ROTA. Da **Clareira dos Casulos** você sobe na teia e segue por ela: os **Fios Pendentes**, a **Teia Alta** e a **Baixada**. Da **Baixada** se entra no covil.",
+      "ru": "МАРШРУТ. С **Поляны коконов** забираешься на паутину и идёшь по ней: **Висячие нити**, **Верхняя паутина** и **Лощина**. Из **Лощины** заходишь в логово.",
+      "pl": "TRASA. Z **Polany Kokonów** wspina się na sieć i idzie po niej: **Wiszące Nici**, **Wysoka Sieć** i **Kotlina**. Z **Kotliny** wchodzi się do legowiska.",
+      "zh-Hans": "路线。从**茧之空地**爬上蛛网，顺着网走：**垂丝**、**高网**、**洼地**。从**洼地**进入它的巢穴。"
     },
     {
       "link": "misiones_unicas/capitulo_8",

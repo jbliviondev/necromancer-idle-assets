@@ -13,16 +13,16 @@
   },
   "body": [
     {
-      "es": "LA RUTA. Está en el fuerte sitiado. Desde el Camino de las Caravanas se toma la Calzada del Fuerte y se sube al fuerte, y es en La Puerta donde lo encontrarás.",
-      "en": "THE ROUTE. It is at the besieged fort. From the Caravan Road you take the Fort Road and climb up to the fort, and it is at The Gate that you will find it.",
-      "fr": "LA ROUTE. Il est au fort assiégé. Depuis la Route des Caravanes, on prend la Chaussée du Fort et on monte au fort, et c'est à La Porte que tu le trouveras.",
-      "de": "DER WEG. Er ist am belagerten Fort. Vom Karawanenweg nimmt man die Straße zum Fort und steigt zum Fort hinauf, und am Tor wirst du ihn finden.",
-      "it": "IL PERCORSO. Si trova al forte assediato. Dalla Via delle Carovane si prende la Strada del Forte e si sale al forte, ed è a La Porta che lo troverai.",
-      "pt": "A ROTA. Está no forte sitiado. Da Estrada das Caravanas apanha-se a Calçada do Forte e sobe-se ao forte, e é no Portão que o vais encontrar.",
-      "pt-BR": "A ROTA. Fica no forte sitiado. Da Estrada das Caravanas você pega a Calçada do Forte e sobe ao forte, e é no Portão que vai encontrá-lo.",
-      "ru": "МАРШРУТ. Он у осаждённого форта. С Караванного пути сворачиваешь на Дорогу к форту и поднимаешься в форт, а встретишь его у Ворот.",
-      "pl": "TRASA. Jest przy oblężonym forcie. Ze Szlaku Karawan skręca się na Trakt do Fortu i wchodzi do fortu, a spotkasz go przy Bramie.",
-      "zh-Hans": "路线。它在被围的要塞。从商队之路走上要塞石道，登上要塞，你会在大门遇到它。"
+      "es": "LA RUTA. Está en el fuerte sitiado. Desde el **Camino de las Caravanas** se toma la **Calzada del Fuerte** y se sube al fuerte, y es en La **Puerta** donde lo encontrarás.",
+      "en": "THE ROUTE. It is at the besieged fort. From the **Caravan Road** you take the **Fort Road** and climb up to the fort, and it is at The **Gate** that you will find it.",
+      "fr": "LA ROUTE. Il est au fort assiégé. Depuis la **Route des Caravanes**, on prend la **Chaussée du Fort** et on monte au fort, et c'est à La **Porte** que tu le trouveras.",
+      "de": "DER WEG. Er ist am belagerten Fort. Vom **Karawanenweg** nimmt man die **Straße zum Fort** und steigt zum Fort hinauf, und am **Tor** wirst du ihn finden.",
+      "it": "IL PERCORSO. Si trova al forte assediato. Dalla **Via delle Carovane** si prende la **Strada del Forte** e si sale al forte, ed è a La **Porta** che lo troverai.",
+      "pt": "A ROTA. Está no forte sitiado. Da **Estrada das Caravanas** apanha-se a **Calçada do Forte** e sobe-se ao forte, e é no **Portão** que o vais encontrar.",
+      "pt-BR": "A ROTA. Fica no forte sitiado. Da **Estrada das Caravanas** você pega a **Calçada do Forte** e sobe ao forte, e é no **Portão** que vai encontrá-lo.",
+      "ru": "МАРШРУТ. Он у осаждённого форта. С **Караванного пути** сворачиваешь на **Дорогу к форту** и поднимаешься в форт, а встретишь его у **Ворот**.",
+      "pl": "TRASA. Jest przy oblężonym forcie. Ze **Szlaku Karawan** skręca się na **Trakt do Fortu** i wchodzi do fortu, a spotkasz go przy **Bramie**.",
+      "zh-Hans": "路线。它在被围的要塞。从**商队之路**走上**要塞石道**，登上要塞，你会在**大门**遇到它。"
     },
     {
       "link": "misiones_unicas/capitulo_4",

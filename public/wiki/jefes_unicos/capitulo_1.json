@@ -13,16 +13,16 @@
   },
   "body": [
     {
-      "es": "LA RUTA. Está en la senda de los peregrinos, que sale del Bosque por la Espesura. Sigue la senda hasta el Retén de los Recaudadores: de ahí cuelga la Hondura de los Llamados, que es donde está.",
-      "en": "THE ROUTE. It is on the pilgrims' path, which leaves the Forest through the Thicket. Follow the path to the Tax Collectors' Checkpoint: the Depths of the Called hang off it, and that is where it is.",
-      "fr": "LA ROUTE. Il est sur le sentier des pèlerins, qui part de la Forêt par le Fourré. Suis le sentier jusqu'au Barrage des Collecteurs : de là part le Creux des Appelés, et c'est là qu'il se trouve.",
-      "de": "DER WEG. Er liegt auf dem Pfad der Pilger, der vom Wald durch das Dickicht abgeht. Folge dem Pfad bis zum Posten der Steuereintreiber: Von dort geht es zur Tiefe der Gerufenen, und dort ist er.",
-      "it": "IL PERCORSO. Si trova sul sentiero dei pellegrini, che parte dal Bosco attraverso la Macchia. Segui il sentiero fino al Presidio degli Esattori: da lì si scende alla Forra dei Chiamati, ed è lì che si trova.",
-      "pt": "A ROTA. Está no trilho dos peregrinos, que sai da Floresta pelo Matagal. Segue o trilho até ao Posto dos Cobradores: daí desce-se ao Fundão dos Chamados, e é aí que está.",
-      "pt-BR": "A ROTA. Fica na trilha dos peregrinos, que sai da Floresta pelo Matagal. Siga a trilha até o Posto dos Cobradores: de lá se desce ao Fundão dos Chamados, e é lá que ele está.",
-      "ru": "МАРШРУТ. Он на тропе паломников, которая уходит из Леса через Чащу. Иди по тропе до Заставы сборщиков: оттуда спускаются в Глубь позванных, там он и есть.",
-      "pl": "TRASA. Jest na ścieżce pielgrzymów, która odchodzi z Lasu przez Gąszcz. Idź ścieżką do Posterunku Poborców: stamtąd schodzi się do Głębi Przywołanych i tam właśnie jest.",
-      "zh-Hans": "路线。它在朝圣者小径上，小径从森林经密林岔出。沿小径走到税吏关卡：从那里下到被唤者深渊，它就在那里。"
+      "es": "LA RUTA. Está en la senda de los peregrinos, que sale del **Bosque** por la **Espesura**. Sigue la senda hasta el **Retén de los Recaudadores**: de ahí cuelga la **Hondura de los Llamados**, que es donde está.",
+      "en": "THE ROUTE. It is on the pilgrims' path, which leaves the **Forest** through the **Thicket**. Follow the path to the **Tax Collectors' Checkpoint**: the **Depths of the Called** hang off it, and that is where it is.",
+      "fr": "LA ROUTE. Il est sur le sentier des pèlerins, qui part de la **Forêt** par le **Fourré**. Suis le sentier jusqu'au **Barrage des Collecteurs** : de là part le **Creux des Appelés**, et c'est là qu'il se trouve.",
+      "de": "DER WEG. Er liegt auf dem Pfad der Pilger, der vom **Wald** durch das **Dickicht** abgeht. Folge dem Pfad bis zum **Posten der Steuereintreiber**: Von dort geht es zur **Tiefe der Gerufenen**, und dort ist er.",
+      "it": "IL PERCORSO. Si trova sul sentiero dei pellegrini, che parte dal **Bosco** attraverso la **Macchia**. Segui il sentiero fino al **Presidio degli Esattori**: da lì si scende alla **Forra dei Chiamati**, ed è lì che si trova.",
+      "pt": "A ROTA. Está no trilho dos peregrinos, que sai da **Floresta** pelo **Matagal**. Segue o trilho até ao **Posto dos Cobradores**: daí desce-se ao **Fundão dos Chamados**, e é aí que está.",
+      "pt-BR": "A ROTA. Fica na trilha dos peregrinos, que sai da **Floresta** pelo **Matagal**. Siga a trilha até o **Posto dos Cobradores**: de lá se desce ao **Fundão dos Chamados**, e é lá que ele está.",
+      "ru": "МАРШРУТ. Он на тропе паломников, которая уходит из **Леса** через **Чащу**. Иди по тропе до **Заставы сборщиков**: оттуда спускаются в **Глубь позванных**, там он и есть.",
+      "pl": "TRASA. Jest na ścieżce pielgrzymów, która odchodzi z **Lasu** przez **Gąszcz**. Idź ścieżką do **Posterunku Poborców**: stamtąd schodzi się do **Głębi Przywołanych** i tam właśnie jest.",
+      "zh-Hans": "路线。它在朝圣者小径上，小径从**森林**经**密林**岔出。沿小径走到**税吏关卡**：从那里下到**被唤者深渊**，它就在那里。"
     },
     {
       "link": "misiones_unicas/capitulo_1",

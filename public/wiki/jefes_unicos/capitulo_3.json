@@ -13,16 +13,16 @@
   },
   "body": [
     {
-      "es": "LA RUTA. Está en la Fronda Teñida, la senda que sale del Bosque de Plata por el Sendero de los Ciervos. Desde la Fronda se baja al Manantial, que es donde está.",
-      "en": "THE ROUTE. It is in the Tinted Wood, the path that leaves the Silver Forest along the Deer Trail. From the Tinted Wood you go down to the Spring, and that is where it is.",
-      "fr": "LA ROUTE. Il est dans la Frondaison Teintée, le sentier qui part de la Forêt d'Argent par le Sentier des Cerfs. De la Frondaison, on descend à la Source, et c'est là qu'il se trouve.",
-      "de": "DER WEG. Er liegt im Verfärbten Laub, dem Pfad, der vom Silberwald über den Hirschpfad abgeht. Vom Verfärbten Laub geht es hinunter zur Quelle, und dort ist er.",
-      "it": "IL PERCORSO. Si trova nella Fronda Tinta, il sentiero che parte dal Bosco d'Argento lungo il Sentiero dei Cervi. Dalla Fronda Tinta si scende alla Sorgente, ed è lì che si trova.",
-      "pt": "A ROTA. Está na Fronde Tingida, o trilho que sai da Floresta de Prata pelo Trilho dos Veados. Da Fronde desce-se à Nascente, e é aí que está.",
-      "pt-BR": "A ROTA. Fica na Fronde Tingida, a trilha que sai da Floresta de Prata pela Trilha dos Veados. Da Fronde se desce à Nascente, e é lá que ele está.",
-      "ru": "МАРШРУТ. Он в Окрашенных зарослях, на тропе, что уходит из Серебряного леса по Оленьей тропе. Из зарослей спускаются к Роднику, там он и есть.",
-      "pl": "TRASA. Jest w Zabarwionej Gęstwinie, ścieżce, która odchodzi ze Srebrnego Lasu Jelenią Ścieżką. Z Gęstwiny schodzi się do Źródła i tam właśnie jest.",
-      "zh-Hans": "路线。它在染色林里，那条小径从白银林经鹿径岔出。从染色林下到泉眼，它就在那里。"
+      "es": "LA RUTA. Está en la **Fronda Teñida**, la senda que sale del **Bosque de Plata** por el **Sendero de los Ciervos**. Desde la Fronda se baja al **Manantial**, que es donde está.",
+      "en": "THE ROUTE. It is in the **Tinted Wood**, the path that leaves the **Silver Forest** along the **Deer Trail**. From the **Tinted Wood** you go down to the **Spring**, and that is where it is.",
+      "fr": "LA ROUTE. Il est dans la **Frondaison Teintée**, le sentier qui part de la **Forêt d'Argent** par le **Sentier des Cerfs**. De la Frondaison, on descend à la **Source**, et c'est là qu'il se trouve.",
+      "de": "DER WEG. Er liegt im **Verfärbten Laub**, dem Pfad, der vom **Silberwald** über den **Hirschpfad** abgeht. Vom **Verfärbten Laub** geht es hinunter zur **Quelle**, und dort ist er.",
+      "it": "IL PERCORSO. Si trova nella **Fronda Tinta**, il sentiero che parte dal **Bosco d'Argento** lungo il **Sentiero dei Cervi**. Dalla **Fronda Tinta** si scende alla **Sorgente**, ed è lì che si trova.",
+      "pt": "A ROTA. Está na **Fronde Tingida**, o trilho que sai da **Floresta de Prata** pelo **Trilho dos Veados**. Da Fronde desce-se à **Nascente**, e é aí que está.",
+      "pt-BR": "A ROTA. Fica na **Fronde Tingida**, a trilha que sai da **Floresta de Prata** pela **Trilha dos Veados**. Da Fronde se desce à **Nascente**, e é lá que ele está.",
+      "ru": "МАРШРУТ. Он в **Окрашенных зарослях**, на тропе, что уходит из **Серебряного леса** по **Оленьей тропе**. Из зарослей спускаются к **Роднику**, там он и есть.",
+      "pl": "TRASA. Jest w **Zabarwionej Gęstwinie**, ścieżce, która odchodzi ze **Srebrnego Lasu** **Jelenią Ścieżką**. Z Gęstwiny schodzi się do **Źródła** i tam właśnie jest.",
+      "zh-Hans": "路线。它在**染色林**里，那条小径从**白银林**经**鹿径**岔出。从**染色林**下到**泉眼**，它就在那里。"
     },
     {
       "link": "misiones_unicas/capitulo_3",
@@ -79,16 +79,16 @@
     },
     {
       "spoiler": true,
-      "es": "AL MATARLA. En las vidas siguientes ya no hay cordón ni vial que se tiña: se baja sin más al Manantial. En el Helechal salen frutos de luz en vez de frutos teñidos, y la pastora de ciervos te llena la mochila de quesos de cierva con solo hablar con ella.",
-      "en": "WHEN YOU KILL IT. In the lives that follow there is no cordon and no vial getting tinted: you simply walk down to the Spring. In the Fernbrake lightfruit grows instead of tinted fruit, and the deer herder fills your backpack with doe's-milk cheese just for talking to her.",
-      "fr": "QUAND TU LE TUES. Dans les vies suivantes, il n'y a plus de cordon ni de fiole qui se teinte : on descend tout simplement à la Source. Dans la Fougeraie poussent des fruits de lumière au lieu de fruits teintés, et la bergère des cerfs te remplit le sac de fromages de biche rien qu'en lui parlant.",
-      "de": "WENN DU ES TÖTEST. In den folgenden Leben gibt es weder Absperrung noch eine Phiole, die sich verfärbt: Man geht einfach hinunter zur Quelle. Im Farngrund wachsen Lichtfrüchte statt verfärbter Früchte, und die Hirschhirtin füllt dir den Rucksack mit Hirschkuhkäse, sobald du mit ihr sprichst.",
-      "it": "QUANDO LA UCCIDI. Nelle vite successive non ci sono più cordone né fiala che si tinge: si scende e basta alla Sorgente. Nel Felceto crescono frutti di luce invece di frutti tinti, e la pastora di cervi ti riempie lo zaino di formaggi di cerva solo parlandoci.",
-      "pt": "AO MATÁ-LA. Nas vidas seguintes já não há cordão nem frasco que se tinja: desce-se simplesmente à Nascente. Na Feteira nascem frutos de luz em vez de frutos tingidos, e a pastora de veados enche-te a mochila de queijos de corça só de falares com ela.",
-      "pt-BR": "AO MATÁ-LA. Nas vidas seguintes não há mais cordão nem frasco que se tinja: você simplesmente desce à Nascente. No Samambaial nascem frutos de luz em vez de frutos tingidos, e a pastora de veados enche sua mochila de queijos de corça só de você falar com ela.",
-      "ru": "КОГДА ТЫ ЕЁ УБЬЁШЬ. В следующих жизнях нет ни оцепления, ни склянки, которая окрашивается: к Роднику просто спускаешься. В Папоротниках растут светоплоды вместо окрашенных плодов, а пастушка оленей набивает тебе рюкзак оленьим сыром, стоит только с ней поговорить.",
-      "pl": "GDY GO ZABIJESZ. W kolejnych życiach nie ma już kordonu ani fiolki, która się barwi: po prostu schodzi się do Źródła. Na Paprociowisku rosną owoce światła zamiast zabarwionych owoców, a pasterka jeleni napełnia ci plecak serem z łaniego mleka, wystarczy z nią porozmawiać.",
-      "zh-Hans": "击杀之后。之后的每条命里，不再有封锁线，也不再有会被染色的小瓶：直接下到泉眼就行。蕨丛里长出的是光之果而不是染色果，牧鹿女只要和你说句话就把鹿奶酪塞满你的背包。"
+      "es": "AL MATARLA. En las vidas siguientes ya no hay cordón ni vial que se tiña: se baja sin más al **Manantial**. En el **Helechal** salen frutos de luz en vez de frutos teñidos, y la pastora de ciervos te llena la mochila de quesos de cierva con solo hablar con ella.",
+      "en": "WHEN YOU KILL IT. In the lives that follow there is no cordon and no vial getting tinted: you simply walk down to the **Spring**. In the **Fernbrake** lightfruit grows instead of tinted fruit, and the deer herder fills your backpack with doe's-milk cheese just for talking to her.",
+      "fr": "QUAND TU LE TUES. Dans les vies suivantes, il n'y a plus de cordon ni de fiole qui se teinte : on descend tout simplement à la **Source**. Dans la **Fougeraie** poussent des fruits de lumière au lieu de fruits teintés, et la bergère des cerfs te remplit le sac de fromages de biche rien qu'en lui parlant.",
+      "de": "WENN DU ES TÖTEST. In den folgenden Leben gibt es weder Absperrung noch eine Phiole, die sich verfärbt: Man geht einfach hinunter zur **Quelle**. Im **Farngrund** wachsen Lichtfrüchte statt verfärbter Früchte, und die Hirschhirtin füllt dir den Rucksack mit Hirschkuhkäse, sobald du mit ihr sprichst.",
+      "it": "QUANDO LA UCCIDI. Nelle vite successive non ci sono più cordone né fiala che si tinge: si scende e basta alla **Sorgente**. Nel **Felceto** crescono frutti di luce invece di frutti tinti, e la pastora di cervi ti riempie lo zaino di formaggi di cerva solo parlandoci.",
+      "pt": "AO MATÁ-LA. Nas vidas seguintes já não há cordão nem frasco que se tinja: desce-se simplesmente à **Nascente**. Na **Feteira** nascem frutos de luz em vez de frutos tingidos, e a pastora de veados enche-te a mochila de queijos de corça só de falares com ela.",
+      "pt-BR": "AO MATÁ-LA. Nas vidas seguintes não há mais cordão nem frasco que se tinja: você simplesmente desce à **Nascente**. No **Samambaial** nascem frutos de luz em vez de frutos tingidos, e a pastora de veados enche sua mochila de queijos de corça só de você falar com ela.",
+      "ru": "КОГДА ТЫ ЕЁ УБЬЁШЬ. В следующих жизнях нет ни оцепления, ни склянки, которая окрашивается: к **Роднику** просто спускаешься. В **Папоротниках** растут светоплоды вместо окрашенных плодов, а пастушка оленей набивает тебе рюкзак оленьим сыром, стоит только с ней поговорить.",
+      "pl": "GDY GO ZABIJESZ. W kolejnych życiach nie ma już kordonu ani fiolki, która się barwi: po prostu schodzi się do **Źródła**. Na **Paprociowisku** rosną owoce światła zamiast zabarwionych owoców, a pasterka jeleni napełnia ci plecak serem z łaniego mleka, wystarczy z nią porozmawiać.",
+      "zh-Hans": "击杀之后。之后的每条命里，不再有封锁线，也不再有会被染色的小瓶：直接下到**泉眼**就行。**蕨丛**里长出的是光之果而不是染色果，牧鹿女只要和你说句话就把鹿奶酪塞满你的背包。"
     }
   ],
   "tonos": {

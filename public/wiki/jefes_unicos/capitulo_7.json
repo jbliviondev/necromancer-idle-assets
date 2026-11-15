@@ -13,16 +13,16 @@
   },
   "body": [
     {
-      "es": "LA RUTA. Está en el Fangal Sin Fondo. Desde el Templo de las Aguas Quietas se rema canal arriba hasta la Orilla de la Bocana, y desde la orilla se entra al fangal.",
-      "en": "THE ROUTE. It is in the Bottomless Mire. From the Temple of the Still Waters you row up the channel to the Shore of the Inlet, and from the shore you go into the mire.",
-      "fr": "LA ROUTE. Il est dans le Bourbier Sans Fond. Depuis le Temple des Eaux Calmes, on rame en remontant le canal jusqu'à la Rive de l'Embouchure, et depuis la rive on entre dans le bourbier.",
-      "de": "DER WEG. Er ist im Grundlosen Morast. Vom Tempel der Stillen Wasser rudert man den Kanal hinauf bis zum Ufer der Bucht, und vom Ufer geht es in den Morast.",
-      "it": "IL PERCORSO. Si trova nel Pantano Senza Fondo. Dal Tempio delle Acque Quiete si rema risalendo il canale fino alla Riva della Foce, e dalla riva si entra nel pantano.",
-      "pt": "A ROTA. Está no Lodaçal Sem Fundo. Do Templo das Águas Quietas rema-se canal acima até à Margem da Barra, e da margem entra-se no lodaçal.",
-      "pt-BR": "A ROTA. Fica no Lodaçal Sem Fundo. Do Templo das Águas Quietas você rema canal acima até a Margem da Barra, e da margem se entra no lodaçal.",
-      "ru": "МАРШРУТ. Он в Бездонной топи. От Храма Тихих Вод гребёшь вверх по каналу до Берега протоки, а с берега заходишь в топь.",
-      "pl": "TRASA. Jest w Bezdennym Bagnisku. Od Świątyni Stojących Wód wiosłuje się w górę kanału do Brzegu Ujścia, a z brzegu wchodzi się na bagnisko.",
-      "zh-Hans": "路线。它在无底泥沼里。从静水神庙沿水道往上游划到河口岸边，再从岸边进入泥沼。"
+      "es": "LA RUTA. Está en el **Fangal Sin Fondo**. Desde el **Templo de las Aguas Quietas** se rema canal arriba hasta la **Orilla de la Bocana**, y desde la orilla se entra al fangal.",
+      "en": "THE ROUTE. It is in the **Bottomless Mire**. From the **Temple of the Still Waters** you row up the channel to the **Shore of the Inlet**, and from the shore you go into the mire.",
+      "fr": "LA ROUTE. Il est dans le **Bourbier Sans Fond**. Depuis le **Temple des Eaux Calmes**, on rame en remontant le canal jusqu'à la **Rive de l'Embouchure**, et depuis la rive on entre dans le bourbier.",
+      "de": "DER WEG. Er ist im **Grundlosen Morast**. Vom **Tempel der Stillen Wasser** rudert man den Kanal hinauf bis zum **Ufer der Bucht**, und vom Ufer geht es in den Morast.",
+      "it": "IL PERCORSO. Si trova nel **Pantano Senza Fondo**. Dal **Tempio delle Acque Quiete** si rema risalendo il canale fino alla **Riva della Foce**, e dalla riva si entra nel pantano.",
+      "pt": "A ROTA. Está no **Lodaçal Sem Fundo**. Do **Templo das Águas Quietas** rema-se canal acima até à **Margem da Barra**, e da margem entra-se no lodaçal.",
+      "pt-BR": "A ROTA. Fica no **Lodaçal Sem Fundo**. Do **Templo das Águas Quietas** você rema canal acima até a **Margem da Barra**, e da margem se entra no lodaçal.",
+      "ru": "МАРШРУТ. Он в **Бездонной топи**. От **Храма Тихих Вод** гребёшь вверх по каналу до **Берега протоки**, а с берега заходишь в топь.",
+      "pl": "TRASA. Jest w **Bezdennym Bagnisku**. Od **Świątyni Stojących Wód** wiosłuje się w górę kanału do **Brzegu Ujścia**, a z brzegu wchodzi się na bagnisko.",
+      "zh-Hans": "路线。它在**无底泥沼**里。从**静水神庙**沿水道往上游划到**河口岸边**，再从岸边进入泥沼。"
     },
     {
       "link": "misiones_unicas/capitulo_7",
