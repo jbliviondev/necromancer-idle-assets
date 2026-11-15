@@ -39,16 +39,25 @@
     },
     {
       "spoiler": true,
-      "es": "QUIÉN ES. La Salamandra Ígnea.",
-      "en": "WHO IT IS. The Igneous Salamander.",
-      "fr": "QUI C'EST. La Salamandre Ignée.",
+      "es": "QUIÉN ES. La **Salamandra** Ígnea.",
+      "en": "WHO IT IS. The Igneous **Salamander**.",
+      "fr": "QUI C'EST. La **Salamandre** Ignée.",
       "de": "WER ES IST. Der Glutsalamander.",
-      "it": "CHI È. La Salamandra Ignea.",
-      "pt": "QUEM É. A Salamandra Ígnea.",
-      "pt-BR": "QUEM É. A Salamandra Ígnea.",
-      "ru": "КТО ЭТО. Огненная Саламандра.",
-      "pl": "KTO TO. Ognista Salamandra.",
-      "zh-Hans": "是谁。炽焰火蜥。"
+      "it": "CHI È. La **Salamandra** Ignea.",
+      "pt": "QUEM É. A **Salamandra** Ígnea.",
+      "pt-BR": "QUEM É. A **Salamandra** Ígnea.",
+      "ru": "КТО ЭТО. Огненная **Саламандра**.",
+      "pl": "KTO TO. Ognista **Salamandra**.",
+      "zh-Hans": "是谁。炽焰**火蜥**。"
     }
-  ]
+  ],
+  "tonos": {
+    "jefe": [
+      "Salamander",
+      "Salamandra",
+      "Salamandre",
+      "Саламандра",
+      "火蜥"
+    ]
+  }
 }

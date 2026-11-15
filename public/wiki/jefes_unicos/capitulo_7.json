@@ -39,16 +39,26 @@
     },
     {
       "spoiler": true,
-      "es": "QUIÉN ES. El Catoblepas.",
-      "en": "WHO IT IS. The Catoblepas.",
-      "fr": "QUI C'EST. Le Catoblépas.",
-      "de": "WER ES IST. Der Katoblepas.",
-      "it": "CHI È. Il Catoblepa.",
-      "pt": "QUEM É. O Catoblepas.",
-      "pt-BR": "QUEM É. O Catoblepas.",
-      "ru": "КТО ЭТО. Катоблепас.",
-      "pl": "KTO TO. Katoblepas.",
-      "zh-Hans": "是谁。卡托布莱帕斯。"
+      "es": "QUIÉN ES. El **Catoblepas**.",
+      "en": "WHO IT IS. The **Catoblepas**.",
+      "fr": "QUI C'EST. Le **Catoblépas**.",
+      "de": "WER ES IST. Der **Katoblepas**.",
+      "it": "CHI È. Il **Catoblepa**.",
+      "pt": "QUEM É. O **Catoblepas**.",
+      "pt-BR": "QUEM É. O **Catoblepas**.",
+      "ru": "КТО ЭТО. **Катоблепас**.",
+      "pl": "KTO TO. **Katoblepas**.",
+      "zh-Hans": "是谁。**卡托布莱帕斯**。"
     }
-  ]
+  ],
+  "tonos": {
+    "jefe": [
+      "Catoblepa",
+      "Catoblepas",
+      "Catoblépas",
+      "Katoblepas",
+      "Катоблепас",
+      "卡托布莱帕斯"
+    ]
+  }
 }

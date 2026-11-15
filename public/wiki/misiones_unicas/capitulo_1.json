@@ -103,30 +103,39 @@
     },
     {
       "spoiler": true,
-      "es": "EN EL TEMPLO. Ofrece la ofrenda velada a la Diosa. Lo que recuerdas depende de tu clase:\nSoldado: Embestida.\nRanger: Flecha envenenada.\nMago: Proyectiles mágicos.\nClérigo: Luz sagrada.\nDruida: Enjambre.",
-      "en": "AT THE TEMPLE. Give the veiled offering to the Goddess. What you remember depends on your class:\nSoldier: Ram.\nRanger: Poisoned Arrow.\nMage: Magic Missiles.\nCleric: Sacred Light.\nDruid: Swarm.",
-      "fr": "AU TEMPLE. Offre l'offrande voilée à la Déesse. Ce dont tu te souviens dépend de ta classe :\nSoldat : Charge.\nRôdeur : Flèche empoisonnée.\nMage : Projectiles magiques.\nClerc : Lumière sacrée.\nDruide : Essaim.",
-      "de": "IM TEMPEL. Bring der Göttin die verschleierte Opfergabe dar. Woran du dich erinnerst, hängt von deiner Klasse ab:\nSoldat: Rammstoß.\nWaldläufer: Giftpfeil.\nMagier: Magische Geschosse.\nKleriker: Heiliges Licht.\nDruide: Schwarm.",
-      "it": "NEL TEMPIO. Offri l'offerta velata alla Dea. Quello che ricordi dipende dalla tua classe:\nSoldato: Carica.\nRanger: Freccia avvelenata.\nMago: Proiettili magici.\nChierico: Luce sacra.\nDruido: Sciame.",
-      "pt": "NO TEMPLO. Oferece a oferenda velada à Deusa. O que recordas depende da tua classe:\nSoldado: Investida.\nPatrulheiro: Flecha envenenada.\nMago: Projéteis mágicos.\nClérigo: Luz sagrada.\nDruida: Enxame.",
-      "pt-BR": "NO TEMPLO. Ofereça a oferenda velada à Deusa. O que você lembra depende da sua classe:\nSoldado: Investida.\nPatrulheiro: Flecha envenenada.\nMago: Projéteis mágicos.\nClérigo: Luz sagrada.\nDruida: Enxame.",
-      "ru": "В ХРАМЕ. Отдай Богине подношение из-под пелены. Что ты вспомнишь, зависит от класса:\nСолдат: Таран.\nРейнджер: Отравленная стрела.\nМаг: Магические снаряды.\nКлирик: Священный свет.\nДруид: Рой.",
-      "pl": "W ŚWIĄTYNI. Złóż Bogini przesłonięte wotum. To, co sobie przypomnisz, zależy od klasy:\nŻołnierz: Taranowanie.\nTropiciel: Zatruta strzała.\nMag: Magiczne pociski.\nKleryk: Święte światło.\nDruid: Rój.",
-      "zh-Hans": "在神庙。把蒙纱供品献给女神。你想起什么取决于职业：\n战士：冲撞。\n游侠：毒箭。\n法师：魔法飞弹。\n牧师：圣光。\n德鲁伊：虫群。"
+      "es": "EN EL TEMPLO. Ofrece la ofrenda velada a la Diosa. Lo que recuerdas depende de tu clase:\nSoldado: **Embestida**.\nRanger: **Flecha envenenada**.\nMago: **Proyectiles mágicos**.\nClérigo: **Luz sagrada**.\nDruida: **Enjambre**.",
+      "en": "AT THE TEMPLE. Give the veiled offering to the Goddess. What you remember depends on your class:\nSoldier: **Ram**.\nRanger: **Poisoned Arrow**.\nMage: **Magic Missiles**.\nCleric: **Sacred Light**.\nDruid: **Swarm**.",
+      "fr": "AU TEMPLE. Offre l'offrande voilée à la Déesse. Ce dont tu te souviens dépend de ta classe :\nSoldat : **Charge**.\nRôdeur : **Flèche empoisonnée**.\nMage : **Projectiles magiques**.\nClerc : **Lumière sacrée**.\nDruide : **Essaim**.",
+      "de": "IM TEMPEL. Bring der Göttin die verschleierte Opfergabe dar. Woran du dich erinnerst, hängt von deiner Klasse ab:\nSoldat: **Rammstoß**.\nWaldläufer: **Giftpfeil**.\nMagier: **Magische Geschosse**.\nKleriker: **Heiliges Licht**.\nDruide: **Schwarm**.",
+      "it": "NEL TEMPIO. Offri l'offerta velata alla Dea. Quello che ricordi dipende dalla tua classe:\nSoldato: **Carica**.\nRanger: **Freccia avvelenata**.\nMago: **Proiettili magici**.\nChierico: **Luce sacra**.\nDruido: **Sciame**.",
+      "pt": "NO TEMPLO. Oferece a oferenda velada à Deusa. O que recordas depende da tua classe:\nSoldado: **Investida**.\nPatrulheiro: **Flecha envenenada**.\nMago: **Projéteis mágicos**.\nClérigo: **Luz sagrada**.\nDruida: **Enxame**.",
+      "pt-BR": "NO TEMPLO. Ofereça a oferenda velada à Deusa. O que você lembra depende da sua classe:\nSoldado: **Investida**.\nPatrulheiro: **Flecha envenenada**.\nMago: **Projéteis mágicos**.\nClérigo: **Luz sagrada**.\nDruida: **Enxame**.",
+      "ru": "В ХРАМЕ. Отдай Богине подношение из-под пелены. Что ты вспомнишь, зависит от класса:\nСолдат: **Таран**.\nРейнджер: **Отравленная стрела**.\nМаг: **Магические снаряды**.\nКлирик: **Священный свет**.\nДруид: **Рой**.",
+      "pl": "W ŚWIĄTYNI. Złóż Bogini przesłonięte wotum. To, co sobie przypomnisz, zależy od klasy:\nŻołnierz: **Taranowanie**.\nTropiciel: **Zatruta strzała**.\nMag: **Magiczne pociski**.\nKleryk: **Święte światło**.\nDruid: **Rój**.",
+      "zh-Hans": "在神庙。把蒙纱供品献给女神。你想起什么取决于职业：\n战士：**冲撞**。\n游侠：**毒箭**。\n法师：**魔法飞弹**。\n牧师：**圣光**。\n德鲁伊：**虫群**。"
     },
     {
       "spoiler": true,
       "link": "jefes_unicos/capitulo_1",
-      "es": "EL JEFE ÚNICO. Aguanta diez veces el murmullo de los árboles en la Espesura y oirás una risa. En esa vida aparece en el Retén una madre que busca a su hijo, y hablar con ella abre el camino a la Hondura de los Llamados, donde está el Eco.",
-      "en": "THE UNIQUE BOSS. Endure the murmur of the trees in the Thicket ten times and you will hear a laugh. In that life a mother looking for her son appears at the Checkpoint, and talking to her opens the way to the Depths of the Called, where the Echo is.",
-      "fr": "LE BOSS UNIQUE. Supporte dix fois le murmure des arbres dans le Fourré et tu entendras un rire. Dans cette vie, une mère qui cherche son fils apparaît au Barrage, et lui parler ouvre le chemin du Creux des Appelés, où se trouve l'Écho.",
-      "de": "DER EINZIGARTIGE BOSS. Halte im Dickicht zehnmal das Raunen der Bäume aus, dann hörst du ein Lachen. In diesem Leben taucht am Posten eine Mutter auf, die ihren Sohn sucht, und das Gespräch mit ihr öffnet den Weg zur Tiefe der Gerufenen, wo das Echo ist.",
-      "it": "IL BOSS UNICO. Sopporta dieci volte il mormorio degli alberi nella Macchia e sentirai una risata. In quella vita compare al Presidio una madre che cerca suo figlio, e parlarle apre la strada alla Forra dei Chiamati, dove c'è l'Eco.",
-      "pt": "O CHEFE ÚNICO. Aguenta dez vezes o murmúrio das árvores no Matagal e vais ouvir uma risada. Nessa vida aparece no Posto uma mãe que procura o filho, e falar com ela abre o caminho para o Fundão dos Chamados, onde está o Eco.",
-      "pt-BR": "O CHEFE ÚNICO. Aguente dez vezes o murmúrio das árvores no Matagal e você vai ouvir uma risada. Nessa vida aparece no Posto uma mãe que procura o filho, e falar com ela abre o caminho para o Fundão dos Chamados, onde está o Eco.",
-      "ru": "УНИКАЛЬНЫЙ БОСС. Десять раз выдержи шёпот деревьев в Чаще, и услышишь смех. В той жизни на Заставе появится мать, которая ищет сына, и разговор с ней откроет путь в Глубь позванных, где живёт Эхо.",
-      "pl": "UNIKALNY BOSS. Wytrzymaj dziesięć razy szmer drzew w Gąszczu, a usłyszysz śmiech. W tym życiu na Posterunku pojawi się matka szukająca syna, a rozmowa z nią otworzy drogę do Głębi Przywołanych, gdzie jest Echo.",
-      "zh-Hans": "唯一首领。在密林里忍受树木的低语十次，你会听到一声笑。那一世，关卡里会出现一位寻找儿子的母亲，和她说话就会打开通往被唤者深渊的路，回声就在那里。"
+      "es": "EL JEFE ÚNICO. Aguanta diez veces el murmullo de los árboles en la Espesura y oirás una risa. En esa vida aparece en el Retén una madre que busca a su hijo, y hablar con ella abre el camino a la Hondura de los Llamados, donde está el **Eco**.",
+      "en": "THE UNIQUE BOSS. Endure the murmur of the trees in the Thicket ten times and you will hear a laugh. In that life a mother looking for her son appears at the Checkpoint, and talking to her opens the way to the Depths of the Called, where the **Echo** is.",
+      "fr": "LE BOSS UNIQUE. Supporte dix fois le murmure des arbres dans le Fourré et tu entendras un rire. Dans cette vie, une mère qui cherche son fils apparaît au Barrage, et lui parler ouvre le chemin du Creux des Appelés, où se trouve l'**Écho**.",
+      "de": "DER EINZIGARTIGE BOSS. Halte im Dickicht zehnmal das Raunen der Bäume aus, dann hörst du ein Lachen. In diesem Leben taucht am Posten eine Mutter auf, die ihren Sohn sucht, und das Gespräch mit ihr öffnet den Weg zur Tiefe der Gerufenen, wo das **Echo** ist.",
+      "it": "IL BOSS UNICO. Sopporta dieci volte il mormorio degli alberi nella Macchia e sentirai una risata. In quella vita compare al Presidio una madre che cerca suo figlio, e parlarle apre la strada alla Forra dei Chiamati, dove c'è l'**Eco**.",
+      "pt": "O CHEFE ÚNICO. Aguenta dez vezes o murmúrio das árvores no Matagal e vais ouvir uma risada. Nessa vida aparece no Posto uma mãe que procura o filho, e falar com ela abre o caminho para o Fundão dos Chamados, onde está o **Eco**.",
+      "pt-BR": "O CHEFE ÚNICO. Aguente dez vezes o murmúrio das árvores no Matagal e você vai ouvir uma risada. Nessa vida aparece no Posto uma mãe que procura o filho, e falar com ela abre o caminho para o Fundão dos Chamados, onde está o **Eco**.",
+      "ru": "УНИКАЛЬНЫЙ БОСС. Десять раз выдержи шёпот деревьев в Чаще, и услышишь смех. В той жизни на Заставе появится мать, которая ищет сына, и разговор с ней откроет путь в Глубь позванных, где живёт **Эхо**.",
+      "pl": "UNIKALNY BOSS. Wytrzymaj dziesięć razy szmer drzew w Gąszczu, a usłyszysz śmiech. W tym życiu na Posterunku pojawi się matka szukająca syna, a rozmowa z nią otworzy drogę do Głębi Przywołanych, gdzie jest **Echo**.",
+      "zh-Hans": "唯一首领。在密林里忍受树木的低语十次，你会听到一声笑。那一世，关卡里会出现一位寻找儿子的母亲，和她说话就会打开通往被唤者深渊的路，**回声**就在那里。"
     }
-  ]
+  ],
+  "tonos": {
+    "jefe": [
+      "Echo",
+      "Eco",
+      "Écho",
+      "Эхо",
+      "回声"
+    ]
+  }
 }
