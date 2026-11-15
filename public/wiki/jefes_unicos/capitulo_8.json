@@ -39,29 +39,16 @@
     },
     {
       "spoiler": true,
-      "es": "QUIÉN ES. La **Araña Espectral**.",
-      "en": "WHO IT IS. The **Spectral Spider**.",
-      "fr": "QUI C'EST. L'**Araignée Spectrale**.",
-      "de": "WER ES IST. Die **Spektralspinne**.",
-      "it": "CHI È. Il **Ragno Spettrale**.",
-      "pt": "QUEM É. A **Aranha Espectral**.",
-      "pt-BR": "QUEM É. A **Aranha Espectral**.",
-      "ru": "КТО ЭТО. **Призрачный Паук**.",
-      "pl": "KTO TO. **Widmowy Pająk**.",
-      "zh-Hans": "是谁。**幽灵蛛**。"
+      "es": "QUIÉN ES. La Araña Espectral.",
+      "en": "WHO IT IS. The Spectral Spider.",
+      "fr": "QUI C'EST. L'Araignée Spectrale.",
+      "de": "WER ES IST. Die Spektralspinne.",
+      "it": "CHI È. Il Ragno Spettrale.",
+      "pt": "QUEM É. A Aranha Espectral.",
+      "pt-BR": "QUEM É. A Aranha Espectral.",
+      "ru": "КТО ЭТО. Призрачный Паук.",
+      "pl": "KTO TO. Widmowy Pająk.",
+      "zh-Hans": "是谁。幽灵蛛。"
     }
-  ],
-  "tonos": {
-    "jefe": [
-      "Araignée Spectrale",
-      "Aranha Espectral",
-      "Araña Espectral",
-      "Ragno Spettrale",
-      "Spectral Spider",
-      "Spektralspinne",
-      "Widmowy Pająk",
-      "Призрачный Паук",
-      "幽灵蛛"
-    ]
-  }
+  ]
 }

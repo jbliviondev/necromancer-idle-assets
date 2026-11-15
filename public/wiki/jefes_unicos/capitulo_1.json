@@ -39,16 +39,16 @@
     },
     {
       "spoiler": true,
-      "es": "QUIÉN ES. El **Eco**.",
-      "en": "WHO IT IS. The **Echo**.",
-      "fr": "QUI C'EST. L'**Écho**.",
-      "de": "WER ES IST. Das **Echo**.",
-      "it": "CHI È. L'**Eco**.",
-      "pt": "QUEM É. O **Eco**.",
-      "pt-BR": "QUEM É. O **Eco**.",
-      "ru": "КТО ЭТО. **Эхо**.",
-      "pl": "KTO TO. **Echo**.",
-      "zh-Hans": "是谁。**回声**。"
+      "es": "QUIÉN ES. El Eco.",
+      "en": "WHO IT IS. The Echo.",
+      "fr": "QUI C'EST. L'Écho.",
+      "de": "WER ES IST. Das Echo.",
+      "it": "CHI È. L'Eco.",
+      "pt": "QUEM É. O Eco.",
+      "pt-BR": "QUEM É. O Eco.",
+      "ru": "КТО ЭТО. Эхо.",
+      "pl": "KTO TO. Echo.",
+      "zh-Hans": "是谁。回声。"
     },
     {
       "spoiler": true,
@@ -63,14 +63,5 @@
       "pl": "GDY GO ZABIJESZ. W kolejnych życiach dziewczynka już się nie gubi: zadanie Odszukaj zaginioną dziewczynkę znika, a burmistrz płaci ci tyle samo, wystarczy z nim porozmawiać.",
       "zh-Hans": "击杀之后。之后的每条命里，小女孩都不会再走失：「寻找走失的小女孩」任务消失，镇长只要和你说句话就付给你同样的报酬。"
     }
-  ],
-  "tonos": {
-    "jefe": [
-      "Echo",
-      "Eco",
-      "Écho",
-      "Эхо",
-      "回声"
-    ]
-  }
+  ]
 }

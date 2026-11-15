@@ -51,63 +51,42 @@
     },
     {
       "spoiler": true,
-      "es": "QUIÉNES SON. En la bodega del barco, el **Kraken menor**. En el Canal del Corral, el **Elemental de los Miasmas**.",
-      "en": "WHO THEY ARE. In the ship's hold, the **Lesser Kraken**. In the Weir Channel, the **Miasma Elemental**.",
-      "fr": "QUI ILS SONT. Dans la cale du navire, le **Kraken mineur**. Dans le Canal de la Pêcherie, l'**Élémentaire des Miasmes**.",
-      "de": "WER SIE SIND. Im Laderaum des Schiffs der **Kleine Krake**. Im Kanal des Fischwehrs das **Elementar der Miasmen**.",
-      "it": "CHI SONO. Nella stiva della nave, il **Kraken minore**. Nel Canale della Peschiera, l'**Elementale dei Miasmi**.",
-      "pt": "QUEM SÃO. No porão do navio, o **Kraken menor**. No Canal do Curral, o **Elemental dos Miasmas**.",
-      "pt-BR": "QUEM SÃO. No porão do navio, o **Kraken menor**. No Canal do Curral, o **Elemental dos Miasmas**.",
-      "ru": "КТО ОНИ. В трюме корабля **Малый кракен**. В Канале загона **Элементаль Миазмов**.",
-      "pl": "KIM SĄ. W ładowni statku **Mniejszy Kraken**. W Kanale Jazu **Żywiołak Miazmatów**.",
-      "zh-Hans": "是谁。船舱里是**小海妖**，鱼栅水道里是**瘴气元素**。"
+      "es": "QUIÉNES SON. En la bodega del barco, el Kraken menor. En el Canal del Corral, el Elemental de los Miasmas.",
+      "en": "WHO THEY ARE. In the ship's hold, the Lesser Kraken. In the Weir Channel, the Miasma Elemental.",
+      "fr": "QUI ILS SONT. Dans la cale du navire, le Kraken mineur. Dans le Canal de la Pêcherie, l'Élémentaire des Miasmes.",
+      "de": "WER SIE SIND. Im Laderaum des Schiffs der Kleine Krake. Im Kanal des Fischwehrs das Elementar der Miasmen.",
+      "it": "CHI SONO. Nella stiva della nave, il Kraken minore. Nel Canale della Peschiera, l'Elementale dei Miasmi.",
+      "pt": "QUEM SÃO. No porão do navio, o Kraken menor. No Canal do Curral, o Elemental dos Miasmas.",
+      "pt-BR": "QUEM SÃO. No porão do navio, o Kraken menor. No Canal do Curral, o Elemental dos Miasmas.",
+      "ru": "КТО ОНИ. В трюме корабля Малый кракен. В Канале загона Элементаль Миазмов.",
+      "pl": "KIM SĄ. W ładowni statku Mniejszy Kraken. W Kanale Jazu Żywiołak Miazmatów.",
+      "zh-Hans": "是谁。船舱里是小海妖，鱼栅水道里是瘴气元素。"
     },
     {
       "spoiler": true,
-      "es": "AL MATAR AL KRAKEN. En las vidas siguientes el barco ya no naufraga: no hay supervivientes que auxiliar y el capitán te da el **brazalete de protección** con solo hablar con él.",
-      "en": "WHEN YOU KILL THE KRAKEN. In the lives that follow, the ship no longer sinks: there are no survivors to aid, and the captain hands you the **bracer of protection** just for talking to him.",
-      "fr": "QUAND TU TUES LE KRAKEN. Dans les vies suivantes, le navire ne fait plus naufrage : il n'y a plus de survivants à secourir, et le capitaine te donne le **bracelet de protection** rien qu'en lui parlant.",
+      "es": "AL MATAR AL KRAKEN. En las vidas siguientes el barco ya no naufraga: no hay supervivientes que auxiliar y el capitán te da el brazalete de protección con solo hablar con él.",
+      "en": "WHEN YOU KILL THE KRAKEN. In the lives that follow, the ship no longer sinks: there are no survivors to aid, and the captain hands you the bracer of protection just for talking to him.",
+      "fr": "QUAND TU TUES LE KRAKEN. Dans les vies suivantes, le navire ne fait plus naufrage : il n'y a plus de survivants à secourir, et le capitaine te donne le bracelet de protection rien qu'en lui parlant.",
       "de": "WENN DU DEN KRAKEN TÖTEST. In den folgenden Leben sinkt das Schiff nicht mehr: Es gibt keine Überlebenden zu versorgen, und der Kapitän gibt dir den Schutzarmreif, sobald du mit ihm sprichst.",
-      "it": "QUANDO UCCIDI IL KRAKEN. Nelle vite successive la nave non naufraga più: non ci sono sopravvissuti da soccorrere e il capitano ti dà il **bracciale di protezione** solo parlandoci.",
-      "pt": "AO MATAR O KRAKEN. Nas vidas seguintes o navio já não naufraga: não há sobreviventes para socorrer e o capitão dá-te a **braçadeira de proteção** só de falares com ele.",
-      "pt-BR": "AO MATAR O KRAKEN. Nas vidas seguintes o navio não naufraga mais: não há sobreviventes para socorrer e o capitão te dá a **braçadeira de proteção** só de você falar com ele.",
-      "ru": "КОГДА УБЬЁШЬ КРАКЕНА. В следующих жизнях корабль больше не тонет: помогать выжившим не нужно, а капитан отдаёт тебе **наруч защиты**, стоит только с ним поговорить.",
-      "pl": "GDY ZABIJESZ KRAKENA. W kolejnych życiach statek już nie tonie: nie ma rozbitków do ratowania, a kapitan daje ci **naramiennik ochrony**, wystarczy z nim porozmawiać.",
-      "zh-Hans": "击杀海妖之后。之后的每条命里，船都不会再失事：不用再救助幸存者，船长只要和你说句话就把**护腕**交给你。"
+      "it": "QUANDO UCCIDI IL KRAKEN. Nelle vite successive la nave non naufraga più: non ci sono sopravvissuti da soccorrere e il capitano ti dà il bracciale di protezione solo parlandoci.",
+      "pt": "AO MATAR O KRAKEN. Nas vidas seguintes o navio já não naufraga: não há sobreviventes para socorrer e o capitão dá-te a braçadeira de proteção só de falares com ele.",
+      "pt-BR": "AO MATAR O KRAKEN. Nas vidas seguintes o navio não naufraga mais: não há sobreviventes para socorrer e o capitão te dá a braçadeira de proteção só de você falar com ele.",
+      "ru": "КОГДА УБЬЁШЬ КРАКЕНА. В следующих жизнях корабль больше не тонет: помогать выжившим не нужно, а капитан отдаёт тебе наруч защиты, стоит только с ним поговорить.",
+      "pl": "GDY ZABIJESZ KRAKENA. W kolejnych życiach statek już nie tonie: nie ma rozbitków do ratowania, a kapitan daje ci naramiennik ochrony, wystarczy z nim porozmawiać.",
+      "zh-Hans": "击杀海妖之后。之后的每条命里，船都不会再失事：不用再救助幸存者，船长只要和你说句话就把护腕交给你。"
     },
     {
       "spoiler": true,
-      "es": "AL MATAR AL ELEMENTAL. En las vidas siguientes, en el Varadero se pescan sardinas en vez de mariscar berberechos, y las sardinas curan más. El patrón te regala la **red de la marisma**, que agranda la mochila, sin pedirte nada, y el preboste del puerto te paga el motín de los pescadores sin que tengas que sofocarlo.",
-      "en": "WHEN YOU KILL THE ELEMENTAL. In the lives that follow, at the Boatyard you fish sardines instead of digging for cockles, and sardines heal more. The skipper gives you the **marsh net**, which enlarges your backpack, without asking for anything, and the harbor provost pays you for the fishermen's mutiny without you having to quell it.",
-      "fr": "QUAND TU TUES L'ÉLÉMENTAIRE. Dans les vies suivantes, à l'Échouage on pêche des sardines au lieu de ramasser des coques, et les sardines soignent davantage. Le patron t'offre le **filet du marais**, qui agrandit le sac, sans rien te demander, et le prévôt du port te paie la mutinerie des pêcheurs sans que tu aies à la réprimer.",
-      "de": "WENN DU DAS ELEMENTAR TÖTEST. In den folgenden Leben fängt man an der Helling Sardinen statt Herzmuscheln zu sammeln, und Sardinen heilen mehr. Der Bootsmeister schenkt dir das **Marschnetz**, das den Rucksack vergrößert, ohne etwas zu verlangen, und der Hafenvogt bezahlt dich für die Meuterei der Fischer, ohne dass du sie niederschlagen musst.",
-      "it": "QUANDO UCCIDI L'ELEMENTALE. Nelle vite successive allo Scalo si pescano sardine invece di raccogliere cuori di mare, e le sardine curano di più. Il padrone ti regala la **rete della palude**, che allarga lo zaino, senza chiederti niente, e il prevosto del porto ti paga l'ammutinamento dei pescatori senza che tu debba sedarlo.",
-      "pt": "AO MATAR O ELEMENTAL. Nas vidas seguintes, no Varadouro pescam-se sardinhas em vez de apanhar berbigões, e as sardinhas curam mais. O patrão oferece-te a **rede do sapal**, que aumenta a mochila, sem te pedir nada, e o preboste do porto paga-te o motim dos pescadores sem teres de o sufocar.",
-      "pt-BR": "AO MATAR O ELEMENTAL. Nas vidas seguintes, no Varadouro se pescam sardinhas em vez de catar berbigões, e as sardinhas curam mais. O patrão te dá a **rede do mangue**, que aumenta a mochila, sem pedir nada, e o preboste do porto te paga o motim dos pescadores sem que você precise sufocá-lo.",
-      "ru": "КОГДА УБЬЁШЬ ЭЛЕМЕНТАЛЯ. В следующих жизнях на Лодочной отмели ловят сардин вместо того, чтобы собирать сердцевидок, а сардины лечат сильнее. Кормщик дарит тебе **сеть с топи**, которая увеличивает рюкзак, ничего не прося взамен, а портовый прево платит тебе за бунт рыбаков, и подавлять его не нужно.",
-      "pl": "GDY ZABIJESZ ŻYWIOŁAKA. W kolejnych życiach na Pochylni łowi się sardynki zamiast zbierać sercówki, a sardynki leczą mocniej. Szyper daje ci **sieć z mokradeł**, która powiększa plecak, niczego nie żądając, a prewot portu płaci ci za bunt rybaków, choć nie musisz go tłumić.",
-      "zh-Hans": "击杀瘴气元素之后。之后的每条命里，船滩改为捕沙丁鱼，不再挖鸟蛤，沙丁鱼回血更多。船老大什么也不要就送你**沼泽渔网**，能扩大背包；港务长官不用你去平息渔民的哗变，也照样付你报酬。"
+      "es": "AL MATAR AL ELEMENTAL. En las vidas siguientes, en el Varadero se pescan sardinas en vez de mariscar berberechos, y las sardinas curan más. El patrón te regala la red de la marisma, que agranda la mochila, sin pedirte nada, y el preboste del puerto te paga el motín de los pescadores sin que tengas que sofocarlo.",
+      "en": "WHEN YOU KILL THE ELEMENTAL. In the lives that follow, at the Boatyard you fish sardines instead of digging for cockles, and sardines heal more. The skipper gives you the marsh net, which enlarges your backpack, without asking for anything, and the harbor provost pays you for the fishermen's mutiny without you having to quell it.",
+      "fr": "QUAND TU TUES L'ÉLÉMENTAIRE. Dans les vies suivantes, à l'Échouage on pêche des sardines au lieu de ramasser des coques, et les sardines soignent davantage. Le patron t'offre le filet du marais, qui agrandit le sac, sans rien te demander, et le prévôt du port te paie la mutinerie des pêcheurs sans que tu aies à la réprimer.",
+      "de": "WENN DU DAS ELEMENTAR TÖTEST. In den folgenden Leben fängt man an der Helling Sardinen statt Herzmuscheln zu sammeln, und Sardinen heilen mehr. Der Bootsmeister schenkt dir das Marschnetz, das den Rucksack vergrößert, ohne etwas zu verlangen, und der Hafenvogt bezahlt dich für die Meuterei der Fischer, ohne dass du sie niederschlagen musst.",
+      "it": "QUANDO UCCIDI L'ELEMENTALE. Nelle vite successive allo Scalo si pescano sardine invece di raccogliere cuori di mare, e le sardine curano di più. Il padrone ti regala la rete della palude, che allarga lo zaino, senza chiederti niente, e il prevosto del porto ti paga l'ammutinamento dei pescatori senza che tu debba sedarlo.",
+      "pt": "AO MATAR O ELEMENTAL. Nas vidas seguintes, no Varadouro pescam-se sardinhas em vez de apanhar berbigões, e as sardinhas curam mais. O patrão oferece-te a rede do sapal, que aumenta a mochila, sem te pedir nada, e o preboste do porto paga-te o motim dos pescadores sem teres de o sufocar.",
+      "pt-BR": "AO MATAR O ELEMENTAL. Nas vidas seguintes, no Varadouro se pescam sardinhas em vez de catar berbigões, e as sardinhas curam mais. O patrão te dá a rede do mangue, que aumenta a mochila, sem pedir nada, e o preboste do porto te paga o motim dos pescadores sem que você precise sufocá-lo.",
+      "ru": "КОГДА УБЬЁШЬ ЭЛЕМЕНТАЛЯ. В следующих жизнях на Лодочной отмели ловят сардин вместо того, чтобы собирать сердцевидок, а сардины лечат сильнее. Кормщик дарит тебе сеть с топи, которая увеличивает рюкзак, ничего не прося взамен, а портовый прево платит тебе за бунт рыбаков, и подавлять его не нужно.",
+      "pl": "GDY ZABIJESZ ŻYWIOŁAKA. W kolejnych życiach na Pochylni łowi się sardynki zamiast zbierać sercówki, a sardynki leczą mocniej. Szyper daje ci sieć z mokradeł, która powiększa plecak, niczego nie żądając, a prewot portu płaci ci za bunt rybaków, choć nie musisz go tłumić.",
+      "zh-Hans": "击杀瘴气元素之后。之后的每条命里，船滩改为捕沙丁鱼，不再挖鸟蛤，沙丁鱼回血更多。船老大什么也不要就送你沼泽渔网，能扩大背包；港务长官不用你去平息渔民的哗变，也照样付你报酬。"
     }
-  ],
-  "tonos": {
-    "jefe": [
-      "Elemental de los Miasmas",
-      "Elemental dos Miasmas",
-      "Elementale dei Miasmi",
-      "Elementar der Miasmen",
-      "Kleine Krake",
-      "Kraken menor",
-      "Kraken mineur",
-      "Kraken minore",
-      "Lesser Kraken",
-      "Miasma Elemental",
-      "Mniejszy Kraken",
-      "Élémentaire des Miasmes",
-      "Żywiołak Miazmatów",
-      "Малый кракен",
-      "Элементаль Миазмов",
-      "小海妖",
-      "瘴气元素"
-    ]
-  }
+  ]
 }

@@ -97,16 +97,16 @@
       "zh-Hans": "生命上限。你从 100 开始，**它只在重生时增长**：你会获得你用消耗品回复的全部生命的 2%。"
     },
     {
-      "es": "AL MORIR. **Se pierden** la aprendida, el progreso a medias, el inventario, el dinero, la mochila, los hechizos, las insignias, la **bendición** del templo y las protecciones. **Se quedan** la innata, la Vida máxima, el mapa descubierto y tus planes de automatización.",
-      "en": "ON DEATH. **You lose** the learned stats, any half-finished progress, the inventory, the money, the backpack, the spells, the badges, the temple's **blessing** and the protections. **You keep** the innate, maximum Life, the map you uncovered and your automation plans.",
-      "fr": "À LA MORT. **Tu perds** l'acquise, les progrès à moitié faits, l'inventaire, l'argent, le sac à dos, les sorts, les insignes, la **bénédiction** du temple et les protections. **Tu gardes** l'innée, la Vie maximale, la carte découverte et tes plans d'automatisation.",
-      "de": "BEIM TOD. **Verloren gehen** die erlernten Werte, halb fertiger Fortschritt, das Inventar, das Geld, der Rucksack, die Zauber, die Abzeichen, der **Segen** des Tempels und die Schutzgegenstände. **Bleiben**: die angeborenen Werte, das maximale Leben, die aufgedeckte Karte und deine Automatisierungspläne.",
-      "it": "ALLA MORTE. **Si perdono** l'appresa, i progressi a metà, l'inventario, il denaro, lo zaino, gli incantesimi, i distintivi, la **benedizione** del tempio e le protezioni. **Restano** l'innata, la Vita massima, la mappa scoperta e i tuoi piani di automazione.",
-      "pt": "AO MORRER. **Perdem-se** a aprendida, o progresso a meio, o inventário, o dinheiro, a mochila, os feitiços, as insígnias, a **bênção** do templo e as proteções. **Ficam** a inata, a Vida máxima, o mapa descoberto e os teus planos de automatização.",
-      "pt-BR": "AO MORRER. **Você perde** a aprendida, o progresso pela metade, o inventário, o dinheiro, a mochila, os feitiços, as insígnias, a **bênção** do templo e as proteções. **Ficam** a inata, a Vida máxima, o mapa descoberto e seus planos de automação.",
-      "ru": "ПРИ СМЕРТИ. **Теряются** приобретённые характеристики, недоделанный прогресс, инвентарь, деньги, рюкзак, заклинания, знаки, **благословение** храма и защита. **Остаются** врождённые характеристики, максимальная Жизнь, открытая карта и твои планы автоматизации.",
-      "pl": "PO ŚMIERCI. **Tracisz** wyuczoną, niedokończony postęp, ekwipunek, pieniądze, plecak, zaklęcia, odznaki, **błogosławieństwo** świątyni i ochrony. **Zostają** wrodzona, maksymalne Życie, odkryta mapa i twoje plany automatyzacji.",
-      "zh-Hans": "死亡时。**你会失去**后天属性、做了一半的进度、物品栏、金钱、背包、法术、徽章、神殿的**祝福**和防护。**保留的是**先天属性、生命上限、已探索的地图和你的自动化方案。"
+      "es": "AL MORIR. **Se pierden** la aprendida, el progreso a medias, el inventario, el dinero, la mochila, los hechizos, las insignias, la bendición del templo y las protecciones. **Se quedan** la innata, la Vida máxima, el mapa descubierto y tus planes de automatización.",
+      "en": "ON DEATH. **You lose** the learned stats, any half-finished progress, the inventory, the money, the backpack, the spells, the badges, the temple's blessing and the protections. **You keep** the innate, maximum Life, the map you uncovered and your automation plans.",
+      "fr": "À LA MORT. **Tu perds** l'acquise, les progrès à moitié faits, l'inventaire, l'argent, le sac à dos, les sorts, les insignes, la bénédiction du temple et les protections. **Tu gardes** l'innée, la Vie maximale, la carte découverte et tes plans d'automatisation.",
+      "de": "BEIM TOD. **Verloren gehen** die erlernten Werte, halb fertiger Fortschritt, das Inventar, das Geld, der Rucksack, die Zauber, die Abzeichen, der Segen des Tempels und die Schutzgegenstände. **Bleiben**: die angeborenen Werte, das maximale Leben, die aufgedeckte Karte und deine Automatisierungspläne.",
+      "it": "ALLA MORTE. **Si perdono** l'appresa, i progressi a metà, l'inventario, il denaro, lo zaino, gli incantesimi, i distintivi, la benedizione del tempio e le protezioni. **Restano** l'innata, la Vita massima, la mappa scoperta e i tuoi piani di automazione.",
+      "pt": "AO MORRER. **Perdem-se** a aprendida, o progresso a meio, o inventário, o dinheiro, a mochila, os feitiços, as insígnias, a bênção do templo e as proteções. **Ficam** a inata, a Vida máxima, o mapa descoberto e os teus planos de automatização.",
+      "pt-BR": "AO MORRER. **Você perde** a aprendida, o progresso pela metade, o inventário, o dinheiro, a mochila, os feitiços, as insígnias, a bênção do templo e as proteções. **Ficam** a inata, a Vida máxima, o mapa descoberto e seus planos de automação.",
+      "ru": "ПРИ СМЕРТИ. **Теряются** приобретённые характеристики, недоделанный прогресс, инвентарь, деньги, рюкзак, заклинания, знаки, благословение храма и защита. **Остаются** врождённые характеристики, максимальная Жизнь, открытая карта и твои планы автоматизации.",
+      "pl": "PO ŚMIERCI. **Tracisz** wyuczoną, niedokończony postęp, ekwipunek, pieniądze, plecak, zaklęcia, odznaki, błogosławieństwo świątyni i ochrony. **Zostają** wrodzona, maksymalne Życie, odkryta mapa i twoje plany automatyzacji.",
+      "zh-Hans": "死亡时。**你会失去**后天属性、做了一半的进度、物品栏、金钱、背包、法术、徽章、神殿的祝福和防护。**保留的是**先天属性、生命上限、已探索的地图和你的自动化方案。"
     }
   ]
 }

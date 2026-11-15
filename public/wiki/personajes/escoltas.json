@@ -85,16 +85,16 @@
       "zh-Hans": "战斗中你花的时间和那条路线所对应的职业一样，**受到 0 伤害**，而且照样在练自己的战斗属性。遇到障碍，直接通过。"
     },
     {
-      "es": "COMBATES A GOLPES. El escolta tiene su propio recuadro y ataca contigo, y **la experiencia sigue siendo toda tuya**. Un escolta ranger también te hace empezar el combate en **Sigilo**.",
-      "en": "BLOW BY BLOW FIGHTS. The escort gets their own box and attacks alongside you, and **all the experience is still yours**. A Ranger escort also makes you start the fight in **Stealth**.",
-      "fr": "COMBATS COUP PAR COUP. L'escorte a son propre cadre et attaque avec toi, et **toute l'expérience reste pour toi**. Un Rôdeur en escorte te fait aussi commencer le combat en **Discrétion**.",
+      "es": "COMBATES A GOLPES. El escolta tiene su propio recuadro y ataca contigo, y **la experiencia sigue siendo toda tuya**. Un escolta ranger también te hace empezar el combate en Sigilo.",
+      "en": "BLOW BY BLOW FIGHTS. The escort gets their own box and attacks alongside you, and **all the experience is still yours**. A Ranger escort also makes you start the fight in Stealth.",
+      "fr": "COMBATS COUP PAR COUP. L'escorte a son propre cadre et attaque avec toi, et **toute l'expérience reste pour toi**. Un Rôdeur en escorte te fait aussi commencer le combat en Discrétion.",
       "de": "KÄMPFE SCHLAG AUF SCHLAG. Die Eskorte hat ihren eigenen Kasten und greift mit dir an, und **die ganze Erfahrung gehört weiterhin dir**. Ein Waldläufer als Eskorte lässt dich den Kampf außerdem getarnt beginnen.",
-      "it": "COMBATTIMENTI COLPO SU COLPO. La scorta ha il suo riquadro e attacca con te, e **l'esperienza resta tutta tua**. Un Ranger di scorta ti fa anche iniziare il combattimento in **Furtività**.",
-      "pt": "COMBATES GOLPE A GOLPE. A escolta tem o seu próprio quadro e ataca contigo, e **a experiência continua a ser toda tua**. Um Patrulheiro a escoltar-te também te faz começar o combate em **Furtividade**.",
-      "pt-BR": "COMBATES GOLPE A GOLPE. A escolta tem seu próprio quadro e ataca com você, e **a experiência continua sendo toda sua**. Um Patrulheiro escoltando você também faz você começar o combate em **Furtividade**.",
-      "ru": "БОИ УДАР ЗА УДАРОМ. У сопровождающего своё окно, он атакует вместе с тобой, а **весь опыт по-прежнему достаётся тебе**. Рейнджер в сопровождении ещё и даёт тебе начать бой в **Скрытности**.",
-      "pl": "WALKI CIOS ZA CIOSEM. Eskorta ma własne okienko i atakuje razem z tobą, a **całe doświadczenie nadal jest twoje**. Tropiciel w eskorcie sprawia też, że zaczynasz walkę w **Ukryciu**.",
-      "zh-Hans": "逐击战斗。护送者有自己的框，和你一起攻击，**经验依然全部归你**。游侠护送还会让你以**潜行**状态开战。"
+      "it": "COMBATTIMENTI COLPO SU COLPO. La scorta ha il suo riquadro e attacca con te, e **l'esperienza resta tutta tua**. Un Ranger di scorta ti fa anche iniziare il combattimento in Furtività.",
+      "pt": "COMBATES GOLPE A GOLPE. A escolta tem o seu próprio quadro e ataca contigo, e **a experiência continua a ser toda tua**. Um Patrulheiro a escoltar-te também te faz começar o combate em Furtividade.",
+      "pt-BR": "COMBATES GOLPE A GOLPE. A escolta tem seu próprio quadro e ataca com você, e **a experiência continua sendo toda sua**. Um Patrulheiro escoltando você também faz você começar o combate em Furtividade.",
+      "ru": "БОИ УДАР ЗА УДАРОМ. У сопровождающего своё окно, он атакует вместе с тобой, а **весь опыт по-прежнему достаётся тебе**. Рейнджер в сопровождении ещё и даёт тебе начать бой в Скрытности.",
+      "pl": "WALKI CIOS ZA CIOSEM. Eskorta ma własne okienko i atakuje razem z tobą, a **całe doświadczenie nadal jest twoje**. Tropiciel w eskorcie sprawia też, że zaczynasz walkę w Ukryciu.",
+      "zh-Hans": "逐击战斗。护送者有自己的框，和你一起攻击，**经验依然全部归你**。游侠护送还会让你以潜行状态开战。"
     },
     {
       "es": "EN LAS SENDAS. Hay pasos que tu clase no supera de ninguna manera. O te escolta la clase que sabe hacerlos, o coges la alternativa que tiene la misma sala.",
@@ -122,28 +122,16 @@
       "zh-Hans": "在团队战中。那里你留下的不是护送，而是**一份你的战斗副本**，带着你当时的生命和攻击：它会和你其他角色并肩作战，有自己的血条，也可能倒下。变强之后再留一次，总是取两次里更好的那份。"
     },
     {
-      "es": "De momento no hay escoltas en el **capítulo 5**.",
-      "en": "For now there are no escorts in **chapter 5**.",
-      "fr": "Pour l'instant, il n'y a pas d'escortes dans le **chapitre 5**.",
-      "de": "Im Moment gibt es in **Kapitel 5** keine Eskorten.",
-      "it": "Per ora nel **capitolo 5** non ci sono scorte.",
-      "pt": "Por agora não há escoltas no **capítulo 5**.",
-      "pt-BR": "Por enquanto não há escoltas no **capítulo 5**.",
-      "ru": "Пока что в **главе 5** сопровождения нет.",
-      "pl": "Na razie w **rozdziale 5** nie ma eskort.",
-      "zh-Hans": "目前**第 5 章**没有护送。"
+      "es": "De momento no hay escoltas en el capítulo 5.",
+      "en": "For now there are no escorts in chapter 5.",
+      "fr": "Pour l'instant, il n'y a pas d'escortes dans le chapitre 5.",
+      "de": "Im Moment gibt es in Kapitel 5 keine Eskorten.",
+      "it": "Per ora nel capitolo 5 non ci sono scorte.",
+      "pt": "Por agora não há escoltas no capítulo 5.",
+      "pt-BR": "Por enquanto não há escoltas no capítulo 5.",
+      "ru": "Пока что в главе 5 сопровождения нет.",
+      "pl": "Na razie w rozdziale 5 nie ma eskort.",
+      "zh-Hans": "目前第 5 章没有护送。"
     }
-  ],
-  "tonos": {
-    "cap": [
-      "Kapitel 5",
-      "capitolo 5",
-      "capítulo 5",
-      "chapitre 5",
-      "chapter 5",
-      "rozdziale 5",
-      "главе 5",
-      "第 5 章"
-    ]
-  }
+  ]
 }

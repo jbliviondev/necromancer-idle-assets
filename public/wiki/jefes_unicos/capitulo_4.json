@@ -39,16 +39,16 @@
     },
     {
       "spoiler": true,
-      "es": "QUIÉN ES. El **troll de asedio**.",
-      "en": "WHO IT IS. The **Siege Troll**.",
-      "fr": "QUI C'EST. Le **troll de siège**.",
-      "de": "WER ES IST. Der **Belagerungstroll**.",
-      "it": "CHI È. Il **troll d'assedio**.",
-      "pt": "QUEM É. O **troll de cerco**.",
-      "pt-BR": "QUEM É. O **troll de cerco**.",
-      "ru": "КТО ЭТО. **Осадный тролль**.",
-      "pl": "KTO TO. **Troll oblężniczy**.",
-      "zh-Hans": "是谁。**攻城巨魔**。"
+      "es": "QUIÉN ES. El troll de asedio.",
+      "en": "WHO IT IS. The Siege Troll.",
+      "fr": "QUI C'EST. Le troll de siège.",
+      "de": "WER ES IST. Der Belagerungstroll.",
+      "it": "CHI È. Il troll d'assedio.",
+      "pt": "QUEM É. O troll de cerco.",
+      "pt-BR": "QUEM É. O troll de cerco.",
+      "ru": "КТО ЭТО. Осадный тролль.",
+      "pl": "KTO TO. Troll oblężniczy.",
+      "zh-Hans": "是谁。攻城巨魔。"
     },
     {
       "spoiler": true,
@@ -63,18 +63,5 @@
       "pl": "GDY GO ZABIJESZ. W kolejnych życiach fort nie jest już oblężony: nie ma szturmów i możesz z niego wyjść, kiedy chcesz. Porucznik napełnia ci plecak strawą z fortu, wystarczy z nią porozmawiać, a bojową umiejętność fortu zdobywa się akcją twojej klasy, bez wytrzymywania szturmów.",
       "zh-Hans": "击杀之后。之后的每条命里，要塞不再被围：没有攻城，你想走就能走。副队长只要和你说句话就用要塞口粮塞满你的背包，要塞的战斗技能靠你职业的那个行动就能拿到，不用再扛过几轮攻城。"
     }
-  ],
-  "tonos": {
-    "jefe": [
-      "Belagerungstroll",
-      "Siege Troll",
-      "Troll oblężniczy",
-      "troll d'assedio",
-      "troll de asedio",
-      "troll de cerco",
-      "troll de siège",
-      "Осадный тролль",
-      "攻城巨魔"
-    ]
-  }
+  ]
 }
