@@ -39,25 +39,81 @@
     },
     {
       "spoiler": true,
-      "es": "QUIÉN ES. La **Salamandra** Ígnea.",
-      "en": "WHO IT IS. The Igneous **Salamander**.",
-      "fr": "QUI C'EST. La **Salamandre** Ignée.",
-      "de": "WER ES IST. Der Glutsalamander.",
-      "it": "CHI È. La **Salamandra** Ignea.",
-      "pt": "QUEM É. A **Salamandra** Ígnea.",
-      "pt-BR": "QUEM É. A **Salamandra** Ígnea.",
-      "ru": "КТО ЭТО. Огненная **Саламандра**.",
-      "pl": "KTO TO. Ognista **Salamandra**.",
-      "zh-Hans": "是谁。炽焰**火蜥**。"
+      "es": "QUIÉN ES. La **Salamandra Ígnea**.",
+      "en": "WHO IT IS. The **Igneous Salamander**.",
+      "fr": "QUI C'EST. La **Salamandre Ignée**.",
+      "de": "WER ES IST. Der **Glutsalamander**.",
+      "it": "CHI È. La **Salamandra Ignea**.",
+      "pt": "QUEM É. A **Salamandra Ígnea**.",
+      "pt-BR": "QUEM É. A **Salamandra Ígnea**.",
+      "ru": "КТО ЭТО. **Огненная Саламандра**.",
+      "pl": "KTO TO. **Ognista Salamandra**.",
+      "zh-Hans": "是谁。**炽焰火蜥**。"
+    },
+    {
+      "spoiler": true,
+      "ancla": "ficha",
+      "es": "LA FICHA. Es un jefe único y opcional: muere una sola vez por personaje y ya no vuelve, ni al reencarnar. Golpea con tres **ataques normales**, **Dentellada**, **Coletazo** y **Zarpazo de brasas**, y cada golpe quita **50.000 de vida**, uno cada 5 segundos. Cada cuatro golpes carga su ataque especial, el **Aliento de magma**: durante 10 segundos deja de golpear y, al soltarlo, quita **150.000 de vida**. Son cifras de base, sin contar tus reducciones de daño.",
+      "en": "THE PROFILE. It is an optional unique boss: it dies only once per character and never comes back, not even when you reincarnate. It strikes with three **normal attacks**, **Bite**, **Tail Whip** and **Ember Swipe**, and each hit takes **50,000 health**, one every 5 seconds. Every four hits it charges its special attack, **Magma Breath**: for 10 seconds it stops striking and, when it lets it out, it takes **150,000 health**. These are base figures, before your damage reductions.",
+      "fr": "LA FICHE. C'est un boss unique et facultatif : la Salamandre ne meurt qu'une fois par personnage et ne revient plus, même quand tu te réincarnes. Elle frappe avec trois **attaques normales**, **Morsure**, **Coup de queue** et **Coup de griffe de braise**, et chaque coup enlève **50 000 points de vie**, un toutes les 5 secondes. Tous les quatre coups, elle charge son attaque spéciale, le **Souffle de magma** : pendant 10 secondes elle ne frappe plus et, quand elle le lâche, il enlève **150 000 points de vie**. Ce sont des chiffres de base, sans compter tes réductions de dégâts.",
+      "de": "DER STECKBRIEF. Er ist ein optionaler einzigartiger Boss: Er stirbt nur einmal pro Charakter und kommt nie zurück, auch nicht, wenn du dich reinkarnierst. Er schlägt mit drei **normalen Angriffen** zu, **Biss**, **Schwanzhieb** und **Gluthieb**, und jeder Treffer kostet **50.000 Leben**, einer alle 5 Sekunden. Alle vier Treffer lädt er seinen Spezialangriff auf, den **Magmaatem**: 10 Sekunden lang schlägt er nicht zu, und wenn er ihn loslässt, kostet er **150.000 Leben**. Das sind Grundwerte, ohne deine Schadensminderungen.",
+      "it": "LA SCHEDA. È un boss unico e facoltativo: muore una sola volta per personaggio e non torna più, nemmeno quando ti reincarni. Colpisce con tre attacchi normali, **Morso**, **Colpo di coda** e **Zampata di brace**, e ogni colpo toglie **50.000 di vita**, uno ogni 5 secondi. Ogni quattro colpi carica il suo attacco speciale, il **Soffio di magma**: per 10 secondi smette di colpire e, quando lo libera, toglie **150.000 di vita**. Sono cifre di base, senza contare le tue riduzioni del danno.",
+      "pt": "A FICHA. É um chefe único e opcional: morre uma só vez por personagem e não volta, nem quando reencarnas. Ataca com três golpes normais, **Dentada**, **Golpe de cauda** e **Patada de brasas**, e cada golpe tira **50 000 de vida**, um a cada 5 segundos. A cada quatro golpes carrega o seu ataque especial, o **Bafo de magma**: durante 10 segundos deixa de atacar e, ao soltá-lo, tira **150 000 de vida**. São valores de base, sem contar as tuas reduções de dano.",
+      "pt-BR": "A FICHA. É um chefe único e opcional: morre uma vez só por personagem e não volta mais, nem quando você reencarna. Ataca com três golpes normais, **Mordida**, **Rabada** e **Patada de brasas**, e cada golpe tira **50.000 de vida**, um a cada 5 segundos. A cada quatro golpes ela carrega seu ataque especial, o **Bafo de magma**: durante 10 segundos para de atacar e, ao soltá-lo, tira **150.000 de vida**. São valores de base, sem contar suas reduções de dano.",
+      "ru": "КАРТОЧКА. Это необязательный уникальный босс: Саламандра умирает только один раз для каждого персонажа и больше не возвращается, даже после перерождения. Она бьёт тремя **обычными атаками**, **Укус**, **Удар хвостом** и **Удар угольной лапы**, и каждый удар отнимает **50 000 здоровья**, один раз в 5 секунд. Каждые четыре удара она набирает свою особую атаку, **Дыхание магмы**: 10 секунд не бьёт, а когда выпускает его, отнимает **150 000 здоровья**. Это базовые цифры, без учёта твоего снижения урона.",
+      "pl": "KARTA. To opcjonalny unikatowy boss: ginie tylko raz na postać i już nie wraca, nawet po reinkarnacji. Atakuje trzema zwykłymi ciosami, **Ukąszenie**, **Cios ogonem** i **Cios żarzącej łapy**, a każdy cios zabiera **50 000 życia**, jeden co 5 sekund. Co cztery ciosy ładuje swój atak specjalny, **Oddech magmy**: przez 10 sekund nie atakuje, a kiedy go wypuszcza, zabiera **150 000 życia**. To wartości bazowe, bez twoich redukcji obrażeń.",
+      "zh-Hans": "档案。它是可选的唯一首领：每个角色只能杀死它一次，之后再也不会出现，转生也一样。它用三种**普通攻击**：**撕咬**、**甩尾**和**炭火利爪**，每一下扣 **50,000 点生命**，每 5 秒一下。每打出四下，它就蓄力释放特殊攻击**熔岩吐息**：蓄力的 10 秒里不再**普通攻击**，吐出来时扣 **150,000 点生命**。这些是基础数值，没有算上你的伤害减免。"
+    },
+    {
+      "spoiler": true,
+      "es": "EL FUEGO. Aguanta el fuego: los ataques de fuego del mago, la **Bola de fuego** y el **Muro de fuego**, le hacen **la mitad de daño**.",
+      "en": "FIRE. It withstands fire: the mage's fire attacks, **Fireball** and **Wall of Fire**, deal it **half damage**.",
+      "fr": "LE FEU. Elle résiste au feu : les attaques de feu du mage, la **Boule de feu** et le **Mur de feu**, lui font **moitié moins de dégâts**.",
+      "de": "DAS FEUER. Er hält Feuer aus: Die Feuerangriffe des Magiers, **Feuerball** und **Feuerwand**, machen ihm nur **den halben Schaden**.",
+      "it": "IL FUOCO. Resiste al fuoco: gli attacchi di fuoco del mago, la **Palla di fuoco** e il **Muro di fuoco**, le fanno **metà del danno**.",
+      "pt": "O FOGO. Aguenta o fogo: os ataques de fogo do mago, a **Bola de fogo** e o **Muro de fogo**, fazem-lhe **metade do dano**.",
+      "pt-BR": "O FOGO. Ela aguenta o fogo: os ataques de fogo do mago, a **Bola de fogo** e a **Parede de fogo**, causam **metade do dano** nela.",
+      "ru": "ОГОНЬ. Она стойка к огню: огненные атаки мага, **Огненный шар** и **Стена огня**, наносят ей **вдвое меньше урона**.",
+      "pl": "OGIEŃ. Jest odporna na ogień: ogniste ataki maga, **Kula ognia** i **Ściana ognia**, zadają jej **połowę obrażeń**.",
+      "zh-Hans": "火焰。它耐火：法师的火系攻击**火球术**和**火墙**对它只造成**一半伤害**。"
+    },
+    {
+      "spoiler": true,
+      "es": "EL ALIENTO. Lo importante es que tarda **10 segundos** en salir desde que empieza a cargarlo, así que hay mucho margen para anulárselo. El soldado tiene dos formas de librarse de él. La **Embestida**, si la tiene aprendida en esa vida, lo anula cuando la lanza mientras ella lo carga: pierde lo cargado y tiene que volver a esperar los cuatro golpes. Si no lo está cargando, la **Embestida** no le hace nada. El **Contraataque** te pone en guardia, y contra ella la guardia aguanta hasta parar un golpe: lanzado mientras carga el aliento, el aliento no te quita nada y después golpeas un 50% más fuerte.",
+      "en": "THE BREATH. The key is that it takes **10 seconds** to come out once it starts charging, so there is plenty of time to cancel it. The soldier has two ways to get rid of it. **Ram**, if you learned it in that life, cancels it when you use it while it is charging: it loses what it charged and has to wait for the four hits again. If it is not charging, **Ram** does nothing to it. **Counterattack** puts you on guard, and against it the guard holds until it blocks a hit: used while it charges its breath, the breath takes nothing from you and then you strike 50% harder.",
+      "fr": "LE SOUFFLE. L'important, c'est qu'il met **10 secondes** à sortir dès qu'elle commence à le charger, donc tu as largement le temps de l'annuler. Le soldat a deux façons de s'en débarrasser. La **Charge**, s'il l'a apprise dans cette vie, l'annule quand il la lance pendant qu'elle le **charge** : elle perd ce qu'elle avait chargé et doit attendre à nouveau les quatre coups. Si elle ne le **charge** pas, la **Charge** ne lui fait rien. La **Contre-attaque** te met en garde, et contre elle la garde tient jusqu'à parer un coup : lancée pendant qu'elle **charge** son souffle, le souffle ne t'enlève rien et ensuite tu frappes 50 % plus fort.",
+      "de": "DER ATEM. Das Wichtigste: Er braucht **10 Sekunden**, bis er herauskommt, sobald der Salamander ihn auflädt, also bleibt viel Zeit, ihn aufzuheben. Der Soldat hat zwei Wege, ihn loszuwerden. Der **Rammstoß**, wenn er ihn in diesem Leben gelernt hat, hebt ihn auf, wenn er ihn einsetzt, während der Salamander ihn auflädt: Das Aufgeladene ist weg, und der Salamander muss wieder die vier Treffer abwarten. Lädt er gerade nicht auf, bewirkt der **Rammstoß** dagegen nichts. Der **Gegenangriff** bringt dich in Abwehr, und gegen ihn hält die Abwehr, bis sie einen Treffer pariert: Eingesetzt, während er seinen Atem auflädt, kostet dich der Atem nichts, und danach schlägst du 50 % stärker zu.",
+      "it": "IL SOFFIO. La cosa importante è che ci mette **10 secondi** a uscire da quando inizia a caricarlo, quindi c'è molto margine per annullarlo. Il soldato ha due modi per liberarsene. La **Carica**, se l'ha imparata in quella vita, lo annulla quando la lancia mentre lei lo sta caricando: perde ciò che aveva caricato e deve aspettare di nuovo i quattro colpi. Se non lo sta caricando, la **Carica** non le fa nulla. Il **Contrattacco** ti mette in guardia, e contro di lei la guardia regge finché non para un colpo: lanciato mentre **carica** il soffio, il soffio non ti toglie nulla e poi colpisci il 50% più forte.",
+      "pt": "O BAFO. O importante é que demora **10 segundos** a sair desde que ela o começa a carregar, por isso há muita margem para o anular. O soldado tem duas maneiras de se livrar dele. A **Investida**, se a tiver aprendida nessa vida, anula-o quando a lança enquanto ela o carrega: perde o que tinha carregado e tem de voltar a esperar os quatro golpes. Se não o estiver a carregar, a **Investida** não lhe faz nada. O **Contra-ataque** põe-te em guarda, e contra ela a guarda aguenta até parar um golpe: lançado enquanto carrega o bafo, o bafo não te tira nada e depois atacas 50% mais forte.",
+      "pt-BR": "O BAFO. O importante é que ele leva **10 segundos** para sair desde que ela começa a carregá-lo, então há bastante margem para anulá-lo. O soldado tem duas formas de se livrar dele. A **Investida**, se ele a tiver aprendido nessa vida, anula o bafo quando é lançada enquanto ela o carrega: ela perde o que carregou e tem que esperar de novo os quatro golpes. Se ela não estiver carregando, a **Investida** não faz nada. O **Contra-ataque** coloca você em guarda, e contra ela a guarda aguenta até bloquear um golpe: lançado enquanto ela carrega o bafo, o bafo não tira nada de você e depois você ataca 50% mais forte.",
+      "ru": "ДЫХАНИЕ. Главное: с начала набора до выдоха проходит **10 секунд**, так что времени, чтобы его отменить, много. У солдата есть два способа от него избавиться. **Таран**, если он выучен в этой жизни, отменяет дыхание, если применить его, пока Саламандра его набирает: набранное пропадает, и ей снова нужно ждать четыре удара. Если она не набирает дыхание, **Таран** на него никак не влияет. **Контратака** ставит тебя в стойку, и против неё стойка держится, пока не отразит удар: если применить её, пока Саламандра набирает дыхание, дыхание ничего у тебя не отнимет, а потом ты бьёшь на 50% сильнее.",
+      "pl": "ODDECH. Najważniejsze jest to, że od początku ładowania mija **10 sekund**, zanim wyjdzie, więc jest dużo czasu, żeby go anulować. Żołnierz ma dwa sposoby, żeby się go pozbyć. **Taranowanie**, jeśli zna je w tym życiu, anuluje go, kiedy użyje go w trakcie ładowania: przepada to, co naładowała, i musi znów odczekać cztery ciosy. Jeśli akurat nie ładuje, **Taranowanie** nic jej nie robi. **Kontratak** stawia cię w gardzie, a przeciwko niej garda trzyma, dopóki nie odbije ciosu: użyty, kiedy ładuje oddech, sprawia, że oddech nic ci nie zabiera, a potem uderzasz o 50% mocniej.",
+      "zh-Hans": "吐息。关键在于：它从开始蓄力到吐出要 **10 秒**，所以打断它的时间很充裕。战士有两种办法躲开它。**冲撞**（如果这一世已经学会）在它蓄力时用出就能打断吐息：已蓄的力全部作废，它得重新等满四下普通攻击。它没在蓄力时，**冲撞**对吐息没有作用。**反击**会让你进入防御，而对它来说，这个防御会一直维持到挡下一击：在它蓄力吐息时用出，吐息不会扣你任何生命，之后你的攻击还会强 50%。"
+    },
+    {
+      "spoiler": true,
+      "es": "LOS IF. Para que el soldado no gaste esos ataques a destiempo, en **Instrucciones de combate** ponles una condición: pulsa **Si**, elige **Carga el aliento** y, en **Entonces**, **Usar**. Así solo se lanzan mientras carga el aliento, y el resto del tiempo el combate sigue con los demás ataques. Con **Ignorar** pasa al revés: no se lanzan mientras lo carga.",
+      "en": "THE IFS. So the soldier does not waste those attacks at the wrong time, give them a condition in **Combat instructions**: press **If**, pick **Charging its breath** and, under **Then**, **Use**. That way they are only used while it charges its breath, and the rest of the time the fight goes on with the other attacks. With **Ignore** it works the other way round: they are not used while it charges.",
+      "fr": "LES SI. Pour que le soldat ne gaspille pas ces attaques à contretemps, donne-leur une condition dans les **Instructions de combat** : appuie sur **Si**, choisis **Charge son souffle** et, dans **Alors**, **Utiliser**. Ainsi, elles ne partent que pendant qu'elle charge son souffle, et le reste du temps le combat continue avec les autres attaques. Avec **Ignorer**, c'est l'inverse : elles ne partent pas pendant qu'elle le charge.",
+      "de": "DIE WENNS. Damit der Soldat diese Angriffe nicht zur falschen Zeit verschwendet, gib ihnen in den **Kampfanweisungen** eine Bedingung: Drück auf **Wenn**, wähle **Lädt seinen Atem auf** und unter **Dann** **Verwenden**. So werden sie nur eingesetzt, während er seinen Atem auflädt, und den Rest der Zeit läuft der Kampf mit den anderen Angriffen weiter. Mit **Ignorieren** ist es umgekehrt: Sie werden nicht eingesetzt, während er auflädt.",
+      "it": "I SE. Perché il soldato non sprechi questi attacchi nel momento sbagliato, dagli una condizione nelle **Istruzioni di combattimento**: premi **Se**, scegli **Carica il soffio** e, in **Allora**, **Usa**. Così partono solo mentre carica il soffio, e per il resto del tempo il combattimento va avanti con gli altri attacchi. Con **Ignora** succede il contrario: non partono mentre lo carica.",
+      "pt": "OS SE. Para o soldado não gastar esses ataques fora de tempo, põe-lhes uma condição nas **Instruções de combate**: carrega em **Se**, escolhe **Carrega o bafo** e, em **Então**, **Usar**. Assim só são lançados enquanto ela carrega o bafo, e no resto do tempo o combate continua com os outros ataques. Com **Ignorar** é ao contrário: não são lançados enquanto o carrega.",
+      "pt-BR": "OS SE. Para o soldado não gastar esses ataques na hora errada, coloque uma condição neles nas **Instruções de combate**: toque em **Se**, escolha **Carrega o bafo** e, em **Então**, **Usar**. Assim eles só são lançados enquanto ela carrega o bafo, e no resto do tempo o combate segue com os outros ataques. Com **Ignorar** é o contrário: não são lançados enquanto ela carrega.",
+      "ru": "УСЛОВИЯ «ЕСЛИ». Чтобы солдат не тратил эти атаки невпопад, задай им условие в **Боевых инструкциях**: нажми **Если**, выбери **Набирает дыхание** и в **То** поставь **Использовать**. Так они применяются только пока она набирает дыхание, а в остальное время бой идёт остальными атаками. С **Пропустить** наоборот: пока она набирает дыхание, они не применяются.",
+      "pl": "WARUNKI JEŚLI. Żeby żołnierz nie marnował tych ataków w złym momencie, daj im warunek w **Instrukcjach walki**: naciśnij **Jeśli**, wybierz **Ładuje oddech** i w **Wtedy** ustaw **Użyj**. Wtedy idą w ruch tylko wtedy, gdy ładuje oddech, a przez resztę czasu walka toczy się pozostałymi atakami. Z **Pomiń** jest odwrotnie: nie są używane, gdy ładuje.",
+      "zh-Hans": "条件。为了不让战士在错误的时机浪费这两招，在**战斗指令**里给它们加一个条件：点**如果**，选**正在蓄力吐息**，在**则**里选**使用**。这样它们只会在它蓄力吐息时用出，其余时间战斗照常用其他攻击。选**忽略**则正好相反：它蓄力时不会用出。"
     }
   ],
   "tonos": {
     "jefe": [
-      "Salamander",
-      "Salamandra",
-      "Salamandre",
-      "Саламандра",
-      "火蜥"
+      "Glutsalamander",
+      "Igneous Salamander",
+      "Ognista Salamandra",
+      "Salamandra Ignea",
+      "Salamandra Ígnea",
+      "Salamandre Ignée",
+      "Огненная Саламандра",
+      "炽焰火蜥"
     ]
   }
 }
