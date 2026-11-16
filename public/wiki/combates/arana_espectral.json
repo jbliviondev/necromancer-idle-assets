@@ -1,0 +1,41 @@
+{
+  "title": {
+    "es": "La Araña Espectral",
+    "en": "The Spectral Spider",
+    "fr": "L'Araignée Spectrale",
+    "de": "Die Spektralspinne",
+    "it": "Il Ragno Spettrale",
+    "pt": "A Aranha Espectral",
+    "pt-BR": "A Aranha Espectral",
+    "ru": "Призрачный Паук",
+    "pl": "Widmowy Pająk",
+    "zh-Hans": "幽灵蛛"
+  },
+  "body": [
+    {
+      "es": "No se ve: sin ayuda, solo le pegas un segundo antes y un segundo después de cada mordisco. Te la enseñan el **Ojo de águila**, la **máscara de catoblepas** o el humo de la cortina quemada. Los ataques de fuego la dejan aturdida 5 segundos. Si sales de la **Telaraña Madre**, esa vida no vuelves a entrar.",
+      "en": "You cannot see it: without help, you only hit it one second before and one second after each bite. **Eagle Eye**, the **Catoblepas mask** or the smoke from the burnt curtain reveal it. Fire attacks stun it for 5 seconds. If you leave the **Mother Web**, you cannot go back in during that life.",
+      "fr": "On ne la voit pas : sans aide, tu ne la frappes qu'une seconde avant et une seconde après chaque morsure. L'**Œil de l'aigle**, le **masque de catoblépas** ou la fumée du rideau brûlé te la montrent. Les attaques de feu l'étourdissent 5 secondes. Si tu sors de la **Toile Mère**, tu n'y rentres plus dans cette vie.",
+      "de": "Man sieht sie nicht: Ohne Hilfe triffst du sie nur eine Sekunde vor und eine Sekunde nach jedem Biss. Das **Adlerauge**, die **Katoblepas-Maske** oder der Rauch des verbrannten Vorhangs machen sie sichtbar. Feuerangriffe betäuben sie 5 Sekunden lang. Verlässt du das **Mutternetz**, kommst du in diesem Leben nicht mehr hinein.",
+      "it": "Non si vede: senza aiuto lo colpisci solo un secondo prima e un secondo dopo ogni morso. Te lo mostrano l'**Occhio d'aquila**, la **maschera di catoblepa** o il fumo della cortina bruciata. Gli attacchi di fuoco lo stordiscono per 5 secondi. Se esci dalla **Tela Madre**, in quella vita non ci rientri.",
+      "pt": "Não se vê: sem ajuda, só lhe bates um segundo antes e um segundo depois de cada mordida. Mostram-ta o **Olho de águia**, a **máscara de catoblepas** ou o fumo da cortina queimada. Os ataques de fogo deixam-na atordoada 5 segundos. Se saíres da **Teia-Mãe**, nessa vida já não voltas a entrar.",
+      "pt-BR": "Ela não aparece: sem ajuda, você só acerta um segundo antes e um segundo depois de cada mordida. O **Olho de águia**, a **máscara de catoblepas** ou a fumaça da cortina queimada mostram ela a você. Os ataques de fogo a deixam atordoada por 5 segundos. Se você sair da **Teia-Mãe**, nessa vida não entra mais.",
+      "ru": "Его не видно: без помощи ты бьёшь его только за секунду до и через секунду после каждого укуса. Его показывают **Орлиный глаз**, **маска катоблепаса** или дым сгоревшей завесы. Огненные атаки оглушают его на 5 секунд. Если выйдешь из **Материнской Паутины**, в эту жизнь больше не войдёшь.",
+      "pl": "Nie widać go: bez pomocy trafiasz go tylko sekundę przed i sekundę po każdym ukąszeniu. Pokazują go **Orle oko**, **maska katoblepasa** albo dym ze spalonej kotary. Ataki ognia ogłuszają go na 5 sekund. Jeśli wyjdziesz z **Matczynej Pajęczyny**, w tym życiu już nie wejdziesz.",
+      "zh-Hans": "它看不见：没有帮助时，你只能在它每次咬人之前一秒和之后一秒打到它。**鹰眼**、**卡托布莱帕斯面具**，或者烧掉的帘子冒出的烟，都能让它现形。火焰攻击能让它晕眩 5 秒。如果你离开**母蛛网**，这一世就再也进不去了。"
+    }
+  ],
+  "tonos": {
+    "llave": [
+      "Adlerauge",
+      "Eagle Eye",
+      "Occhio d'aquila",
+      "Ojo de águila",
+      "Olho de águia",
+      "Orle oko",
+      "Œil de l'aigle",
+      "Орлиный глаз",
+      "鹰眼"
+    ]
+  }
+}
