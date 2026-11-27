@@ -67,6 +67,26 @@
       ]
     },
     {
+      "id": "raids",
+      "title": {
+        "es": "Raid battles",
+        "es-419": "Raid battles",
+        "en": "Raid battles",
+        "fr": "Raid battles",
+        "de": "Raid Battles",
+        "it": "Raid battle",
+        "pt": "Raid battles",
+        "pt-BR": "Raid battles",
+        "ru": "Рейды",
+        "pl": "Rajdy",
+        "zh-Hans": "团队战"
+      },
+      "pages": [
+        "amalgama",
+        "horda"
+      ]
+    },
+    {
       "id": "presets",
       "pages": [
         "presets"

@@ -1,0 +1,105 @@
+{
+  "title": {
+    "es": "Capítulo 3: la Fronda Teñida",
+    "en": "Chapter 3: the Tinted Wood",
+    "fr": "Chapitre 3 : la Frondaison Teintée",
+    "de": "Kapitel 3: das Verfärbte Laub",
+    "it": "Capitolo 3: la Fronda Tinta",
+    "pt": "Capítulo 3: a Fronde Tingida",
+    "pt-BR": "Capítulo 3: a Fronde Tingida",
+    "ru": "Глава 3: Окрашенные заросли",
+    "pl": "Rozdział 3: Zabarwiona Gęstwina",
+    "zh-Hans": "第 3 章：染色林"
+  },
+  "body": [
+    {
+      "link": "misiones_unicas/capitulo_3",
+      "es": "DÓNDE. En el **capítulo 3**, al fondo de la **Fronda Teñida**, la senda que sale del **Bosque de Plata**. El combate es en el **Manantial**. En el artículo de la misión tienes cómo se llega y qué da.",
+      "en": "WHERE. In **chapter 3**, at the far end of the **Tinted Wood**, the trail that branches off the **Silver Forest**. The fight is at **the Spring**. The mission's article explains how to get there and what it gives.",
+      "fr": "OÙ. Au **chapitre 3**, au fond de la **Frondaison Teintée**, le sentier qui part de la **Forêt d'Argent**. Le combat a lieu à la **Source**. L'article de la mission explique comment y aller et ce qu'elle rapporte.",
+      "de": "WO. In **Kapitel 3**, am Ende des **Verfärbten Laubs**, des Pfads, der vom **Silberwald** abgeht. Gekämpft wird an der **Quelle**. Im Artikel der Mission steht, wie du hinkommst und was sie bringt.",
+      "it": "DOVE. Nel **capitolo 3**, in fondo alla **Fronda Tinta**, il sentiero che parte dal **Bosco d'Argento**. Lo scontro è alla **Sorgente**. Nell'articolo della missione trovi come arrivarci e cosa dà.",
+      "pt": "ONDE. No **capítulo 3**, ao fundo da **Fronde Tingida**, o trilho que sai da **Floresta de Prata**. O combate é na **Nascente**. No artigo da missão tens como lá chegar e o que dá.",
+      "pt-BR": "ONDE. No **capítulo 3**, no fundo da **Fronde Tingida**, a trilha que sai da **Floresta de Prata**. O combate é na **Nascente**. No artigo da missão você vê como chegar lá e o que ela dá.",
+      "ru": "ГДЕ. В **главе 3**, в глубине **Окрашенных зарослей**, тропы, что уходит из **Серебряного леса**. Бой идёт у **Родника**. В статье о задании написано, как туда попасть и что оно даёт.",
+      "pl": "GDZIE. W **rozdziale 3**, w głębi **Zabarwionej Gęstwiny**, ścieżki, która odchodzi od **Srebrnego Lasu**. Walka toczy się przy **Źródle**. W artykule o misji znajdziesz, jak tam dotrzeć i co daje.",
+      "zh-Hans": "在哪里。在**第 3 章**，**染色林**的深处，那是从**白银林**分出去的小路。战斗在**泉眼**。怎么去、有什么奖励，看任务的条目。"
+    },
+    {
+      "spoiler": true,
+      "es": "QUIÉN ES. La **Amalgama**, el jefe único de la senda.",
+      "en": "WHO IT IS. The **Amalgam**, the trail's unique boss.",
+      "fr": "QUI C'EST. L'**Amalgame**, le boss unique du sentier.",
+      "de": "WER ES IST. Das **Amalgam**, der einzigartige Boss des Pfads.",
+      "it": "CHI È. L'**Amalgama**, il boss unico del sentiero.",
+      "pt": "QUEM É. A **Amálgama**, o chefe único do trilho.",
+      "pt-BR": "QUEM É. A **Amálgama**, o chefe único da trilha.",
+      "ru": "КТО ЭТО. **Амальгама**, уникальный босс этой тропы.",
+      "pl": "KTO TO. **Zlepieniec**, unikalny boss tej ścieżki.",
+      "zh-Hans": "是谁。**融合兽**，这条小路的唯一首领。"
+    },
+    {
+      "spoiler": true,
+      "link": "personajes/escoltas",
+      "es": "QUIÉN PELEA. Contigo pelean hasta cuatro de tus otros personajes. Se apunta quien llega al **Manantial**, hace su paso de clase en la piedra y ofrece su ayuda contra la **Amalgama**. Cada uno guarda sus stats de ese momento, y en el combate pelea con ellas o con las tuyas si en ese momento las tuyas son más bajas.",
+      "en": "WHO FIGHTS. Up to four of your other characters fight alongside you. A character signs up by reaching **the Spring**, doing their class step on the stone and offering their help against the **Amalgam**. Each one keeps their stats from that moment, and in the fight uses those, or yours if yours are lower at the time.",
+      "fr": "QUI SE BAT. Jusqu'à quatre de tes autres personnages se battent avec toi. On s'inscrit en arrivant à la **Source**, en faisant son passage de classe sur la pierre et en offrant son aide contre l'**Amalgame**. Chacun garde ses stats de ce moment-là, et au combat il se bat avec elles, ou avec les tiennes si les tiennes sont plus basses à ce moment-là.",
+      "de": "WER KÄMPFT. Bis zu vier deiner anderen Charaktere kämpfen mit dir. Angemeldet ist, wer die **Quelle** erreicht, seine Klassenhürde am Stein erledigt und seine Hilfe gegen das **Amalgam** anbietet. Jeder behält seine Werte von diesem Moment und kämpft mit ihnen, oder mit deinen, wenn deine dann niedriger sind.",
+      "it": "CHI COMBATTE. Con te combattono fino a quattro degli altri tuoi personaggi. Si iscrive chi arriva alla **Sorgente**, fa il suo passaggio di classe sulla pietra e offre il suo aiuto contro l'**Amalgama**. Ognuno conserva le statistiche di quel momento, e nello scontro combatte con quelle o con le tue, se in quel momento le tue sono più basse.",
+      "pt": "QUEM LUTA. Lutam contigo até quatro das tuas outras personagens. Inscreve-se quem chega à **Nascente**, faz a sua passagem de classe na pedra e oferece a sua ajuda contra a **Amálgama**. Cada uma guarda as stats desse momento, e no combate luta com elas ou com as tuas, se nesse momento as tuas forem mais baixas.",
+      "pt-BR": "QUEM LUTA. Até quatro dos seus outros personagens lutam com você. Inscreve-se quem chega à **Nascente**, faz a sua passagem de classe na pedra e oferece ajuda contra a **Amálgama**. Cada um guarda os atributos daquele momento e, no combate, luta com eles ou com os seus, se nesse momento os seus forem mais baixos.",
+      "ru": "КТО ДЕРЁТСЯ. С тобой дерутся до четырёх твоих других персонажей. Записывается тот, кто дошёл до **Родника**, выполнил на камне шаг своего класса и предложил помощь против **Амальгамы**. Каждый сохраняет свои характеристики на тот момент и в бою дерётся с ними или с твоими, если твои в этот момент ниже.",
+      "pl": "KTO WALCZY. Z tobą walczą do czterech twoich innych postaci. Zapisuje się ta, która dotrze do **Źródła**, wykona na kamieniu krok swojej klasy i zaoferuje pomoc przeciw **Zlepieńcowi**. Każda zachowuje statystyki z tamtej chwili i w walce używa ich albo twoich, jeśli twoje są wtedy niższe.",
+      "zh-Hans": "谁来打。最多四个你的其他角色会和你一起打。到达**泉眼**、在石头上完成自己的职业步骤、并提出帮忙对付**融合兽**的角色，就算报了名。每个人都保留自己当时的属性，战斗中用自己的属性；如果那时你的属性更低，就用你的。"
+    },
+    {
+      "spoiler": true,
+      "es": "LAS PISTAS LA DEBILITAN. Las nueve pistas de la fronda y los tres pasos de clase de la piedra la debilitan el resto de esa vida. Seis le quitan vida y seis le quitan daño, cada una un octavo de lo que tiene de partida. Con las doce se queda con una cuarta parte de su vida y pega una cuarta parte de lo que pegaría.\nLe quitan vida: examinar las astas deshechas, recoger un helecho sin que se deshaga, atender al tejón que aún respira, partir un tronco teñido, escuchar las piedras de canto desafinadas y arrancar la flora teñida sin rozarla (el paso del ranger).\nLe quitan daño: seguir el rastro de gotas negras, contar las pisadas que no casan, aguantarle la mirada al color, subir a mirar el hueco del dosel, desviar el agua del manantial (el paso del soldado) y prender la savia del vial sobre la piedra (el paso del mago).\nLos pasos que te cubren tus otros personajes cuentan igual.",
+      "en": "THE CLUES WEAKEN IT. The nine clues in the wood and the three class steps on the stone weaken it for the rest of that life. Six take away life and six take away damage, each one an eighth of what it starts with. With all twelve, it is left with a quarter of its life and hits for a quarter of what it would.\nThey take away life: examine the crumbled antlers, pick a fern without it crumbling, tend the badger that is still breathing, split a tinted trunk, listen to the out-of-tune singing stones and uproot the tinted growth without brushing it (the ranger step).\nThey take away damage: follow the trail of black drops, count the footprints that don't match, hold the color's gaze, climb up to look at the gap in the canopy, divert the water of the spring (the soldier step) and light the vial's sap on the stone (the mage step).\nSteps covered for you by your other characters count just the same.",
+      "fr": "LES INDICES L'AFFAIBLISSENT. Les neuf indices de la frondaison et les trois passages de classe de la pierre l'affaiblissent pour le reste de cette vie. Six lui retirent de la vie et six des dégâts, chacun un huitième de ce qu'il a au départ. Avec les douze, il lui reste un quart de sa vie et il frappe quatre fois moins fort.\nIls lui retirent de la vie : examiner les ramures défaites, cueillir une fougère sans qu'elle se défasse, s'occuper du blaireau qui respire encore, fendre un tronc teinté, écouter les pierres chantantes désaccordées et arracher la flore teintée sans la frôler (le passage du rôdeur).\nIls lui retirent des dégâts : suivre la piste de gouttes noires, compter les empreintes qui ne collent pas, soutenir le regard de la couleur, monter voir le trou dans la canopée, détourner l'eau de la source (le passage du soldat) et enflammer la sève de la fiole sur la pierre (le passage du mage).\nLes passages que tes autres personnages couvrent pour toi comptent pareil.",
+      "de": "DIE HINWEISE SCHWÄCHEN ES. Die neun Hinweise im Laub und die drei Klassenhürden am Stein schwächen es für den Rest dieses Lebens. Sechs nehmen ihm Leben und sechs Schaden, jeder ein Achtel seines Anfangswerts. Mit allen zwölf bleibt ihm ein Viertel seines Lebens und es trifft nur noch mit einem Viertel seines Schadens.\nLeben nehmen ihm: die zerfallenen Geweihe untersuchen, einen Farn pflücken, ohne dass er zerfällt, sich um den Dachs kümmern, der noch atmet, einen verfärbten Stamm spalten, den verstimmten Klangsteinen lauschen und die verfärbten Pflanzen ausreißen, ohne sie zu streifen (die Hürde des Waldläufers).\nSchaden nehmen ihm: der Spur schwarzer Tropfen folgen, die Tritte zählen, die nicht zusammenpassen, dem Blick der Farbe standhalten, hinaufklettern und das Loch im Blätterdach ansehen, das Quellwasser umleiten (die Hürde des Soldaten) und den Saft der Phiole auf dem Stein entzünden (die Hürde des Magiers).\nHürden, die deine anderen Charaktere für dich übernehmen, zählen genauso.",
+      "it": "GLI INDIZI LA INDEBOLISCONO. I nove indizi della fronda e i tre passaggi di classe della pietra la indeboliscono per il resto di quella vita. Sei le tolgono vita e sei danno, ognuno un ottavo di quello che ha all'inizio. Con tutti e dodici, le resta un quarto della vita e colpisce con un quarto della forza.\nLe tolgono vita: esaminare i palchi disfatti, cogliere una felce senza che si disfi, assistere il tasso che respira ancora, spaccare un tronco tinto, ascoltare le pietre da canto stonate e strappare la flora tinta senza sfiorarla (il passaggio del ranger).\nLe tolgono danno: seguire la scia di gocce nere, contare le orme che non combaciano, sostenere lo sguardo del colore, salire a guardare il buco nelle chiome, deviare l'acqua della sorgente (il passaggio del soldato) e accendere la linfa della fiala sulla pietra (il passaggio del mago).\nI passaggi che ti coprono gli altri tuoi personaggi contano lo stesso.",
+      "pt": "AS PISTAS ENFRAQUECEM-NA. As nove pistas da fronde e as três passagens de classe da pedra enfraquecem-na o resto dessa vida. Seis tiram-lhe vida e seis tiram-lhe dano, cada uma um oitavo do que tem à partida. Com as doze, fica com um quarto da vida e bate um quarto do que bateria.\nTiram-lhe vida: examinar as hastes desfeitas, apanhar um feto sem que se desfaça, tratar do texugo que ainda respira, rachar um tronco tingido, escutar as pedras cantantes desafinadas e arrancar a flora tingida sem lhe tocar (a passagem do patrulheiro).\nTiram-lhe dano: seguir o rasto de gotas negras, contar as pegadas que não batem certo, aguentar o olhar da cor, subir para ver o buraco nas copas, desviar a água da nascente (a passagem do soldado) e atear a seiva do frasco sobre a pedra (a passagem do mago).\nAs passagens que as tuas outras personagens te cobrem contam igual.",
+      "pt-BR": "AS PISTAS A ENFRAQUECEM. As nove pistas da fronde e as três passagens de classe da pedra a enfraquecem pelo resto daquela vida. Seis tiram vida e seis tiram dano, cada uma um oitavo do que ela tem no começo. Com as doze, ela fica com um quarto da vida e bate um quarto do que bateria.\nTiram vida: examinar as galhadas desfeitas, colher uma samambaia sem que ela se desfaça, cuidar do texugo que ainda respira, rachar um tronco tingido, escutar as pedras de cantar desafinadas e arrancar a flora tingida sem encostar nela (a passagem do patrulheiro).\nTiram dano: seguir o rastro de gotas pretas, contar as pegadas que não batem, encarar a cor sem desviar o olho, subir para olhar o buraco no dossel, desviar a água da nascente (a passagem do soldado) e acender a seiva do frasco sobre a pedra (a passagem do mago).\nAs passagens que seus outros personagens cobrem para você contam do mesmo jeito.",
+      "ru": "УЛИКИ ЕЁ ОСЛАБЛЯЮТ. Девять улик в зарослях и три шага классов на камне ослабляют её до конца этой жизни. Шесть отнимают жизнь и шесть отнимают урон, каждый по восьмой части от того, что у неё было вначале. Со всеми двенадцатью у неё остаётся четверть жизни, и бьёт она вчетверо слабее.\nЖизнь отнимают: осмотреть рассыпавшиеся рога, сорвать папоротник так, чтобы не рассыпался, помочь барсуку, который ещё дышит, расколоть окрашенный ствол, послушать расстроенные поющие камни и убрать окрашенную поросль, не касаясь её (шаг рейнджера).\nУрон отнимают: идти по следу чёрных капель, сосчитать следы, которые не сходятся, смотреть на цвет, не отводя глаз, подняться взглянуть на дыру в пологе, отвести воду родника (шаг солдата) и поджечь сок из склянки на камне (шаг мага).\nШаги, которые за тебя делают твои другие персонажи, считаются так же.",
+      "pl": "WSKAZÓWKI GO OSŁABIAJĄ. Dziewięć wskazówek w gęstwinie i trzy kroki klas na kamieniu osłabiają go do końca tego życia. Sześć zabiera mu życie, a sześć obrażenia, każda jedną ósmą tego, co ma na początku. Ze wszystkimi dwunastoma zostaje mu jedna czwarta życia i bije cztery razy słabiej.\nŻycie zabierają: obejrzyj rozsypane poroża, zerwij paproć tak, żeby się nie rozsypała, zajmij się borsukiem, który jeszcze oddycha, rozłup zabarwiony pień, posłuchaj rozstrojonych śpiewających kamieni i wyrwij zabarwione rośliny, nie dotykając ich (krok tropiciela).\nObrażenia zabierają: idź tropem czarnych kropel, policz tropy, które do siebie nie pasują, wytrzymaj spojrzenie koloru, wejdź popatrzeć na dziurę w koronach, odwróć bieg wody ze źródła (krok żołnierza) i podpal sok z fiolki na kamieniu (krok maga).\nKroki, które wykonują za ciebie twoje inne postacie, liczą się tak samo.",
+      "zh-Hans": "线索会削弱它。林中的九条线索和石头上的三个职业步骤，会在这一世剩下的时间里削弱它。六个削减它的生命，六个削减它的伤害，每个都削掉它初始值的八分之一。十二个都做完，它只剩四分之一的生命，伤害也只剩四分之一。\n削减生命的：查看碎烂的鹿角、采一株蕨，别让它碎掉、照看还有气的獾、劈开一根染色的树干、听走了调的鸣石，以及清除染色的草木，不碰到它（游侠的步骤）。\n削减伤害的：追踪黑色滴痕、数一数对不上的脚印、盯住那种颜色不移眼、爬上去看树冠的缺口、给泉水改道（战士的步骤），以及在石头上点燃小瓶里的树液（法师的步骤）。\n由你其他角色代劳的步骤也一样算数。"
+    },
+    {
+      "spoiler": true,
+      "es": "PARA MATARLA DEL TODO. Vencerla no basta: en esa misma vida tienes que plantar el árbol de luz sobre la piedra. Al plantarlo queda muerta también para los aliados que acabaron el combate en pie. Los que cayeron tienen que vencerla por su cuenta.",
+      "en": "TO KILL IT FOR GOOD. Beating it is not enough: in that same life you have to plant the lightfruit tree on the stone. Once planted, it stays dead as well for the allies who finished the fight standing. Those who went down have to beat it on their own.",
+      "fr": "POUR LE TUER POUR DE BON. Le vaincre ne suffit pas : dans cette même vie, tu dois planter l'arbre de lumière sur la pierre. Une fois planté, il reste mort aussi pour les alliés qui ont fini le combat debout. Ceux qui sont tombés doivent le vaincre de leur côté.",
+      "de": "UM ES ENDGÜLTIG ZU TÖTEN. Es zu besiegen reicht nicht: Im selben Leben musst du den Lichtbaum auf den Stein pflanzen. Ist er gepflanzt, bleibt es auch für die Verbündeten tot, die den Kampf stehend beendet haben. Wer gefallen ist, muss es selbst besiegen.",
+      "it": "PER UCCIDERLA DEL TUTTO. Vincerla non basta: in quella stessa vita devi piantare l'albero di luce sulla pietra. Una volta piantato, resta morta anche per gli alleati che hanno finito lo scontro in piedi. Chi è caduto deve vincerla per conto suo.",
+      "pt": "PARA A MATAR DE VEZ. Vencê-la não chega: nessa mesma vida tens de plantar a árvore de luz sobre a pedra. Depois de plantada, fica morta também para os aliados que acabaram o combate de pé. Os que caíram têm de vencê-la por conta própria.",
+      "pt-BR": "PARA MATÁ-LA DE VEZ. Vencê-la não basta: nessa mesma vida você tem de plantar a árvore de luz sobre a pedra. Depois de plantada, ela fica morta também para os aliados que terminaram o combate de pé. Os que caíram têm de vencê-la por conta própria.",
+      "ru": "ЧТОБЫ УБИТЬ ЕЁ НАСОВСЕМ. Победить её мало: в той же жизни нужно посадить светодерево поверх камня. Когда оно посажено, она остаётся мёртвой и для союзников, которые закончили бой на ногах. Павшим придётся побеждать её самим.",
+      "pl": "ŻEBY ZABIĆ GO NA DOBRE. Pokonanie go nie wystarcza: w tym samym życiu musisz posadzić drzewo światła na kamieniu. Po posadzeniu zostaje martwy także dla sojuszników, którzy skończyli walkę na nogach. Ci, którzy padli, muszą pokonać go sami.",
+      "zh-Hans": "要彻底杀死它。打败它还不够：必须在同一条命里把光之树种在石头上。种下之后，站着打完战斗的盟友那边，它也同样死去。倒下的人得自己再打败它。"
+    }
+  ],
+  "tonos": {
+    "cap": [
+      "capítulo 3",
+      "chapter 3",
+      "chapitre 3",
+      "Kapitel 3",
+      "capitolo 3",
+      "главе 3",
+      "rozdziale 3",
+      "第 3 章"
+    ],
+    "jefe": [
+      "Amalgama",
+      "Amalgam",
+      "Amalgame",
+      "Amálgama",
+      "Zlepieniec",
+      "Zlepieńcowi",
+      "Амальгама",
+      "Амальгамы",
+      "融合兽"
+    ]
+  }
+}
