@@ -1,0 +1,70 @@
+{
+  "title": {
+    "es": "Guías de la comunidad",
+    "en": "Community guides",
+    "fr": "Guides de la communauté",
+    "de": "Community-Guides",
+    "it": "Guide della community",
+    "pt": "Guias da comunidade",
+    "pt-BR": "Guias da comunidade",
+    "ru": "Руководства сообщества",
+    "pl": "Poradniki społeczności",
+    "zh-Hans": "社区攻略"
+  },
+  "tonos": {
+    "jefe": [
+      "FrankTheUnicornSlayer"
+    ]
+  },
+  "body": [
+    {
+      "es": "QUÉ HAY AQUÍ. Este apartado enumera **guías escritas por la comunidad** de jugadores.",
+      "en": "WHAT'S HERE. This section lists **guides written by the community** of players.",
+      "fr": "CE QU'ON Y TROUVE. Cette section recense des **guides écrits par la communauté** de joueurs.",
+      "de": "WAS DU HIER FINDEST. Dieser Bereich listet **Guides aus der Community** auf.",
+      "it": "COSA TROVI. Questa sezione elenca le **guide scritte dalla community** di giocatori.",
+      "pt": "O QUE ENCONTRAS. Esta secção enumera **guias escritos pela comunidade** de jogadores.",
+      "pt-BR": "O QUE VOCÊ ENCONTRA. Esta seção lista **guias escritos pela comunidade** de jogadores.",
+      "ru": "ЧТО ЗДЕСЬ. В этом разделе собраны **руководства, написанные сообществом** игроков.",
+      "pl": "CO TU ZNAJDZIESZ. Ten dział zawiera **poradniki napisane przez społeczność** graczy.",
+      "zh-Hans": "这里有什么。本栏目列出**由社区玩家撰写的攻略**。"
+    },
+    {
+      "es": "CÓMO SE ABREN. Los enlaces a las guías te mandan a la página donde está publicada cada una, **fuera de la wiki**.",
+      "en": "HOW THEY OPEN. The guide links take you to the page where each one is published, **outside the wiki**.",
+      "fr": "COMMENT ILS S'OUVRENT. Les liens vers les guides t'emmènent sur la page où chacun est publié, **en dehors du wiki**.",
+      "de": "WIE SIE SICH ÖFFNEN. Die Links zu den Guides führen dich auf die Seite, auf der der jeweilige Guide veröffentlicht ist, **außerhalb des Wikis**.",
+      "it": "COME SI APRONO. I link alle guide ti portano alla pagina in cui è pubblicata ciascuna, **fuori dalla wiki**.",
+      "pt": "COMO SE ABREM. As ligações para os guias levam-te à página onde cada um está publicado, **fora da wiki**.",
+      "pt-BR": "COMO ABREM. Os links dos guias levam você à página onde cada um está publicado, **fora da wiki**.",
+      "ru": "КАК ОНИ ОТКРЫВАЮТСЯ. Ссылки на руководства ведут на страницу, где опубликовано каждое из них, **за пределами вики**.",
+      "pl": "JAK SIĘ OTWIERAJĄ. Linki do poradników prowadzą na stronę, na której opublikowano każdy z nich, **poza wiki**.",
+      "zh-Hans": "如何打开。攻略链接会带你前往其发布页面，**位于百科之外**。"
+    },
+    {
+      "es": "GUÍA EN STEAM. **Necromancer Idle: Tips & Tricks** por **FrankTheUnicornSlayer**",
+      "en": "STEAM GUIDE. **Necromancer Idle: Tips & Tricks** by **FrankTheUnicornSlayer**",
+      "fr": "GUIDE STEAM. **Necromancer Idle: Tips & Tricks** par **FrankTheUnicornSlayer**",
+      "de": "STEAM-GUIDE. **Necromancer Idle: Tips & Tricks** von **FrankTheUnicornSlayer**",
+      "it": "GUIDA SU STEAM. **Necromancer Idle: Tips & Tricks** di **FrankTheUnicornSlayer**",
+      "pt": "GUIA NA STEAM. **Necromancer Idle: Tips & Tricks** por **FrankTheUnicornSlayer**",
+      "pt-BR": "GUIA NA STEAM. **Necromancer Idle: Tips & Tricks** por **FrankTheUnicornSlayer**",
+      "ru": "РУКОВОДСТВО В STEAM. **Necromancer Idle: Tips & Tricks** от **FrankTheUnicornSlayer**",
+      "pl": "PORADNIK NA STEAM. **Necromancer Idle: Tips & Tricks** autorstwa **FrankTheUnicornSlayer**",
+      "zh-Hans": "**Necromancer Idle: Tips & Tricks**，作者：**FrankTheUnicornSlayer**",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3846432287",
+      "urlTitle": {
+        "es": "Ir a la guía",
+        "en": "Go to the guide",
+        "fr": "Aller au guide",
+        "de": "Zum Guide",
+        "it": "Vai alla guida",
+        "pt": "Ir para o guia",
+        "pt-BR": "Ir para o guia",
+        "ru": "Перейти к руководству",
+        "pl": "Przejdź do poradnika",
+        "zh-Hans": "前往攻略"
+      }
+    }
+  ]
+}

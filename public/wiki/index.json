@@ -78,6 +78,25 @@
         "comunes",
         "avanzadas"
       ]
+    },
+    {
+      "id": "guias",
+      "title": {
+        "es": "Guías",
+        "es-419": "Guías",
+        "en": "Guides",
+        "fr": "Guides",
+        "de": "Guides",
+        "it": "Guide",
+        "pt": "Guias",
+        "pt-BR": "Guias",
+        "ru": "Руководства",
+        "pl": "Poradniki",
+        "zh-Hans": "攻略"
+      },
+      "pages": [
+        "comunidad"
+      ]
     }
   ]
 }
