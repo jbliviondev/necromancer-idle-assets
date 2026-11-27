@@ -67,5 +67,26 @@
       "capHours": 2
     },
     "expires": "2027-01-06"
+  },
+  {
+    "hash": "0b26d6ab1b965c1abec32993f86c4169e804c625f66a42172a44758b08c08303",
+    "reward": {
+      "poolHours": 10,
+      "capHours": 4
+    }
+  },
+  {
+    "hash": "980af4a41d9a17ca52f3ae84a61cb4cbbf459c34b288bab3c93d448c2ee2de25",
+    "reward": {
+      "poolHours": 10,
+      "capHours": 4
+    }
+  },
+  {
+    "hash": "7e64230b6a985738425ba7148d4a5011a6d2629507c838ad1b436af48e49e37c",
+    "reward": {
+      "poolHours": 10,
+      "capHours": 4
+    }
   }
 ]
