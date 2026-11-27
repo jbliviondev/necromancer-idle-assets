@@ -42,29 +42,17 @@
       "zh-Hans": "如何打开。攻略链接会带你前往其发布页面，**位于百科之外**。"
     },
     {
-      "es": "GUÍA EN STEAM. **Necromancer Idle: Tips & Tricks** por **FrankTheUnicornSlayer**",
-      "en": "STEAM GUIDE. **Necromancer Idle: Tips & Tricks** by **FrankTheUnicornSlayer**",
-      "fr": "GUIDE STEAM. **Necromancer Idle: Tips & Tricks** par **FrankTheUnicornSlayer**",
-      "de": "STEAM-GUIDE. **Necromancer Idle: Tips & Tricks** von **FrankTheUnicornSlayer**",
-      "it": "GUIDA SU STEAM. **Necromancer Idle: Tips & Tricks** di **FrankTheUnicornSlayer**",
-      "pt": "GUIA NA STEAM. **Necromancer Idle: Tips & Tricks** por **FrankTheUnicornSlayer**",
-      "pt-BR": "GUIA NA STEAM. **Necromancer Idle: Tips & Tricks** por **FrankTheUnicornSlayer**",
-      "ru": "РУКОВОДСТВО В STEAM. **Necromancer Idle: Tips & Tricks** от **FrankTheUnicornSlayer**",
-      "pl": "PORADNIK NA STEAM. **Necromancer Idle: Tips & Tricks** autorstwa **FrankTheUnicornSlayer**",
+      "es": "**Necromancer Idle: Tips & Tricks** por **FrankTheUnicornSlayer**",
+      "en": "**Necromancer Idle: Tips & Tricks** by **FrankTheUnicornSlayer**",
+      "fr": "**Necromancer Idle: Tips & Tricks** par **FrankTheUnicornSlayer**",
+      "de": "**Necromancer Idle: Tips & Tricks** von **FrankTheUnicornSlayer**",
+      "it": "**Necromancer Idle: Tips & Tricks** di **FrankTheUnicornSlayer**",
+      "pt": "**Necromancer Idle: Tips & Tricks** por **FrankTheUnicornSlayer**",
+      "pt-BR": "**Necromancer Idle: Tips & Tricks** por **FrankTheUnicornSlayer**",
+      "ru": "**Necromancer Idle: Tips & Tricks** от **FrankTheUnicornSlayer**",
+      "pl": "**Necromancer Idle: Tips & Tricks** autorstwa **FrankTheUnicornSlayer**",
       "zh-Hans": "**Necromancer Idle: Tips & Tricks**，作者：**FrankTheUnicornSlayer**",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3846432287",
-      "urlTitle": {
-        "es": "Ir a la guía",
-        "en": "Go to the guide",
-        "fr": "Aller au guide",
-        "de": "Zum Guide",
-        "it": "Vai alla guida",
-        "pt": "Ir para o guia",
-        "pt-BR": "Ir para o guia",
-        "ru": "Перейти к руководству",
-        "pl": "Przejdź do poradnika",
-        "zh-Hans": "前往攻略"
-      }
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3846432287"
     }
   ]
 }
